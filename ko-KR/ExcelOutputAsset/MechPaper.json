@@ -1,0 +1,58 @@
+[
+    {
+        "PaperID": 1,
+        "UnlockLevel": 3,
+        "InfoTextMap": {
+            "hash": -1505478573
+        },
+        "PaperIcon": "SpriteOutput/Mech/GachaIcon/MechGacha_01",
+        "NeedMaterial": [
+            {
+                "ID": 5400,
+                "Num": 8
+            }
+        ]
+    },
+    {
+        "PaperID": 3,
+        "UnlockLevel": 10,
+        "InfoTextMap": {
+            "hash": -1505478571
+        },
+        "PaperIcon": "SpriteOutput/Mech/GachaIcon/MechGacha_02",
+        "NeedMaterial": [
+            {
+                "ID": 5400,
+                "Num": 12
+            }
+        ]
+    },
+    {
+        "PaperID": 4,
+        "UnlockLevel": 13,
+        "InfoTextMap": {
+            "hash": -1505478570
+        },
+        "PaperIcon": "SpriteOutput/Mech/GachaIcon/MechGacha_03",
+        "NeedMaterial": [
+            {
+                "ID": 5400,
+                "Num": 16
+            }
+        ]
+    },
+    {
+        "PaperID": 5,
+        "UnlockLevel": 15,
+        "InfoTextMap": {
+            "hash": -1505478569
+        },
+        "PaperIcon": "SpriteOutput/Mech/GachaIcon/MechGacha_05",
+        "NeedMaterial": [
+            {
+                "ID": 5400,
+                "Num": 20
+            }
+        ]
+    }
+]

@@ -1,0 +1,1165 @@
+[
+    {
+        "ConfigType": 1,
+        "ID": 1,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 2,
+        "Weather": 1005,
+        "EndTime": "2019-07-01 02:00:00",
+        "SettleTime": "2019-07-01 02:30:00",
+        "StartTime": "2019-06-24 04:00:00",
+        "Bonus": [
+            1001,
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 2,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 3,
+        "Weather": 1001,
+        "EndTime": "2019-07-08 02:00:00",
+        "SettleTime": "2019-07-08 02:30:00",
+        "StartTime": "2019-07-01 04:00:00",
+        "Bonus": [
+            1002,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 3,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 4,
+        "Weather": 1002,
+        "EndTime": "2019-07-15 02:00:00",
+        "SettleTime": "2019-07-15 02:30:00",
+        "StartTime": "2019-07-08 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 4,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 5,
+        "Weather": 1005,
+        "EndTime": "2019-07-22 02:00:00",
+        "SettleTime": "2019-07-22 02:30:00",
+        "StartTime": "2019-07-15 04:00:00",
+        "Bonus": [
+            1001,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 5,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 6,
+        "Weather": 1005,
+        "EndTime": "2019-07-29 02:00:00",
+        "SettleTime": "2019-07-29 02:30:00",
+        "StartTime": "2019-07-22 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 6,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 7,
+        "Weather": 1005,
+        "EndTime": "2019-08-05 02:00:00",
+        "SettleTime": "2019-08-05 02:30:00",
+        "StartTime": "2019-07-29 04:00:00",
+        "Bonus": [
+            1003,
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 7,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 8,
+        "Weather": 1001,
+        "EndTime": "2019-08-12 02:00:00",
+        "SettleTime": "2019-08-12 02:30:00",
+        "StartTime": "2019-08-05 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 8,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 9,
+        "Weather": 1002,
+        "EndTime": "2019-08-19 02:00:00",
+        "SettleTime": "2019-08-19 02:30:00",
+        "StartTime": "2019-08-12 04:00:00",
+        "Bonus": [
+            1001,
+            1004
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 9,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 10,
+        "Weather": 1002,
+        "EndTime": "2019-08-26 02:00:00",
+        "SettleTime": "2019-08-26 02:30:00",
+        "StartTime": "2019-08-19 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 10,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 11,
+        "Weather": 1003,
+        "EndTime": "2019-09-02 02:00:00",
+        "SettleTime": "2019-09-02 02:30:00",
+        "StartTime": "2019-08-26 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 11,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 12,
+        "Weather": 1001,
+        "EndTime": "2019-09-09 02:00:00",
+        "SettleTime": "2019-09-09 02:30:00",
+        "StartTime": "2019-09-02 04:00:00",
+        "Bonus": [
+            1001,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 12,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 13,
+        "Weather": 1005,
+        "EndTime": "2019-09-16 02:00:00",
+        "SettleTime": "2019-09-16 02:30:00",
+        "StartTime": "2019-09-09 04:00:00",
+        "Bonus": [
+            1001,
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 13,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 14,
+        "Weather": 1003,
+        "EndTime": "2019-09-23 02:00:00",
+        "SettleTime": "2019-09-23 02:30:00",
+        "StartTime": "2019-09-16 04:00:00",
+        "Bonus": [
+            1002,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 14,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 15,
+        "Weather": 1005,
+        "EndTime": "2019-09-30 02:00:00",
+        "SettleTime": "2019-09-30 02:30:00",
+        "StartTime": "2019-09-23 04:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 15,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 16,
+        "Weather": 1002,
+        "EndTime": "2019-10-07 02:00:00",
+        "SettleTime": "2019-10-07 02:30:00",
+        "StartTime": "2019-09-30 04:00:00",
+        "Bonus": [
+            1001,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 16,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 17,
+        "Weather": 1001,
+        "EndTime": "2019-10-14 02:00:00",
+        "SettleTime": "2019-10-14 02:30:00",
+        "StartTime": "2019-10-07 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 17,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 18,
+        "Weather": 1002,
+        "EndTime": "2019-10-21 02:00:00",
+        "SettleTime": "2019-10-21 02:30:00",
+        "StartTime": "2019-10-14 04:00:00",
+        "Bonus": [
+            1003,
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 18,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 19,
+        "Weather": 1001,
+        "EndTime": "2019-10-28 02:00:00",
+        "SettleTime": "2019-10-28 02:30:00",
+        "StartTime": "2019-10-21 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 19,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 20,
+        "Weather": 1005,
+        "EndTime": "2019-11-04 02:00:00",
+        "SettleTime": "2019-11-04 02:30:00",
+        "StartTime": "2019-10-28 04:00:00",
+        "Bonus": [
+            1001,
+            1004
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 20,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 21,
+        "Weather": 1005,
+        "EndTime": "2019-11-11 02:00:00",
+        "SettleTime": "2019-11-11 02:30:00",
+        "StartTime": "2019-11-04 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 21,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 22,
+        "Weather": 1003,
+        "EndTime": "2019-11-18 02:00:00",
+        "SettleTime": "2019-11-18 02:30:00",
+        "StartTime": "2019-11-11 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 22,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 23,
+        "Weather": 1003,
+        "EndTime": "2019-11-25 02:00:00",
+        "SettleTime": "2019-11-25 02:30:00",
+        "StartTime": "2019-11-18 04:00:00",
+        "Bonus": [
+            1001,
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 23,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 24,
+        "Weather": 1005,
+        "EndTime": "2019-12-02 02:00:00",
+        "SettleTime": "2019-12-02 02:30:00",
+        "StartTime": "2019-11-25 04:00:00",
+        "Bonus": [
+            1002,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 24,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 25,
+        "Weather": 1001,
+        "EndTime": "2019-12-09 02:00:00",
+        "SettleTime": "2019-12-09 02:30:00",
+        "StartTime": "2019-12-02 04:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 25,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 26,
+        "Weather": 1002,
+        "EndTime": "2019-12-16 02:00:00",
+        "SettleTime": "2019-12-16 02:30:00",
+        "StartTime": "2019-12-09 04:00:00",
+        "Bonus": [
+            1001,
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 26,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 27,
+        "Weather": 1002,
+        "EndTime": "2019-12-23 02:00:00",
+        "SettleTime": "2019-12-23 02:30:00",
+        "StartTime": "2019-12-16 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 27,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 28,
+        "Weather": 1005,
+        "EndTime": "2019-12-30 02:00:00",
+        "SettleTime": "2019-12-30 02:30:00",
+        "StartTime": "2019-12-23 04:00:00",
+        "Bonus": [
+            1003,
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 28,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 29,
+        "Weather": 1002,
+        "EndTime": "2020-01-06 02:00:00",
+        "SettleTime": "2020-01-06 02:30:00",
+        "StartTime": "2019-12-30 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 29,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 30,
+        "Weather": 1001,
+        "EndTime": "2020-01-13 02:00:00",
+        "SettleTime": "2020-01-13 02:30:00",
+        "StartTime": "2020-01-06 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 30,
+        "LevelID": 143404,
+        "MaxFloor": 20,
+        "NextID": 31,
+        "Weather": 1003,
+        "EndTime": "2020-01-20 02:00:00",
+        "SettleTime": "2020-01-20 02:30:00",
+        "StartTime": "2020-01-13 04:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 31,
+        "LevelID": 143404,
+        "MaxFloor": 25,
+        "NextID": 32,
+        "Weather": 1002,
+        "EndTime": "2020-01-27 02:00:00",
+        "SettleTime": "2020-01-27 02:30:00",
+        "StartTime": "2020-01-20 04:00:00",
+        "Bonus": [
+            1004
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 32,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 33,
+        "Weather": 1002,
+        "EndTime": "2020-02-03 02:00:00",
+        "SettleTime": "2020-02-03 02:30:00",
+        "StartTime": "2020-01-27 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 33,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 34,
+        "Weather": 1002,
+        "EndTime": "2020-02-10 02:00:00",
+        "SettleTime": "2020-02-10 02:30:00",
+        "StartTime": "2020-02-03 04:00:00",
+        "Bonus": [
+            1006
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "ID": 34,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 35,
+        "Weather": 1005,
+        "EndTime": "2020-02-17 02:00:00",
+        "SettleTime": "2020-02-17 02:30:00",
+        "StartTime": "2020-02-10 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "ID": 35,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 36,
+        "Weather": 1003,
+        "EndTime": "2020-02-18 02:00:00",
+        "SettleTime": "2020-02-18 02:30:00",
+        "StartTime": "2020-02-17 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "ID": 36,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 37,
+        "Weather": 1002,
+        "EndTime": "2020-02-19 02:00:00",
+        "SettleTime": "2020-02-19 02:30:00",
+        "StartTime": "2020-02-18 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "ID": 37,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 38,
+        "Weather": 1001,
+        "EndTime": "2020-02-20 02:00:00",
+        "SettleTime": "2020-02-20 02:30:00",
+        "StartTime": "2020-02-19 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "ID": 38,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 39,
+        "Weather": 1005,
+        "EndTime": "2020-02-21 02:00:00",
+        "SettleTime": "2020-02-21 02:30:00",
+        "StartTime": "2020-02-20 04:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "ID": 39,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 40,
+        "Weather": 1003,
+        "EndTime": "2020-02-22 02:00:00",
+        "SettleTime": "2020-02-22 02:30:00",
+        "StartTime": "2020-02-21 04:00:00",
+        "Bonus": [
+            1004
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "ID": 40,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 41,
+        "Weather": 1002,
+        "EndTime": "2020-02-23 02:00:00",
+        "SettleTime": "2020-02-23 02:30:00",
+        "StartTime": "2020-02-22 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "ID": 41,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 42,
+        "Weather": 1001,
+        "EndTime": "2020-02-24 02:00:00",
+        "SettleTime": "2020-02-24 02:30:00",
+        "StartTime": "2020-02-23 04:00:00",
+        "Bonus": [
+            1006
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "ID": 42,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 43,
+        "Weather": 1005,
+        "EndTime": "2020-02-25 02:00:00",
+        "SettleTime": "2020-02-25 02:30:00",
+        "StartTime": "2020-02-24 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "ID": 43,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 44,
+        "Weather": 1003,
+        "EndTime": "2020-02-26 02:00:00",
+        "SettleTime": "2020-02-26 02:30:00",
+        "StartTime": "2020-02-25 04:00:00",
+        "Bonus": [
+            1007
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "ID": 44,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 45,
+        "Weather": 1002,
+        "EndTime": "2020-02-27 02:00:00",
+        "SettleTime": "2020-02-27 02:30:00",
+        "StartTime": "2020-02-26 04:00:00",
+        "Bonus": [
+            1008
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "ID": 45,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 46,
+        "Weather": 1001,
+        "EndTime": "2020-02-28 02:00:00",
+        "SettleTime": "2020-02-28 02:30:00",
+        "StartTime": "2020-02-27 04:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "ID": 46,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 47,
+        "Weather": 1005,
+        "EndTime": "2020-02-29 02:00:00",
+        "SettleTime": "2020-02-29 02:30:00",
+        "StartTime": "2020-02-28 04:00:00",
+        "Bonus": [
+            1006
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "ID": 47,
+        "LevelID": 143404,
+        "MaxFloor": 30,
+        "NextID": 56,
+        "Weather": 1003,
+        "EndTime": "2020-03-01 02:00:00",
+        "SettleTime": "2020-03-01 02:30:00",
+        "StartTime": "2020-02-29 04:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "ID": 56,
+        "LevelID": 143404,
+        "MaxFloor": 15,
+        "NextID": 57,
+        "Weather": 1002,
+        "EndTime": "2020-03-23 02:00:00",
+        "SettleTime": "2020-03-23 02:30:00",
+        "StartTime": "2020-03-16 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "ID": 57,
+        "LevelID": 143404,
+        "MaxFloor": 19,
+        "NextID": 58,
+        "Weather": 1005,
+        "EndTime": "2020-03-30 02:00:00",
+        "SettleTime": "2020-03-30 02:30:00",
+        "StartTime": "2020-03-23 15:00:00",
+        "Bonus": [
+            1005
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "ID": 58,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 59,
+        "Weather": 1003,
+        "EndTime": "2020-04-06 02:00:00",
+        "SettleTime": "2020-04-06 02:30:00",
+        "StartTime": "2020-03-30 15:00:00",
+        "Bonus": [
+            1003
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "ID": 59,
+        "LevelID": 143404,
+        "MaxFloor": 27,
+        "NextID": 60,
+        "Weather": 1002,
+        "EndTime": "2020-04-13 02:00:00",
+        "SettleTime": "2020-04-13 02:30:00",
+        "StartTime": "2020-04-06 15:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "ID": 60,
+        "LevelID": 143404,
+        "MaxFloor": 27,
+        "NextID": 61,
+        "Weather": 1001,
+        "EndTime": "2020-04-20 02:00:00",
+        "SettleTime": "2020-04-20 02:30:00",
+        "StartTime": "2020-04-13 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "ID": 61,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 62,
+        "Weather": 1002,
+        "EndTime": "2020-04-27 02:00:00",
+        "SettleTime": "2020-04-27 02:30:00",
+        "StartTime": "2020-04-20 04:00:00",
+        "Bonus": [
+            1004
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "ID": 62,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 65,
+        "Weather": 1005,
+        "EndTime": "2020-05-04 02:00:00",
+        "SettleTime": "2020-05-04 02:30:00",
+        "StartTime": "2020-04-27 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "ID": 63,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 64,
+        "Weather": 1003,
+        "EndTime": "2020-05-11 02:00:00",
+        "SettleTime": "2020-05-11 02:30:00",
+        "StartTime": "2020-05-04 04:00:00",
+        "Bonus": [
+            1007
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "ID": 64,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 65,
+        "Weather": 1002,
+        "EndTime": "2020-05-18 02:00:00",
+        "SettleTime": "2020-05-18 02:30:00",
+        "StartTime": "2020-05-11 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "ID": 65,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 66,
+        "Weather": 1001,
+        "EndTime": "2020-05-25 02:00:00",
+        "SettleTime": "2020-05-25 02:30:00",
+        "StartTime": "2020-05-18 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "ID": 66,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 67,
+        "Weather": 1002,
+        "EndTime": "2020-06-01 02:00:00",
+        "SettleTime": "2020-06-01 02:30:00",
+        "StartTime": "2020-05-25 04:00:00",
+        "Bonus": [
+            1007
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "ID": 67,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 69,
+        "Weather": 1005,
+        "EndTime": "2020-06-08 02:00:00",
+        "SettleTime": "2020-06-08 02:30:00",
+        "StartTime": "2020-06-01 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "ID": 69,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 71,
+        "Weather": 1002,
+        "EndTime": "2020-06-22 02:00:00",
+        "SettleTime": "2020-06-22 02:30:00",
+        "StartTime": "2020-06-15 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 71,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 73,
+        "Weather": 1001,
+        "EndTime": "2020-07-06 02:00:00",
+        "SettleTime": "2020-07-06 02:30:00",
+        "StartTime": "2020-06-29 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 73,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 75,
+        "Weather": 1003,
+        "EndTime": "2020-07-20 02:00:00",
+        "SettleTime": "2020-07-20 02:30:00",
+        "StartTime": "2020-07-13 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "ID": 75,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 77,
+        "Weather": 1005,
+        "EndTime": "2020-08-03 02:00:00",
+        "SettleTime": "2020-08-03 02:30:00",
+        "StartTime": "2020-07-27 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "ID": 77,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 79,
+        "Weather": 1002,
+        "EndTime": "2020-08-17 02:00:00",
+        "SettleTime": "2020-08-17 02:30:00",
+        "StartTime": "2020-08-10 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 79,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 81,
+        "Weather": 1001,
+        "EndTime": "2020-08-31 02:00:00",
+        "SettleTime": "2020-08-31 02:30:00",
+        "StartTime": "2020-08-24 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 81,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 83,
+        "Weather": 1003,
+        "EndTime": "2020-09-14 02:00:00",
+        "SettleTime": "2020-09-14 02:30:00",
+        "StartTime": "2020-09-07 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 83,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 85,
+        "Weather": 1001,
+        "EndTime": "2020-09-28 02:00:00",
+        "SettleTime": "2020-09-28 02:30:00",
+        "StartTime": "2020-09-21 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 85,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 87,
+        "Weather": 1003,
+        "EndTime": "2020-10-12 02:00:00",
+        "SettleTime": "2020-10-12 02:30:00",
+        "StartTime": "2020-10-05 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "ID": 87,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 89,
+        "Weather": 1005,
+        "EndTime": "2020-11-23 02:00:00",
+        "SettleTime": "2020-11-23 02:00:00",
+        "StartTime": "2020-11-16 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "ID": 89,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 91,
+        "Weather": 1002,
+        "EndTime": "2020-12-07 02:00:00",
+        "SettleTime": "2020-12-07 02:00:00",
+        "StartTime": "2020-11-30 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 91,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 93,
+        "Weather": 1001,
+        "EndTime": "2020-12-21 02:00:00",
+        "SettleTime": "2020-12-21 02:00:00",
+        "StartTime": "2020-12-14 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 93,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 95,
+        "Weather": 1003,
+        "EndTime": "2021-01-04 02:00:00",
+        "SettleTime": "2021-01-04 02:00:00",
+        "StartTime": "2020-12-28 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 95,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 97,
+        "Weather": 1001,
+        "EndTime": "2021-01-18 02:00:00",
+        "SettleTime": "2021-01-18 02:00:00",
+        "StartTime": "2021-01-11 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 97,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 99,
+        "Weather": 1003,
+        "EndTime": "2021-02-01 02:00:00",
+        "SettleTime": "2021-02-01 02:00:00",
+        "StartTime": "2021-01-25 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "ID": 99,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 101,
+        "Weather": 1005,
+        "EndTime": "2021-02-15 02:00:00",
+        "SettleTime": "2021-02-15 02:00:00",
+        "StartTime": "2021-02-08 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "ID": 101,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 103,
+        "Weather": 1002,
+        "EndTime": "2021-03-01 02:00:00",
+        "SettleTime": "2021-03-01 02:00:00",
+        "StartTime": "2021-02-22 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 103,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 105,
+        "Weather": 1001,
+        "EndTime": "2021-03-15 02:00:00",
+        "SettleTime": "2021-03-15 02:00:00",
+        "StartTime": "2021-03-08 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 105,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 107,
+        "Weather": 1003,
+        "EndTime": "2021-03-29 02:00:00",
+        "SettleTime": "2021-03-29 02:00:00",
+        "StartTime": "2021-03-22 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "ID": 107,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 109,
+        "Weather": 1001,
+        "EndTime": "2021-04-12 02:00:00",
+        "SettleTime": "2021-04-12 02:00:00",
+        "StartTime": "2021-04-05 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "ID": 109,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 111,
+        "Weather": 1003,
+        "EndTime": "2021-04-26 02:00:00",
+        "SettleTime": "2021-04-26 02:00:00",
+        "StartTime": "2021-04-19 04:00:00",
+        "Bonus": [
+            1002
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "ID": 111,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 113,
+        "Weather": 1005,
+        "EndTime": "2021-05-10 02:00:00",
+        "SettleTime": "2021-05-10 02:00:00",
+        "StartTime": "2021-05-03 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "ID": 113,
+        "LevelID": 143404,
+        "MaxFloor": 23,
+        "NextID": 0,
+        "Weather": 1002,
+        "EndTime": "2021-05-24 02:00:00",
+        "SettleTime": "2021-05-24 02:00:00",
+        "StartTime": "2021-05-17 04:00:00",
+        "Bonus": [
+            1001
+        ]
+    }
+]

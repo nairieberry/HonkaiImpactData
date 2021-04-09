@@ -1,0 +1,434 @@
+[
+    {
+        "Rarity": 0,
+        "SuitId": 1,
+        "SuitType": 3,
+        "UIOrder": 1,
+        "SuitNameEn": {
+            "hash": -1750359504
+        },
+        "SuitNameText": {
+            "hash": 182718067
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconFloor",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconFloor",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 2,
+        "SuitType": 3,
+        "UIOrder": 2,
+        "SuitNameEn": {
+            "hash": -1750359503
+        },
+        "SuitNameText": {
+            "hash": 182718068
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconCarpet",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconCarpet",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 3,
+        "SuitType": 3,
+        "UIOrder": 3,
+        "SuitNameEn": {
+            "hash": -1750359502
+        },
+        "SuitNameText": {
+            "hash": 182718069
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconDecoration",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconDecoration",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 4,
+        "SuitType": 3,
+        "UIOrder": 4,
+        "SuitNameEn": {
+            "hash": -1750359501
+        },
+        "SuitNameText": {
+            "hash": 182718070
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconFurniture",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconFurniture",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 5,
+        "SuitType": 3,
+        "UIOrder": 5,
+        "SuitNameEn": {
+            "hash": -1750359500
+        },
+        "SuitNameText": {
+            "hash": 182718071
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconOrnament",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconOrnament",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 6,
+        "SuitType": 3,
+        "UIOrder": 6,
+        "SuitNameEn": {
+            "hash": -1750359499
+        },
+        "SuitNameText": {
+            "hash": 182718072
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconWallpaper",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconWallpaper",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 7,
+        "SuitType": 3,
+        "UIOrder": 7,
+        "SuitNameEn": {
+            "hash": -1750359498
+        },
+        "SuitNameText": {
+            "hash": 182718073
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconWindows",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconWindows",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 9,
+        "SuitType": 3,
+        "UIOrder": 9,
+        "SuitNameEn": {
+            "hash": -1750359496
+        },
+        "SuitNameText": {
+            "hash": 182718075
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconWallDecoration",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconWallDecoration",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 11,
+        "SuitType": 3,
+        "UIOrder": 11,
+        "SuitNameEn": {
+            "hash": 1573430273
+        },
+        "SuitNameText": {
+            "hash": 1369292830
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconAppliance",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconAppliance",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 12,
+        "SuitType": 3,
+        "UIOrder": 12,
+        "SuitNameEn": {
+            "hash": 1573430274
+        },
+        "SuitNameText": {
+            "hash": 1369292831
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconPet",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconPet",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 21,
+        "SuitType": 2,
+        "UIOrder": 1,
+        "SuitNameEn": {
+            "hash": 1573430304
+        },
+        "SuitNameText": {
+            "hash": 1369292861
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconWallpaper",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconWallpaper",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 0,
+        "SuitId": 22,
+        "SuitType": 2,
+        "UIOrder": 2,
+        "SuitNameEn": {
+            "hash": 1573430305
+        },
+        "SuitNameText": {
+            "hash": 1369292862
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/DormType/IconWindows",
+        "SuitIcon": "SpriteOutput/Dorm/DormType/IconWindows",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 1,
+        "SuitId": 101,
+        "SuitType": 1,
+        "UIOrder": 1,
+        "SuitNameEn": {
+            "hash": 1531698225
+        },
+        "SuitNameText": {
+            "hash": -501595212
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_101",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_101",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 2,
+        "SuitId": 102,
+        "SuitType": 1,
+        "UIOrder": 2,
+        "SuitNameEn": {
+            "hash": 1531698226
+        },
+        "SuitNameText": {
+            "hash": -501595211
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_102",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_102",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 2,
+        "SuitId": 103,
+        "SuitType": 1,
+        "UIOrder": 3,
+        "SuitNameEn": {
+            "hash": 1531698227
+        },
+        "SuitNameText": {
+            "hash": -501595210
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_103",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_103",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 104,
+        "SuitType": 1,
+        "UIOrder": 4,
+        "SuitNameEn": {
+            "hash": 1531698228
+        },
+        "SuitNameText": {
+            "hash": -501595209
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_104",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_104",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 106,
+        "SuitType": 1,
+        "UIOrder": 5,
+        "SuitNameEn": {
+            "hash": 1531698230
+        },
+        "SuitNameText": {
+            "hash": -501595207
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_106",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_106",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 107,
+        "SuitType": 1,
+        "UIOrder": 6,
+        "SuitNameEn": {
+            "hash": 1531698231
+        },
+        "SuitNameText": {
+            "hash": -501595206
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_107",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_107",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 108,
+        "SuitType": 1,
+        "UIOrder": 7,
+        "SuitNameEn": {
+            "hash": 1531698232
+        },
+        "SuitNameText": {
+            "hash": -501595205
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_108",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_108",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 109,
+        "SuitType": 1,
+        "UIOrder": 8,
+        "SuitNameEn": {
+            "hash": 1531698233
+        },
+        "SuitNameText": {
+            "hash": -501595204
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_109",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_109",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 110,
+        "SuitType": 1,
+        "UIOrder": 9,
+        "SuitNameEn": {
+            "hash": 1531698255
+        },
+        "SuitNameText": {
+            "hash": -501595182
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_110",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_110",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 111,
+        "SuitType": 1,
+        "UIOrder": 10,
+        "SuitNameEn": {
+            "hash": 1531698256
+        },
+        "SuitNameText": {
+            "hash": -501595181
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_111",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_111",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 112,
+        "SuitType": 1,
+        "UIOrder": 11,
+        "SuitNameEn": {
+            "hash": 1531698257
+        },
+        "SuitNameText": {
+            "hash": -501595180
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_112",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_112",
+        "RewardMissionList": []
+    },
+    {
+        "Rarity": 4,
+        "SuitId": 113,
+        "SuitType": 1,
+        "UIOrder": 11,
+        "SuitNameEn": {
+            "hash": 1531698258
+        },
+        "SuitNameText": {
+            "hash": -501595179
+        },
+        "SuitVersionText": {
+            "hash": 0
+        },
+        "SmallSuitIcon": "SpriteOutput/Dorm/SuitIcon/SuitIcon_113",
+        "SuitIcon": "SpriteOutput/Dorm/SuitImg/SuitImg_113",
+        "RewardMissionList": []
+    }
+]

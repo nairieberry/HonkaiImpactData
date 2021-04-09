@@ -1,0 +1,170 @@
+[
+    {
+        "AvatarSkillID": 201,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923210
+        },
+        "SkillDesc": {
+            "hash": 1649133599
+        },
+        "SkillName": {
+            "hash": -1822574823
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconPhysical"
+    },
+    {
+        "AvatarSkillID": 202,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923211
+        },
+        "SkillDesc": {
+            "hash": 1649133600
+        },
+        "SkillName": {
+            "hash": -1822574822
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconKnowledge"
+    },
+    {
+        "AvatarSkillID": 203,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923212
+        },
+        "SkillDesc": {
+            "hash": 1649133601
+        },
+        "SkillName": {
+            "hash": -1822574821
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconEloquence"
+    },
+    {
+        "AvatarSkillID": 204,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923213
+        },
+        "SkillDesc": {
+            "hash": 1649133602
+        },
+        "SkillName": {
+            "hash": -1822574820
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconSmart"
+    },
+    {
+        "AvatarSkillID": 205,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923214
+        },
+        "SkillDesc": {
+            "hash": 1649133603
+        },
+        "SkillName": {
+            "hash": -1822574819
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconCharm"
+    },
+    {
+        "AvatarSkillID": 206,
+        "Type": 2,
+        "DisplayAdventureQuest": {
+            "hash": 1440923215
+        },
+        "SkillDesc": {
+            "hash": 1649133604
+        },
+        "SkillName": {
+            "hash": -1822574818
+        },
+        "Icon": "SpriteOutput/Adventure/AbilityIcon/IconLucky"
+    },
+    {
+        "AvatarSkillID": 21001,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972926
+        },
+        "SkillName": {
+            "hash": 1114231800
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconAllDamage"
+    },
+    {
+        "AvatarSkillID": 21002,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972927
+        },
+        "SkillName": {
+            "hash": 1114231801
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconPhysical"
+    },
+    {
+        "AvatarSkillID": 21003,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972928
+        },
+        "SkillName": {
+            "hash": 1114231802
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconIce"
+    },
+    {
+        "AvatarSkillID": 21004,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972929
+        },
+        "SkillName": {
+            "hash": 1114231803
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconFire"
+    },
+    {
+        "AvatarSkillID": 21005,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972930
+        },
+        "SkillName": {
+            "hash": 1114231804
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconThunder"
+    },
+    {
+        "AvatarSkillID": 21006,
+        "Type": 1,
+        "DisplayAdventureQuest": {
+            "hash": 0
+        },
+        "SkillDesc": {
+            "hash": 290972931
+        },
+        "SkillName": {
+            "hash": 1114231805
+        },
+        "Icon": "SpriteOutput/Adventure/AdventureSkillIcon/IconAllElement"
+    }
+]

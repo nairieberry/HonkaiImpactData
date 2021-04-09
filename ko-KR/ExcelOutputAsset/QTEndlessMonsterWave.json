@@ -1,0 +1,2917 @@
+[
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 101,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:2,QT:1",
+        "TagFilter": "(| Bio QT)",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 102,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:2,QT:1",
+        "TagFilter": "(& !Sea (| Psy QT))",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 103,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:2,QT:1",
+        "TagFilter": "(| Mec QT)",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 104,
+        "HPRatio": 1.0,
+        "TagDistRule": "Sea:2,QT:1",
+        "TagFilter": "(| Sea QT)",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 105,
+        "HPRatio": 1.0,
+        "TagDistRule": "QT:2",
+        "TagFilter": "QT",
+        "RankList": [
+            "4:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 106,
+        "HPRatio": 1.0,
+        "TagDistRule": "QT:2,Elite:1",
+        "TagFilter": "(| Elementary QT)",
+        "RankList": [
+            "4:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 200,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Thunder:1",
+        "TagFilter": "(&G1 (| Thunder Little))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 201,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Thunder:1,Elite:1",
+        "TagFilter": "(&G1 (| Thunder Little (& Elite Common !Power)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 202,
+        "HPRatio": 1.0,
+        "TagDistRule": "Thunder:1,Elite:2",
+        "TagFilter": "(&G1 (| Thunder (& Elite Common !Power)))",
+        "RankList": [
+            "5:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 203,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Thunder:1",
+        "TagFilter": "(| Thunder Little)",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 204,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Thunder:1,Elite:1",
+        "TagFilter": "(| Thunder Little (& Elite Common !Power !TempBan))",
+        "RankList": [
+            "1:1",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 205,
+        "HPRatio": 1.0,
+        "TagDistRule": "Thunder:1,Elite:2",
+        "TagFilter": "(| Thunder (& Elite Common !Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 206,
+        "HPRatio": 1.0,
+        "TagDistRule": "Thunder:1,Elite:1,Power:1",
+        "TagFilter": "(| Thunder (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 207,
+        "HPRatio": 1.0,
+        "TagDistRule": "Thunder:1,Elite:1,QT:1",
+        "TagFilter": "(| Thunder (& Elite Common !Power) QT)",
+        "RankList": [
+            "5:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 210,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Ice:1",
+        "TagFilter": "(&G1 (| Ice Little))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 211,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Ice:1,Elite:1",
+        "TagFilter": "(&G1 (| Ice Little (& Elite Common !Power)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 212,
+        "HPRatio": 1.0,
+        "TagDistRule": "Ice:1,Elite:2",
+        "TagFilter": "(&G1 (| Ice (& Elite Common !Power)))",
+        "RankList": [
+            "5:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 213,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Ice:1",
+        "TagFilter": "(| Ice Little)",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 214,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Ice:1,Elite:1",
+        "TagFilter": "(| Ice Little (& Elite Common !Power  !TempBan))",
+        "RankList": [
+            "1:1",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 215,
+        "HPRatio": 1.0,
+        "TagDistRule": "Ice:1,Elite:2",
+        "TagFilter": "(| Ice (& Elite Common !Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 216,
+        "HPRatio": 1.0,
+        "TagDistRule": "Ice:1,Elite:1,Power:1",
+        "TagFilter": "(| Ice (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 217,
+        "HPRatio": 1.0,
+        "TagDistRule": "Ice:1,Elite:1,QT:1",
+        "TagFilter": "(| Ice (& Elite Common !Power) QT)",
+        "RankList": [
+            "5:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 220,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Fire:1",
+        "TagFilter": "(&G1 (| Fire Little))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 221,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Fire:1,Elite:1",
+        "TagFilter": "(&G1 (| Fire Little (& Elite Common !Power)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 222,
+        "HPRatio": 1.0,
+        "TagDistRule": "Fire:1,Elite:2",
+        "TagFilter": "(&G1 (| Fire (& Elite Common !Power)))",
+        "RankList": [
+            "5:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 223,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Fire:1",
+        "TagFilter": "(| Fire Little)",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 224,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Fire:1,Elite:1",
+        "TagFilter": "(| Fire Little (& Elite Common !Power  !TempBan))",
+        "RankList": [
+            "1:1",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 225,
+        "HPRatio": 1.0,
+        "TagDistRule": "Fire:1,Elite:2",
+        "TagFilter": "(| Fire (& Elite Common !Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 226,
+        "HPRatio": 1.0,
+        "TagDistRule": "Fire:1,Elite:1,Power:1",
+        "TagFilter": "(| Fire (& Elite Common !Power  !TempBan) (& Elite Common Power  !TempBan))",
+        "RankList": [
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 227,
+        "HPRatio": 1.0,
+        "TagDistRule": "Fire:1,Elite:1,QT:1",
+        "TagFilter": "(| Fire (& Elite Common !Power) QT)",
+        "RankList": [
+            "5:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 300,
+        "HPRatio": 1.0,
+        "TagDistRule": "Sea:3",
+        "TagFilter": "Sea",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 301,
+        "HPRatio": 1.0,
+        "TagDistRule": "Sea:2,Crab:1",
+        "TagFilter": "Sea",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 302,
+        "HPRatio": 1.0,
+        "TagDistRule": "Sea:3",
+        "TagFilter": "Sea",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 400,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:3",
+        "TagFilter": "(| Little (& Common Bio))",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 401,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:3",
+        "TagFilter": "(| Little (& Common Mec))",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 402,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:3",
+        "TagFilter": "(| Little (& Common Psy))",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 403,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Elite:1",
+        "TagFilter": "(| Little (& Elite Common))",
+        "RankList": [
+            "1:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 404,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:3",
+        "TagFilter": "(| Little (& Common Bio))",
+        "RankList": [
+            "1:1",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 405,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:3",
+        "TagFilter": "(| Little (& Common Mec))",
+        "RankList": [
+            "1:1",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 406,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:3",
+        "TagFilter": "(| Little (& Common Psy))",
+        "RankList": [
+            "1:1",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 407,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Elite:2",
+        "TagFilter": "(| Little (& Elite Common !Power))",
+        "RankList": [
+            "1:1",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 408,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:3",
+        "TagFilter": "(| Little (& Common !Power Bio))",
+        "RankList": [
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 409,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:3",
+        "TagFilter": "(| Little (& Common !Power Mec))",
+        "RankList": [
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 410,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:3",
+        "TagFilter": "(| Little (& Common !Power Psy))",
+        "RankList": [
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 420,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:3",
+        "TagFilter": "(&G1 (| Little (& Common Bio)))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 421,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:3",
+        "TagFilter": "(&G1 (| Little (& Common Mec)))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 422,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:3",
+        "TagFilter": "(&G1 (| Little (& Common Psy)))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 423,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:2,Elite:1",
+        "TagFilter": "(&G1 (| Little (& Elite Common !Power)))",
+        "RankList": [
+            "1:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 424,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:3",
+        "TagFilter": "(&G1 (| Little (& Common Bio)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 425,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:3",
+        "TagFilter": "(&G1 (| Little (& Common Mec)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 426,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:3",
+        "TagFilter": "(&G1 (| Little (& Common Psy)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 427,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:1,Elite:2",
+        "TagFilter": "(&G1 (| Little (& Elite Common !Power)))",
+        "RankList": [
+            "1:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 440,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:2,QT:1",
+        "TagFilter": "(&G1 (| Bio QT))",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 441,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:2,QT:1",
+        "TagFilter": "(&G1  (& !Sea (| Psy QT)))",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 442,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:2,QT:1",
+        "TagFilter": "(&G1 (| Mec QT))",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 443,
+        "HPRatio": 1.0,
+        "TagDistRule": "Sea:2,QT:1",
+        "TagFilter": "(&G1 (| Sea QT))",
+        "RankList": [
+            "1:2",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 444,
+        "HPRatio": 1.0,
+        "TagDistRule": "QT:2",
+        "TagFilter": "(&G1 QT)",
+        "RankList": [
+            "4:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 501,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Ice BioBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 502,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Ice PsyBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 503,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Ice MecBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 504,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Ice QTRush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 505,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Ice Rush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 506,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Ice BioBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 507,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Ice PsyBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 508,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Ice MecBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 509,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Ice QTRush)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 510,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Ice RushHard)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 511,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Fire BioBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 512,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Fire PsyBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 513,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard (& !Fire MecBoss))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 514,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Fire QTRush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 515,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Fire Rush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 516,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Fire BioBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 517,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Fire PsyBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 518,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Fire MecBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 519,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Fire QTRush)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 520,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Fire RushHard)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 521,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Thunder BioBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 522,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Thunder PsyBoss)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 523,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard (& !Thunder MecBoss))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 524,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Thunder QTRush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 525,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard (& !Thunder Rush)))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 526,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Thunder BioBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 527,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Thunder PsyBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 528,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Thunder MecBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 529,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Thunder QTRush)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 530,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !Thunder RushHard)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 531,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(&G1 (& !RushHard QTRush))",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 532,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "QTRush",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 533,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard Rush)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 534,
+        "HPRatio": 1.0,
+        "TagDistRule": "RushHard:1",
+        "TagFilter": "RushHard",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 535,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard BioBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 536,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard PsyBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 537,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush:1",
+        "TagFilter": "(& !RushHard MecBoss)",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 538,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTWarrior:1",
+        "TagFilter": "QTWarrior",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 539,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTCrab:1",
+        "TagFilter": "QTCrab",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1000,
+        "HPRatio": 0.8,
+        "TagDistRule": "F1:1",
+        "TagFilter": "F1",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1001,
+        "HPRatio": 1.0,
+        "TagDistRule": "F2:1",
+        "TagFilter": "F2",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 4,
+        "WaveID": 1002,
+        "HPRatio": 1.0,
+        "TagDistRule": "Twin03:2",
+        "TagFilter": "Twin03",
+        "RankList": [
+            "3:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 4,
+        "WaveID": 1003,
+        "HPRatio": 1.0,
+        "TagDistRule": "Twin02:2",
+        "TagFilter": "Twin02",
+        "RankList": [
+            "3:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 4,
+        "WaveID": 1004,
+        "HPRatio": 1.0,
+        "TagDistRule": "Twin01J:1,Twin01W:1",
+        "TagFilter": "(| Twin01J Twin01W)",
+        "RankList": [
+            "3:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1005,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLNormal)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1006,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLHard01)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1007,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLHard02)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1008,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLHard03)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1009,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 BOSSLow HLNormal)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1010,
+        "HPRatio": 1.0,
+        "TagDistRule": "BOSSF301:1",
+        "TagFilter": "BOSSF301",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1011,
+        "HPRatio": 1.0,
+        "TagDistRule": "BOSSF302:1",
+        "TagFilter": "BOSSF302",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1012,
+        "HPRatio": 1.0,
+        "TagDistRule": "BOSSF303:1",
+        "TagFilter": "BOSSF303",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1013,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 BOSSHand)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1014,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLDragon)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1015,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLHard04)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1016,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLDragon Fire)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1017,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLDragon Ice)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1018,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLDragon Thunder)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1019,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "BossRita",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1020,
+        "HPRatio": 1.0,
+        "TagDistRule": "Titan2:1,Titan3:1",
+        "TagFilter": "BossTitan",
+        "RankList": [
+            "2:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1021,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss1:1,QTBoss2:1",
+        "TagFilter": "BossQT",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1022,
+        "HPRatio": 1.0,
+        "TagDistRule": "Titan1:1,Titan5:1",
+        "TagFilter": "BossTitan",
+        "RankList": [
+            "2:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1023,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss3:1,QTBoss4:1",
+        "TagFilter": "BossQT",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1024,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss5:2,Rider:3",
+        "TagFilter": "(| QTBoss5 Rider)",
+        "RankList": [
+            "5:5"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1025,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss3:3,Warrior:2",
+        "TagFilter": "(| QTBoss3 Warrior)",
+        "RankList": [
+            "5:5"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1026,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss4:1,QTBoss2:1,Octopus:3",
+        "TagFilter": "(| QTBoss4 QTBoss2 Octopus)",
+        "RankList": [
+            "5:5"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1027,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "(& FinalBoss HLDragon Fire)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1028,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "(& FinalBoss HLDragon Ice)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1029,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "BossRita",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1030,
+        "HPRatio": 1.0,
+        "TagDistRule": "Titan4:1,Titan2:1,Titan3:1",
+        "TagFilter": "FinalBoss",
+        "RankList": [
+            "2:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1031,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss1:1,QTBoss2:1",
+        "TagFilter": "FinalBoss",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1032,
+        "HPRatio": 1.0,
+        "TagDistRule": "Titan1:1,Titan5:1,Titan6:1",
+        "TagFilter": "FinalBoss",
+        "RankList": [
+            "2:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1033,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss3:1,QTBoss4:1",
+        "TagFilter": "FinalBoss",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1034,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "(& FinalBoss Tknight)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1035,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "(& FinalBoss PsyBoss1)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1036,
+        "HPRatio": 1.0,
+        "TagDistRule": "FinalBoss:1",
+        "TagFilter": "(& FinalBoss Horse)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1037,
+        "HPRatio": 1.0,
+        "TagDistRule": "Fire:1",
+        "TagFilter": "(& FinalBoss Halo)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1038,
+        "HPRatio": 1.0,
+        "TagDistRule": "Ice:1",
+        "TagFilter": "(& FinalBoss Halo)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1051,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4:1",
+        "TagFilter": "(& F4 HLHard01)",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1052,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossKianaC5",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1053,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossXuanyuan",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1054,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossUlystorm",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1055,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossRita",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1056,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossDragon",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1057,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossSamurai",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1058,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "RobotTKnight",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1059,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossTwins",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1060,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss1:1,QTBoss2:1",
+        "TagFilter": "BossQT",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1061,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTBoss3:1,QTBoss4:1",
+        "TagFilter": "BossQT",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1062,
+        "HPRatio": 1.0,
+        "TagDistRule": "F4BOSS:1",
+        "TagFilter": "BossQuantum",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1063,
+        "HPRatio": 1.0,
+        "TagDistRule": "UlyssesHalo1:1",
+        "TagFilter": "F4BOSS",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 3,
+        "WaveID": 1064,
+        "HPRatio": 1.2,
+        "TagDistRule": "UlyssesHalo2:1",
+        "TagFilter": "F4BOSS",
+        "RankList": [
+            "3:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1065,
+        "HPRatio": 1.0,
+        "TagDistRule": "RobotTitan1:1,RobotTitan2:1",
+        "TagFilter": "F4BOSS",
+        "RankList": [
+            "2:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1066,
+        "HPRatio": 1.0,
+        "TagDistRule": "DeadGal2:1,DeadGal3:1,DeadGal4:1",
+        "TagFilter": "F4BOSS",
+        "RankList": [
+            "2:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 2,
+        "WaveID": 1067,
+        "HPRatio": 1.0,
+        "TagDistRule": "BossWendy:2",
+        "TagFilter": "F4BOSS",
+        "RankList": [
+            "3:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2000,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush01:1",
+        "TagFilter": "Rush01",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2001,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush02:1",
+        "TagFilter": "Rush02",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2002,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush03:1",
+        "TagFilter": "Rush03",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2003,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush04:1",
+        "TagFilter": "Rush04",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2004,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush05:1",
+        "TagFilter": "Rush05",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2005,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush06:1",
+        "TagFilter": "Rush06",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2006,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush07:1",
+        "TagFilter": "Rush07",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2007,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush08:1",
+        "TagFilter": "Rush08",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2008,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush09:1",
+        "TagFilter": "Rush09",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2009,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush10:1",
+        "TagFilter": "Rush10",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2010,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush11:1",
+        "TagFilter": "Rush11",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2011,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush12:1",
+        "TagFilter": "Rush12",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2012,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush13:1",
+        "TagFilter": "Rush13",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2013,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTRush01:1",
+        "TagFilter": "QTRush01",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2014,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTRush02:1",
+        "TagFilter": "QTRush02",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2015,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTRush03:1",
+        "TagFilter": "QTRush03",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2016,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTRush04:1",
+        "TagFilter": "QTRush04",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2017,
+        "HPRatio": 1.0,
+        "TagDistRule": "QTRush05:1",
+        "TagFilter": "QTRush05",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2018,
+        "HPRatio": 1.0,
+        "TagDistRule": "BRush01:1",
+        "TagFilter": "BRush01",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2019,
+        "HPRatio": 1.0,
+        "TagDistRule": "BRush02:1",
+        "TagFilter": "BRush02",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2020,
+        "HPRatio": 1.0,
+        "TagDistRule": "BRush03:1",
+        "TagFilter": "BRush03",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2021,
+        "HPRatio": 1.0,
+        "TagDistRule": "BRush04:1",
+        "TagFilter": "BRush04",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2022,
+        "HPRatio": 1.0,
+        "TagDistRule": "BRush05:1",
+        "TagFilter": "BRush05",
+        "RankList": [
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2023,
+        "HPRatio": 1.0,
+        "TagDistRule": "Rush14:1",
+        "TagFilter": "Rush14",
+        "RankList": [
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2100,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| (& Elite Ice) Little)",
+        "RankList": [
+            "1:4",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2101,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(| (& Elite Ice) Little)",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2102,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:3",
+        "TagFilter": "(| (& Elite Ice) Little)",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2103,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Ice) Little))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2104,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Ice) Little))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2105,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Ice:1,Common:1",
+        "TagFilter": "(| (& Elite Ice) Little (& Elite Common))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2106,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Ice:1,Common:2",
+        "TagFilter": "(| (& Elite Ice) Little (& Elite Common))",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2107,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:3",
+        "TagFilter": "(| (& Elite Thunder) Little)",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2108,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(| (& Elite Thunder) Little)",
+        "RankList": [
+            "1:3",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2109,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| (& Elite Thunder) Little)",
+        "RankList": [
+            "1:4",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2110,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2111,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2112,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Thunder:1,Common:1",
+        "TagFilter": "(| (& Elite Thunder) Little (& Elite Common))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2113,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Thunder:1,Common:2",
+        "TagFilter": "(| (& Elite Thunder) Little (& Elite Common))",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2114,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| (& Elite Fire) Little)",
+        "RankList": [
+            "1:4",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2115,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(| (& Elite Fire) Little)",
+        "RankList": [
+            "1:3",
+            "5:1",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2116,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:3",
+        "TagFilter": "(| (& Elite Fire) Little)",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2117,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Fire) Little))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2118,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Fire) Little))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2119,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Fire:1,Common:1",
+        "TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2120,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Fire:1,Common:2",
+        "TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+        "RankList": [
+            "1:3",
+            "5:2",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2200,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| Elite Little)",
+        "RankList": [
+            "1:4",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2201,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(| Elite Little)",
+        "RankList": [
+            "1:3",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2202,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| Little (& Elite Power))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2203,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:3",
+        "TagFilter": "(| Little Elite )",
+        "RankList": [
+            "1:3",
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2204,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| (& Elite Common !Power) Little)",
+        "RankList": [
+            "1:4",
+            "2:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2205,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(| (& Elite Common) Little)",
+        "RankList": [
+            "1:3",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2206,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(| Little (& Elite Common Power))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2207,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,Elite:3",
+        "TagFilter": "(| Little (& Elite Common) )",
+        "RankList": [
+            "1:3",
+            "2:1",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2208,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(&G1 (| Little (& Elite !Power)))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2209,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(&G1 (| Little (& Elite Power)))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2210,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(&G1 (| Little (& Elite !Power)))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2211,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Common !Power) Little))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2212,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Common Power) Little))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2213,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Common !Power) Little))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2214,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(| Little (& Elite !Power))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2215,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Elite:1,Power:1",
+        "TagFilter": "(| Little (& Elite Power) Elite)",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2300,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,QT:1",
+        "TagFilter": "(| QT Little)",
+        "RankList": [
+            "1:4",
+            "4:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2301,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,QT:2",
+        "TagFilter": "(| QT Little)",
+        "RankList": [
+            "1:3",
+            "4:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2302,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:3,QT:2,Power:1",
+        "TagFilter": "(| QT Little Power)",
+        "RankList": [
+            "1:3",
+            "4:2",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2303,
+        "HPRatio": 0.8,
+        "TagDistRule": "QT:3",
+        "TagFilter": "QT",
+        "RankList": [
+            "4:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2304,
+        "HPRatio": 0.8,
+        "TagDistRule": "QT:1,Elite:3",
+        "TagFilter": "(| (& QT Rider) (& Elite Rider))",
+        "RankList": [
+            "4:1",
+            "5:3"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2305,
+        "HPRatio": 0.8,
+        "TagDistRule": "QT:2,Elite:2",
+        "TagFilter": "(| (& QT Warrior) (& Elite Warrior))",
+        "RankList": [
+            "4:2",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 2306,
+        "HPRatio": 0.8,
+        "TagDistRule": "QT:2,Elite:2",
+        "TagFilter": "(| (& QT Octopus) (& Elite Octopus))",
+        "RankList": [
+            "4:2",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 5,
+        "WaveID": 3000,
+        "HPRatio": 1.0,
+        "TagDistRule": "ModelSimple:10",
+        "TagFilter": "ModelSimple",
+        "RankList": [
+            "1:10"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4000,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:2",
+        "TagFilter": "Bio",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4001,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:2",
+        "TagFilter": "Mec",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4002,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:2",
+        "TagFilter": "Psy",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4003,
+        "HPRatio": 1.0,
+        "TagDistRule": "Bio:2",
+        "TagFilter": "Ice",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4004,
+        "HPRatio": 1.0,
+        "TagDistRule": "Psy:2",
+        "TagFilter": "Ice",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4005,
+        "HPRatio": 1.0,
+        "TagDistRule": "Mec:2",
+        "TagFilter": "Thunder",
+        "RankList": [
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4006,
+        "HPRatio": 1.0,
+        "TagDistRule": "QT:2",
+        "TagFilter": "Warrior",
+        "RankList": [
+            "4:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 6,
+        "WaveID": 4007,
+        "HPRatio": 1.0,
+        "TagDistRule": "QT:2",
+        "TagFilter": "Fast",
+        "RankList": [
+            "4:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12103,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12104,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12105,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Ice:1,Common:1",
+        "TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12110,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12111,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12112,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Thunder:1,Common:1",
+        "TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12117,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12118,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12119,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Fire:1,Common:1",
+        "TagFilter": "(| (& Elite Fire) Little (& Elite Common))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12208,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12209,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12210,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12211,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12212,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 12213,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Psy))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22103,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22104,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22105,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Ice:1,Common:1",
+        "TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22110,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22111,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Thunder) Little))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22112,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Thunder:1,Common:1",
+        "TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22117,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22118,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Fire) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22119,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Fire:1,Common:1",
+        "TagFilter": "(& (| (& Elite Fire) Little (& Elite Common))  (| Bio Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22208,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22209,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22210,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22211,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22212,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 22213,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Bio Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32103,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32104,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Ice) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32105,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Ice:1,Common:1",
+        "TagFilter": "(& (| (& Elite Ice) Little (& Elite Common))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32110,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32111,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Thunder) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32112,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Thunder:1,Common:1",
+        "TagFilter": "(& (| (& Elite Thunder) Little (& Elite Common))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32117,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:1",
+        "TagFilter": "(&G1 (| (& Elite Fire) Little))",
+        "RankList": [
+            "1:4",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32118,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:4,Elite:2",
+        "TagFilter": "(&G1 (| (& Elite Fire) Little))",
+        "RankList": [
+            "1:4",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32119,
+        "HPRatio": 0.8,
+        "TagDistRule": "Little:4,Fire:1,Common:1",
+        "TagFilter": "(& (| (& Elite Fire) Little (& Elite Common))  (| Psy Mec))",
+        "RankList": [
+            "1:4",
+            "2:1",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32208,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32209,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| Little (& Elite Power)))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32210,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| Little (& Elite !Power)))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32211,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32212,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:1",
+        "TagFilter": "(& (& G1 (| (& Elite Common Power) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:1"
+        ]
+    },
+    {
+        "MonsterGroupType": 1,
+        "WaveID": 32213,
+        "HPRatio": 1.0,
+        "TagDistRule": "Little:3,Elite:2",
+        "TagFilter": "(& (& G1 (| (& Elite Common !Power) Little))  (| Psy Mec))",
+        "RankList": [
+            "1:3",
+            "5:2"
+        ]
+    }
+]

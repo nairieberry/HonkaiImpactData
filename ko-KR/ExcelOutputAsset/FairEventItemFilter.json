@@ -1,0 +1,30 @@
+[
+    {
+        "ID": 1,
+        "MaxRank": 5,
+        "MinRank": 1,
+        "Exception": []
+    },
+    {
+        "ID": 2,
+        "MaxRank": 5,
+        "MinRank": 1,
+        "Exception": [
+            "1"
+        ]
+    },
+    {
+        "ID": 3,
+        "MaxRank": 5,
+        "MinRank": 1,
+        "Exception": [
+            "5"
+        ]
+    },
+    {
+        "ID": 4,
+        "MaxRank": 5,
+        "MinRank": 3,
+        "Exception": []
+    }
+]

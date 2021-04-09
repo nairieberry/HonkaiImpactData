@@ -1,0 +1,7046 @@
+[
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950101,
+        "HuntRewardItemDisplay": 950101,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1650964881
+        },
+        "Name": {
+            "hash": -1650670999
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -1279968785
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950102,
+        "HuntRewardItemDisplay": 950102,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1622335730
+        },
+        "Name": {
+            "hash": -1622041848
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": 462841550
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            101
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950103,
+        "HuntRewardItemDisplay": 950103,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 103,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1593706579
+        },
+        "Name": {
+            "hash": -1593412697
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -2089315411
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950104,
+        "HuntRewardItemDisplay": 950104,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 104,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1565077428
+        },
+        "Name": {
+            "hash": -1564783546
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -346505076
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950105,
+        "HuntRewardItemDisplay": 950105,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 105,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1536448277
+        },
+        "Name": {
+            "hash": -1536154395
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": 1396305259
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            104
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950106,
+        "HuntRewardItemDisplay": 950106,
+        "LocationID": 0,
+        "MaxCount": 3,
+        "StoryArea": 101,
+        "StoryID": 106,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1507819126
+        },
+        "Name": {
+            "hash": -1507525244
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -1155851702
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            105
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950107,
+        "HuntRewardItemDisplay": 950107,
+        "LocationID": 0,
+        "MaxCount": 3,
+        "StoryArea": 101,
+        "StoryID": 107,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1479189975
+        },
+        "Name": {
+            "hash": -1478896093
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": 586958633
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            106
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950108,
+        "HuntRewardItemDisplay": 950108,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 108,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1450560824
+        },
+        "Name": {
+            "hash": -1450266942
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -1965198328
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            107
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950109,
+        "HuntRewardItemDisplay": 950109,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 109,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1421931673
+        },
+        "Name": {
+            "hash": -1421637791
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -222387993
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            108
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950110,
+        "HuntRewardItemDisplay": 950110,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 110,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -961934751
+        },
+        "Name": {
+            "hash": -961640869
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": -546977439
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            109
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 1,
+        "HuntRewardItem": 950111,
+        "HuntRewardItemDisplay": 950111,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 111,
+        "StoryMap": 1,
+        "StorySeriesID": 1,
+        "StorySeriesStep": 11,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -933305600
+        },
+        "Name": {
+            "hash": -933011718
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289377
+        },
+        "Target": {
+            "hash": 1195832896
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            110
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950201,
+        "HuntRewardItemDisplay": 950201,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 201,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 91845454
+        },
+        "Name": {
+            "hash": 92139336
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": -1476482290
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            111
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950202,
+        "HuntRewardItemDisplay": 950202,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 202,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 120474605
+        },
+        "Name": {
+            "hash": 120768487
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": 266328045
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            201
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950203,
+        "HuntRewardItemDisplay": 950203,
+        "LocationID": 0,
+        "MaxCount": 3,
+        "StoryArea": 101,
+        "StoryID": 203,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 149103756
+        },
+        "Name": {
+            "hash": 149397638
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": 2009138380
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            202
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950204,
+        "HuntRewardItemDisplay": 950204,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 204,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 177732907
+        },
+        "Name": {
+            "hash": 178026789
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": -543018581
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            203
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950205,
+        "HuntRewardItemDisplay": 950205,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 205,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 206362058
+        },
+        "Name": {
+            "hash": 206655940
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": 1199791754
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            204
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950206,
+        "HuntRewardItemDisplay": 950206,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 206,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 234991209
+        },
+        "Name": {
+            "hash": 235285091
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": -1352365207
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            205
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 2,
+        "HuntRewardItem": 950207,
+        "HuntRewardItemDisplay": 950207,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 207,
+        "StoryMap": 1,
+        "StorySeriesID": 2,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 263620360
+        },
+        "Name": {
+            "hash": 263914242
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289378
+        },
+        "Target": {
+            "hash": 390445128
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            206
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950301,
+        "HuntRewardItemDisplay": 950301,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 301,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1834655789
+        },
+        "Name": {
+            "hash": 1834949671
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": -1672995795
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            207
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950302,
+        "HuntRewardItemDisplay": 950302,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 302,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1863284940
+        },
+        "Name": {
+            "hash": 1863578822
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": 69814540
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            301
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950303,
+        "HuntRewardItemDisplay": 950303,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 303,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1891914091
+        },
+        "Name": {
+            "hash": 1892207973
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": 1812624875
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            302
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950304,
+        "HuntRewardItemDisplay": 950304,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 304,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1920543242
+        },
+        "Name": {
+            "hash": 1920837124
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": -739532086
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            303
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950305,
+        "HuntRewardItemDisplay": 950305,
+        "LocationID": 0,
+        "MaxCount": 5,
+        "StoryArea": 101,
+        "StoryID": 305,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1949172393
+        },
+        "Name": {
+            "hash": 1949466275
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": 1003278249
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            304
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950306,
+        "HuntRewardItemDisplay": 950306,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 306,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1977801544
+        },
+        "Name": {
+            "hash": 1978095426
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": -1548878712
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            305
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950307,
+        "HuntRewardItemDisplay": 950307,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 307,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2006430695
+        },
+        "Name": {
+            "hash": 2006724577
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": 193931623
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            306
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 3,
+        "HuntRewardItem": 950308,
+        "HuntRewardItemDisplay": 950308,
+        "LocationID": 0,
+        "MaxCount": 2,
+        "StoryArea": 101,
+        "StoryID": 308,
+        "StoryMap": 1,
+        "StorySeriesID": 3,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2035059846
+        },
+        "Name": {
+            "hash": 2035353728
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289379
+        },
+        "Target": {
+            "hash": 1936741958
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            307
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950401,
+        "HuntRewardItemDisplay": 950401,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 401,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -717501172
+        },
+        "Name": {
+            "hash": -717207290
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -1869509300
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            308
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950402,
+        "HuntRewardItemDisplay": 950402,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 402,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -688872021
+        },
+        "Name": {
+            "hash": -688578139
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -126698965
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            401
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950403,
+        "HuntRewardItemDisplay": 950403,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 403,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -660242870
+        },
+        "Name": {
+            "hash": -659948988
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": 1616111370
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            402
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950404,
+        "HuntRewardItemDisplay": 950404,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 404,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -631613719
+        },
+        "Name": {
+            "hash": -631319837
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -936045591
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            403
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950405,
+        "HuntRewardItemDisplay": 950405,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 405,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -602984568
+        },
+        "Name": {
+            "hash": -602690686
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": 806764744
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            404
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950406,
+        "HuntRewardItemDisplay": 950406,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 406,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -574355417
+        },
+        "Name": {
+            "hash": -574061535
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -1745392217
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            405
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950407,
+        "HuntRewardItemDisplay": 950407,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 407,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -545726266
+        },
+        "Name": {
+            "hash": -545432384
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -2581882
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            406
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950408,
+        "HuntRewardItemDisplay": 950408,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 102,
+        "StoryID": 408,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -517097115
+        },
+        "Name": {
+            "hash": -516803233
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": 1740228453
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            407
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950409,
+        "HuntRewardItemDisplay": 950409,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 102,
+        "StoryID": 409,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -488467964
+        },
+        "Name": {
+            "hash": -488174082
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -811928508
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            408
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950410,
+        "HuntRewardItemDisplay": 950410,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 102,
+        "StoryID": 410,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -2089330844
+        },
+        "Name": {
+            "hash": -2089036962
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": -1642864220
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            409
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950411,
+        "HuntRewardItemDisplay": 950411,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 102,
+        "StoryID": 411,
+        "StoryMap": 1,
+        "StorySeriesID": 4,
+        "StorySeriesStep": 11,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -2060701693
+        },
+        "Name": {
+            "hash": -2060407811
+        },
+        "StorySeriesTitle": {
+            "hash": 1503289380
+        },
+        "Target": {
+            "hash": 99946115
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            410
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950501,
+        "HuntRewardItemDisplay": 950501,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 210,
+        "StoryID": 501,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301847
+        },
+        "Name": {
+            "hash": 1761560721
+        },
+        "StorySeriesTitle": {
+            "hash": -298644192
+        },
+        "Target": {
+            "hash": 1594143959
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            308
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950502,
+        "HuntRewardItemDisplay": 950502,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 211,
+        "StoryID": 502,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301848
+        },
+        "Name": {
+            "hash": 1761560722
+        },
+        "StorySeriesTitle": {
+            "hash": -298644191
+        },
+        "Target": {
+            "hash": 1594143960
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            501
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950503,
+        "HuntRewardItemDisplay": 950503,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 503,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301849
+        },
+        "Name": {
+            "hash": 1761560723
+        },
+        "StorySeriesTitle": {
+            "hash": -298644190
+        },
+        "Target": {
+            "hash": 1594143961
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            502
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950504,
+        "HuntRewardItemDisplay": 950504,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 504,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301850
+        },
+        "Name": {
+            "hash": 1761560724
+        },
+        "StorySeriesTitle": {
+            "hash": -298644189
+        },
+        "Target": {
+            "hash": 1594143962
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            503
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950505,
+        "HuntRewardItemDisplay": 950505,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 505,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301851
+        },
+        "Name": {
+            "hash": 1761560725
+        },
+        "StorySeriesTitle": {
+            "hash": -298644188
+        },
+        "Target": {
+            "hash": 1594143963
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            504
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950506,
+        "HuntRewardItemDisplay": 950506,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 506,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301852
+        },
+        "Name": {
+            "hash": 1761560726
+        },
+        "StorySeriesTitle": {
+            "hash": -298644187
+        },
+        "Target": {
+            "hash": 1594143964
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            505
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950507,
+        "HuntRewardItemDisplay": 950507,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 507,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301853
+        },
+        "Name": {
+            "hash": 1761560727
+        },
+        "StorySeriesTitle": {
+            "hash": -298644186
+        },
+        "Target": {
+            "hash": 1594143965
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            506
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950508,
+        "HuntRewardItemDisplay": 950508,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 508,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301854
+        },
+        "Name": {
+            "hash": 1761560728
+        },
+        "StorySeriesTitle": {
+            "hash": -298644185
+        },
+        "Target": {
+            "hash": 1594143966
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            507
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950509,
+        "HuntRewardItemDisplay": 950509,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 509,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301855
+        },
+        "Name": {
+            "hash": 1761560729
+        },
+        "StorySeriesTitle": {
+            "hash": -298644184
+        },
+        "Target": {
+            "hash": 1594143967
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            508
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950510,
+        "HuntRewardItemDisplay": 950510,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 510,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301877
+        },
+        "Name": {
+            "hash": 1761560751
+        },
+        "StorySeriesTitle": {
+            "hash": -298644162
+        },
+        "Target": {
+            "hash": 1594143989
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            509
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950511,
+        "HuntRewardItemDisplay": 950511,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 511,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 11,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301878
+        },
+        "Name": {
+            "hash": 1761560752
+        },
+        "StorySeriesTitle": {
+            "hash": -298644161
+        },
+        "Target": {
+            "hash": 1594143990
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            510
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950512,
+        "HuntRewardItemDisplay": 950512,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 212,
+        "StoryID": 512,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 12,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301879
+        },
+        "Name": {
+            "hash": 1761560753
+        },
+        "StorySeriesTitle": {
+            "hash": -298644160
+        },
+        "Target": {
+            "hash": 1594143991
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            511
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950513,
+        "HuntRewardItemDisplay": 950513,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 513,
+        "StoryMap": 2,
+        "StorySeriesID": 5,
+        "StorySeriesStep": 13,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938301880
+        },
+        "Name": {
+            "hash": 1761560754
+        },
+        "StorySeriesTitle": {
+            "hash": -298644159
+        },
+        "Target": {
+            "hash": 1594143992
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            512
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950521,
+        "HuntRewardItemDisplay": 950521,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 601,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302808
+        },
+        "Name": {
+            "hash": 1761561682
+        },
+        "StorySeriesTitle": {
+            "hash": -298643231
+        },
+        "Target": {
+            "hash": 1594144920
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            513
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950522,
+        "HuntRewardItemDisplay": 950522,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 602,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302809
+        },
+        "Name": {
+            "hash": 1761561683
+        },
+        "StorySeriesTitle": {
+            "hash": -298643230
+        },
+        "Target": {
+            "hash": 1594144921
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            601
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950523,
+        "HuntRewardItemDisplay": 950523,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 202,
+        "StoryID": 603,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302810
+        },
+        "Name": {
+            "hash": 1761561684
+        },
+        "StorySeriesTitle": {
+            "hash": -298643229
+        },
+        "Target": {
+            "hash": 1594144922
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            602
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950524,
+        "HuntRewardItemDisplay": 950524,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 202,
+        "StoryID": 604,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302811
+        },
+        "Name": {
+            "hash": 1761561685
+        },
+        "StorySeriesTitle": {
+            "hash": -298643228
+        },
+        "Target": {
+            "hash": 1594144923
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            603
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950525,
+        "HuntRewardItemDisplay": 950525,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 202,
+        "StoryID": 605,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302812
+        },
+        "Name": {
+            "hash": 1761561686
+        },
+        "StorySeriesTitle": {
+            "hash": -298643227
+        },
+        "Target": {
+            "hash": 1594144924
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            604
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 12,
+        "HuntRewardItem": 950526,
+        "HuntRewardItemDisplay": 950526,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 202,
+        "StoryID": 606,
+        "StoryMap": 2,
+        "StorySeriesID": 6,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938302813
+        },
+        "Name": {
+            "hash": 1761561687
+        },
+        "StorySeriesTitle": {
+            "hash": -298643226
+        },
+        "Target": {
+            "hash": 1594144925
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            605
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 13,
+        "HuntRewardItem": 950541,
+        "HuntRewardItemDisplay": 950541,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 202,
+        "StoryID": 701,
+        "StoryMap": 2,
+        "StorySeriesID": 7,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938303769
+        },
+        "Name": {
+            "hash": 1761562643
+        },
+        "StorySeriesTitle": {
+            "hash": -298642270
+        },
+        "Target": {
+            "hash": 1594145881
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            606
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 13,
+        "HuntRewardItem": 950542,
+        "HuntRewardItemDisplay": 950542,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 702,
+        "StoryMap": 2,
+        "StorySeriesID": 7,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938303770
+        },
+        "Name": {
+            "hash": 1761562644
+        },
+        "StorySeriesTitle": {
+            "hash": -298642269
+        },
+        "Target": {
+            "hash": 1594145882
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            701
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 13,
+        "HuntRewardItem": 950543,
+        "HuntRewardItemDisplay": 950543,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 703,
+        "StoryMap": 2,
+        "StorySeriesID": 7,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938303771
+        },
+        "Name": {
+            "hash": 1761562645
+        },
+        "StorySeriesTitle": {
+            "hash": -298642268
+        },
+        "Target": {
+            "hash": 1594145883
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            702
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 14,
+        "HuntRewardItem": 950561,
+        "HuntRewardItemDisplay": 950561,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 801,
+        "StoryMap": 2,
+        "StorySeriesID": 8,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 938304730
+        },
+        "Name": {
+            "hash": 1761563604
+        },
+        "StorySeriesTitle": {
+            "hash": -298641309
+        },
+        "Target": {
+            "hash": 1594146842
+        },
+        "StoryStartDate": "2017-03-27 04:00:00",
+        "PreStory": [
+            703
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950451,
+        "HuntRewardItemDisplay": 950451,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101001,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1732456385
+        },
+        "Name": {
+            "hash": -1732162503
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": 2011074495
+        },
+        "StoryStartDate": "2017-10-16 04:00:00",
+        "PreStory": [
+            411
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950452,
+        "HuntRewardItemDisplay": 950452,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101002,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1703827234
+        },
+        "Name": {
+            "hash": -1703533352
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": -541082466
+        },
+        "StoryStartDate": "2017-10-16 04:00:01",
+        "PreStory": [
+            101001
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950453,
+        "HuntRewardItemDisplay": 950453,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101003,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1675198083
+        },
+        "Name": {
+            "hash": -1674904201
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": 1201727869
+        },
+        "StoryStartDate": "2017-10-16 04:00:02",
+        "PreStory": [
+            101002
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950454,
+        "HuntRewardItemDisplay": 950454,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101004,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1646568932
+        },
+        "Name": {
+            "hash": -1646275050
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": -1350429092
+        },
+        "StoryStartDate": "2017-10-16 04:00:03",
+        "PreStory": [
+            101003
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950455,
+        "HuntRewardItemDisplay": 950455,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101005,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1617939781
+        },
+        "Name": {
+            "hash": -1617645899
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": 392381243
+        },
+        "StoryStartDate": "2017-10-16 04:00:04",
+        "PreStory": [
+            101004
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950456,
+        "HuntRewardItemDisplay": 950456,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101006,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1589310630
+        },
+        "Name": {
+            "hash": -1589016748
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": 2135191578
+        },
+        "StoryStartDate": "2017-10-16 04:00:05",
+        "PreStory": [
+            101005
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950457,
+        "HuntRewardItemDisplay": 950457,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 101007,
+        "StoryMap": 1,
+        "StorySeriesID": 1000,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1560681479
+        },
+        "Name": {
+            "hash": -1560387597
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110207
+        },
+        "Target": {
+            "hash": -416965383
+        },
+        "StoryStartDate": "2017-10-16 04:00:06",
+        "PreStory": [
+            101006
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950451,
+        "HuntRewardItemDisplay": 950451,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102001,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1532052328
+        },
+        "Name": {
+            "hash": -1531758446
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": 1325844952
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            411
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950452,
+        "HuntRewardItemDisplay": 950452,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102002,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1503423177
+        },
+        "Name": {
+            "hash": -1503129295
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": -1226312009
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102001
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950453,
+        "HuntRewardItemDisplay": 950453,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102003,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 806795921
+        },
+        "Name": {
+            "hash": 807089803
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": -1603850863
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102002
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950454,
+        "HuntRewardItemDisplay": 950454,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102004,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 835425072
+        },
+        "Name": {
+            "hash": 835718954
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": 138959472
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102003
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950455,
+        "HuntRewardItemDisplay": 950455,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102005,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 864054223
+        },
+        "Name": {
+            "hash": 864348105
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": 1881769807
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102004
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950456,
+        "HuntRewardItemDisplay": 950456,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102006,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 892683374
+        },
+        "Name": {
+            "hash": 892977256
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": -670387154
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102005
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950457,
+        "HuntRewardItemDisplay": 950457,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 102007,
+        "StoryMap": 1,
+        "StorySeriesID": 1001,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 921312525
+        },
+        "Name": {
+            "hash": 921606407
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110208
+        },
+        "Target": {
+            "hash": 1072423181
+        },
+        "StoryStartDate": "2017-10-23 04:00:00",
+        "PreStory": [
+            102006
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950451,
+        "HuntRewardItemDisplay": 950451,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103001,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 949941676
+        },
+        "Name": {
+            "hash": 950235558
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": -1479733780
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            411
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950452,
+        "HuntRewardItemDisplay": 950452,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103002,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 978570827
+        },
+        "Name": {
+            "hash": 978864709
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": 263076555
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103001
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950453,
+        "HuntRewardItemDisplay": 950453,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103003,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1007199978
+        },
+        "Name": {
+            "hash": 1007493860
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": 2005886890
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103002
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950454,
+        "HuntRewardItemDisplay": 950454,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103004,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1035829129
+        },
+        "Name": {
+            "hash": 1036123011
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": -546270071
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103003
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950455,
+        "HuntRewardItemDisplay": 950455,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103005,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1064458280
+        },
+        "Name": {
+            "hash": 1064752162
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": 1196540264
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103004
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950456,
+        "HuntRewardItemDisplay": 950456,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103006,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1694299602
+        },
+        "Name": {
+            "hash": 1694593484
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": 883661970
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103005
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 4,
+        "HuntRewardItem": 950457,
+        "HuntRewardItemDisplay": 950457,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 101,
+        "StoryID": 103007,
+        "StoryMap": 1,
+        "StorySeriesID": 1002,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 1722928753
+        },
+        "Name": {
+            "hash": 1723222635
+        },
+        "StorySeriesTitle": {
+            "hash": 1552110209
+        },
+        "Target": {
+            "hash": -1668494991
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            103006
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104001,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758730
+        },
+        "Name": {
+            "hash": 2115429884
+        },
+        "StorySeriesTitle": {
+            "hash": -156065353
+        },
+        "Target": {
+            "hash": 865914806
+        },
+        "StoryStartDate": "2020-03-09 10:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600101,
+        "HuntRewardItemDisplay": 1600101,
+        "LocationID": 40142,
+        "MaxCount": 1,
+        "StoryArea": 4022,
+        "StoryID": 104002,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758730
+        },
+        "Name": {
+            "hash": 2115429884
+        },
+        "StorySeriesTitle": {
+            "hash": -156065353
+        },
+        "Target": {
+            "hash": 865914806
+        },
+        "StoryStartDate": "2020-03-09 10:00:00",
+        "PreStory": [
+            104001
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600002,
+        "HuntRewardItemDisplay": 1600002,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104003,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 1,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758730
+        },
+        "Name": {
+            "hash": 2115429884
+        },
+        "StorySeriesTitle": {
+            "hash": -156065353
+        },
+        "Target": {
+            "hash": 865914806
+        },
+        "StoryStartDate": "2020-03-09 10:00:00",
+        "PreStory": [
+            104002
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1602001,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104004,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758729
+        },
+        "Name": {
+            "hash": 2115429885
+        },
+        "StorySeriesTitle": {
+            "hash": -156065352
+        },
+        "Target": {
+            "hash": 865914807
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104003
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600102,
+        "HuntRewardItemDisplay": 1600102,
+        "LocationID": 40143,
+        "MaxCount": 1,
+        "StoryArea": 4023,
+        "StoryID": 104005,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758729
+        },
+        "Name": {
+            "hash": 2115429885
+        },
+        "StorySeriesTitle": {
+            "hash": -156065352
+        },
+        "Target": {
+            "hash": 865914807
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104004
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600003,
+        "HuntRewardItemDisplay": 1600003,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104006,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 2,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758729
+        },
+        "Name": {
+            "hash": 2115429885
+        },
+        "StorySeriesTitle": {
+            "hash": -156065352
+        },
+        "Target": {
+            "hash": 865914807
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104005
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104007,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758728
+        },
+        "Name": {
+            "hash": 2115429886
+        },
+        "StorySeriesTitle": {
+            "hash": -156065351
+        },
+        "Target": {
+            "hash": 865914808
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104106
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600103,
+        "HuntRewardItemDisplay": 1600103,
+        "LocationID": 40144,
+        "MaxCount": 1,
+        "StoryArea": 4024,
+        "StoryID": 104008,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758728
+        },
+        "Name": {
+            "hash": 2115429886
+        },
+        "StorySeriesTitle": {
+            "hash": -156065351
+        },
+        "Target": {
+            "hash": 865914808
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104007
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600004,
+        "HuntRewardItemDisplay": 1600004,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104009,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 3,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758728
+        },
+        "Name": {
+            "hash": 2115429886
+        },
+        "StorySeriesTitle": {
+            "hash": -156065351
+        },
+        "Target": {
+            "hash": 865914808
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104008
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104012,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 8,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758727
+        },
+        "Name": {
+            "hash": 2115429887
+        },
+        "StorySeriesTitle": {
+            "hash": -156065350
+        },
+        "Target": {
+            "hash": 865914809
+        },
+        "StoryStartDate": "2020-03-12 10:00:00",
+        "PreStory": [
+            104009
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600104,
+        "HuntRewardItemDisplay": 1600104,
+        "LocationID": 40145,
+        "MaxCount": 1,
+        "StoryArea": 4025,
+        "StoryID": 104013,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 8,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758727
+        },
+        "Name": {
+            "hash": 2115429887
+        },
+        "StorySeriesTitle": {
+            "hash": -156065350
+        },
+        "Target": {
+            "hash": 865914809
+        },
+        "StoryStartDate": "2020-03-12 10:00:00",
+        "PreStory": [
+            104012
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600005,
+        "HuntRewardItemDisplay": 1600005,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104014,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 4,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758727
+        },
+        "Name": {
+            "hash": 2115429887
+        },
+        "StorySeriesTitle": {
+            "hash": -156065350
+        },
+        "Target": {
+            "hash": 865914809
+        },
+        "StoryStartDate": "2020-03-12 10:00:00",
+        "PreStory": [
+            104013
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104015,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 9,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758699
+        },
+        "Name": {
+            "hash": 2115429915
+        },
+        "StorySeriesTitle": {
+            "hash": -156065322
+        },
+        "Target": {
+            "hash": 865914837
+        },
+        "StoryStartDate": "2020-03-16 10:00:00",
+        "PreStory": [
+            104014
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600111,
+        "HuntRewardItemDisplay": 1600111,
+        "LocationID": 40152,
+        "MaxCount": 1,
+        "StoryArea": 4032,
+        "StoryID": 104016,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 9,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758699
+        },
+        "Name": {
+            "hash": 2115429915
+        },
+        "StorySeriesTitle": {
+            "hash": -156065322
+        },
+        "Target": {
+            "hash": 865914837
+        },
+        "StoryStartDate": "2020-03-16 10:00:00",
+        "PreStory": [
+            104015
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600012,
+        "HuntRewardItemDisplay": 1600012,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104017,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 5,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758699
+        },
+        "Name": {
+            "hash": 2115429915
+        },
+        "StorySeriesTitle": {
+            "hash": -156065322
+        },
+        "Target": {
+            "hash": 865914837
+        },
+        "StoryStartDate": "2020-03-16 10:00:00",
+        "PreStory": [
+            104016
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104018,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 12,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758726
+        },
+        "Name": {
+            "hash": 2115429888
+        },
+        "StorySeriesTitle": {
+            "hash": -156065349
+        },
+        "Target": {
+            "hash": 865914810
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104017
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600105,
+        "HuntRewardItemDisplay": 1600105,
+        "LocationID": 40146,
+        "MaxCount": 1,
+        "StoryArea": 4026,
+        "StoryID": 104019,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 12,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758726
+        },
+        "Name": {
+            "hash": 2115429888
+        },
+        "StorySeriesTitle": {
+            "hash": -156065349
+        },
+        "Target": {
+            "hash": 865914810
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104018
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600006,
+        "HuntRewardItemDisplay": 1600006,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104020,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 6,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758726
+        },
+        "Name": {
+            "hash": 2115429888
+        },
+        "StorySeriesTitle": {
+            "hash": -156065349
+        },
+        "Target": {
+            "hash": 865914810
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104019
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104021,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758725
+        },
+        "Name": {
+            "hash": 2115429889
+        },
+        "StorySeriesTitle": {
+            "hash": -156065348
+        },
+        "Target": {
+            "hash": 865914811
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104020
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600106,
+        "HuntRewardItemDisplay": 1600106,
+        "LocationID": 40147,
+        "MaxCount": 1,
+        "StoryArea": 4027,
+        "StoryID": 104022,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758725
+        },
+        "Name": {
+            "hash": 2115429889
+        },
+        "StorySeriesTitle": {
+            "hash": -156065348
+        },
+        "Target": {
+            "hash": 865914811
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104021
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600007,
+        "HuntRewardItemDisplay": 1600007,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104023,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 7,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758725
+        },
+        "Name": {
+            "hash": 2115429889
+        },
+        "StorySeriesTitle": {
+            "hash": -156065348
+        },
+        "Target": {
+            "hash": 865914811
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104022
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104024,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758724
+        },
+        "Name": {
+            "hash": 2115429890
+        },
+        "StorySeriesTitle": {
+            "hash": -156065347
+        },
+        "Target": {
+            "hash": 865914812
+        },
+        "StoryStartDate": "2020-03-23 10:00:00",
+        "PreStory": [
+            104023
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600107,
+        "HuntRewardItemDisplay": 1600107,
+        "LocationID": 40148,
+        "MaxCount": 1,
+        "StoryArea": 4028,
+        "StoryID": 104025,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758724
+        },
+        "Name": {
+            "hash": 2115429890
+        },
+        "StorySeriesTitle": {
+            "hash": -156065347
+        },
+        "Target": {
+            "hash": 865914812
+        },
+        "StoryStartDate": "2020-03-23 10:00:00",
+        "PreStory": [
+            104024
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600008,
+        "HuntRewardItemDisplay": 1600008,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104026,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 8,
+        "StoryType": 1,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758724
+        },
+        "Name": {
+            "hash": 2115429890
+        },
+        "StorySeriesTitle": {
+            "hash": -156065347
+        },
+        "Target": {
+            "hash": 865914812
+        },
+        "StoryStartDate": "2020-03-23 10:00:00",
+        "PreStory": [
+            104025
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104027,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758723
+        },
+        "Name": {
+            "hash": 2115429891
+        },
+        "StorySeriesTitle": {
+            "hash": -156065346
+        },
+        "Target": {
+            "hash": 865914813
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104026
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600108,
+        "HuntRewardItemDisplay": 1600108,
+        "LocationID": 40149,
+        "MaxCount": 1,
+        "StoryArea": 4029,
+        "StoryID": 104028,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758723
+        },
+        "Name": {
+            "hash": 2115429891
+        },
+        "StorySeriesTitle": {
+            "hash": -156065346
+        },
+        "Target": {
+            "hash": 865914813
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104027
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600009,
+        "HuntRewardItemDisplay": 1600009,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104029,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 9,
+        "StoryType": 1,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758723
+        },
+        "Name": {
+            "hash": 2115429891
+        },
+        "StorySeriesTitle": {
+            "hash": -156065346
+        },
+        "Target": {
+            "hash": 865914813
+        },
+        "StoryStartDate": "2019-11-06 10:00:00",
+        "PreStory": [
+            104028
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104030,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758701
+        },
+        "Name": {
+            "hash": 2115429913
+        },
+        "StorySeriesTitle": {
+            "hash": -156065324
+        },
+        "Target": {
+            "hash": 865914835
+        },
+        "StoryStartDate": "2020-03-30 10:00:00",
+        "PreStory": [
+            104029
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600109,
+        "HuntRewardItemDisplay": 1600109,
+        "LocationID": 40150,
+        "MaxCount": 1,
+        "StoryArea": 4030,
+        "StoryID": 104031,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758701
+        },
+        "Name": {
+            "hash": 2115429913
+        },
+        "StorySeriesTitle": {
+            "hash": -156065324
+        },
+        "Target": {
+            "hash": 865914835
+        },
+        "StoryStartDate": "2020-03-30 10:00:00",
+        "PreStory": [
+            104030
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600010,
+        "HuntRewardItemDisplay": 1600010,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104032,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 10,
+        "StoryType": 1,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758701
+        },
+        "Name": {
+            "hash": 2115429913
+        },
+        "StorySeriesTitle": {
+            "hash": -156065324
+        },
+        "Target": {
+            "hash": 865914835
+        },
+        "StoryStartDate": "2020-03-30 10:00:00",
+        "PreStory": [
+            104031
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104033,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 11,
+        "StoryType": 1,
+        "UnlockMapLv": 21,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758700
+        },
+        "Name": {
+            "hash": 2115429914
+        },
+        "StorySeriesTitle": {
+            "hash": -156065323
+        },
+        "Target": {
+            "hash": 865914836
+        },
+        "StoryStartDate": "2020-04-16 10:00:00",
+        "PreStory": [
+            104032
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1600110,
+        "HuntRewardItemDisplay": 1600110,
+        "LocationID": 40151,
+        "MaxCount": 1,
+        "StoryArea": 4031,
+        "StoryID": 104034,
+        "StoryMap": 401,
+        "StorySeriesID": 1040,
+        "StorySeriesStep": 11,
+        "StoryType": 1,
+        "UnlockMapLv": 21,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758700
+        },
+        "Name": {
+            "hash": 2115429914
+        },
+        "StorySeriesTitle": {
+            "hash": -156065323
+        },
+        "Target": {
+            "hash": 865914836
+        },
+        "StoryStartDate": "2020-04-16 10:00:00",
+        "PreStory": [
+            104033
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104101,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324049
+        },
+        "Name": {
+            "hash": -1897102731
+        },
+        "StorySeriesTitle": {
+            "hash": 9448226
+        },
+        "Target": {
+            "hash": 1701841519
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104006
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601101,
+        "HuntRewardItemDisplay": 1601101,
+        "LocationID": 40161,
+        "MaxCount": 1,
+        "StoryArea": 4101,
+        "StoryID": 104102,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324049
+        },
+        "Name": {
+            "hash": -1897102731
+        },
+        "StorySeriesTitle": {
+            "hash": 9448226
+        },
+        "Target": {
+            "hash": 1701841519
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104101
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601001,
+        "HuntRewardItemDisplay": 1601001,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104103,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324049
+        },
+        "Name": {
+            "hash": -1897102731
+        },
+        "StorySeriesTitle": {
+            "hash": 9448226
+        },
+        "Target": {
+            "hash": 1701841519
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104102
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104104,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324048
+        },
+        "Name": {
+            "hash": -1897102730
+        },
+        "StorySeriesTitle": {
+            "hash": 9448227
+        },
+        "Target": {
+            "hash": 1701841520
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104103
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601102,
+        "HuntRewardItemDisplay": 1601102,
+        "LocationID": 40162,
+        "MaxCount": 1,
+        "StoryArea": 4102,
+        "StoryID": 104105,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324048
+        },
+        "Name": {
+            "hash": -1897102730
+        },
+        "StorySeriesTitle": {
+            "hash": 9448227
+        },
+        "Target": {
+            "hash": 1701841520
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104104
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601002,
+        "HuntRewardItemDisplay": 1601002,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104106,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324048
+        },
+        "Name": {
+            "hash": -1897102730
+        },
+        "StorySeriesTitle": {
+            "hash": 9448227
+        },
+        "Target": {
+            "hash": 1701841520
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104105
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104107,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324047
+        },
+        "Name": {
+            "hash": -1897102729
+        },
+        "StorySeriesTitle": {
+            "hash": 9448228
+        },
+        "Target": {
+            "hash": 1701841521
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104009
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601103,
+        "HuntRewardItemDisplay": 1601103,
+        "LocationID": 40163,
+        "MaxCount": 1,
+        "StoryArea": 4103,
+        "StoryID": 104108,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324047
+        },
+        "Name": {
+            "hash": -1897102729
+        },
+        "StorySeriesTitle": {
+            "hash": 9448228
+        },
+        "Target": {
+            "hash": 1701841521
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104107
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601003,
+        "HuntRewardItemDisplay": 1601003,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104109,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324047
+        },
+        "Name": {
+            "hash": -1897102729
+        },
+        "StorySeriesTitle": {
+            "hash": 9448228
+        },
+        "Target": {
+            "hash": 1701841521
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            104108
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104110,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 7,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324046
+        },
+        "Name": {
+            "hash": -1897102728
+        },
+        "StorySeriesTitle": {
+            "hash": 9448229
+        },
+        "Target": {
+            "hash": 1701841522
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104017,
+            104109
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601104,
+        "HuntRewardItemDisplay": 1601104,
+        "LocationID": 40164,
+        "MaxCount": 1,
+        "StoryArea": 4104,
+        "StoryID": 104111,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 7,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324046
+        },
+        "Name": {
+            "hash": -1897102728
+        },
+        "StorySeriesTitle": {
+            "hash": 9448229
+        },
+        "Target": {
+            "hash": 1701841522
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104110
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601004,
+        "HuntRewardItemDisplay": 1601004,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104112,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 7,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324046
+        },
+        "Name": {
+            "hash": -1897102728
+        },
+        "StorySeriesTitle": {
+            "hash": 9448229
+        },
+        "Target": {
+            "hash": 1701841522
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104111
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104113,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324045
+        },
+        "Name": {
+            "hash": -1897102727
+        },
+        "StorySeriesTitle": {
+            "hash": 9448230
+        },
+        "Target": {
+            "hash": 1701841523
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104112
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601105,
+        "HuntRewardItemDisplay": 1601105,
+        "LocationID": 40165,
+        "MaxCount": 1,
+        "StoryArea": 4105,
+        "StoryID": 104114,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324045
+        },
+        "Name": {
+            "hash": -1897102727
+        },
+        "StorySeriesTitle": {
+            "hash": 9448230
+        },
+        "Target": {
+            "hash": 1701841523
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104113
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601005,
+        "HuntRewardItemDisplay": 1601005,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104115,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324045
+        },
+        "Name": {
+            "hash": -1897102727
+        },
+        "StorySeriesTitle": {
+            "hash": 9448230
+        },
+        "Target": {
+            "hash": 1701841523
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104114
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104116,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324044
+        },
+        "Name": {
+            "hash": -1897102726
+        },
+        "StorySeriesTitle": {
+            "hash": 9448231
+        },
+        "Target": {
+            "hash": 1701841524
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104023,
+            104115
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601106,
+        "HuntRewardItemDisplay": 1601106,
+        "LocationID": 40166,
+        "MaxCount": 1,
+        "StoryArea": 4106,
+        "StoryID": 104117,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324044
+        },
+        "Name": {
+            "hash": -1897102726
+        },
+        "StorySeriesTitle": {
+            "hash": 9448231
+        },
+        "Target": {
+            "hash": 1701841524
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104116
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601006,
+        "HuntRewardItemDisplay": 1601006,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104118,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324044
+        },
+        "Name": {
+            "hash": -1897102726
+        },
+        "StorySeriesTitle": {
+            "hash": 9448231
+        },
+        "Target": {
+            "hash": 1701841524
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104117
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104119,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 8,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324043
+        },
+        "Name": {
+            "hash": -1897102725
+        },
+        "StorySeriesTitle": {
+            "hash": 9448232
+        },
+        "Target": {
+            "hash": 1701841525
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104124
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601107,
+        "HuntRewardItemDisplay": 1601107,
+        "LocationID": 40167,
+        "MaxCount": 1,
+        "StoryArea": 4107,
+        "StoryID": 104120,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 8,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324043
+        },
+        "Name": {
+            "hash": -1897102725
+        },
+        "StorySeriesTitle": {
+            "hash": 9448232
+        },
+        "Target": {
+            "hash": 1701841525
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104119
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601007,
+        "HuntRewardItemDisplay": 1601007,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104121,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 8,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324043
+        },
+        "Name": {
+            "hash": -1897102725
+        },
+        "StorySeriesTitle": {
+            "hash": 9448232
+        },
+        "Target": {
+            "hash": 1701841525
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104120
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104122,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324042
+        },
+        "Name": {
+            "hash": -1897102724
+        },
+        "StorySeriesTitle": {
+            "hash": 9448233
+        },
+        "Target": {
+            "hash": 1701841526
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104026,
+            104118
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601108,
+        "HuntRewardItemDisplay": 1601108,
+        "LocationID": 40168,
+        "MaxCount": 1,
+        "StoryArea": 4108,
+        "StoryID": 104123,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324042
+        },
+        "Name": {
+            "hash": -1897102724
+        },
+        "StorySeriesTitle": {
+            "hash": 9448233
+        },
+        "Target": {
+            "hash": 1701841526
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104122
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601008,
+        "HuntRewardItemDisplay": 1601008,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104124,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 17,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324042
+        },
+        "Name": {
+            "hash": -1897102724
+        },
+        "StorySeriesTitle": {
+            "hash": 9448233
+        },
+        "Target": {
+            "hash": 1701841526
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104123
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104125,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 9,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324041
+        },
+        "Name": {
+            "hash": -1897102723
+        },
+        "StorySeriesTitle": {
+            "hash": 9448234
+        },
+        "Target": {
+            "hash": 1701841527
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104032,
+            104121
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601109,
+        "HuntRewardItemDisplay": 1601109,
+        "LocationID": 40169,
+        "MaxCount": 1,
+        "StoryArea": 4109,
+        "StoryID": 104126,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 9,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324041
+        },
+        "Name": {
+            "hash": -1897102723
+        },
+        "StorySeriesTitle": {
+            "hash": 9448234
+        },
+        "Target": {
+            "hash": 1701841527
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104125
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601009,
+        "HuntRewardItemDisplay": 1601009,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104127,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 9,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324041
+        },
+        "Name": {
+            "hash": -1897102723
+        },
+        "StorySeriesTitle": {
+            "hash": 9448234
+        },
+        "Target": {
+            "hash": 1701841527
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104126
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104128,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 10,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324019
+        },
+        "Name": {
+            "hash": -1897102701
+        },
+        "StorySeriesTitle": {
+            "hash": 9448256
+        },
+        "Target": {
+            "hash": 1701841549
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104127
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601110,
+        "HuntRewardItemDisplay": 1601110,
+        "LocationID": 40170,
+        "MaxCount": 1,
+        "StoryArea": 4110,
+        "StoryID": 104129,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 10,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324019
+        },
+        "Name": {
+            "hash": -1897102701
+        },
+        "StorySeriesTitle": {
+            "hash": 9448256
+        },
+        "Target": {
+            "hash": 1701841549
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104128
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 1601010,
+        "HuntRewardItemDisplay": 1601010,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 0,
+        "StoryID": 104130,
+        "StoryMap": 401,
+        "StorySeriesID": 1041,
+        "StorySeriesStep": 10,
+        "StoryType": 2,
+        "UnlockMapLv": 20,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1648324019
+        },
+        "Name": {
+            "hash": -1897102701
+        },
+        "StorySeriesTitle": {
+            "hash": 9448256
+        },
+        "Target": {
+            "hash": 1701841549
+        },
+        "StoryStartDate": "2019-10-11 04:00:00",
+        "PreStory": [
+            104129
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40142,
+        "MaxCount": 1,
+        "StoryArea": 4201,
+        "StoryID": 104201,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 1,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758730
+        },
+        "Name": {
+            "hash": 2115429884
+        },
+        "StorySeriesTitle": {
+            "hash": -156065353
+        },
+        "Target": {
+            "hash": 865914806
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40143,
+        "MaxCount": 1,
+        "StoryArea": 4202,
+        "StoryID": 104202,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 2,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758729
+        },
+        "Name": {
+            "hash": 2115429885
+        },
+        "StorySeriesTitle": {
+            "hash": -156065352
+        },
+        "Target": {
+            "hash": 865914807
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40144,
+        "MaxCount": 1,
+        "StoryArea": 4203,
+        "StoryID": 104203,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 3,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758728
+        },
+        "Name": {
+            "hash": 2115429886
+        },
+        "StorySeriesTitle": {
+            "hash": -156065351
+        },
+        "Target": {
+            "hash": 865914808
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40145,
+        "MaxCount": 1,
+        "StoryArea": 4204,
+        "StoryID": 104204,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 4,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758727
+        },
+        "Name": {
+            "hash": 2115429887
+        },
+        "StorySeriesTitle": {
+            "hash": -156065350
+        },
+        "Target": {
+            "hash": 865914809
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40146,
+        "MaxCount": 1,
+        "StoryArea": 4205,
+        "StoryID": 104205,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 5,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758726
+        },
+        "Name": {
+            "hash": 2115429888
+        },
+        "StorySeriesTitle": {
+            "hash": -156065349
+        },
+        "Target": {
+            "hash": 865914810
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40147,
+        "MaxCount": 1,
+        "StoryArea": 4206,
+        "StoryID": 104206,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 6,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758725
+        },
+        "Name": {
+            "hash": 2115429889
+        },
+        "StorySeriesTitle": {
+            "hash": -156065348
+        },
+        "Target": {
+            "hash": 865914811
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40148,
+        "MaxCount": 1,
+        "StoryArea": 4207,
+        "StoryID": 104207,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 7,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758724
+        },
+        "Name": {
+            "hash": 2115429890
+        },
+        "StorySeriesTitle": {
+            "hash": -156065347
+        },
+        "Target": {
+            "hash": 865914812
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40149,
+        "MaxCount": 1,
+        "StoryArea": 4208,
+        "StoryID": 104208,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 8,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758723
+        },
+        "Name": {
+            "hash": 2115429891
+        },
+        "StorySeriesTitle": {
+            "hash": -156065346
+        },
+        "Target": {
+            "hash": 865914813
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40150,
+        "MaxCount": 1,
+        "StoryArea": 4209,
+        "StoryID": 104209,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 9,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758701
+        },
+        "Name": {
+            "hash": 2115429913
+        },
+        "StorySeriesTitle": {
+            "hash": -156065324
+        },
+        "Target": {
+            "hash": 865914835
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40151,
+        "MaxCount": 1,
+        "StoryArea": 4210,
+        "StoryID": 104210,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 10,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758700
+        },
+        "Name": {
+            "hash": 2115429914
+        },
+        "StorySeriesTitle": {
+            "hash": -156065323
+        },
+        "Target": {
+            "hash": 865914836
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40152,
+        "MaxCount": 1,
+        "StoryArea": 4211,
+        "StoryID": 104211,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 11,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758699
+        },
+        "Name": {
+            "hash": 2115429915
+        },
+        "StorySeriesTitle": {
+            "hash": -156065322
+        },
+        "Target": {
+            "hash": 865914837
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40153,
+        "MaxCount": 1,
+        "StoryArea": 4212,
+        "StoryID": 104212,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 12,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758698
+        },
+        "Name": {
+            "hash": 2115429916
+        },
+        "StorySeriesTitle": {
+            "hash": -156065321
+        },
+        "Target": {
+            "hash": 865914838
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40154,
+        "MaxCount": 1,
+        "StoryArea": 4213,
+        "StoryID": 104213,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 13,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758697
+        },
+        "Name": {
+            "hash": 2115429917
+        },
+        "StorySeriesTitle": {
+            "hash": -156065320
+        },
+        "Target": {
+            "hash": 865914839
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40155,
+        "MaxCount": 1,
+        "StoryArea": 4214,
+        "StoryID": 104214,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 14,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758696
+        },
+        "Name": {
+            "hash": 2115429918
+        },
+        "StorySeriesTitle": {
+            "hash": -156065319
+        },
+        "Target": {
+            "hash": 865914840
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40156,
+        "MaxCount": 1,
+        "StoryArea": 4215,
+        "StoryID": 104215,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 15,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758695
+        },
+        "Name": {
+            "hash": 2115429919
+        },
+        "StorySeriesTitle": {
+            "hash": -156065318
+        },
+        "Target": {
+            "hash": 865914841
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40157,
+        "MaxCount": 1,
+        "StoryArea": 4216,
+        "StoryID": 104216,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 16,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758694
+        },
+        "Name": {
+            "hash": 2115429920
+        },
+        "StorySeriesTitle": {
+            "hash": -156065317
+        },
+        "Target": {
+            "hash": 865914842
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40158,
+        "MaxCount": 1,
+        "StoryArea": 4217,
+        "StoryID": 104217,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 17,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758693
+        },
+        "Name": {
+            "hash": 2115429921
+        },
+        "StorySeriesTitle": {
+            "hash": -156065316
+        },
+        "Target": {
+            "hash": 865914843
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40159,
+        "MaxCount": 1,
+        "StoryArea": 4218,
+        "StoryID": 104218,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 18,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758692
+        },
+        "Name": {
+            "hash": 2115429922
+        },
+        "StorySeriesTitle": {
+            "hash": -156065315
+        },
+        "Target": {
+            "hash": 865914844
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40160,
+        "MaxCount": 1,
+        "StoryArea": 4219,
+        "StoryID": 104219,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 19,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758670
+        },
+        "Name": {
+            "hash": 2115429944
+        },
+        "StorySeriesTitle": {
+            "hash": -156065293
+        },
+        "Target": {
+            "hash": 865914866
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40161,
+        "MaxCount": 1,
+        "StoryArea": 4220,
+        "StoryID": 104220,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 20,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758669
+        },
+        "Name": {
+            "hash": 2115429945
+        },
+        "StorySeriesTitle": {
+            "hash": -156065292
+        },
+        "Target": {
+            "hash": 865914867
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40162,
+        "MaxCount": 1,
+        "StoryArea": 4221,
+        "StoryID": 104221,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 21,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758668
+        },
+        "Name": {
+            "hash": 2115429946
+        },
+        "StorySeriesTitle": {
+            "hash": -156065291
+        },
+        "Target": {
+            "hash": 865914868
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40163,
+        "MaxCount": 1,
+        "StoryArea": 4222,
+        "StoryID": 104222,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 22,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758667
+        },
+        "Name": {
+            "hash": 2115429947
+        },
+        "StorySeriesTitle": {
+            "hash": -156065290
+        },
+        "Target": {
+            "hash": 865914869
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40164,
+        "MaxCount": 1,
+        "StoryArea": 4223,
+        "StoryID": 104223,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 23,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758666
+        },
+        "Name": {
+            "hash": 2115429948
+        },
+        "StorySeriesTitle": {
+            "hash": -156065289
+        },
+        "Target": {
+            "hash": 865914870
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40165,
+        "MaxCount": 1,
+        "StoryArea": 4224,
+        "StoryID": 104224,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 24,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758665
+        },
+        "Name": {
+            "hash": 2115429949
+        },
+        "StorySeriesTitle": {
+            "hash": -156065288
+        },
+        "Target": {
+            "hash": 865914871
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40166,
+        "MaxCount": 1,
+        "StoryArea": 4225,
+        "StoryID": 104225,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 25,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758664
+        },
+        "Name": {
+            "hash": 2115429950
+        },
+        "StorySeriesTitle": {
+            "hash": -156065287
+        },
+        "Target": {
+            "hash": 865914872
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40167,
+        "MaxCount": 1,
+        "StoryArea": 4226,
+        "StoryID": 104226,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 26,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758663
+        },
+        "Name": {
+            "hash": 2115429951
+        },
+        "StorySeriesTitle": {
+            "hash": -156065286
+        },
+        "Target": {
+            "hash": 865914873
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40168,
+        "MaxCount": 1,
+        "StoryArea": 4227,
+        "StoryID": 104227,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 27,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758662
+        },
+        "Name": {
+            "hash": 2115429952
+        },
+        "StorySeriesTitle": {
+            "hash": -156065285
+        },
+        "Target": {
+            "hash": 865914874
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40169,
+        "MaxCount": 1,
+        "StoryArea": 4228,
+        "StoryID": 104228,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 28,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758661
+        },
+        "Name": {
+            "hash": 2115429953
+        },
+        "StorySeriesTitle": {
+            "hash": -156065284
+        },
+        "Target": {
+            "hash": 865914875
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40170,
+        "MaxCount": 1,
+        "StoryArea": 4229,
+        "StoryID": 104229,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 29,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758639
+        },
+        "Name": {
+            "hash": 2115429975
+        },
+        "StorySeriesTitle": {
+            "hash": -156065262
+        },
+        "Target": {
+            "hash": 865914897
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40171,
+        "MaxCount": 1,
+        "StoryArea": 4230,
+        "StoryID": 104230,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 30,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758638
+        },
+        "Name": {
+            "hash": 2115429976
+        },
+        "StorySeriesTitle": {
+            "hash": -156065261
+        },
+        "Target": {
+            "hash": 865914898
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40172,
+        "MaxCount": 1,
+        "StoryArea": 4231,
+        "StoryID": 104231,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 31,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758637
+        },
+        "Name": {
+            "hash": 2115429977
+        },
+        "StorySeriesTitle": {
+            "hash": -156065260
+        },
+        "Target": {
+            "hash": 865914899
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40173,
+        "MaxCount": 1,
+        "StoryArea": 4232,
+        "StoryID": 104232,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 32,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758636
+        },
+        "Name": {
+            "hash": 2115429978
+        },
+        "StorySeriesTitle": {
+            "hash": -156065259
+        },
+        "Target": {
+            "hash": 865914900
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40174,
+        "MaxCount": 1,
+        "StoryArea": 4233,
+        "StoryID": 104233,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 33,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758635
+        },
+        "Name": {
+            "hash": 2115429979
+        },
+        "StorySeriesTitle": {
+            "hash": -156065258
+        },
+        "Target": {
+            "hash": 865914901
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40175,
+        "MaxCount": 1,
+        "StoryArea": 4234,
+        "StoryID": 104234,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 34,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758634
+        },
+        "Name": {
+            "hash": 2115429980
+        },
+        "StorySeriesTitle": {
+            "hash": -156065257
+        },
+        "Target": {
+            "hash": 865914902
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40176,
+        "MaxCount": 1,
+        "StoryArea": 4235,
+        "StoryID": 104235,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 35,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758633
+        },
+        "Name": {
+            "hash": 2115429981
+        },
+        "StorySeriesTitle": {
+            "hash": -156065256
+        },
+        "Target": {
+            "hash": 865914903
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40150,
+        "MaxCount": 1,
+        "StoryArea": 4209,
+        "StoryID": 104236,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 9,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758701
+        },
+        "Name": {
+            "hash": 2115429913
+        },
+        "StorySeriesTitle": {
+            "hash": -156065324
+        },
+        "Target": {
+            "hash": 865914835
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40151,
+        "MaxCount": 1,
+        "StoryArea": 4210,
+        "StoryID": 104237,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 10,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758700
+        },
+        "Name": {
+            "hash": 2115429914
+        },
+        "StorySeriesTitle": {
+            "hash": -156065323
+        },
+        "Target": {
+            "hash": 865914836
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40166,
+        "MaxCount": 1,
+        "StoryArea": 4225,
+        "StoryID": 104238,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 25,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758664
+        },
+        "Name": {
+            "hash": 2115429950
+        },
+        "StorySeriesTitle": {
+            "hash": -156065287
+        },
+        "Target": {
+            "hash": 865914872
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40167,
+        "MaxCount": 1,
+        "StoryArea": 4226,
+        "StoryID": 104239,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 26,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758663
+        },
+        "Name": {
+            "hash": 2115429951
+        },
+        "StorySeriesTitle": {
+            "hash": -156065286
+        },
+        "Target": {
+            "hash": 865914873
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40168,
+        "MaxCount": 1,
+        "StoryArea": 4227,
+        "StoryID": 104240,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 27,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758662
+        },
+        "Name": {
+            "hash": 2115429952
+        },
+        "StorySeriesTitle": {
+            "hash": -156065285
+        },
+        "Target": {
+            "hash": 865914874
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40169,
+        "MaxCount": 1,
+        "StoryArea": 4228,
+        "StoryID": 104241,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 28,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758661
+        },
+        "Name": {
+            "hash": 2115429953
+        },
+        "StorySeriesTitle": {
+            "hash": -156065284
+        },
+        "Target": {
+            "hash": 865914875
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40175,
+        "MaxCount": 1,
+        "StoryArea": 4234,
+        "StoryID": 104242,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 34,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758634
+        },
+        "Name": {
+            "hash": 2115429980
+        },
+        "StorySeriesTitle": {
+            "hash": -156065257
+        },
+        "Target": {
+            "hash": 865914902
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40175,
+        "MaxCount": 1,
+        "StoryArea": 4234,
+        "StoryID": 104243,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 36,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758634
+        },
+        "Name": {
+            "hash": 2115429980
+        },
+        "StorySeriesTitle": {
+            "hash": -156065257
+        },
+        "Target": {
+            "hash": 865914902
+        },
+        "StoryStartDate": "2029-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40177,
+        "MaxCount": 1,
+        "StoryArea": 4211,
+        "StoryID": 104244,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 37,
+        "StoryType": 2,
+        "UnlockMapLv": 21,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758698
+        },
+        "Name": {
+            "hash": 2115429916
+        },
+        "StorySeriesTitle": {
+            "hash": -156065321
+        },
+        "Target": {
+            "hash": 865914838
+        },
+        "StoryStartDate": "2020-04-27 04:00:00",
+        "PreStory": [
+            104034
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 41,
+        "HuntRewardItem": 0,
+        "HuntRewardItemDisplay": 0,
+        "LocationID": 40177,
+        "MaxCount": 1,
+        "StoryArea": 4211,
+        "StoryID": 104245,
+        "StoryMap": 401,
+        "StorySeriesID": 1042,
+        "StorySeriesStep": 38,
+        "StoryType": 3,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": -1930758697
+        },
+        "Name": {
+            "hash": 2115429917
+        },
+        "StorySeriesTitle": {
+            "hash": -156065320
+        },
+        "Target": {
+            "hash": 865914839
+        },
+        "StoryStartDate": "2019-10-12 04:00:00",
+        "PreStory": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950601,
+        "HuntRewardItemDisplay": 950601,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105001,
+        "StoryMap": 1,
+        "StorySeriesID": 1050,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052922488
+        },
+        "Name": {
+            "hash": -800189634
+        },
+        "StorySeriesTitle": {
+            "hash": -491805900
+        },
+        "Target": {
+            "hash": -1238376008
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            602
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950601,
+        "HuntRewardItemDisplay": 950601,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105002,
+        "StoryMap": 1,
+        "StorySeriesID": 1050,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052922489
+        },
+        "Name": {
+            "hash": -800189633
+        },
+        "StorySeriesTitle": {
+            "hash": -491805899
+        },
+        "Target": {
+            "hash": -1238376007
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105001
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950601,
+        "HuntRewardItemDisplay": 950601,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105003,
+        "StoryMap": 1,
+        "StorySeriesID": 1050,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052922490
+        },
+        "Name": {
+            "hash": -800189632
+        },
+        "StorySeriesTitle": {
+            "hash": -491805898
+        },
+        "Target": {
+            "hash": -1238376006
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105002
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950601,
+        "HuntRewardItemDisplay": 950601,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105004,
+        "StoryMap": 1,
+        "StorySeriesID": 1050,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052922491
+        },
+        "Name": {
+            "hash": -800189631
+        },
+        "StorySeriesTitle": {
+            "hash": -491805897
+        },
+        "Target": {
+            "hash": -1238376005
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105003
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950601,
+        "HuntRewardItemDisplay": 950601,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105005,
+        "StoryMap": 1,
+        "StorySeriesID": 1050,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052922492
+        },
+        "Name": {
+            "hash": -800189630
+        },
+        "StorySeriesTitle": {
+            "hash": -491805896
+        },
+        "Target": {
+            "hash": -1238376004
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105004
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950611,
+        "HuntRewardItemDisplay": 950611,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105101,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 3,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923449
+        },
+        "Name": {
+            "hash": -800188673
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375047
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            602
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950612,
+        "HuntRewardItemDisplay": 950612,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105102,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 3,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923450
+        },
+        "Name": {
+            "hash": -800188672
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375046
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105101
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950613,
+        "HuntRewardItemDisplay": 950613,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105103,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 3,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923451
+        },
+        "Name": {
+            "hash": -800188671
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375045
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105102
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950614,
+        "HuntRewardItemDisplay": 950614,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105104,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 5,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923452
+        },
+        "Name": {
+            "hash": -800188670
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375044
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105103
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950615,
+        "HuntRewardItemDisplay": 950615,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105105,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 5,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923453
+        },
+        "Name": {
+            "hash": -800188669
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375043
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105104
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950616,
+        "HuntRewardItemDisplay": 950616,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105106,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 9,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923454
+        },
+        "Name": {
+            "hash": -800188668
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375042
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105105
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950617,
+        "HuntRewardItemDisplay": 950617,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105107,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 9,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923455
+        },
+        "Name": {
+            "hash": -800188667
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375041
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105106
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950618,
+        "HuntRewardItemDisplay": 950618,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105108,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 8,
+        "StoryType": 2,
+        "UnlockMapLv": 9,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923456
+        },
+        "Name": {
+            "hash": -800188666
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375040
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105107
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950619,
+        "HuntRewardItemDisplay": 950619,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105109,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 9,
+        "StoryType": 2,
+        "UnlockMapLv": 13,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923457
+        },
+        "Name": {
+            "hash": -800188665
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375039
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105108
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950620,
+        "HuntRewardItemDisplay": 950620,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105110,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 10,
+        "StoryType": 2,
+        "UnlockMapLv": 13,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923479
+        },
+        "Name": {
+            "hash": -800188643
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375017
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105109
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950621,
+        "HuntRewardItemDisplay": 950621,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105111,
+        "StoryMap": 2,
+        "StorySeriesID": 1051,
+        "StorySeriesStep": 11,
+        "StoryType": 2,
+        "UnlockMapLv": 13,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052923480
+        },
+        "Name": {
+            "hash": -800188642
+        },
+        "StorySeriesTitle": {
+            "hash": -491804939
+        },
+        "Target": {
+            "hash": -1238375016
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105110
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950622,
+        "HuntRewardItemDisplay": 950622,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105201,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 12,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924410
+        },
+        "Name": {
+            "hash": -800187712
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374086
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            703
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950623,
+        "HuntRewardItemDisplay": 950623,
+        "LocationID": 0,
+        "MaxCount": 3,
+        "StoryArea": 201,
+        "StoryID": 105202,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 12,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924411
+        },
+        "Name": {
+            "hash": -800187711
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374085
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105201
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950624,
+        "HuntRewardItemDisplay": 950624,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105203,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 12,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924412
+        },
+        "Name": {
+            "hash": -800187710
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374084
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105202
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950625,
+        "HuntRewardItemDisplay": 950625,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105204,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924413
+        },
+        "Name": {
+            "hash": -800187709
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374083
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105203
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950626,
+        "HuntRewardItemDisplay": 950626,
+        "LocationID": 0,
+        "MaxCount": 3,
+        "StoryArea": 202,
+        "StoryID": 105205,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924414
+        },
+        "Name": {
+            "hash": -800187708
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374082
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105204
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950627,
+        "HuntRewardItemDisplay": 950627,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105206,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 15,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924415
+        },
+        "Name": {
+            "hash": -800187707
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374081
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105205
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950628,
+        "HuntRewardItemDisplay": 950628,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105207,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 18,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924416
+        },
+        "Name": {
+            "hash": -800187706
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374080
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105206
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950629,
+        "HuntRewardItemDisplay": 950629,
+        "LocationID": 0,
+        "MaxCount": 4,
+        "StoryArea": 201,
+        "StoryID": 105208,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 8,
+        "StoryType": 2,
+        "UnlockMapLv": 18,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924417
+        },
+        "Name": {
+            "hash": -800187705
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374079
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105207
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950630,
+        "HuntRewardItemDisplay": 950630,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105209,
+        "StoryMap": 2,
+        "StorySeriesID": 1052,
+        "StorySeriesStep": 9,
+        "StoryType": 2,
+        "UnlockMapLv": 18,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052924418
+        },
+        "Name": {
+            "hash": -800187704
+        },
+        "StorySeriesTitle": {
+            "hash": -491803978
+        },
+        "Target": {
+            "hash": -1238374078
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105208
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950631,
+        "HuntRewardItemDisplay": 950631,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105301,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 1,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925371
+        },
+        "Name": {
+            "hash": -800186751
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373125
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            513
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950632,
+        "HuntRewardItemDisplay": 950632,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105302,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 2,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925372
+        },
+        "Name": {
+            "hash": -800186750
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373124
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105301
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950633,
+        "HuntRewardItemDisplay": 950633,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105303,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 3,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925373
+        },
+        "Name": {
+            "hash": -800186749
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373123
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105302
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950634,
+        "HuntRewardItemDisplay": 950634,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105304,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 4,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925374
+        },
+        "Name": {
+            "hash": -800186748
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373122
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105303
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950635,
+        "HuntRewardItemDisplay": 950635,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 203,
+        "StoryID": 105305,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 5,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925375
+        },
+        "Name": {
+            "hash": -800186747
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373121
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105304
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950636,
+        "HuntRewardItemDisplay": 950636,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105306,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 6,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925376
+        },
+        "Name": {
+            "hash": -800186746
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373120
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105305
+        ],
+        "bits1": 0
+    },
+    {
+        "Cycle": 11,
+        "HuntRewardItem": 950637,
+        "HuntRewardItemDisplay": 950637,
+        "LocationID": 0,
+        "MaxCount": 1,
+        "StoryArea": 201,
+        "StoryID": 105307,
+        "StoryMap": 2,
+        "StorySeriesID": 1053,
+        "StorySeriesStep": 7,
+        "StoryType": 2,
+        "UnlockMapLv": 0,
+        "UnlockQuestLv": 1,
+        "Description": {
+            "hash": 2052925377
+        },
+        "Name": {
+            "hash": -800186745
+        },
+        "StorySeriesTitle": {
+            "hash": -491803017
+        },
+        "Target": {
+            "hash": -1238373119
+        },
+        "StoryStartDate": "2017-10-30 04:00:00",
+        "PreStory": [
+            105306
+        ],
+        "bits1": 0
+    }
+]

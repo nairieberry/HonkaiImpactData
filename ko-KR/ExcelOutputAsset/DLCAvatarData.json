@@ -1,0 +1,38 @@
+[
+    {
+        "DLCAvatarID": 1203,
+        "index": 2,
+        "UnlockHintStoryID": 0,
+        "RotationFront": 185.0,
+        "RotationSide": 165.0,
+        "storyDesc": {
+            "hash": 1611414473
+        },
+        "storyBGImg": "SpriteOutput/ElfCardFigures/Elf_10002",
+        "TalentTattooImg": "SpriteOutput/AvatarClassSkillIcon/DLC/Skill_Tattoo_02"
+    },
+    {
+        "DLCAvatarID": 1304,
+        "index": 3,
+        "UnlockHintStoryID": 104014,
+        "RotationFront": 187.0,
+        "RotationSide": 165.0,
+        "storyDesc": {
+            "hash": 1611414472
+        },
+        "storyBGImg": "SpriteOutput/ElfCardFigures/Elf_10001",
+        "TalentTattooImg": "SpriteOutput/AvatarClassSkillIcon/DLC/Skill_Tattoo_03"
+    },
+    {
+        "DLCAvatarID": 1411,
+        "index": 1,
+        "UnlockHintStoryID": 0,
+        "RotationFront": 185.0,
+        "RotationSide": 165.0,
+        "storyDesc": {
+            "hash": 1611414474
+        },
+        "storyBGImg": "SpriteOutput/ElfCardFigures/Elf_10003",
+        "TalentTattooImg": "SpriteOutput/AvatarClassSkillIcon/DLC/Skill_Tattoo_01"
+    }
+]

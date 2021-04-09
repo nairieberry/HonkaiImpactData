@@ -1,0 +1,34 @@
+[
+    {
+        "DreamID": 100,
+        "ScoreMaterial": 116100,
+        "DefaultEntranceText": {
+            "hash": -1509032714
+        },
+        "DefaultEntranceImagePath": "event/Immediately/Dream/DreamBg60113_2_truecolor",
+        "DreamRewardList": [
+            10000,
+            10001,
+            10002,
+            10003,
+            10004,
+            10005,
+            10006,
+            10007,
+            10008
+        ],
+        "bits1": 1
+    },
+    {
+        "DreamID": 101,
+        "ScoreMaterial": 116100,
+        "DefaultEntranceText": {
+            "hash": 0
+        },
+        "DefaultEntranceImagePath": "",
+        "DreamRewardList": [
+            10100
+        ],
+        "bits1": 0
+    }
+]

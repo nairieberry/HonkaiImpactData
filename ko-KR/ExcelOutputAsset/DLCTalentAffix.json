@@ -1,0 +1,569 @@
+[
+    {
+        "AffixID": 30011,
+        "PropID": 902,
+        "ValueMax": 100.0,
+        "ValueMin": 37.5,
+        "ValueStep": 0.625
+    },
+    {
+        "AffixID": 30012,
+        "PropID": 902,
+        "ValueMax": 163.0,
+        "ValueMin": 87.5,
+        "ValueStep": 0.755
+    },
+    {
+        "AffixID": 30013,
+        "PropID": 902,
+        "ValueMax": 238.0,
+        "ValueMin": 150.0,
+        "ValueStep": 0.88
+    },
+    {
+        "AffixID": 30021,
+        "PropID": 904,
+        "ValueMax": 8.0,
+        "ValueMin": 3.0,
+        "ValueStep": 0.05
+    },
+    {
+        "AffixID": 30022,
+        "PropID": 904,
+        "ValueMax": 13.0,
+        "ValueMin": 7.0,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30023,
+        "PropID": 904,
+        "ValueMax": 19.0,
+        "ValueMin": 12.0,
+        "ValueStep": 0.07
+    },
+    {
+        "AffixID": 30031,
+        "PropID": 906,
+        "ValueMax": 5.3,
+        "ValueMin": 2.0,
+        "ValueStep": 0.033
+    },
+    {
+        "AffixID": 30032,
+        "PropID": 906,
+        "ValueMax": 8.7,
+        "ValueMin": 4.7,
+        "ValueStep": 0.04
+    },
+    {
+        "AffixID": 30033,
+        "PropID": 906,
+        "ValueMax": 12.7,
+        "ValueMin": 8.0,
+        "ValueStep": 0.047
+    },
+    {
+        "AffixID": 30041,
+        "PropID": 907,
+        "ValueMax": 0.024,
+        "ValueMin": 0.009,
+        "ValueStep": 0.00015
+    },
+    {
+        "AffixID": 30042,
+        "PropID": 907,
+        "ValueMax": 0.038,
+        "ValueMin": 0.021,
+        "ValueStep": 0.00017
+    },
+    {
+        "AffixID": 30043,
+        "PropID": 907,
+        "ValueMax": 0.056,
+        "ValueMin": 0.035,
+        "ValueStep": 0.00021
+    },
+    {
+        "AffixID": 30051,
+        "PropID": 911,
+        "ValueMax": 10.7,
+        "ValueMin": 4.0,
+        "ValueStep": 0.067
+    },
+    {
+        "AffixID": 30052,
+        "PropID": 911,
+        "ValueMax": 17.3,
+        "ValueMin": 9.3,
+        "ValueStep": 0.08
+    },
+    {
+        "AffixID": 30053,
+        "PropID": 911,
+        "ValueMax": 25.3,
+        "ValueMin": 16.0,
+        "ValueStep": 0.093
+    },
+    {
+        "AffixID": 30061,
+        "PropID": 921,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30062,
+        "PropID": 921,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30063,
+        "PropID": 921,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30071,
+        "PropID": 922,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30072,
+        "PropID": 922,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30073,
+        "PropID": 922,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30081,
+        "PropID": 923,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30082,
+        "PropID": 923,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30083,
+        "PropID": 923,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30091,
+        "PropID": 931,
+        "ValueMax": 6.0,
+        "ValueMin": 2.3,
+        "ValueStep": 0.037
+    },
+    {
+        "AffixID": 30092,
+        "PropID": 931,
+        "ValueMax": 10.0,
+        "ValueMin": 5.4,
+        "ValueStep": 0.046
+    },
+    {
+        "AffixID": 30093,
+        "PropID": 931,
+        "ValueMax": 15.0,
+        "ValueMin": 9.2,
+        "ValueStep": 0.058
+    },
+    {
+        "AffixID": 30101,
+        "PropID": 932,
+        "ValueMax": 6.0,
+        "ValueMin": 2.3,
+        "ValueStep": 0.037
+    },
+    {
+        "AffixID": 30102,
+        "PropID": 932,
+        "ValueMax": 10.0,
+        "ValueMin": 5.4,
+        "ValueStep": 0.046
+    },
+    {
+        "AffixID": 30103,
+        "PropID": 932,
+        "ValueMax": 15.0,
+        "ValueMin": 9.2,
+        "ValueStep": 0.058
+    },
+    {
+        "AffixID": 30111,
+        "PropID": 933,
+        "ValueMax": 6.0,
+        "ValueMin": 2.3,
+        "ValueStep": 0.037
+    },
+    {
+        "AffixID": 30112,
+        "PropID": 933,
+        "ValueMax": 10.0,
+        "ValueMin": 5.4,
+        "ValueStep": 0.046
+    },
+    {
+        "AffixID": 30113,
+        "PropID": 933,
+        "ValueMax": 15.0,
+        "ValueMin": 9.2,
+        "ValueStep": 0.058
+    },
+    {
+        "AffixID": 30121,
+        "PropID": 941,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30122,
+        "PropID": 941,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30123,
+        "PropID": 941,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30131,
+        "PropID": 942,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30132,
+        "PropID": 942,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30133,
+        "PropID": 942,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30141,
+        "PropID": 943,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30142,
+        "PropID": 943,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30143,
+        "PropID": 943,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30151,
+        "PropID": 944,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30152,
+        "PropID": 944,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30153,
+        "PropID": 944,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30161,
+        "PropID": 954,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30162,
+        "PropID": 954,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30163,
+        "PropID": 954,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30171,
+        "PropID": 955,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30172,
+        "PropID": 955,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30173,
+        "PropID": 955,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30181,
+        "PropID": 956,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30182,
+        "PropID": 956,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30183,
+        "PropID": 956,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 30191,
+        "PropID": 957,
+        "ValueMax": 9.6,
+        "ValueMin": 3.6,
+        "ValueStep": 0.06
+    },
+    {
+        "AffixID": 30192,
+        "PropID": 957,
+        "ValueMax": 15.6,
+        "ValueMin": 8.4,
+        "ValueStep": 0.072
+    },
+    {
+        "AffixID": 30193,
+        "PropID": 957,
+        "ValueMax": 23.0,
+        "ValueMin": 14.4,
+        "ValueStep": 0.086
+    },
+    {
+        "AffixID": 40011,
+        "PropID": 905,
+        "ValueMax": 20.0,
+        "ValueMin": 7.5,
+        "ValueStep": 0.125
+    },
+    {
+        "AffixID": 40012,
+        "PropID": 905,
+        "ValueMax": 33.0,
+        "ValueMin": 17.5,
+        "ValueStep": 0.155
+    },
+    {
+        "AffixID": 40013,
+        "PropID": 905,
+        "ValueMax": 48.0,
+        "ValueMin": 30.0,
+        "ValueStep": 0.18
+    },
+    {
+        "AffixID": 40021,
+        "PropID": 951,
+        "ValueMax": 0.05,
+        "ValueMin": 0.019,
+        "ValueStep": 0.00031
+    },
+    {
+        "AffixID": 40022,
+        "PropID": 951,
+        "ValueMax": 0.081,
+        "ValueMin": 0.044,
+        "ValueStep": 0.00037
+    },
+    {
+        "AffixID": 40023,
+        "PropID": 951,
+        "ValueMax": 0.12,
+        "ValueMin": 0.075,
+        "ValueStep": 0.00045
+    },
+    {
+        "AffixID": 40031,
+        "PropID": 952,
+        "ValueMax": 0.05,
+        "ValueMin": 0.019,
+        "ValueStep": 0.00031
+    },
+    {
+        "AffixID": 40032,
+        "PropID": 952,
+        "ValueMax": 0.081,
+        "ValueMin": 0.044,
+        "ValueStep": 0.00037
+    },
+    {
+        "AffixID": 40033,
+        "PropID": 952,
+        "ValueMax": 0.12,
+        "ValueMin": 0.075,
+        "ValueStep": 0.00045
+    },
+    {
+        "AffixID": 40041,
+        "PropID": 953,
+        "ValueMax": 0.05,
+        "ValueMin": 0.019,
+        "ValueStep": 0.00031
+    },
+    {
+        "AffixID": 40042,
+        "PropID": 953,
+        "ValueMax": 0.081,
+        "ValueMin": 0.044,
+        "ValueStep": 0.00037
+    },
+    {
+        "AffixID": 40043,
+        "PropID": 953,
+        "ValueMax": 0.12,
+        "ValueMin": 0.075,
+        "ValueStep": 0.00045
+    },
+    {
+        "AffixID": 50011,
+        "PropID": 903,
+        "ValueMax": 7.0,
+        "ValueMin": 2.5,
+        "ValueStep": 0.045
+    },
+    {
+        "AffixID": 50012,
+        "PropID": 903,
+        "ValueMax": 11.0,
+        "ValueMin": 5.9,
+        "ValueStep": 0.051
+    },
+    {
+        "AffixID": 50013,
+        "PropID": 903,
+        "ValueMax": 16.0,
+        "ValueMin": 10.1,
+        "ValueStep": 0.059
+    },
+    {
+        "AffixID": 50021,
+        "PropID": 908,
+        "ValueMax": 1.3,
+        "ValueMin": 0.5,
+        "ValueStep": 0.008
+    },
+    {
+        "AffixID": 50022,
+        "PropID": 908,
+        "ValueMax": 2.2,
+        "ValueMin": 1.2,
+        "ValueStep": 0.01
+    },
+    {
+        "AffixID": 50023,
+        "PropID": 908,
+        "ValueMax": 3.2,
+        "ValueMin": 2.0,
+        "ValueStep": 0.012
+    },
+    {
+        "AffixID": 50031,
+        "PropID": 909,
+        "ValueMax": 0.21,
+        "ValueMin": 0.08,
+        "ValueStep": 0.0013
+    },
+    {
+        "AffixID": 50032,
+        "PropID": 909,
+        "ValueMax": 0.34,
+        "ValueMin": 0.18,
+        "ValueStep": 0.0016
+    },
+    {
+        "AffixID": 50033,
+        "PropID": 909,
+        "ValueMax": 0.5,
+        "ValueMin": 0.32,
+        "ValueStep": 0.0018
+    },
+    {
+        "AffixID": 50041,
+        "PropID": 910,
+        "ValueMax": -0.013,
+        "ValueMin": -0.005,
+        "ValueStep": -8e-05
+    },
+    {
+        "AffixID": 50042,
+        "PropID": 910,
+        "ValueMax": -0.022,
+        "ValueMin": -0.012,
+        "ValueStep": -0.0001
+    },
+    {
+        "AffixID": 50043,
+        "PropID": 910,
+        "ValueMax": -0.032,
+        "ValueMin": -0.02,
+        "ValueStep": -0.00012
+    }
+]

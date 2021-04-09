@@ -1,0 +1,542 @@
+[
+    {
+        "FishGroup": 1,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 200,
+        "AddCurrencyNum": 160,
+        "FishID": 1001,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 1,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 80,
+        "FishID": 1002,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 1,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 80,
+        "FishID": 1003,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 1,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1004,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 1,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1005,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 1,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1006,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 80,
+        "AddCurrencyNum": 160,
+        "FishID": 1007,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 60,
+        "AddCurrencyNum": 80,
+        "FishID": 1008,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 60,
+        "AddCurrencyNum": 80,
+        "FishID": 1009,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1010,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1011,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 2,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 40,
+        "FishID": 1012,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 0,
+        "AddCurrencyNum": 160,
+        "FishID": 1013,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 80,
+        "AddCurrencyNum": 80,
+        "FishID": 1014,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 80,
+        "AddCurrencyNum": 80,
+        "FishID": 1015,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 13,
+        "AddCurrencyNum": 40,
+        "FishID": 1016,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 13,
+        "AddCurrencyNum": 40,
+        "FishID": 1017,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 3,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 13,
+        "AddCurrencyNum": 40,
+        "FishID": 1018,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 0,
+        "AddCurrencyNum": 160,
+        "FishID": 1019,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 50,
+        "AddCurrencyNum": 80,
+        "FishID": 1020,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 50,
+        "AddCurrencyNum": 80,
+        "FishID": 1021,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 33,
+        "AddCurrencyNum": 40,
+        "FishID": 1022,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 33,
+        "AddCurrencyNum": 40,
+        "FishID": 1023,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 4,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 33,
+        "AddCurrencyNum": 40,
+        "FishID": 1024,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 0,
+        "AddCurrencyNum": 160,
+        "FishID": 1025,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 30,
+        "AddCurrencyNum": 80,
+        "FishID": 1026,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 30,
+        "AddCurrencyNum": 80,
+        "FishID": 1027,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 46,
+        "AddCurrencyNum": 40,
+        "FishID": 1028,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 46,
+        "AddCurrencyNum": 40,
+        "FishID": 1029,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 5,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 46,
+        "AddCurrencyNum": 40,
+        "FishID": 1030,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 1,
+        "IsRare": 1,
+        "Weight": 0,
+        "AddCurrencyNum": 160,
+        "FishID": 1031,
+        "Textmap_Desc": {
+            "hash": 147618364
+        },
+        "Textmap_Name": {
+            "hash": -1992432565
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish06"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 80,
+        "FishID": 1032,
+        "Textmap_Desc": {
+            "hash": 147618365
+        },
+        "Textmap_Name": {
+            "hash": -1992432564
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish05"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 2,
+        "IsRare": 0,
+        "Weight": 0,
+        "AddCurrencyNum": 80,
+        "FishID": 1033,
+        "Textmap_Desc": {
+            "hash": 147618366
+        },
+        "Textmap_Name": {
+            "hash": -1992432563
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish04"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 66,
+        "AddCurrencyNum": 40,
+        "FishID": 1034,
+        "Textmap_Desc": {
+            "hash": 147618367
+        },
+        "Textmap_Name": {
+            "hash": -1992432562
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish03"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 66,
+        "AddCurrencyNum": 40,
+        "FishID": 1035,
+        "Textmap_Desc": {
+            "hash": 147618368
+        },
+        "Textmap_Name": {
+            "hash": -1992432561
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish02"
+    },
+    {
+        "FishGroup": 6,
+        "FishType": 3,
+        "IsRare": 0,
+        "Weight": 66,
+        "AddCurrencyNum": 40,
+        "FishID": 1036,
+        "Textmap_Desc": {
+            "hash": 147618369
+        },
+        "Textmap_Name": {
+            "hash": -1992432560
+        },
+        "FishPicID": "SpriteOutput/MaterialIcons/IconFish01"
+    }
+]

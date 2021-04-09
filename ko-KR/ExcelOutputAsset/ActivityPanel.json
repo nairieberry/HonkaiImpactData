@@ -1,0 +1,1602 @@
+[
+    {
+        "Type": 13,
+        "id": 4144,
+        "GroupID": 0,
+        "description": {
+            "hash": -1571076442
+        },
+        "BGPath": "event/Immediately/GoBackShop/Background_truecolor",
+        "imagePath": "event/Immediately/GoBackShop/Banner_truecolor",
+        "panelColor": "#ff91d4",
+        "tabLabelIcon": "",
+        "textImagePath": "event/Immediately/GoBackShop/Title_truecolor",
+        "typeParam": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 22,
+        "id": 4313,
+        "GroupID": 44,
+        "description": {
+            "hash": -646119986
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.4MemoryGateShop_bg_truecolor",
+        "imagePath": "SpriteOutput/Activity/ActivityBG/ActivityBarbecueBg",
+        "panelColor": "#61d6e4",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "SpriteOutput/Activity/ScratchCard/01",
+        "typeParam": [
+            83006,
+            83007,
+            83008
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4324,
+        "GroupID": 52,
+        "description": {
+            "hash": -230015573
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.5SPhunting_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.5SPhunting_banner_truecolor",
+        "panelColor": "#f29511",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.5SPhunting_title_truecolor",
+        "typeParam": [
+            83022,
+            83023,
+            83024,
+            83025,
+            83026,
+            83027,
+            83028,
+            83029,
+            83030,
+            83031,
+            83032,
+            83033
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4325,
+        "GroupID": 54,
+        "description": {
+            "hash": 1896043132
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.5EXweapon_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.5EXweapon_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.5EXweapon_title_truecolor",
+        "typeParam": [
+            82284,
+            82285,
+            82286,
+            82287,
+            82288,
+            82289,
+            82290,
+            82291
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4326,
+        "GroupID": 0,
+        "description": {
+            "hash": 668006380
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.5Home_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.5Home_banner_truecolor",
+        "panelColor": "#209cdf",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.5Home_title_truecolor",
+        "typeParam": [
+            91067,
+            91068,
+            91069,
+            91070,
+            91071,
+            91072,
+            91073,
+            91074
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 22,
+        "id": 4331,
+        "GroupID": 52,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "",
+        "imagePath": "SpriteOutput/Activity/ActivityBG/ActivityBarbecueBg",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "SpriteOutput/Activity/ScratchCard/01",
+        "typeParam": [
+            83006,
+            83007,
+            83008
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 2,
+        "id": 4339,
+        "GroupID": 52,
+        "description": {
+            "hash": 385318973
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.5SPhunting_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.5SPhuntinggacha_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/ShopTabIcons/IconShopGacha",
+        "textImagePath": "event/Immediately/ActivityPage/3.5SPhuntinggacha_title_truecolor",
+        "typeParam": [
+            16
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4351,
+        "GroupID": 57,
+        "description": {
+            "hash": 337191845
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.6DoubleStage_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.6DoubleStage_banner_truecolor",
+        "panelColor": "#96126a",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.6DoubleStage_title_truecolor",
+        "typeParam": [
+            80322,
+            80323,
+            83097,
+            83098,
+            83099,
+            83100,
+            83101,
+            83102,
+            83103,
+            83104,
+            83105,
+            83106,
+            83107,
+            83108,
+            83278,
+            83279,
+            83280,
+            83281
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 2,
+        "id": 4378,
+        "GroupID": 52,
+        "description": {
+            "hash": 385318973
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.5SPhunting_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.5SPhuntinggacha_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/ShopTabIcons/IconShopGacha",
+        "textImagePath": "event/Immediately/ActivityPage/3.5SPhuntinggacha_title_truecolor",
+        "typeParam": [
+            24
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4390,
+        "GroupID": 69,
+        "description": {
+            "hash": -2045307273
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.3challange_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.3challange_banner_truecolor",
+        "panelColor": "#801c46",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.3challange_title_truecolor",
+        "typeParam": [
+            83603,
+            83604,
+            83605,
+            83606
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 25,
+        "id": 4392,
+        "GroupID": 73,
+        "description": {
+            "hash": -1207235116
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/ActivityPictureBg",
+        "imagePath": "event/Immediately/ActivityPage/3.6ArmadaStage_banner_truecolor",
+        "panelColor": "#aec0ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.6ArmadaStage_title_truecolor",
+        "typeParam": [
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 18,
+        "id": 4400,
+        "GroupID": 0,
+        "description": {
+            "hash": -1825825449
+        },
+        "BGPath": "",
+        "imagePath": "",
+        "panelColor": "",
+        "tabLabelIcon": "",
+        "textImagePath": "",
+        "typeParam": [
+            83003,
+            83004,
+            83005,
+            84085
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4402,
+        "GroupID": 72,
+        "description": {
+            "hash": -1415564260
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.7SpringFest_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.7SpringFest_banner_truecolor",
+        "panelColor": "#5d7ea9",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.7SpringFest_title_truecolor",
+        "typeParam": [
+            83564,
+            83565,
+            79407,
+            83423,
+            83424,
+            83425,
+            83426,
+            83427,
+            83428,
+            83429,
+            83416,
+            83556,
+            83417,
+            83418,
+            83419,
+            83552,
+            83430,
+            83431,
+            83432,
+            83433,
+            83434,
+            83435,
+            83436,
+            83437,
+            83438,
+            83439,
+            83440,
+            83441,
+            83442,
+            83443,
+            83444,
+            83445,
+            83446,
+            83420,
+            83421,
+            83422,
+            83553,
+            83554,
+            83555
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 3,
+        "id": 4403,
+        "GroupID": 72,
+        "description": {
+            "hash": 1557490610
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.7SpringFestShop_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.7SpringFestShop_banner_truecolor",
+        "panelColor": "#f2c495",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/3.7SpringFestShop_title_truecolor",
+        "typeParam": [
+            8
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4404,
+        "GroupID": 73,
+        "description": {
+            "hash": -207710275
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.7EveDinner_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.7EveDinner_banner_truecolor",
+        "panelColor": "#ead4a2",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.7EveDinner_title_truecolor",
+        "typeParam": [
+            83447,
+            83448,
+            83449,
+            83450,
+            83493,
+            83494,
+            83495,
+            83497,
+            83507,
+            83557
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 3,
+        "id": 4405,
+        "GroupID": 73,
+        "description": {
+            "hash": -238610733
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.7EveDinnerShop_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.7EveDinnerShop_banner_truecolor",
+        "panelColor": "#aec0ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/3.7EveDinnerShop_title_truecolor",
+        "typeParam": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 24,
+        "id": 4406,
+        "GroupID": 70,
+        "description": {
+            "hash": -1207235116
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "event/Immediately/ActivityPage/3.7Jigsaw_banner_truecolor",
+        "panelColor": "#aec0ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconAll",
+        "textImagePath": "event/Immediately/ActivityPage/3.6ArmadaStage_title_truecolor",
+        "typeParam": [
+            3,
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 15,
+        "id": 4411,
+        "GroupID": 70,
+        "description": {
+            "hash": 1188411916
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "SpriteOutput/Activity/LotteryPanel/LottertySakuraBg",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/3.7Lottery_title_truecolor",
+        "typeParam": [
+            107
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 16,
+        "id": 4412,
+        "GroupID": 70,
+        "description": {
+            "hash": 1189335437
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "SpriteOutput/Activity/LotteryPanel/LotterySakuraRewardBg",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/3.7Lottery_title_truecolor",
+        "typeParam": [
+            107
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4454,
+        "GroupID": 80,
+        "description": {
+            "hash": 1746919809
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.8dlcmission_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.8dlcmission_banner_truecolor",
+        "panelColor": "#1e242b",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.8dlcmission_title_truecolor",
+        "typeParam": [
+            79616,
+            79617,
+            79618,
+            79619,
+            79620,
+            79621,
+            79622,
+            79623,
+            79624,
+            79625,
+            79626,
+            79627,
+            79628,
+            79629,
+            79630,
+            79631,
+            79474,
+            79475,
+            79476,
+            79477,
+            79478,
+            79479,
+            79480,
+            79481,
+            79482,
+            79483,
+            79484,
+            79485,
+            79486,
+            79487,
+            79488,
+            79489,
+            79490,
+            79491,
+            79492,
+            79493,
+            79494,
+            79495,
+            79496,
+            79497,
+            79500,
+            79501,
+            79502,
+            79503,
+            79504,
+            79505,
+            79506,
+            79507,
+            79508,
+            79509,
+            79510,
+            79511,
+            79512,
+            79513,
+            79514,
+            79600,
+            79601,
+            79602,
+            79603,
+            79604,
+            79605,
+            79606,
+            79607,
+            79608,
+            79609,
+            79610,
+            79611,
+            79612,
+            79613,
+            79614,
+            79615
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 2,
+        "id": 4455,
+        "GroupID": 80,
+        "description": {
+            "hash": 593447671
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.8dlcgacha_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.8dlcgacha_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/ShopTabIcons/IconShopGacha",
+        "textImagePath": "event/Immediately/ActivityPage/3.8dlcgacha_title_truecolor",
+        "typeParam": [
+            24
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4461,
+        "GroupID": 0,
+        "description": {
+            "hash": 916189705
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.8OWTarget_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.8OWTarget_banner_truecolor",
+        "panelColor": "#209cde",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.8OWTarget_title_truecolor",
+        "typeParam": [
+            79461,
+            79462,
+            79463,
+            79464,
+            79465,
+            79466,
+            79467,
+            79468,
+            79469,
+            79470,
+            79471,
+            79472,
+            79473,
+            79526
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4487,
+        "GroupID": 0,
+        "description": {
+            "hash": 1880257920
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.8Beta_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.8Beta_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.8Beta_title_truecolor",
+        "typeParam": [
+            79778,
+            79779
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 15,
+        "id": 4503,
+        "GroupID": 69,
+        "description": {
+            "hash": 1188411916
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "SpriteOutput/Activity/LotteryPanel/LottertySakuraBg",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/3.7Lottery_title_truecolor",
+        "typeParam": [
+            108
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 16,
+        "id": 4504,
+        "GroupID": 69,
+        "description": {
+            "hash": 1189335437
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "SpriteOutput/Activity/LotteryPanel/LotterySakuraRewardBg",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/3.7Lottery_title_truecolor",
+        "typeParam": [
+            108
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 27,
+        "id": 4545,
+        "GroupID": 105,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "SpriteOutput/Activity/ActivityBG/SlotMachineBg",
+        "imagePath": "event/Immediately/ActivityPage/3.8ActivityBarbecueBg",
+        "panelColor": "#e9f6ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.0SlotMachineTitle_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4561,
+        "GroupID": 0,
+        "description": {
+            "hash": 916189705
+        },
+        "BGPath": "event/Immediately/ActivityPage/3.8OWTarget_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/3.8OWTarget_banner_truecolor",
+        "panelColor": "#209cde",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/3.8OWTarget_title_truecolor",
+        "typeParam": [
+            80399,
+            80400,
+            80401,
+            80402,
+            80403,
+            80404,
+            80405
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4736,
+        "GroupID": 0,
+        "description": {
+            "hash": 116143651
+        },
+        "BGPath": "SpriteOutput/Activity/4thAnniversaryActivity/bg",
+        "imagePath": "SpriteOutput/RpgSpringFestival/SpringTest01",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/4thAnniversaryActivity/CountDown_Gift",
+        "textImagePath": "SpriteOutput/Activity/4thAnniversaryActivity/SpecialGift",
+        "typeParam": [
+            87001,
+            87002,
+            87003,
+            87004,
+            87005,
+            87006,
+            87007,
+            87008
+        ],
+        "bits1": 2
+    },
+    {
+        "Type": 4,
+        "id": 4778,
+        "GroupID": 150,
+        "description": {
+            "hash": 860024525
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.4SDurandal_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.4SDurandal_banner_truecolor",
+        "panelColor": "#8697c2",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.4SDurandal_title_truecolor",
+        "typeParam": [
+            88046,
+            88065,
+            88066,
+            88044,
+            88043,
+            88034,
+            88040,
+            88045,
+            88025,
+            88026,
+            88027,
+            88028,
+            88029,
+            88030,
+            88047,
+            88031,
+            88032,
+            88033,
+            88048,
+            88049,
+            88050,
+            88051,
+            88067,
+            88068
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4803,
+        "GroupID": 163,
+        "description": {
+            "hash": 559355109
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.5SpringDinnerMission_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.5SpringDinnerMission_banner_truecolor",
+        "panelColor": "#ffc0a5",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.5SpringDinnerMission_title_truecolor",
+        "typeParam": [
+            81118,
+            81145,
+            81119,
+            81123,
+            81125,
+            81120,
+            81121,
+            81127,
+            81128,
+            81115,
+            81116,
+            81117,
+            81109,
+            81110,
+            81111,
+            81112,
+            81113,
+            81114
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 12,
+        "id": 4808,
+        "GroupID": 0,
+        "description": {
+            "hash": 1815581066
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.5xinshou_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.5xinshou_bg_truecolor",
+        "panelColor": "#e3889d",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.5xinshou_title_truecolor",
+        "typeParam": [
+            63184,
+            63185,
+            63186,
+            63187,
+            63188
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 36,
+        "id": 4822,
+        "GroupID": 163,
+        "description": {
+            "hash": -1672917338
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "event/Immediately/ActivityPage/3.7Jigsaw_banner_truecolor",
+        "panelColor": "#aec0ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconAll",
+        "textImagePath": "event/Immediately/ActivityPage/3.6ArmadaStage_title_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 35,
+        "id": 4823,
+        "GroupID": 163,
+        "description": {
+            "hash": -1671993817
+        },
+        "BGPath": "SpriteOutput/Activity/Pictures/JigsawActivityPanelBg",
+        "imagePath": "event/Immediately/ActivityPage/3.7Jigsaw_banner_truecolor",
+        "panelColor": "#aec0ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconAll",
+        "textImagePath": "event/Immediately/ActivityPage/3.6ArmadaStage_title_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 37,
+        "id": 4841,
+        "GroupID": 0,
+        "description": {
+            "hash": 128367642
+        },
+        "BGPath": "event/Immediately/Dream/DreamBgTaiXu_truecolor",
+        "imagePath": "event/Immediately/Dream/DreamBanner_1_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "",
+        "textImagePath": "",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4842,
+        "GroupID": 0,
+        "description": {
+            "hash": -1781494949
+        },
+        "BGPath": "",
+        "imagePath": "",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "",
+        "typeParam": [
+            81037,
+            81038,
+            81039,
+            81040,
+            81041,
+            81042,
+            81043,
+            81044,
+            81045,
+            81046,
+            81047,
+            81048,
+            81049,
+            81050,
+            81051,
+            81052,
+            81053,
+            81054,
+            81055,
+            81056,
+            81057,
+            81059,
+            81060,
+            81061,
+            81062,
+            81063,
+            81064,
+            81065,
+            81066,
+            81067,
+            81068,
+            81069,
+            81071,
+            81072,
+            81074,
+            81075,
+            81076
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4845,
+        "GroupID": 168,
+        "description": {
+            "hash": -1908246588
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6AnniversaryCrystals_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6AnniversaryCrystals_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6AnniversaryCrystals_title_truecolor",
+        "typeParam": [
+            84552,
+            87190,
+            84530,
+            84531,
+            84532,
+            84533,
+            84534,
+            84535,
+            84536,
+            84537,
+            84538,
+            84539,
+            84540,
+            84541,
+            84542,
+            84543,
+            84544,
+            84545,
+            84546,
+            84547,
+            84548,
+            84549,
+            84550,
+            84551,
+            84556,
+            84557,
+            84558,
+            84559,
+            84560,
+            84561,
+            84553,
+            84554,
+            84555
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 3,
+        "id": 4846,
+        "GroupID": 168,
+        "description": {
+            "hash": -1185614787
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6AnniversaryShop_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6AnniversaryShop_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/4.6AnniversaryShop_title_truecolor",
+        "typeParam": [
+            22
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 21,
+        "id": 4853,
+        "GroupID": 0,
+        "description": {
+            "hash": -644002200
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Scratch_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6Scratch_image_truecolor",
+        "panelColor": "#eabb76",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/4.6Scratch_text_truecolor",
+        "typeParam": [
+            84309,
+            84310
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4856,
+        "GroupID": 0,
+        "description": {
+            "hash": 2100739363
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6EvolutionTowree_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6EvolutionTowree_banner_truecolor",
+        "panelColor": "#626bb9",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6EvolutionTowre_title_truecolor",
+        "typeParam": [
+            84452,
+            84453,
+            84454,
+            84455,
+            84456,
+            84457,
+            84458,
+            84459,
+            84588,
+            84589,
+            84460,
+            84461,
+            84462,
+            84463,
+            84464,
+            84465,
+            84583
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 3,
+        "id": 4857,
+        "GroupID": 171,
+        "description": {
+            "hash": -703761499
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6versionShop_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6versionShop_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/4.6versionShop_title_truecolor",
+        "typeParam": [
+            42
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 38,
+        "id": 4858,
+        "GroupID": 0,
+        "description": {
+            "hash": 1068338104
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6versionBridge_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6versionBridge_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "SpriteOutput/Activity/BridgeThemeSale/Title",
+        "typeParam": [
+            716074
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 14,
+        "id": 4863,
+        "GroupID": 0,
+        "description": {
+            "hash": -1121933093
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6FuliPage_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6FuliPage_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.6FuliPage_title_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4864,
+        "GroupID": 0,
+        "description": {
+            "hash": 428808993
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.5SpringQuestion_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.5SpringQuestion_banner_truecolor",
+        "panelColor": "#783111",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.5SpringQuestion_title_truecolor",
+        "typeParam": [
+            81124,
+            81125
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4865,
+        "GroupID": 0,
+        "description": {
+            "hash": 94210789
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6ElfRuoshui_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6ElfRuoshui_banner_truecolor",
+        "panelColor": "#cc4204",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6ElfRuoshui_title_truecolor",
+        "typeParam": [
+            87173,
+            87174,
+            87175,
+            87176,
+            87177,
+            87178,
+            87179,
+            87180,
+            87181,
+            87182,
+            87183
+        ],
+        "bits1": 1
+    },
+    {
+        "Type": 4,
+        "id": 4866,
+        "GroupID": 172,
+        "description": {
+            "hash": -1157950412
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Fuka_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6Fuka_banner_truecolor",
+        "panelColor": "#8e89c8",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6Fuka_title_truecolor",
+        "typeParam": [
+            87191,
+            87192,
+            87193,
+            87194,
+            87195,
+            87196,
+            87197,
+            87198
+        ],
+        "bits1": 1
+    },
+    {
+        "Type": 4,
+        "id": 4867,
+        "GroupID": 172,
+        "description": {
+            "hash": 90974571
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Weapon_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6Weapon_banner_truecolor",
+        "panelColor": "#781411",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6Weapon_title_truecolor",
+        "typeParam": [
+            87184,
+            87185,
+            87186,
+            87187,
+            87188,
+            87189
+        ],
+        "bits1": 1
+    },
+    {
+        "Type": 4,
+        "id": 4868,
+        "GroupID": 0,
+        "description": {
+            "hash": -409833547
+        },
+        "BGPath": "event/Immediately/Spring/SpringBG_2",
+        "imagePath": "event/Immediately/Spring/Springbanner_2",
+        "panelColor": "#e85c4c",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/Spring/SpringbannerT_2",
+        "typeParam": [
+            77564,
+            77565,
+            77566,
+            77567,
+            77568,
+            77569,
+            77570,
+            77557,
+            77558,
+            77559,
+            77560,
+            77561,
+            77562,
+            77563
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 26,
+        "id": 4871,
+        "GroupID": 165,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Weapon_bg_truecolor",
+        "imagePath": "",
+        "panelColor": "#d6e2ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6ThemeEvent02_title_truecolor",
+        "typeParam": [
+            11
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 34,
+        "id": 4872,
+        "GroupID": 162,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Weapon_bg_truecolor",
+        "imagePath": "",
+        "panelColor": "#d6e3ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6ThemeEvent03_title_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 33,
+        "id": 4875,
+        "GroupID": 159,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Weapon_bg_truecolor",
+        "imagePath": "",
+        "panelColor": "#d6e2ff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4876,
+        "GroupID": 174,
+        "description": {
+            "hash": 1282364988
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6ShootMission_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6ShootMission_banner_truecolor",
+        "panelColor": "#acceff",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6ShootMission_title_truecolor",
+        "typeParam": [
+            89469,
+            89395,
+            89396,
+            89397,
+            89398,
+            89407,
+            89408,
+            89409,
+            89410,
+            89411,
+            89446,
+            89412,
+            89413,
+            89414,
+            89415,
+            89416,
+            89447,
+            89417,
+            89418,
+            89419,
+            89420,
+            89421,
+            89448,
+            89422,
+            89423,
+            89424,
+            89425,
+            89426,
+            89450,
+            89451,
+            89452,
+            89453,
+            89454,
+            89455,
+            89449,
+            89441,
+            89442,
+            89443,
+            89444,
+            89445,
+            89404,
+            89496,
+            89406,
+            89403,
+            89405,
+            89406,
+            89493,
+            89494,
+            89495,
+            89427,
+            89428,
+            89429,
+            89430,
+            89431,
+            89432,
+            89433,
+            89434,
+            89435,
+            89436,
+            89437,
+            89438,
+            89439,
+            89440,
+            89456,
+            89457,
+            89485,
+            89486,
+            89487,
+            89488,
+            89489,
+            1062619
+        ],
+        "bits1": 2
+    },
+    {
+        "Type": 4,
+        "id": 4877,
+        "GroupID": 0,
+        "description": {
+            "hash": 178510540
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6JointOperation_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6JointOperation_banner_truecolor",
+        "panelColor": "#19479a",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6JointOperation_title_truecolor",
+        "typeParam": [
+            81079,
+            81037,
+            81038,
+            81039,
+            81040,
+            81041,
+            81042,
+            81043,
+            81044,
+            81045,
+            81046,
+            81047,
+            81048,
+            81049,
+            81050,
+            81051,
+            81052,
+            81053,
+            81054,
+            81055,
+            81056,
+            81057,
+            81059,
+            81077,
+            81078,
+            81060,
+            81061,
+            81062,
+            81063,
+            81064,
+            81065,
+            81066,
+            81067,
+            81068,
+            81069,
+            81071,
+            81072,
+            81074,
+            81075,
+            81076
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 32,
+        "id": 4879,
+        "GroupID": 0,
+        "description": {
+            "hash": 650876636
+        },
+        "BGPath": "event/Immediately/ActivityPage/BurdenAlleviation_Bg",
+        "imagePath": "event/Immediately/ActivityPage/BurdenAlleviation_Banner",
+        "panelColor": "#ffdf88",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/BurdenAlleviation_title",
+        "typeParam": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 14,
+        "id": 4885,
+        "GroupID": 0,
+        "description": {
+            "hash": 1024287313
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6miaohuiweb_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6miaohuiweb_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.6miaohuiweb_title_truecolor",
+        "typeParam": [],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4887,
+        "GroupID": 174,
+        "description": {
+            "hash": 1982234317
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6ShooterPVP_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6ShooterPVP_banner_truecolor",
+        "panelColor": "#f4585e",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.6ShooterPVP_title_truecolor",
+        "typeParam": [
+            87199
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 1,
+        "id": 4890,
+        "GroupID": 0,
+        "description": {
+            "hash": 618739933
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6RitaMosaic_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6RitaMosaic_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconAll",
+        "textImagePath": "event/Immediately/ActivityPage/4.6RitaMosaic_title_truecolor",
+        "typeParam": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4892,
+        "GroupID": 0,
+        "description": {
+            "hash": -599640215
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6Travel_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6Travel_banner_truecolor",
+        "panelColor": "#f2f8dc",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6Travel_title_truecolor",
+        "typeParam": [
+            86038,
+            86039
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 14,
+        "id": 4897,
+        "GroupID": 178,
+        "description": {
+            "hash": -1127865303
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6spbanyaweb_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6spbanyaweb_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.6spbanyaweb_title_truecolor",
+        "typeParam": [],
+        "bits1": 2
+    },
+    {
+        "Type": 4,
+        "id": 4898,
+        "GroupID": 178,
+        "description": {
+            "hash": -892777207
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6spbanyaweb_BG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6spbanyawebmission_banner_truecolor",
+        "panelColor": "#ffe14b",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6spbanyawebmission_title_truecolor",
+        "typeParam": [
+            84702,
+            84703,
+            84704,
+            84705
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 4900,
+        "GroupID": 0,
+        "description": {
+            "hash": -195123344
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6GreenHands_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6GreenHands_banner_truecolor",
+        "panelColor": "#242c72",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6GreenHands_title_truecolor",
+        "typeParam": [
+            81146,
+            81147,
+            81148,
+            81149,
+            81150,
+            81151,
+            81152,
+            81153,
+            81154,
+            81155
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 39,
+        "id": 16001,
+        "GroupID": 144,
+        "description": {
+            "hash": 1891286821
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.3blackfriday_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.3blackfriday_banner_truecolor",
+        "panelColor": "#4fa97b",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.3blackfriday_title_truecolor",
+        "typeParam": [
+            650145,
+            650146,
+            650147
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 39,
+        "id": 16005,
+        "GroupID": 144,
+        "description": {
+            "hash": 1891286821
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.3blackfriday_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.3blackfriday_banner_truecolor",
+        "panelColor": "#4fa97b",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.3blackfriday_title_truecolor",
+        "typeParam": [
+            650151
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 28,
+        "id": 16041,
+        "GroupID": 0,
+        "description": {
+            "hash": -146936718
+        },
+        "BGPath": "SpriteOutput/Activity/MerchActivity/bg",
+        "imagePath": "SpriteOutput/Activity/MerchActivity/Durandal3",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "SpriteOutput/Activity/MerchActivity/SummerMerch_Tiele",
+        "typeParam": [
+            6
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 4,
+        "id": 16042,
+        "GroupID": 111,
+        "description": {
+            "hash": 1418409894
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6MilkTea_bg_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6MilkTea_banner_truecolor",
+        "panelColor": "#a67957",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityMission",
+        "textImagePath": "event/Immediately/ActivityPage/4.6MilkTea_title_truecolor",
+        "typeParam": [
+            1062601,
+            1062602,
+            1062603,
+            1062604,
+            1062605,
+            1062606,
+            1062607,
+            1062608,
+            1062609,
+            1062610
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 19,
+        "id": 16043,
+        "GroupID": 111,
+        "description": {
+            "hash": 0
+        },
+        "BGPath": "SpriteOutput/Activity/DMM/DMMBg",
+        "imagePath": "event/Immediately/ActivityPage/4.6MilkTea_banner_truecolor",
+        "panelColor": "",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityOthers",
+        "textImagePath": "event/Immediately/ActivityPage/4.6MilkTea_title_truecolor",
+        "typeParam": [
+            6
+        ],
+        "bits1": 0
+    },
+    {
+        "Type": 3,
+        "id": 16044,
+        "GroupID": 0,
+        "description": {
+            "hash": -461338251
+        },
+        "BGPath": "event/Immediately/ActivityPage/4.6yaeBG_truecolor",
+        "imagePath": "event/Immediately/ActivityPage/4.6yaebanner_truecolor",
+        "panelColor": "#ffdeb5",
+        "tabLabelIcon": "SpriteOutput/Activity/ActivityTabIcons/IconActivityCart",
+        "textImagePath": "event/Immediately/ActivityPage/4.6yae_truecolor",
+        "typeParam": [
+            302
+        ],
+        "bits1": 0
+    }
+]

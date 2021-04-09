@@ -1,0 +1,42 @@
+[
+    {
+        "addGoodfeelPerMinute": 25,
+        "battleGain": 10,
+        "level": 1,
+        "touchExp": 900,
+        "prop": 0.01,
+        "rate": 0.01
+    },
+    {
+        "addGoodfeelPerMinute": 25,
+        "battleGain": 10,
+        "level": 2,
+        "touchExp": 2730,
+        "prop": 0.02,
+        "rate": 0.02
+    },
+    {
+        "addGoodfeelPerMinute": 30,
+        "battleGain": 10,
+        "level": 3,
+        "touchExp": 6720,
+        "prop": 0.03,
+        "rate": 0.03
+    },
+    {
+        "addGoodfeelPerMinute": 30,
+        "battleGain": 10,
+        "level": 4,
+        "touchExp": 16800,
+        "prop": 0.04,
+        "rate": 0.04
+    },
+    {
+        "addGoodfeelPerMinute": 0,
+        "battleGain": 10,
+        "level": 5,
+        "touchExp": 33600,
+        "prop": 0.05,
+        "rate": 0.05
+    }
+]

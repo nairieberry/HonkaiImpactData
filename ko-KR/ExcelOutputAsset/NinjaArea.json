@@ -1,0 +1,163 @@
+[
+    {
+        "AreaID": 1,
+        "PreArea": 0,
+        "RecommendLv": 4,
+        "RecommendSlotID": 1,
+        "SlotID": 1,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264879
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune01",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+        "TextUIIndex": "MapLayer03/Area01/Text",
+        "UIIndex": "MapLayer02/MapArea01",
+        "UnlockTime": "2019-11-28 10:00:00",
+        "UICameraID": [
+            -5.7,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 2,
+        "PreArea": 1,
+        "RecommendLv": 6,
+        "RecommendSlotID": 2,
+        "SlotID": 2,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264878
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune02",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_070",
+        "TextUIIndex": "MapLayer03/Area02/Text",
+        "UIIndex": "MapLayer02/MapArea02",
+        "UnlockTime": "2019-11-29 10:00:00",
+        "UICameraID": [
+            -6.68,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 3,
+        "PreArea": 2,
+        "RecommendLv": 6,
+        "RecommendSlotID": 3,
+        "SlotID": 3,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264877
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune03",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "TextUIIndex": "MapLayer03/Area03/Text",
+        "UIIndex": "MapLayer02/MapArea03",
+        "UnlockTime": "2019-12-02 10:00:00",
+        "UICameraID": [
+            -3.82,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 4,
+        "PreArea": 3,
+        "RecommendLv": 6,
+        "RecommendSlotID": 4,
+        "SlotID": 4,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264876
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune04",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_160",
+        "TextUIIndex": "MapLayer03/Area04/Text",
+        "UIIndex": "MapLayer02/MapArea04",
+        "UnlockTime": "2019-12-05 10:00:00",
+        "UICameraID": [
+            0.66,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 5,
+        "PreArea": 4,
+        "RecommendLv": 6,
+        "RecommendSlotID": 5,
+        "SlotID": 5,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264875
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune05",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/QT_050",
+        "TextUIIndex": "MapLayer03/Area05/Text",
+        "UIIndex": "MapLayer02/MapArea05",
+        "UnlockTime": "2019-12-08 10:00:00",
+        "UICameraID": [
+            1.9,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 6,
+        "PreArea": 5,
+        "RecommendLv": 6,
+        "RecommendSlotID": 6,
+        "SlotID": 6,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264874
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune06",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_080",
+        "TextUIIndex": "MapLayer03/Area06/Text",
+        "UIIndex": "MapLayer02/MapArea06",
+        "UnlockTime": "2019-12-12 10:00:00",
+        "UICameraID": [
+            4.1,
+            0.0,
+            -4.0
+        ]
+    },
+    {
+        "AreaID": 7,
+        "PreArea": 6,
+        "RecommendLv": 35,
+        "RecommendSlotID": 0,
+        "SlotID": 0,
+        "AreaDesc": {
+            "hash": 0
+        },
+        "AreaName": {
+            "hash": -1657264873
+        },
+        "BossIcon": "SpriteOutput/Ninja/IconRune/IconRune07",
+        "BossImg": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_100",
+        "TextUIIndex": "MapLayer03/Area07/Text",
+        "UIIndex": "MapLayer02/MapArea07",
+        "UnlockTime": "2019-12-16 10:00:00",
+        "UICameraID": [
+            4.4,
+            0.0,
+            -4.0
+        ]
+    }
+]

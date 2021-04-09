@@ -1,0 +1,517 @@
+[
+    {
+        "chapterId": 1,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 20,
+        "shopType": 4,
+        "InfoTextID": {
+            "hash": -213343992
+        },
+        "nameTextId": {
+            "hash": 2025423813
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory1",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 2,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 20,
+        "shopType": 4,
+        "InfoTextID": {
+            "hash": -184714841
+        },
+        "nameTextId": {
+            "hash": 2025423814
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory2",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 3,
+        "chapterType": 2,
+        "isFeatured": 0,
+        "minPlayerLevel": 20,
+        "shopType": 5,
+        "InfoTextID": {
+            "hash": -156085690
+        },
+        "nameTextId": {
+            "hash": 2025423815
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraArmada",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 4,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 20,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -127456539
+        },
+        "nameTextId": {
+            "hash": 2025423816
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory4",
+        "currenceIDList": [
+            2101,
+            2102,
+            2103,
+            2104
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 5,
+        "chapterType": 1,
+        "isFeatured": 1,
+        "minPlayerLevel": 20,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -98827388
+        },
+        "nameTextId": {
+            "hash": 2025423817
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory5",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 6,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -98827388
+        },
+        "nameTextId": {
+            "hash": 2025423818
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory8",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 7,
+        "chapterType": 1,
+        "isFeatured": 1,
+        "minPlayerLevel": 20,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": 2025423819
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory8",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 8,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": 2025423820
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory8",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 9,
+        "chapterType": 1,
+        "isFeatured": 1,
+        "minPlayerLevel": 20,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": 15689216
+        },
+        "nameTextId": {
+            "hash": 2025423821
+        },
+        "entryPicPath": "event/Immediately/PicExtraStory9",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 10,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": 15689216
+        },
+        "nameTextId": {
+            "hash": -1636371189
+        },
+        "entryPicPath": "event/Immediately/PicExtraStory9",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 11,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 50,
+        "shopType": 5,
+        "InfoTextID": {
+            "hash": 15689216
+        },
+        "nameTextId": {
+            "hash": -1636371188
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraArmada",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 12,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": -1636371187
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover07",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 13,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 40,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": -1636371186
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover07",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 101,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 24,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -127456539
+        },
+        "nameTextId": {
+            "hash": 2025423816
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover03",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 102,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -127456539
+        },
+        "nameTextId": {
+            "hash": 2025423816
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover03",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 103,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 35,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -213343992
+        },
+        "nameTextId": {
+            "hash": 2025423813
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover01",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 104,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 40,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -213343992
+        },
+        "nameTextId": {
+            "hash": 2025423813
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover01",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 105,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 45,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -184714841
+        },
+        "nameTextId": {
+            "hash": 2025423814
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover02",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 106,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 45,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -184714841
+        },
+        "nameTextId": {
+            "hash": 2025423814
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover02",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 107,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 50,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -98827388
+        },
+        "nameTextId": {
+            "hash": 2025423817
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover04",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 108,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 50,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -98827388
+        },
+        "nameTextId": {
+            "hash": 2025423817
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover04",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 109,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 55,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": 2025423818
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover05",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 110,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 55,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": 2025423818
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover05",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 111,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 60,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": 2025423821
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover06",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 112,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 60,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": -1636371189
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover06",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 113,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 30,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": -1636371187
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover07",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    },
+    {
+        "chapterId": 114,
+        "chapterType": 1,
+        "isFeatured": 0,
+        "minPlayerLevel": 60,
+        "shopType": 8,
+        "InfoTextID": {
+            "hash": -41569086
+        },
+        "nameTextId": {
+            "hash": -1636371187
+        },
+        "entryPicPath": "SpriteOutput/ChapterCover/ExLine/PicExLineCover07",
+        "currenceIDList": [
+            7008,
+            7009
+        ],
+        "bits1": 0
+    }
+]

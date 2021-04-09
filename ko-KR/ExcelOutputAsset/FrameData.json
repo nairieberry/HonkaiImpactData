@@ -1,0 +1,512 @@
+[
+    {
+        "Type": 0,
+        "id": 200001,
+        "rarity": 1,
+        "UIShowOrder": 1,
+        "desc": {
+            "hash": -1953892064
+        },
+        "name": {
+            "hash": -512036890
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200002,
+        "rarity": 3,
+        "UIShowOrder": 2,
+        "desc": {
+            "hash": -1953892063
+        },
+        "name": {
+            "hash": -512036889
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200003,
+        "rarity": 5,
+        "UIShowOrder": 3,
+        "desc": {
+            "hash": -1953892062
+        },
+        "name": {
+            "hash": -512036888
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200004,
+        "rarity": 5,
+        "UIShowOrder": 4,
+        "desc": {
+            "hash": -1953892061
+        },
+        "name": {
+            "hash": -512036887
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
+        "bits1": 1
+    },
+    {
+        "Type": 1,
+        "id": 200005,
+        "rarity": 5,
+        "UIShowOrder": 4,
+        "desc": {
+            "hash": -1953892060
+        },
+        "name": {
+            "hash": -512036886
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200006,
+        "rarity": 5,
+        "UIShowOrder": 5,
+        "desc": {
+            "hash": -1953892059
+        },
+        "name": {
+            "hash": -512036885
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200007,
+        "rarity": 3,
+        "UIShowOrder": 6,
+        "desc": {
+            "hash": -1953892058
+        },
+        "name": {
+            "hash": -512036884
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200010,
+        "rarity": 5,
+        "UIShowOrder": 10,
+        "desc": {
+            "hash": -1953892034
+        },
+        "name": {
+            "hash": -512036860
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePass",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePass",
+        "bits1": 1
+    },
+    {
+        "Type": 1,
+        "id": 200011,
+        "rarity": 5,
+        "UIShowOrder": 11,
+        "desc": {
+            "hash": -1953892033
+        },
+        "name": {
+            "hash": -512036859
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200011",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200011",
+        "bits1": 1
+    },
+    {
+        "Type": 1,
+        "id": 200012,
+        "rarity": 4,
+        "UIShowOrder": 12,
+        "desc": {
+            "hash": -1953892032
+        },
+        "name": {
+            "hash": -512036858
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200012",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200012",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200013,
+        "rarity": 5,
+        "UIShowOrder": 13,
+        "desc": {
+            "hash": -1953892031
+        },
+        "name": {
+            "hash": -512036857
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS2",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS2",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200014,
+        "rarity": 5,
+        "UIShowOrder": 7,
+        "desc": {
+            "hash": -1953892030
+        },
+        "name": {
+            "hash": -512036856
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login01",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login01",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200015,
+        "rarity": 5,
+        "UIShowOrder": 8,
+        "desc": {
+            "hash": -1953892029
+        },
+        "name": {
+            "hash": -512036855
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login02",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login02",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200016,
+        "rarity": 5,
+        "UIShowOrder": 14,
+        "desc": {
+            "hash": -1953892028
+        },
+        "name": {
+            "hash": -512036854
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS3",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS3",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200017,
+        "rarity": 5,
+        "UIShowOrder": 15,
+        "desc": {
+            "hash": -1953892027
+        },
+        "name": {
+            "hash": -512036853
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Seele",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Seele",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200018,
+        "rarity": 5,
+        "UIShowOrder": 16,
+        "desc": {
+            "hash": -1953892026
+        },
+        "name": {
+            "hash": -512036852
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS4",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS4",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200019,
+        "rarity": 5,
+        "UIShowOrder": 17,
+        "desc": {
+            "hash": -1953892025
+        },
+        "name": {
+            "hash": -512036851
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS5",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS5",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200020,
+        "rarity": 5,
+        "UIShowOrder": 18,
+        "desc": {
+            "hash": -1953892003
+        },
+        "name": {
+            "hash": -512036829
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_FukaC4",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_FukaC4",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200021,
+        "rarity": 5,
+        "UIShowOrder": 19,
+        "desc": {
+            "hash": -1953892002
+        },
+        "name": {
+            "hash": -512036828
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_AichanFarm",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_AichanFarm",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200022,
+        "rarity": 5,
+        "UIShowOrder": 20,
+        "desc": {
+            "hash": -1953892001
+        },
+        "name": {
+            "hash": -512036827
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS6",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS6",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200023,
+        "rarity": 5,
+        "UIShowOrder": 21,
+        "desc": {
+            "hash": -1953892000
+        },
+        "name": {
+            "hash": -512036826
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS7",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS7",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200024,
+        "rarity": 5,
+        "UIShowOrder": 22,
+        "desc": {
+            "hash": -1953891999
+        },
+        "name": {
+            "hash": -512036825
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Tmall",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Tmall",
+        "bits1": 0
+    },
+    {
+        "Type": 0,
+        "id": 200025,
+        "rarity": 5,
+        "UIShowOrder": 23,
+        "desc": {
+            "hash": -1953891998
+        },
+        "name": {
+            "hash": -512036824
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_DuanWu",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_DuanWu",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200026,
+        "rarity": 5,
+        "UIShowOrder": 24,
+        "desc": {
+            "hash": -1953891997
+        },
+        "name": {
+            "hash": -512036823
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_MeiDragon",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_MeiDragon",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200027,
+        "rarity": 5,
+        "UIShowOrder": 24,
+        "desc": {
+            "hash": -1953891996
+        },
+        "name": {
+            "hash": -512036822
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS8",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS8",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200028,
+        "rarity": 5,
+        "UIShowOrder": 25,
+        "desc": {
+            "hash": -1953891995
+        },
+        "name": {
+            "hash": -512036821
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_4thAnniversary",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_4thAnniversary",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200029,
+        "rarity": 5,
+        "UIShowOrder": 26,
+        "desc": {
+            "hash": -1953891994
+        },
+        "name": {
+            "hash": -512036820
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_20KCharge",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_20KCharge",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200030,
+        "rarity": 5,
+        "UIShowOrder": 9,
+        "desc": {
+            "hash": -1953891972
+        },
+        "name": {
+            "hash": -512036798
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login03",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login03",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200031,
+        "rarity": 5,
+        "UIShowOrder": 27,
+        "desc": {
+            "hash": -1953891971
+        },
+        "name": {
+            "hash": -512036797
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS9",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS9",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200032,
+        "rarity": 5,
+        "UIShowOrder": 28,
+        "desc": {
+            "hash": -1953891970
+        },
+        "name": {
+            "hash": -512036796
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200031",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200031",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200033,
+        "rarity": 5,
+        "UIShowOrder": 29,
+        "desc": {
+            "hash": -1953891969
+        },
+        "name": {
+            "hash": -512036795
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200033",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200033",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200035,
+        "rarity": 5,
+        "UIShowOrder": 31,
+        "desc": {
+            "hash": -1953891967
+        },
+        "name": {
+            "hash": -512036793
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200035",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200035",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200036,
+        "rarity": 5,
+        "UIShowOrder": 32,
+        "desc": {
+            "hash": -1953891966
+        },
+        "name": {
+            "hash": -512036792
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200036",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200036",
+        "bits1": 1
+    },
+    {
+        "Type": 0,
+        "id": 200037,
+        "rarity": 5,
+        "UIShowOrder": 33,
+        "desc": {
+            "hash": -1953891965
+        },
+        "name": {
+            "hash": -512036791
+        },
+        "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200037",
+        "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200037",
+        "bits1": 1
+    }
+]

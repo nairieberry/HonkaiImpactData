@@ -1,0 +1,128 @@
+[
+    {
+        "PageID": 1,
+        "ShowLevel": 10,
+        "Sort": 1,
+        "UnLockLevel": 10,
+        "Type": 0,
+        "IconPath": "SpriteOutput/EquipForge/TabIcons/Icon_All",
+        "PageName": "PageName_1",
+        "Currencies": [
+            9004,
+            9003,
+            7032
+        ],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "SubPage": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "PageID": 2,
+        "ShowLevel": 70,
+        "Sort": 2,
+        "UnLockLevel": 81,
+        "Type": 2,
+        "IconPath": "SpriteOutput/EquipForge/TabIcons/Icon_Star",
+        "PageName": "PageName_2",
+        "Currencies": [
+            6003,
+            921,
+            4013
+        ],
+        "SortList": [
+            1
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "SubPage": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "PageID": 3,
+        "ShowLevel": 40,
+        "Sort": 3,
+        "UnLockLevel": 40,
+        "Type": 2,
+        "IconPath": "SpriteOutput/EquipForge/TabIcons/Icon_Star",
+        "PageName": "PageName_3",
+        "Currencies": [],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "SubPage": [
+            1,
+            2,
+            3
+        ],
+        "bits1": 3
+    },
+    {
+        "PageID": 4,
+        "ShowLevel": 10,
+        "Sort": 4,
+        "UnLockLevel": 10,
+        "Type": 2,
+        "IconPath": "SpriteOutput/EquipForge/TabIcons/Icon_Star",
+        "PageName": "PageName_4",
+        "Currencies": [],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "SubPage": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "PageID": 7,
+        "ShowLevel": 10,
+        "Sort": 7,
+        "UnLockLevel": 10,
+        "Type": 1,
+        "IconPath": "SpriteOutput/EquipForge/TabIcons/IconMemoir",
+        "PageName": "PageName_5",
+        "Currencies": [
+            9004,
+            9003,
+            7032
+        ],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "SubPage": [
+            0
+        ],
+        "bits1": 1
+    }
+]

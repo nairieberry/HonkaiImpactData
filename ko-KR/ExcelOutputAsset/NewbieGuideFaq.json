@@ -1,0 +1,941 @@
+[
+    {
+        "faqID": 101,
+        "levelPhase": 10,
+        "linkType": 13,
+        "recommend": 4,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": 1228427791
+        },
+        "titleText": {
+            "hash": 1893980502
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 102,
+        "levelPhase": 10,
+        "linkType": 11,
+        "recommend": 5,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": 1228427792
+        },
+        "titleText": {
+            "hash": 1893980503
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 103,
+        "levelPhase": 10,
+        "linkType": 14,
+        "recommend": 4,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": 1228427793
+        },
+        "titleText": {
+            "hash": 1893980504
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 104,
+        "levelPhase": 15,
+        "linkType": 0,
+        "recommend": 3,
+        "unlockLevel": 20,
+        "descText": {
+            "hash": 1228427794
+        },
+        "titleText": {
+            "hash": 1893980505
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 201,
+        "levelPhase": 10,
+        "linkType": 0,
+        "recommend": 2,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": 1228428752
+        },
+        "titleText": {
+            "hash": 1893981463
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 202,
+        "levelPhase": 10,
+        "linkType": 0,
+        "recommend": 3,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": 1228428753
+        },
+        "titleText": {
+            "hash": 1893981464
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 203,
+        "levelPhase": 15,
+        "linkType": 0,
+        "recommend": 4,
+        "unlockLevel": 20,
+        "descText": {
+            "hash": 1228428754
+        },
+        "titleText": {
+            "hash": 1893981465
+        },
+        "faqBGIcon": "SpriteOutput/PicMission/PicMissionShinario3",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 1001,
+        "levelPhase": 10,
+        "linkType": 9,
+        "recommend": 5,
+        "unlockLevel": 15,
+        "descText": {
+            "hash": -573444125
+        },
+        "titleText": {
+            "hash": -1416146564
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            20105
+        ]
+    },
+    {
+        "faqID": 1002,
+        "levelPhase": 5,
+        "linkType": 17,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573444124
+        },
+        "titleText": {
+            "hash": -1416146563
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 1003,
+        "levelPhase": 5,
+        "linkType": 34,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573444123
+        },
+        "titleText": {
+            "hash": -1416146562
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 1005,
+        "levelPhase": 10,
+        "linkType": 7,
+        "recommend": 5,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": -573444121
+        },
+        "titleText": {
+            "hash": -1416146560
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 1006,
+        "levelPhase": 25,
+        "linkType": 18,
+        "recommend": 3,
+        "unlockLevel": 30,
+        "descText": {
+            "hash": -573444120
+        },
+        "titleText": {
+            "hash": -1416146559
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 1007,
+        "levelPhase": 35,
+        "linkType": 23,
+        "recommend": 3,
+        "unlockLevel": 45,
+        "descText": {
+            "hash": -573444119
+        },
+        "titleText": {
+            "hash": -1416146558
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 2001,
+        "levelPhase": 5,
+        "linkType": 1007,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573414334
+        },
+        "titleText": {
+            "hash": -1416116773
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            0,
+            1
+        ]
+    },
+    {
+        "faqID": 2002,
+        "levelPhase": 5,
+        "linkType": 31,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573414333
+        },
+        "titleText": {
+            "hash": -1416116772
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            2
+        ]
+    },
+    {
+        "faqID": 2003,
+        "levelPhase": 5,
+        "linkType": 7,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573414332
+        },
+        "titleText": {
+            "hash": -1416116771
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 2004,
+        "levelPhase": 5,
+        "linkType": 0,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573414331
+        },
+        "titleText": {
+            "hash": -1416116770
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 2005,
+        "levelPhase": 10,
+        "linkType": 0,
+        "recommend": 3,
+        "unlockLevel": 15,
+        "descText": {
+            "hash": -573414330
+        },
+        "titleText": {
+            "hash": -1416116769
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 2009,
+        "levelPhase": 30,
+        "linkType": 23,
+        "recommend": 3,
+        "unlockLevel": 35,
+        "descText": {
+            "hash": -573414326
+        },
+        "titleText": {
+            "hash": -1416116765
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 3001,
+        "levelPhase": 5,
+        "linkType": 1007,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573384543
+        },
+        "titleText": {
+            "hash": -1416086982
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Stigmata",
+        "linkParamString": "",
+        "linkParamList": [
+            0,
+            2
+        ]
+    },
+    {
+        "faqID": 3002,
+        "levelPhase": 5,
+        "linkType": 7,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573384542
+        },
+        "titleText": {
+            "hash": -1416086981
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Stigmata",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 3003,
+        "levelPhase": 5,
+        "linkType": 0,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573384541
+        },
+        "titleText": {
+            "hash": -1416086980
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Stigmata",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 3007,
+        "levelPhase": 30,
+        "linkType": 23,
+        "recommend": 3,
+        "unlockLevel": 35,
+        "descText": {
+            "hash": -573384537
+        },
+        "titleText": {
+            "hash": -1416086976
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Stigmata",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 4001,
+        "levelPhase": 5,
+        "linkType": 5,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573354752
+        },
+        "titleText": {
+            "hash": -1416057191
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 4002,
+        "levelPhase": 5,
+        "linkType": 5,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573354751
+        },
+        "titleText": {
+            "hash": -1416057190
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 4003,
+        "levelPhase": 10,
+        "linkType": 5,
+        "recommend": 3,
+        "unlockLevel": 15,
+        "descText": {
+            "hash": -573354750
+        },
+        "titleText": {
+            "hash": -1416057189
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 4004,
+        "levelPhase": 5,
+        "linkType": 6,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573354749
+        },
+        "titleText": {
+            "hash": -1416057188
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 4005,
+        "levelPhase": 5,
+        "linkType": 6,
+        "recommend": 3,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": -573354748
+        },
+        "titleText": {
+            "hash": -1416057187
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 4006,
+        "levelPhase": 5,
+        "linkType": 6,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573354747
+        },
+        "titleText": {
+            "hash": -1416057186
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            2
+        ]
+    },
+    {
+        "faqID": 4007,
+        "levelPhase": 5,
+        "linkType": 6,
+        "recommend": 3,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": -573354746
+        },
+        "titleText": {
+            "hash": -1416057185
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            2
+        ]
+    },
+    {
+        "faqID": 4008,
+        "levelPhase": 25,
+        "linkType": 6,
+        "recommend": 3,
+        "unlockLevel": 30,
+        "descText": {
+            "hash": -573354745
+        },
+        "titleText": {
+            "hash": -1416057184
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "linkParamString": "",
+        "linkParamList": [
+            2
+        ]
+    },
+    {
+        "faqID": 5001,
+        "levelPhase": 5,
+        "linkType": 77,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573324961
+        },
+        "titleText": {
+            "hash": -1416027400
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "linkParamString": "",
+        "linkParamList": [
+            2,
+            1
+        ]
+    },
+    {
+        "faqID": 5002,
+        "levelPhase": 5,
+        "linkType": 32,
+        "recommend": 7,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573324960
+        },
+        "titleText": {
+            "hash": -1416027399
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 5003,
+        "levelPhase": 5,
+        "linkType": 9,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573324959
+        },
+        "titleText": {
+            "hash": -1416027398
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 5004,
+        "levelPhase": 30,
+        "linkType": 23,
+        "recommend": 4,
+        "unlockLevel": 35,
+        "descText": {
+            "hash": -573324958
+        },
+        "titleText": {
+            "hash": -1416027397
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 6001,
+        "levelPhase": 5,
+        "linkType": 30,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573295170
+        },
+        "titleText": {
+            "hash": -1415997609
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 6002,
+        "levelPhase": 5,
+        "linkType": 19,
+        "recommend": 7,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573295169
+        },
+        "titleText": {
+            "hash": -1415997608
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 6003,
+        "levelPhase": 5,
+        "linkType": 27,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573295168
+        },
+        "titleText": {
+            "hash": -1415997607
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 6004,
+        "levelPhase": 5,
+        "linkType": 0,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573295167
+        },
+        "titleText": {
+            "hash": -1415997606
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 6005,
+        "levelPhase": 5,
+        "linkType": 9,
+        "recommend": 3,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573295166
+        },
+        "titleText": {
+            "hash": -1415997605
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 7001,
+        "levelPhase": 5,
+        "linkType": 8,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573265379
+        },
+        "titleText": {
+            "hash": -1415967818
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 7002,
+        "levelPhase": 5,
+        "linkType": 11,
+        "recommend": 3,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": -573265378
+        },
+        "titleText": {
+            "hash": -1415967817
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 7003,
+        "levelPhase": 5,
+        "linkType": 9,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573265377
+        },
+        "titleText": {
+            "hash": -1415967816
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 7004,
+        "levelPhase": 5,
+        "linkType": 13,
+        "recommend": 3,
+        "unlockLevel": 10,
+        "descText": {
+            "hash": -573265376
+        },
+        "titleText": {
+            "hash": -1415967815
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 7005,
+        "levelPhase": 5,
+        "linkType": 33,
+        "recommend": 2,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573265375
+        },
+        "titleText": {
+            "hash": -1415967814
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 8001,
+        "levelPhase": 5,
+        "linkType": 9,
+        "recommend": 4,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573235588
+        },
+        "titleText": {
+            "hash": -1415938027
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 8002,
+        "levelPhase": 5,
+        "linkType": 33,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573235587
+        },
+        "titleText": {
+            "hash": -1415938026
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 8003,
+        "levelPhase": 10,
+        "linkType": 32,
+        "recommend": 3,
+        "unlockLevel": 15,
+        "descText": {
+            "hash": -573235586
+        },
+        "titleText": {
+            "hash": -1415938025
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            1
+        ]
+    },
+    {
+        "faqID": 8004,
+        "levelPhase": 20,
+        "linkType": 10,
+        "recommend": 4,
+        "unlockLevel": 25,
+        "descText": {
+            "hash": -573235585
+        },
+        "titleText": {
+            "hash": -1415938024
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 8005,
+        "levelPhase": 10,
+        "linkType": 31,
+        "recommend": 3,
+        "unlockLevel": 15,
+        "descText": {
+            "hash": -573235584
+        },
+        "titleText": {
+            "hash": -1415938023
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 8006,
+        "levelPhase": 20,
+        "linkType": 0,
+        "recommend": 4,
+        "unlockLevel": 25,
+        "descText": {
+            "hash": -573235583
+        },
+        "titleText": {
+            "hash": -1415938022
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "linkParamString": "",
+        "linkParamList": [
+            0
+        ]
+    },
+    {
+        "faqID": 9002,
+        "levelPhase": 5,
+        "linkType": 32,
+        "recommend": 5,
+        "unlockLevel": 5,
+        "descText": {
+            "hash": -573205796
+        },
+        "titleText": {
+            "hash": -1415908235
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "linkParamString": "",
+        "linkParamList": [
+            4
+        ]
+    }
+]

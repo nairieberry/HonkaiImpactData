@@ -1,0 +1,106 @@
+[
+    {
+        "destroy": 0,
+        "id": 1,
+        "stepIndex": 0,
+        "tutorialID": 89150,
+        "destroyDelay": 0.0,
+        "skillStepStr": "[1,11][1,11][2,11]"
+    },
+    {
+        "destroy": 0,
+        "id": 2,
+        "stepIndex": 1,
+        "tutorialID": 89150,
+        "destroyDelay": 0.0,
+        "skillStepStr": "[1,11][1,11][2,11]"
+    },
+    {
+        "destroy": 2,
+        "id": 3,
+        "stepIndex": 2,
+        "tutorialID": 89151,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[1,11][1,11][2,11]"
+    },
+    {
+        "destroy": 0,
+        "id": 4,
+        "stepIndex": 0,
+        "tutorialID": 89150,
+        "destroyDelay": 0.0,
+        "skillStepStr": "[1,51][2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 5,
+        "stepIndex": 1,
+        "tutorialID": 89151,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[1,51][2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 6,
+        "stepIndex": 0,
+        "tutorialID": 89143,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,91]"
+    },
+    {
+        "destroy": 2,
+        "id": 7,
+        "stepIndex": 0,
+        "tutorialID": 89151,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 8,
+        "stepIndex": 0,
+        "tutorialID": 89151,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,91]"
+    },
+    {
+        "destroy": 2,
+        "id": 9,
+        "stepIndex": 0,
+        "tutorialID": 30003,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 10,
+        "stepIndex": 0,
+        "tutorialID": 30004,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 11,
+        "stepIndex": 0,
+        "tutorialID": 30005,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 12,
+        "stepIndex": 0,
+        "tutorialID": 30006,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    },
+    {
+        "destroy": 2,
+        "id": 13,
+        "stepIndex": 0,
+        "tutorialID": 30007,
+        "destroyDelay": 0.2,
+        "skillStepStr": "[2,51]"
+    }
+]

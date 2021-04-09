@@ -1,0 +1,219 @@
+[
+    {
+        "controlType": "Action1",
+        "iconForSony": "SpriteOutput/SettingIcon/ForkedIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/BIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/AIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Action2",
+        "iconForSony": "SpriteOutput/SettingIcon/CircularIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/AIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/BIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Action3",
+        "iconForSony": "SpriteOutput/SettingIcon/SquareIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/YIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/XIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Action4",
+        "iconForSony": "SpriteOutput/SettingIcon/TriangleIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/XIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/YIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Back",
+        "iconForSony": "SpriteOutput/SettingIcon/BackIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/BackIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/BackIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "Capture",
+        "iconForSony": "SpriteOutput/SettingIcon/ShareIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchCapture",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXShare",
+        "bits1": 0
+    },
+    {
+        "controlType": "DPadDown",
+        "iconForSony": "SpriteOutput/SettingIcon/DownIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/DownIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/DownIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "DPadLeft",
+        "iconForSony": "SpriteOutput/SettingIcon/LeftIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LeftIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LeftIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "DPadRight",
+        "iconForSony": "SpriteOutput/SettingIcon/RightIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RightIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RightIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "DPadUp",
+        "iconForSony": "SpriteOutput/SettingIcon/UpIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/UpIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/UpIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Home",
+        "iconForSony": "SpriteOutput/SettingIcon/OptionsIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchHome",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXOptions",
+        "bits1": 0
+    },
+    {
+        "controlType": "LeftBumper",
+        "iconForSony": "SpriteOutput/SettingIcon/LBIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LBIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LBIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "LeftStickButton",
+        "iconForSony": "SpriteOutput/SettingIcon/LDownIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LDownIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LDownIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "LeftStickDown",
+        "iconForSony": "SpriteOutput/SettingIcon/LIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "LeftStickLeft",
+        "iconForSony": "SpriteOutput/SettingIcon/LIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "LeftStickRight",
+        "iconForSony": "SpriteOutput/SettingIcon/LIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "LeftStickUp",
+        "iconForSony": "SpriteOutput/SettingIcon/LIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "LeftTrigger",
+        "iconForSony": "SpriteOutput/SettingIcon/LTIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LTIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LTIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Menu",
+        "iconForSony": "SpriteOutput/SettingIcon/OptionsIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchHome",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXOptions",
+        "bits1": 0
+    },
+    {
+        "controlType": "None",
+        "iconForSony": "SpriteOutput/SettingIcon/OptionsIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/LDownIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/LDownIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "Options",
+        "iconForSony": "SpriteOutput/SettingIcon/OptionsIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchHome",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXOptions",
+        "bits1": 0
+    },
+    {
+        "controlType": "RightBumper",
+        "iconForSony": "SpriteOutput/SettingIcon/RBIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RBIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RBIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "RightStickButton",
+        "iconForSony": "SpriteOutput/SettingIcon/RDownIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RDownIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RDownIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "RightStickDown",
+        "iconForSony": "SpriteOutput/SettingIcon/RIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "RightStickLeft",
+        "iconForSony": "SpriteOutput/SettingIcon/RIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "RightStickRight",
+        "iconForSony": "SpriteOutput/SettingIcon/RIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "RightStickUp",
+        "iconForSony": "SpriteOutput/SettingIcon/RIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "RightTrigger",
+        "iconForSony": "SpriteOutput/SettingIcon/RTIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/RTIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/RTIcon",
+        "bits1": 1
+    },
+    {
+        "controlType": "Share",
+        "iconForSony": "SpriteOutput/SettingIcon/ShareIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchCapture",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXShare",
+        "bits1": 0
+    },
+    {
+        "controlType": "Start",
+        "iconForSony": "SpriteOutput/SettingIcon/StartIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/StartIcon",
+        "iconForXBox": "SpriteOutput/SettingIcon/StartIcon",
+        "bits1": 0
+    },
+    {
+        "controlType": "View",
+        "iconForSony": "SpriteOutput/SettingIcon/ShareIcon",
+        "iconForSwitch": "SpriteOutput/SettingIcon/SwitchCapture",
+        "iconForXBox": "SpriteOutput/SettingIcon/XBOXShare",
+        "bits1": 0
+    }
+]

@@ -1,0 +1,2339 @@
+[
+    {
+        "ActivityExp": 2000,
+        "BossID": 1101,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 375000,
+        "MutationBuffID": 2001,
+        "StageID": 346080,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203679
+        },
+        "BossName": {
+            "hash": 1412462553
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589454
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11111,
+            11113,
+            11114,
+            11112
+        ],
+        "ClueEventIdList": [
+            271009,
+            271010,
+            271011,
+            271012,
+            271021,
+            271022,
+            271025,
+            271026,
+            271027,
+            271028,
+            271029,
+            271030
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1102,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 250000,
+        "MutationBuffID": 2002,
+        "StageID": 346081,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203680
+        },
+        "BossName": {
+            "hash": 1412462554
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589455
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11111,
+            11112,
+            11113,
+            11114
+        ],
+        "ClueEventIdList": [
+            271023,
+            271031,
+            271034,
+            271035,
+            271036,
+            271024,
+            271033,
+            271049,
+            271050,
+            271051,
+            271052,
+            271053
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1103,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 500000,
+        "MutationBuffID": 2003,
+        "StageID": 346082,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203681
+        },
+        "BossName": {
+            "hash": 1412462555
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589456
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11113,
+            11114,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271001,
+            271002,
+            271003,
+            271004,
+            271005,
+            271006,
+            271007,
+            271008,
+            271013,
+            271014,
+            271017,
+            271018
+        ],
+        "ClueLocationList": [
+            11113,
+            11112
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1104,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 375000,
+        "MutationBuffID": 2004,
+        "StageID": 346083,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203682
+        },
+        "BossName": {
+            "hash": 1412462556
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589457
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11112,
+            11114,
+            11111,
+            11113
+        ],
+        "ClueEventIdList": [
+            271046,
+            271047,
+            271048,
+            271054,
+            271055,
+            271056,
+            271057,
+            271058,
+            271059,
+            271037,
+            271038,
+            271039
+        ],
+        "ClueLocationList": [
+            11112,
+            11114
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1105,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 375000,
+        "MutationBuffID": 2005,
+        "StageID": 346084,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203683
+        },
+        "BossName": {
+            "hash": 1412462557
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589458
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11113,
+            11114,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271015,
+            271016,
+            271019,
+            271020,
+            271032,
+            271040,
+            271041,
+            271060,
+            271042,
+            271043,
+            271044,
+            271045
+        ],
+        "ClueLocationList": [
+            11113,
+            11112
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1106,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 300000,
+        "MutationBuffID": 2006,
+        "StageID": 346100,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203684
+        },
+        "BossName": {
+            "hash": 1412462558
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589459
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11114,
+            11113,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271073,
+            271074,
+            271075,
+            271076,
+            271077,
+            271078,
+            271079,
+            271080,
+            271081,
+            271082,
+            271083,
+            271084
+        ],
+        "ClueLocationList": [
+            11111,
+            11113
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1107,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 300000,
+        "MutationBuffID": 2007,
+        "StageID": 346101,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203685
+        },
+        "BossName": {
+            "hash": 1412462559
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589460
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11113,
+            11111,
+            11114,
+            11112
+        ],
+        "ClueEventIdList": [
+            271085,
+            271086,
+            271087,
+            271088,
+            271089,
+            271090,
+            271091,
+            271092,
+            271093,
+            271094,
+            271095,
+            271096
+        ],
+        "ClueLocationList": [
+            11111,
+            11112
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1108,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 250000,
+        "MutationBuffID": 2003,
+        "StageID": 346108,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203681
+        },
+        "BossName": {
+            "hash": 1412462555
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589461
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11113,
+            11112,
+            11111,
+            11114
+        ],
+        "ClueEventIdList": [
+            274117,
+            274118,
+            274119,
+            274120,
+            274121,
+            274122,
+            274123
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            838
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1111,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 750000,
+        "MutationBuffID": 2001,
+        "StageID": 346095,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203710
+        },
+        "BossName": {
+            "hash": 1412462584
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589485
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11111,
+            11113,
+            11114,
+            11112
+        ],
+        "ClueEventIdList": [
+            271009,
+            271010,
+            271011,
+            271012,
+            271021,
+            271022,
+            271025,
+            271026,
+            271027,
+            271028,
+            271029,
+            271030
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1112,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 500000,
+        "MutationBuffID": 2002,
+        "StageID": 346096,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203711
+        },
+        "BossName": {
+            "hash": 1412462585
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589486
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11111,
+            11112,
+            11113,
+            11114
+        ],
+        "ClueEventIdList": [
+            271023,
+            271031,
+            271034,
+            271035,
+            271036,
+            271024,
+            271033,
+            271049,
+            271050,
+            271051,
+            271052,
+            271053
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1113,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 750000,
+        "MutationBuffID": 2003,
+        "StageID": 346097,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203712
+        },
+        "BossName": {
+            "hash": 1412462586
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589487
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11113,
+            11114,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271001,
+            271002,
+            271003,
+            271004,
+            271005,
+            271006,
+            271007,
+            271008,
+            271013,
+            271014,
+            271017,
+            271018
+        ],
+        "ClueLocationList": [
+            11113,
+            11112
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1114,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 562500,
+        "MutationBuffID": 2004,
+        "StageID": 346098,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203713
+        },
+        "BossName": {
+            "hash": 1412462587
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589488
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11112,
+            11114,
+            11111,
+            11113
+        ],
+        "ClueEventIdList": [
+            271046,
+            271047,
+            271048,
+            271054,
+            271055,
+            271056,
+            271057,
+            271058,
+            271059,
+            271037,
+            271038,
+            271039
+        ],
+        "ClueLocationList": [
+            11112,
+            11114
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1115,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 750000,
+        "MutationBuffID": 2005,
+        "StageID": 346099,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203714
+        },
+        "BossName": {
+            "hash": 1412462588
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589489
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11113,
+            11114,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271015,
+            271016,
+            271019,
+            271020,
+            271032,
+            271040,
+            271041,
+            271060,
+            271042,
+            271043,
+            271044,
+            271045
+        ],
+        "ClueLocationList": [
+            11113,
+            11112
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1116,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 600000,
+        "MutationBuffID": 2006,
+        "StageID": 346107,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203715
+        },
+        "BossName": {
+            "hash": 1412462589
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589490
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11114,
+            11113,
+            11112,
+            11111
+        ],
+        "ClueEventIdList": [
+            271073,
+            271074,
+            271075,
+            271076,
+            271077,
+            271078,
+            271079,
+            271080,
+            271081,
+            271082,
+            271083,
+            271084
+        ],
+        "ClueLocationList": [
+            11111,
+            11113
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1117,
+        "BossReward": 954021,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 37,
+        "MonsterHp": 600000,
+        "MutationBuffID": 2007,
+        "StageID": 346106,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589203716
+        },
+        "BossName": {
+            "hash": 1412462590
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589491
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11113,
+            11111,
+            11114,
+            11112
+        ],
+        "ClueEventIdList": [
+            271085,
+            271086,
+            271087,
+            271088,
+            271089,
+            271090,
+            271091,
+            271092,
+            271093,
+            271094,
+            271095,
+            271096
+        ],
+        "ClueLocationList": [
+            11111,
+            11112
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1201,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1125000,
+        "MutationBuffID": 2001,
+        "StageID": 346085,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204640
+        },
+        "BossName": {
+            "hash": 1412463514
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589454
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11121,
+            11123,
+            11124,
+            11122
+        ],
+        "ClueEventIdList": [
+            272009,
+            272010,
+            272011,
+            272012,
+            272021,
+            272022,
+            272025,
+            272026,
+            272027,
+            272028,
+            272029,
+            272030
+        ],
+        "ClueLocationList": [
+            11121,
+            11124
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1202,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 750000,
+        "MutationBuffID": 2002,
+        "StageID": 346086,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204641
+        },
+        "BossName": {
+            "hash": 1412463515
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589455
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11121,
+            11122,
+            11123,
+            11124
+        ],
+        "ClueEventIdList": [
+            272023,
+            272031,
+            272034,
+            272035,
+            272036,
+            272024,
+            272033,
+            272049,
+            272050,
+            272051,
+            272052,
+            272053
+        ],
+        "ClueLocationList": [
+            11121,
+            11124
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1203,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1500000,
+        "MutationBuffID": 2003,
+        "StageID": 346087,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204642
+        },
+        "BossName": {
+            "hash": 1412463516
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589456
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11123,
+            11124,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272001,
+            272002,
+            272003,
+            272004,
+            272005,
+            272006,
+            272007,
+            272008,
+            272013,
+            272014,
+            272017,
+            272018
+        ],
+        "ClueLocationList": [
+            11123,
+            11122
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1204,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1125000,
+        "MutationBuffID": 2004,
+        "StageID": 346088,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204643
+        },
+        "BossName": {
+            "hash": 1412463517
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589457
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11122,
+            11124,
+            11121,
+            11123
+        ],
+        "ClueEventIdList": [
+            272046,
+            272047,
+            272048,
+            272054,
+            272055,
+            272056,
+            272057,
+            272058,
+            272059,
+            272037,
+            272038,
+            272039
+        ],
+        "ClueLocationList": [
+            11122,
+            11124
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1205,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1125000,
+        "MutationBuffID": 2005,
+        "StageID": 346089,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204644
+        },
+        "BossName": {
+            "hash": 1412463518
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589458
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11123,
+            11124,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272015,
+            272016,
+            272019,
+            272020,
+            272032,
+            272040,
+            272041,
+            272060,
+            272042,
+            272043,
+            272044,
+            272045
+        ],
+        "ClueLocationList": [
+            11123,
+            11122
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1206,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 900000,
+        "MutationBuffID": 2006,
+        "StageID": 346102,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204645
+        },
+        "BossName": {
+            "hash": 1412463519
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589459
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11124,
+            11123,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272073,
+            272074,
+            272075,
+            272076,
+            272077,
+            272078,
+            272079,
+            272080,
+            272081,
+            272082,
+            272083,
+            272084
+        ],
+        "ClueLocationList": [
+            11121,
+            11123
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1207,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1000000,
+        "MutationBuffID": 2007,
+        "StageID": 346103,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204646
+        },
+        "BossName": {
+            "hash": 1412463520
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589460
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11123,
+            11121,
+            11124,
+            11122
+        ],
+        "ClueEventIdList": [
+            272085,
+            272086,
+            272087,
+            272088,
+            272089,
+            272090,
+            272091,
+            272092,
+            272093,
+            272094,
+            272095,
+            272096
+        ],
+        "ClueLocationList": [
+            11121,
+            11122
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1208,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 500000,
+        "MutationBuffID": 2003,
+        "StageID": 346109,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204642
+        },
+        "BossName": {
+            "hash": 1412463516
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589461
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11113,
+            11112,
+            11111,
+            11114
+        ],
+        "ClueEventIdList": [
+            274124,
+            274125,
+            274126,
+            274127,
+            274128,
+            274129,
+            274130
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            838
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1211,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 2250000,
+        "MutationBuffID": 2001,
+        "StageID": 346111,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204671
+        },
+        "BossName": {
+            "hash": 1412463545
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589454
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11121,
+            11123,
+            11124,
+            11122
+        ],
+        "ClueEventIdList": [
+            272009,
+            272010,
+            272011,
+            272012,
+            272021,
+            272022,
+            272025,
+            272026,
+            272027,
+            272028,
+            272029,
+            272030
+        ],
+        "ClueLocationList": [
+            11121,
+            11124
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1212,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1600000,
+        "MutationBuffID": 2002,
+        "StageID": 346112,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204672
+        },
+        "BossName": {
+            "hash": 1412463546
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589455
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11121,
+            11122,
+            11123,
+            11124
+        ],
+        "ClueEventIdList": [
+            272023,
+            272031,
+            272034,
+            272035,
+            272036,
+            272024,
+            272033,
+            272049,
+            272050,
+            272051,
+            272052,
+            272053
+        ],
+        "ClueLocationList": [
+            11121,
+            11124
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1213,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 2250000,
+        "MutationBuffID": 2003,
+        "StageID": 346113,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204673
+        },
+        "BossName": {
+            "hash": 1412463547
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589456
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11123,
+            11124,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272001,
+            272002,
+            272003,
+            272004,
+            272005,
+            272006,
+            272007,
+            272008,
+            272013,
+            272014,
+            272017,
+            272018
+        ],
+        "ClueLocationList": [
+            11123,
+            11122
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1214,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1687500,
+        "MutationBuffID": 2004,
+        "StageID": 346114,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204674
+        },
+        "BossName": {
+            "hash": 1412463548
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589457
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11122,
+            11124,
+            11121,
+            11123
+        ],
+        "ClueEventIdList": [
+            272046,
+            272047,
+            272048,
+            272054,
+            272055,
+            272056,
+            272057,
+            272058,
+            272059,
+            272037,
+            272038,
+            272039
+        ],
+        "ClueLocationList": [
+            11122,
+            11124
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1215,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1687500,
+        "MutationBuffID": 2005,
+        "StageID": 346115,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204675
+        },
+        "BossName": {
+            "hash": 1412463549
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589458
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11123,
+            11124,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272015,
+            272016,
+            272019,
+            272020,
+            272032,
+            272040,
+            272041,
+            272060,
+            272042,
+            272043,
+            272044,
+            272045
+        ],
+        "ClueLocationList": [
+            11123,
+            11122
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1216,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1800000,
+        "MutationBuffID": 2006,
+        "StageID": 346116,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204676
+        },
+        "BossName": {
+            "hash": 1412463550
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589459
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11124,
+            11123,
+            11122,
+            11121
+        ],
+        "ClueEventIdList": [
+            272073,
+            272074,
+            272075,
+            272076,
+            272077,
+            272078,
+            272079,
+            272080,
+            272081,
+            272082,
+            272083,
+            272084
+        ],
+        "ClueLocationList": [
+            11121,
+            11123
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1217,
+        "BossReward": 954022,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 53,
+        "MonsterHp": 1500000,
+        "MutationBuffID": 2007,
+        "StageID": 346117,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589204677
+        },
+        "BossName": {
+            "hash": 1412463551
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589460
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11123,
+            11121,
+            11124,
+            11122
+        ],
+        "ClueEventIdList": [
+            272085,
+            272086,
+            272087,
+            272088,
+            272089,
+            272090,
+            272091,
+            272092,
+            272093,
+            272094,
+            272095,
+            272096
+        ],
+        "ClueLocationList": [
+            11121,
+            11122
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1301,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 2500000,
+        "MutationBuffID": 2001,
+        "StageID": 346090,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205601
+        },
+        "BossName": {
+            "hash": 1412464475
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589454
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11131,
+            11133,
+            11134,
+            11132
+        ],
+        "ClueEventIdList": [
+            273009,
+            273010,
+            273011,
+            273012,
+            273021,
+            273022,
+            273025,
+            273026,
+            273027,
+            273028,
+            273029,
+            273030
+        ],
+        "ClueLocationList": [
+            11131,
+            11134
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1302,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 3000000,
+        "MutationBuffID": 2002,
+        "StageID": 346091,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205602
+        },
+        "BossName": {
+            "hash": 1412464476
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589455
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11131,
+            11132,
+            11133,
+            11134
+        ],
+        "ClueEventIdList": [
+            273023,
+            273031,
+            273034,
+            273035,
+            273036,
+            273024,
+            273033,
+            273049,
+            273050,
+            273051,
+            273052,
+            273053
+        ],
+        "ClueLocationList": [
+            11131,
+            11134
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1303,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 3000000,
+        "MutationBuffID": 2003,
+        "StageID": 346092,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205603
+        },
+        "BossName": {
+            "hash": 1412464477
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589456
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11133,
+            11134,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273001,
+            273002,
+            273003,
+            273004,
+            273005,
+            273006,
+            273007,
+            273008,
+            273013,
+            273014,
+            273017,
+            273018
+        ],
+        "ClueLocationList": [
+            11133,
+            11132
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1304,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 2250000,
+        "MutationBuffID": 2004,
+        "StageID": 346093,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205604
+        },
+        "BossName": {
+            "hash": 1412464478
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589457
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11132,
+            11134,
+            11131,
+            11133
+        ],
+        "ClueEventIdList": [
+            273046,
+            273047,
+            273048,
+            273054,
+            273055,
+            273056,
+            273057,
+            273058,
+            273059,
+            273037,
+            273038,
+            273039
+        ],
+        "ClueLocationList": [
+            11132,
+            11134
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1305,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 2250000,
+        "MutationBuffID": 2005,
+        "StageID": 346094,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205605
+        },
+        "BossName": {
+            "hash": 1412464479
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589458
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11133,
+            11134,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273015,
+            273016,
+            273019,
+            273020,
+            273032,
+            273040,
+            273041,
+            273060,
+            273042,
+            273043,
+            273044,
+            273045
+        ],
+        "ClueLocationList": [
+            11133,
+            11132
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1306,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 2000000,
+        "MutationBuffID": 2006,
+        "StageID": 346104,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205606
+        },
+        "BossName": {
+            "hash": 1412464480
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589459
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11134,
+            11133,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273073,
+            273074,
+            273075,
+            273076,
+            273077,
+            273078,
+            273079,
+            273080,
+            273081,
+            273082,
+            273083,
+            273084
+        ],
+        "ClueLocationList": [
+            11131,
+            11133
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1307,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 2250000,
+        "MutationBuffID": 2007,
+        "StageID": 346105,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205607
+        },
+        "BossName": {
+            "hash": 1412464481
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589460
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11133,
+            11131,
+            11134,
+            11132
+        ],
+        "ClueEventIdList": [
+            273085,
+            273086,
+            273087,
+            273088,
+            273089,
+            273090,
+            273091,
+            273092,
+            273093,
+            273094,
+            273095,
+            273096
+        ],
+        "ClueLocationList": [
+            11131,
+            11132
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1308,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 1000000,
+        "MutationBuffID": 2003,
+        "StageID": 346110,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205603
+        },
+        "BossName": {
+            "hash": 1412464477
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589461
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11113,
+            11112,
+            11111,
+            11114
+        ],
+        "ClueEventIdList": [
+            274131,
+            274132,
+            274133,
+            274134,
+            274135,
+            274136,
+            274137
+        ],
+        "ClueLocationList": [
+            11111,
+            11114
+        ],
+        "MonsterIdList": [
+            838
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1311,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 4500000,
+        "MutationBuffID": 2001,
+        "StageID": 346118,
+        "StageMonsterID": 2052,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205632
+        },
+        "BossName": {
+            "hash": 1412464506
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589454
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/Boss_Rita_C3",
+        "BossLocationList": [
+            11131,
+            11133,
+            11134,
+            11132
+        ],
+        "ClueEventIdList": [
+            273009,
+            273010,
+            273011,
+            273012,
+            273021,
+            273022,
+            273025,
+            273026,
+            273027,
+            273028,
+            273029,
+            273030
+        ],
+        "ClueLocationList": [
+            11131,
+            11134
+        ],
+        "MonsterIdList": [
+            715
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1312,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 4500000,
+        "MutationBuffID": 2002,
+        "StageID": 346119,
+        "StageMonsterID": 2051,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205633
+        },
+        "BossName": {
+            "hash": 1412464507
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589455
+        },
+        "ImagePath": "SpriteOutput/ArmadaBossFigures/BossIcon_Sakura",
+        "BossLocationList": [
+            11131,
+            11132,
+            11133,
+            11134
+        ],
+        "ClueEventIdList": [
+            273023,
+            273031,
+            273034,
+            273035,
+            273036,
+            273024,
+            273033,
+            273049,
+            273050,
+            273051,
+            273052,
+            273053
+        ],
+        "ClueLocationList": [
+            11131,
+            11134
+        ],
+        "MonsterIdList": [
+            713
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1313,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 4500000,
+        "MutationBuffID": 2003,
+        "StageID": 346120,
+        "StageMonsterID": 2053,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205634
+        },
+        "BossName": {
+            "hash": 1412464508
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589456
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_040",
+        "BossLocationList": [
+            11133,
+            11134,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273001,
+            273002,
+            273003,
+            273004,
+            273005,
+            273006,
+            273007,
+            273008,
+            273013,
+            273014,
+            273017,
+            273018
+        ],
+        "ClueLocationList": [
+            11133,
+            11132
+        ],
+        "MonsterIdList": [
+            716
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1314,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 3000000,
+        "MutationBuffID": 2004,
+        "StageID": 346121,
+        "StageMonsterID": 2054,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205635
+        },
+        "BossName": {
+            "hash": 1412464509
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589457
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_120",
+        "BossLocationList": [
+            11132,
+            11134,
+            11131,
+            11133
+        ],
+        "ClueEventIdList": [
+            273046,
+            273047,
+            273048,
+            273054,
+            273055,
+            273056,
+            273057,
+            273058,
+            273059,
+            273037,
+            273038,
+            273039
+        ],
+        "ClueLocationList": [
+            11132,
+            11134
+        ],
+        "MonsterIdList": [
+            717
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1315,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 4500000,
+        "MutationBuffID": 2005,
+        "StageID": 346122,
+        "StageMonsterID": 2059,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205636
+        },
+        "BossName": {
+            "hash": 1412464510
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589458
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_060",
+        "BossLocationList": [
+            11133,
+            11134,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273015,
+            273016,
+            273019,
+            273020,
+            273032,
+            273040,
+            273041,
+            273060,
+            273042,
+            273043,
+            273044,
+            273045
+        ],
+        "ClueLocationList": [
+            11133,
+            11132
+        ],
+        "MonsterIdList": [
+            722
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1316,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 3000000,
+        "MutationBuffID": 2006,
+        "StageID": 346123,
+        "StageMonsterID": 2055,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205637
+        },
+        "BossName": {
+            "hash": 1412464511
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589459
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_070",
+        "BossLocationList": [
+            11134,
+            11133,
+            11132,
+            11131
+        ],
+        "ClueEventIdList": [
+            273073,
+            273074,
+            273075,
+            273076,
+            273077,
+            273078,
+            273079,
+            273080,
+            273081,
+            273082,
+            273083,
+            273084
+        ],
+        "ClueLocationList": [
+            11131,
+            11133
+        ],
+        "MonsterIdList": [
+            718
+        ]
+    },
+    {
+        "ActivityExp": 2000,
+        "BossID": 1317,
+        "BossReward": 954023,
+        "ClueBuffID": 2000,
+        "ClueProgress": 100,
+        "ClueTimeLimit": 300,
+        "Hardlevel": 68,
+        "MonsterHp": 3375000,
+        "MutationBuffID": 2007,
+        "StageID": 346124,
+        "StageMonsterID": 2056,
+        "StaminaCost": 10,
+        "MPDamageRatio": 3500.0,
+        "BossDesc": {
+            "hash": 589205638
+        },
+        "BossName": {
+            "hash": 1412464512
+        },
+        "ClueTimeLimitTips": {
+            "hash": 928589460
+        },
+        "ImagePath": "SpriteOutput/OpenWorld/QuestBossIcon/MonsterGroup_DG_013_UL_070_RO_091",
+        "BossLocationList": [
+            11133,
+            11131,
+            11134,
+            11132
+        ],
+        "ClueEventIdList": [
+            273085,
+            273086,
+            273087,
+            273088,
+            273089,
+            273090,
+            273091,
+            273092,
+            273093,
+            273094,
+            273095,
+            273096
+        ],
+        "ClueLocationList": [
+            11131,
+            11132
+        ],
+        "MonsterIdList": [
+            719,
+            720,
+            721
+        ]
+    }
+]

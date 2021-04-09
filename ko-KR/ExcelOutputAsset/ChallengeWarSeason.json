@@ -1,0 +1,135 @@
+[
+    {
+        "SeasonID": 1,
+        "SeasonMissionGroupID": 0,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2020-09-14 03:59:59",
+        "AchieveTaleIDList": [
+            3010,
+            3020,
+            3030,
+            3040
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3010,
+            3011,
+            3012,
+            3013
+        ]
+    },
+    {
+        "SeasonID": 2,
+        "SeasonMissionGroupID": 101,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2020-11-02 03:59:59",
+        "AchieveTaleIDList": [
+            3030,
+            3040,
+            3050
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3050,
+            3040,
+            3051,
+            3030
+        ]
+    },
+    {
+        "SeasonID": 3,
+        "SeasonMissionGroupID": 111,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2020-12-14 03:59:59",
+        "AchieveTaleIDList": [
+            3010,
+            3040,
+            3060
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3060,
+            3061,
+            3062,
+            3063
+        ]
+    },
+    {
+        "SeasonID": 4,
+        "SeasonMissionGroupID": 111,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2021-01-25 03:59:59",
+        "AchieveTaleIDList": [
+            3020,
+            3030,
+            3050
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3064,
+            3065,
+            3066,
+            3067
+        ]
+    },
+    {
+        "SeasonID": 5,
+        "SeasonMissionGroupID": 112,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2021-03-08 03:59:59",
+        "AchieveTaleIDList": [
+            3010,
+            3040,
+            3060
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3069,
+            3070,
+            3071,
+            3072
+        ]
+    },
+    {
+        "SeasonID": 6,
+        "SeasonMissionGroupID": 113,
+        "SeasonDisplayTitle": {
+            "hash": -80399579
+        },
+        "EndTime": "2021-04-19 03:59:59",
+        "AchieveTaleIDList": [
+            3010,
+            3040,
+            3060
+        ],
+        "AreaAchieveGroupList": [
+            0
+        ],
+        "RPGScheduleIDList": [
+            3073,
+            3074,
+            3075,
+            3076
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "CoolingTime": 60,
+        "CurrencyID": 114128,
+        "MaxAwardsTimes": 2,
+        "ScheduleID": 1,
+        "CloseTime": "2019-12-26 23:59:59",
+        "DailyOpenTime": "18:00:00",
+        "OpenTime": "2019-12-20 10:00:00",
+        "PlayInstruction": "ActivityFestival_ArmadaReunion_Rule",
+        "RewardEndTime": "2019-12-22 22:00:00",
+        "RewardTime": "2019-12-21 18:00:00"
+    },
+    {
+        "CoolingTime": 60,
+        "CurrencyID": 114128,
+        "MaxAwardsTimes": 2,
+        "ScheduleID": 2,
+        "CloseTime": "2020-01-02 23:59:59",
+        "DailyOpenTime": "18:00:00",
+        "OpenTime": "2019-12-27 10:00:00",
+        "PlayInstruction": "ActivityFestival_ArmadaReunion_Rule",
+        "RewardEndTime": "2019-12-29 22:00:00",
+        "RewardTime": "2019-12-28 18:00:00"
+    },
+    {
+        "CoolingTime": 180,
+        "CurrencyID": 114128,
+        "MaxAwardsTimes": 2,
+        "ScheduleID": 3,
+        "CloseTime": "2020-01-16 03:59:59",
+        "DailyOpenTime": "17:00:00",
+        "OpenTime": "2020-01-03 10:00:00",
+        "PlayInstruction": "ActivityFestival_ArmadaReunion_Rule",
+        "RewardEndTime": "2020-01-07 23:00:00",
+        "RewardTime": "2020-01-06 17:00:00"
+    },
+    {
+        "CoolingTime": 180,
+        "CurrencyID": 114128,
+        "MaxAwardsTimes": 2,
+        "ScheduleID": 4,
+        "CloseTime": "2020-01-31 23:59:59",
+        "DailyOpenTime": "17:00:00",
+        "OpenTime": "2020-01-17 10:00:00",
+        "PlayInstruction": "ActivityFestival_ArmadaReunion_Rule",
+        "RewardEndTime": "2020-01-21 23:00:00",
+        "RewardTime": "2020-01-20 17:00:00"
+    }
+]

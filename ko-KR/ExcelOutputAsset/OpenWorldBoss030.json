@@ -1,0 +1,46 @@
+[
+    {
+        "Phase": 1,
+        "UnlockStoryId": 512,
+        "ProgressText": {
+            "hash": 319961326
+        },
+        "UnlockTips": {
+            "hash": 561183645
+        },
+        "UnlockParts": "Boss030_Body"
+    },
+    {
+        "Phase": 2,
+        "UnlockStoryId": 602,
+        "ProgressText": {
+            "hash": 319961327
+        },
+        "UnlockTips": {
+            "hash": 561183646
+        },
+        "UnlockParts": "Boss030_Arms_Left"
+    },
+    {
+        "Phase": 3,
+        "UnlockStoryId": 606,
+        "ProgressText": {
+            "hash": 319961328
+        },
+        "UnlockTips": {
+            "hash": 561183647
+        },
+        "UnlockParts": "Boss030_Arms_Right"
+    },
+    {
+        "Phase": 4,
+        "UnlockStoryId": 703,
+        "ProgressText": {
+            "hash": 319961329
+        },
+        "UnlockTips": {
+            "hash": 561183648
+        },
+        "UnlockParts": "Boss030_Head"
+    }
+]

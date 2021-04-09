@@ -1,0 +1,68 @@
+[
+    {
+        "enableDiamondExchange": 0,
+        "enableGreenStoneExchange": 1,
+        "enableMCoinExchange": 0,
+        "enablePurpleJadeExchange": 0,
+        "maxBuyNum": 10000000,
+        "targetID": 1,
+        "unitCost": 1000,
+        "cancelDesc": {
+            "hash": 433520025
+        },
+        "currentNumberDesc": {
+            "hash": 483228361
+        },
+        "dialogTitle": {
+            "hash": 1822467238
+        },
+        "exchangeMethodDesc": {
+            "hash": -1269399421
+        },
+        "exchangeNumberDesc": {
+            "hash": -1199432469
+        },
+        "obtainNumberDesc": {
+            "hash": 771353453
+        },
+        "okDesc": {
+            "hash": -1725568645
+        },
+        "tipsDesc": {
+            "hash": -210433321
+        }
+    },
+    {
+        "enableDiamondExchange": 0,
+        "enableGreenStoneExchange": 0,
+        "enableMCoinExchange": 0,
+        "enablePurpleJadeExchange": 1,
+        "maxBuyNum": 1000000,
+        "targetID": 4,
+        "unitCost": 100,
+        "cancelDesc": {
+            "hash": 433520028
+        },
+        "currentNumberDesc": {
+            "hash": 483228364
+        },
+        "dialogTitle": {
+            "hash": 1822467241
+        },
+        "exchangeMethodDesc": {
+            "hash": -1269399418
+        },
+        "exchangeNumberDesc": {
+            "hash": -1199432466
+        },
+        "obtainNumberDesc": {
+            "hash": 771353456
+        },
+        "okDesc": {
+            "hash": -1725568642
+        },
+        "tipsDesc": {
+            "hash": -210433318
+        }
+    }
+]

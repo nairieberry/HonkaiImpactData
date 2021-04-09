@@ -1,0 +1,107 @@
+[
+    {
+        "extraEvadePropID": 301999,
+        "maxLevel": 9,
+        "minLevel": 1,
+        "spBuffPropID": 3,
+        "evadeEffectCDReduce": 1.0,
+        "evadePropParam1": 10.0,
+        "evadePropParam2": 0.5,
+        "evadePropParam3": 0.25,
+        "spBuffPropParam1": 1.0,
+        "spBuffPropParam2": 0.0,
+        "evadeEffectCDReduceText": {
+            "hash": -156420610
+        },
+        "extraEvadePropText": {
+            "hash": 1839622767
+        },
+        "spBuffPropText": {
+            "hash": -466400645
+        }
+    },
+    {
+        "extraEvadePropID": 301999,
+        "maxLevel": 19,
+        "minLevel": 10,
+        "spBuffPropID": 3,
+        "evadeEffectCDReduce": 0.8,
+        "evadePropParam1": 8.0,
+        "evadePropParam2": 0.4,
+        "evadePropParam3": 0.2,
+        "spBuffPropParam1": 0.8,
+        "spBuffPropParam2": 0.0,
+        "evadeEffectCDReduceText": {
+            "hash": -156420610
+        },
+        "extraEvadePropText": {
+            "hash": 1839622767
+        },
+        "spBuffPropText": {
+            "hash": -466400645
+        }
+    },
+    {
+        "extraEvadePropID": 301999,
+        "maxLevel": 29,
+        "minLevel": 20,
+        "spBuffPropID": 3,
+        "evadeEffectCDReduce": 0.6,
+        "evadePropParam1": 6.0,
+        "evadePropParam2": 0.3,
+        "evadePropParam3": 0.15,
+        "spBuffPropParam1": 0.6,
+        "spBuffPropParam2": 0.0,
+        "evadeEffectCDReduceText": {
+            "hash": -156420610
+        },
+        "extraEvadePropText": {
+            "hash": 1839622767
+        },
+        "spBuffPropText": {
+            "hash": -466400645
+        }
+    },
+    {
+        "extraEvadePropID": 301999,
+        "maxLevel": 39,
+        "minLevel": 30,
+        "spBuffPropID": 3,
+        "evadeEffectCDReduce": 0.4,
+        "evadePropParam1": 4.0,
+        "evadePropParam2": 0.2,
+        "evadePropParam3": 0.1,
+        "spBuffPropParam1": 0.4,
+        "spBuffPropParam2": 0.0,
+        "evadeEffectCDReduceText": {
+            "hash": -156420610
+        },
+        "extraEvadePropText": {
+            "hash": 1839622767
+        },
+        "spBuffPropText": {
+            "hash": -466400645
+        }
+    },
+    {
+        "extraEvadePropID": 301999,
+        "maxLevel": 49,
+        "minLevel": 40,
+        "spBuffPropID": 3,
+        "evadeEffectCDReduce": 0.2,
+        "evadePropParam1": 2.0,
+        "evadePropParam2": 0.1,
+        "evadePropParam3": 0.1,
+        "spBuffPropParam1": 0.2,
+        "spBuffPropParam2": 0.0,
+        "evadeEffectCDReduceText": {
+            "hash": -156420610
+        },
+        "extraEvadePropText": {
+            "hash": 1839622767
+        },
+        "spBuffPropText": {
+            "hash": -466400645
+        }
+    }
+]

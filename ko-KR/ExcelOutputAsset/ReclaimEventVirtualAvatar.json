@@ -1,0 +1,898 @@
+[
+    {
+        "avatarId": 101,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010001,
+        "preId": 0
+    },
+    {
+        "avatarId": 101,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010002,
+        "preId": 1010001
+    },
+    {
+        "avatarId": 101,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010003,
+        "preId": 1010002
+    },
+    {
+        "avatarId": 101,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010004,
+        "preId": 1010003
+    },
+    {
+        "avatarId": 102,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010005,
+        "preId": 0
+    },
+    {
+        "avatarId": 102,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010006,
+        "preId": 1010005
+    },
+    {
+        "avatarId": 102,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010007,
+        "preId": 1010006
+    },
+    {
+        "avatarId": 102,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010008,
+        "preId": 1010007
+    },
+    {
+        "avatarId": 103,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010009,
+        "preId": 0
+    },
+    {
+        "avatarId": 103,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010010,
+        "preId": 1010009
+    },
+    {
+        "avatarId": 103,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010011,
+        "preId": 1010010
+    },
+    {
+        "avatarId": 104,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010012,
+        "preId": 0
+    },
+    {
+        "avatarId": 104,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010013,
+        "preId": 1010012
+    },
+    {
+        "avatarId": 104,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010014,
+        "preId": 1010013
+    },
+    {
+        "avatarId": 104,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010015,
+        "preId": 1010014
+    },
+    {
+        "avatarId": 111,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010016,
+        "preId": 0
+    },
+    {
+        "avatarId": 111,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010017,
+        "preId": 1010016
+    },
+    {
+        "avatarId": 111,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010018,
+        "preId": 1010017
+    },
+    {
+        "avatarId": 112,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010019,
+        "preId": 0
+    },
+    {
+        "avatarId": 112,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010020,
+        "preId": 1010019
+    },
+    {
+        "avatarId": 112,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010021,
+        "preId": 1010020
+    },
+    {
+        "avatarId": 112,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010022,
+        "preId": 1010021
+    },
+    {
+        "avatarId": 113,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010023,
+        "preId": 0
+    },
+    {
+        "avatarId": 113,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010024,
+        "preId": 1010023
+    },
+    {
+        "avatarId": 113,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010025,
+        "preId": 1010024
+    },
+    {
+        "avatarId": 114,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010026,
+        "preId": 0
+    },
+    {
+        "avatarId": 114,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010027,
+        "preId": 1010026
+    },
+    {
+        "avatarId": 114,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010028,
+        "preId": 1010027
+    },
+    {
+        "avatarId": 114,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010029,
+        "preId": 1010028
+    },
+    {
+        "avatarId": 201,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010030,
+        "preId": 0
+    },
+    {
+        "avatarId": 201,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010031,
+        "preId": 1010030
+    },
+    {
+        "avatarId": 201,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010032,
+        "preId": 1010031
+    },
+    {
+        "avatarId": 201,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010033,
+        "preId": 1010032
+    },
+    {
+        "avatarId": 202,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010034,
+        "preId": 0
+    },
+    {
+        "avatarId": 202,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010035,
+        "preId": 1010034
+    },
+    {
+        "avatarId": 202,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010036,
+        "preId": 1010035
+    },
+    {
+        "avatarId": 202,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010037,
+        "preId": 1010036
+    },
+    {
+        "avatarId": 203,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010038,
+        "preId": 0
+    },
+    {
+        "avatarId": 203,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010039,
+        "preId": 1010038
+    },
+    {
+        "avatarId": 203,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010040,
+        "preId": 1010039
+    },
+    {
+        "avatarId": 203,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010041,
+        "preId": 1010040
+    },
+    {
+        "avatarId": 204,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010042,
+        "preId": 0
+    },
+    {
+        "avatarId": 204,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010043,
+        "preId": 1010042
+    },
+    {
+        "avatarId": 204,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010044,
+        "preId": 1010043
+    },
+    {
+        "avatarId": 211,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010045,
+        "preId": 0
+    },
+    {
+        "avatarId": 211,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010046,
+        "preId": 1010045
+    },
+    {
+        "avatarId": 211,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010047,
+        "preId": 1010046
+    },
+    {
+        "avatarId": 211,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010048,
+        "preId": 1010047
+    },
+    {
+        "avatarId": 212,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010049,
+        "preId": 0
+    },
+    {
+        "avatarId": 212,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010050,
+        "preId": 1010049
+    },
+    {
+        "avatarId": 212,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010051,
+        "preId": 1010050
+    },
+    {
+        "avatarId": 213,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010052,
+        "preId": 0
+    },
+    {
+        "avatarId": 213,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010053,
+        "preId": 1010052
+    },
+    {
+        "avatarId": 213,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010054,
+        "preId": 1010053
+    },
+    {
+        "avatarId": 213,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010055,
+        "preId": 1010054
+    },
+    {
+        "avatarId": 301,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010056,
+        "preId": 0
+    },
+    {
+        "avatarId": 301,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010057,
+        "preId": 1010056
+    },
+    {
+        "avatarId": 301,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010058,
+        "preId": 1010057
+    },
+    {
+        "avatarId": 301,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010059,
+        "preId": 1010058
+    },
+    {
+        "avatarId": 302,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010060,
+        "preId": 0
+    },
+    {
+        "avatarId": 302,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010061,
+        "preId": 1010060
+    },
+    {
+        "avatarId": 302,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010062,
+        "preId": 1010061
+    },
+    {
+        "avatarId": 302,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010063,
+        "preId": 1010062
+    },
+    {
+        "avatarId": 303,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010064,
+        "preId": 0
+    },
+    {
+        "avatarId": 303,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010065,
+        "preId": 1010064
+    },
+    {
+        "avatarId": 303,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010066,
+        "preId": 1010065
+    },
+    {
+        "avatarId": 303,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010067,
+        "preId": 1010066
+    },
+    {
+        "avatarId": 304,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010068,
+        "preId": 0
+    },
+    {
+        "avatarId": 304,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010069,
+        "preId": 1010068
+    },
+    {
+        "avatarId": 304,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010070,
+        "preId": 1010069
+    },
+    {
+        "avatarId": 311,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010071,
+        "preId": 0
+    },
+    {
+        "avatarId": 311,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010072,
+        "preId": 1010071
+    },
+    {
+        "avatarId": 311,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010073,
+        "preId": 1010072
+    },
+    {
+        "avatarId": 311,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010074,
+        "preId": 1010073
+    },
+    {
+        "avatarId": 312,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010075,
+        "preId": 0
+    },
+    {
+        "avatarId": 312,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010076,
+        "preId": 1010075
+    },
+    {
+        "avatarId": 312,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010077,
+        "preId": 1010076
+    },
+    {
+        "avatarId": 401,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010078,
+        "preId": 0
+    },
+    {
+        "avatarId": 401,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010079,
+        "preId": 1010078
+    },
+    {
+        "avatarId": 401,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010080,
+        "preId": 1010079
+    },
+    {
+        "avatarId": 401,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010081,
+        "preId": 1010080
+    },
+    {
+        "avatarId": 402,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010082,
+        "preId": 0
+    },
+    {
+        "avatarId": 402,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010083,
+        "preId": 1010082
+    },
+    {
+        "avatarId": 402,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010084,
+        "preId": 1010083
+    },
+    {
+        "avatarId": 402,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010085,
+        "preId": 1010084
+    },
+    {
+        "avatarId": 403,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010086,
+        "preId": 0
+    },
+    {
+        "avatarId": 403,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010087,
+        "preId": 1010086
+    },
+    {
+        "avatarId": 403,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010088,
+        "preId": 1010087
+    },
+    {
+        "avatarId": 403,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010089,
+        "preId": 1010088
+    },
+    {
+        "avatarId": 404,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010090,
+        "preId": 0
+    },
+    {
+        "avatarId": 404,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010091,
+        "preId": 1010090
+    },
+    {
+        "avatarId": 404,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010092,
+        "preId": 1010091
+    },
+    {
+        "avatarId": 411,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010093,
+        "preId": 0
+    },
+    {
+        "avatarId": 411,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010094,
+        "preId": 1010093
+    },
+    {
+        "avatarId": 411,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010095,
+        "preId": 1010094
+    },
+    {
+        "avatarId": 411,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010096,
+        "preId": 1010095
+    },
+    {
+        "avatarId": 501,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010097,
+        "preId": 0
+    },
+    {
+        "avatarId": 501,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010098,
+        "preId": 1010097
+    },
+    {
+        "avatarId": 501,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010099,
+        "preId": 1010098
+    },
+    {
+        "avatarId": 501,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010100,
+        "preId": 1010099
+    },
+    {
+        "avatarId": 502,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010101,
+        "preId": 0
+    },
+    {
+        "avatarId": 502,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010102,
+        "preId": 1010101
+    },
+    {
+        "avatarId": 502,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010103,
+        "preId": 1010102
+    },
+    {
+        "avatarId": 503,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010104,
+        "preId": 0
+    },
+    {
+        "avatarId": 503,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010105,
+        "preId": 1010104
+    },
+    {
+        "avatarId": 503,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010106,
+        "preId": 1010105
+    },
+    {
+        "avatarId": 503,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010107,
+        "preId": 1010106
+    },
+    {
+        "avatarId": 504,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010108,
+        "preId": 0
+    },
+    {
+        "avatarId": 504,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010109,
+        "preId": 1010108
+    },
+    {
+        "avatarId": 504,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010110,
+        "preId": 1010109
+    },
+    {
+        "avatarId": 511,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010111,
+        "preId": 0
+    },
+    {
+        "avatarId": 511,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010112,
+        "preId": 1010111
+    },
+    {
+        "avatarId": 511,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010113,
+        "preId": 1010112
+    },
+    {
+        "avatarId": 511,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010114,
+        "preId": 1010113
+    },
+    {
+        "avatarId": 601,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010115,
+        "preId": 0
+    },
+    {
+        "avatarId": 601,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010116,
+        "preId": 1010115
+    },
+    {
+        "avatarId": 601,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010117,
+        "preId": 1010116
+    },
+    {
+        "avatarId": 601,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010118,
+        "preId": 1010117
+    },
+    {
+        "avatarId": 602,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010119,
+        "preId": 0
+    },
+    {
+        "avatarId": 602,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010120,
+        "preId": 1010119
+    },
+    {
+        "avatarId": 602,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010121,
+        "preId": 1010120
+    },
+    {
+        "avatarId": 603,
+        "baseLevel": 0,
+        "baseRarity": 2,
+        "id": 1010122,
+        "preId": 0
+    },
+    {
+        "avatarId": 603,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010123,
+        "preId": 1010122
+    },
+    {
+        "avatarId": 603,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010124,
+        "preId": 1010123
+    },
+    {
+        "avatarId": 603,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010125,
+        "preId": 1010124
+    },
+    {
+        "avatarId": 604,
+        "baseLevel": 0,
+        "baseRarity": 3,
+        "id": 1010126,
+        "preId": 0
+    },
+    {
+        "avatarId": 604,
+        "baseLevel": 0,
+        "baseRarity": 4,
+        "id": 1010127,
+        "preId": 1010126
+    },
+    {
+        "avatarId": 604,
+        "baseLevel": 0,
+        "baseRarity": 5,
+        "id": 1010128,
+        "preId": 1010127
+    }
+]

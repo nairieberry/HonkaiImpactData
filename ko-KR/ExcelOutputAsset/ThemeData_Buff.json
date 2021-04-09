@@ -1,0 +1,443 @@
+[
+    {
+        "BuffID": 1,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": 2100244347
+        },
+        "BuffName": {
+            "hash": 965491238
+        },
+        "AbilityName": "ExtraStory_Elite_Fast",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_1"
+    },
+    {
+        "BuffID": 2,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": 2100244348
+        },
+        "BuffName": {
+            "hash": 965491239
+        },
+        "AbilityName": "ExtraStory_Elite_Power_Matrix",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_2"
+    },
+    {
+        "BuffID": 3,
+        "InLevelType": 3,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": 2100244349
+        },
+        "BuffName": {
+            "hash": 965491240
+        },
+        "AbilityName": "ExtraStory_Elite_RangeAttackShield_Matrix",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3"
+    },
+    {
+        "BuffID": 4,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": 2100244350
+        },
+        "BuffName": {
+            "hash": 965491241
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_4"
+    },
+    {
+        "BuffID": 101,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -299810116
+        },
+        "BuffName": {
+            "hash": 124145319
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_5"
+    },
+    {
+        "BuffID": 1031,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704178893
+        },
+        "BuffName": {
+            "hash": -446462296
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_6"
+    },
+    {
+        "BuffID": 1032,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704178892
+        },
+        "BuffName": {
+            "hash": -446462295
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_7"
+    },
+    {
+        "BuffID": 1033,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704178891
+        },
+        "BuffName": {
+            "hash": -446462294
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_8"
+    },
+    {
+        "BuffID": 1034,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704178890
+        },
+        "BuffName": {
+            "hash": -446462293
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_9"
+    },
+    {
+        "BuffID": 1035,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704178889
+        },
+        "BuffName": {
+            "hash": -446462292
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_10"
+    },
+    {
+        "BuffID": 3001,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119404
+        },
+        "BuffName": {
+            "hash": -446402807
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3001"
+    },
+    {
+        "BuffID": 3002,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119403
+        },
+        "BuffName": {
+            "hash": -446402806
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    },
+    {
+        "BuffID": 3011,
+        "InLevelType": 1,
+        "IsScoreBuff": 1,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119373
+        },
+        "BuffName": {
+            "hash": -446402776
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3011"
+    },
+    {
+        "BuffID": 3012,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119372
+        },
+        "BuffName": {
+            "hash": -446402775
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3012"
+    },
+    {
+        "BuffID": 3013,
+        "InLevelType": 1,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119371
+        },
+        "BuffName": {
+            "hash": -446402774
+        },
+        "AbilityName": "ExtraStory_Elite_Bramble",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3013"
+    },
+    {
+        "BuffID": 3014,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119370
+        },
+        "BuffName": {
+            "hash": -446402773
+        },
+        "AbilityName": "ActivitySpring_SpRecoverAndDamageUp",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    },
+    {
+        "BuffID": 3015,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119369
+        },
+        "BuffName": {
+            "hash": -446402772
+        },
+        "AbilityName": "TvT_BonusAvatarBuff",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    },
+    {
+        "BuffID": 3016,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119368
+        },
+        "BuffName": {
+            "hash": -446402771
+        },
+        "AbilityName": "TvT_BonusAvatarBuff",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    },
+    {
+        "BuffID": 3017,
+        "InLevelType": 2,
+        "IsScoreBuff": 1,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704119367
+        },
+        "BuffName": {
+            "hash": -446402770
+        },
+        "AbilityName": "ActivitySpring_SpRecoverAndDamageUp",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3013"
+    },
+    {
+        "BuffID": 4000,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704089614
+        },
+        "BuffName": {
+            "hash": -446373017
+        },
+        "AbilityName": "SelfEndless_BonusAvatarBuff",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    },
+    {
+        "BuffID": 7000,
+        "InLevelType": 2,
+        "IsScoreBuff": 0,
+        "paramAdd_1": 1.0,
+        "paramAdd_2": 2.0,
+        "paramAdd_3": 3.0,
+        "paramBase_1": 1.0,
+        "paramBase_2": 2.0,
+        "paramBase_3": 3.0,
+        "BuffDes": {
+            "hash": -704000241
+        },
+        "BuffName": {
+            "hash": -446283644
+        },
+        "AbilityName": "SelfEndless_BonusAvatarBuff",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "paramEmptyString": "ThemeBuff_param_Empty",
+        "paramString": "ThemeBuff_param_3002"
+    }
+]

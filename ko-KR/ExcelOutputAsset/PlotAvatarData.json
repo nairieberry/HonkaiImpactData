@@ -1,0 +1,464 @@
+[
+    {
+        "avatarID": 11,
+        "displayType": 0,
+        "name": "UnknownName",
+        "path": ""
+    },
+    {
+        "avatarID": 12,
+        "displayType": 1,
+        "name": "Kallen",
+        "path": "Entities/Avatar/Kallen_Common/Avatar_Kallen_Story"
+    },
+    {
+        "avatarID": 13,
+        "displayType": 0,
+        "name": "NoSignal",
+        "path": ""
+    },
+    {
+        "avatarID": 14,
+        "displayType": 0,
+        "name": "Theresa",
+        "path": ""
+    },
+    {
+        "avatarID": 21,
+        "displayType": 1,
+        "name": "Theresa",
+        "path": "Entities/Avatar/Theresa_C1_YD/Avatar_Theresa_C1_YD_Story"
+    },
+    {
+        "avatarID": 31,
+        "displayType": 1,
+        "name": "Ai",
+        "path": "Entities/Avatar/Ai_Common/Avatar_AI_Story_UI"
+    },
+    {
+        "avatarID": 41,
+        "displayType": 1,
+        "name": "Wendy",
+        "path": "Entities/Avatar/Wendy_Story/Avatar_Wendy_Normal_Story_UI"
+    },
+    {
+        "avatarID": 42,
+        "displayType": 1,
+        "name": "Wendy",
+        "path": "Entities/Avatar/Wendy_Story/Avatar_Wendy_Boss_Story_UI"
+    },
+    {
+        "avatarID": 51,
+        "displayType": 0,
+        "name": "Ksksliya",
+        "path": ""
+    },
+    {
+        "avatarID": 61,
+        "displayType": 1,
+        "name": "Fuka",
+        "path": "Entities/Avatar/Fuka_C1_FK/Avatar_Fuka_C1_FK_Story"
+    },
+    {
+        "avatarID": 71,
+        "displayType": 1,
+        "name": "Sin",
+        "path": "Entities/Avatar/Sin_Story/Sin_Story_UI"
+    },
+    {
+        "avatarID": 81,
+        "displayType": 0,
+        "name": "HeiXuanyuan",
+        "path": "Entities/Avatar/Xuan_Common/Avatar_XuanYuan_Story"
+    },
+    {
+        "avatarID": 91,
+        "displayType": 0,
+        "name": "BigWei",
+        "path": ""
+    },
+    {
+        "avatarID": 92,
+        "displayType": 0,
+        "name": "Homo",
+        "path": ""
+    },
+    {
+        "avatarID": 93,
+        "displayType": 0,
+        "name": "Operator",
+        "path": ""
+    },
+    {
+        "avatarID": 94,
+        "displayType": 0,
+        "name": "Siegfeld",
+        "path": ""
+    },
+    {
+        "avatarID": 95,
+        "displayType": 0,
+        "name": "Cecilia",
+        "path": ""
+    },
+    {
+        "avatarID": 1001,
+        "displayType": 0,
+        "name": "LittleGirl",
+        "path": ""
+    },
+    {
+        "avatarID": 1002,
+        "displayType": 0,
+        "name": "VillageLead",
+        "path": ""
+    },
+    {
+        "avatarID": 1003,
+        "displayType": 0,
+        "name": "Devil",
+        "path": ""
+    },
+    {
+        "avatarID": 1004,
+        "displayType": 0,
+        "name": "Otto",
+        "path": ""
+    },
+    {
+        "avatarID": 1005,
+        "displayType": 0,
+        "name": "Kali",
+        "path": ""
+    },
+    {
+        "avatarID": 1006,
+        "displayType": 1,
+        "name": "Theresa_A310",
+        "path": "Entities/Avatar/Theresa_C1_YD/Avatar_Theresa_C1_YD_Story"
+    },
+    {
+        "avatarID": 1007,
+        "displayType": 1,
+        "name": "Bronya_Girl",
+        "path": "Entities/Avatar/Bronya_C5_XT/Avatar_Bronya_C5_XT_Story"
+    },
+    {
+        "avatarID": 1008,
+        "displayType": 1,
+        "name": "Bronya_C3_JJ_Fake",
+        "path": "Entities/Avatar/Bronya_C3_JJ/Avatar_Bronya_C3_JJ_Story"
+    },
+    {
+        "avatarID": 1009,
+        "displayType": 1,
+        "name": "Bronya_C2_BQ_Fake",
+        "path": "Entities/Avatar/Bronya_C2_BQ/Avatar_Bronya_C2_BQ_Story"
+    },
+    {
+        "avatarID": 1010,
+        "displayType": 1,
+        "name": "DA_Bronya",
+        "path": "Entities/Avatar/Bronya_C6_HH/Avatar_Bronya_C6_HH_Story"
+    },
+    {
+        "avatarID": 1011,
+        "displayType": 1,
+        "name": "Fuka_C3_ST_Fake",
+        "path": "Entities/Avatar/Fuka_C3_ND/Avatar_Fuka_C3_ND_Story"
+    },
+    {
+        "avatarID": 1012,
+        "displayType": 1,
+        "name": "Home",
+        "path": "Entities/Avatar/Fake_SP_012/Avatar_Fake_SP_012_Story"
+    },
+    {
+        "avatarID": 1013,
+        "displayType": 1,
+        "name": "Hola",
+        "path": "Entities/Avatar/Fake_SP_014/Avatar_Fake_SP_014_Story"
+    },
+    {
+        "avatarID": 1014,
+        "displayType": 1,
+        "name": "Homei",
+        "path": "Entities/Avatar/Fake_SP_013/Avatar_Fake_SP_013_Story"
+    },
+    {
+        "avatarID": 1015,
+        "displayType": 0,
+        "name": "Homi",
+        "path": ""
+    },
+    {
+        "avatarID": 1101,
+        "displayType": 1,
+        "name": "Kiana_C2_Bikini",
+        "path": "Entities/Avatar/Kiana_C2_PT/Bikini/Avatar_Kiana_C2_Bikini_Story_UI"
+    },
+    {
+        "avatarID": 1302,
+        "displayType": 1,
+        "name": "Bronya_C2_Bikini",
+        "path": "Entities/Avatar/Bronya_C2_BQ/Bikini/Avatar_Bronya_C2_Bikini_Story_UI"
+    },
+    {
+        "avatarID": 1303,
+        "displayType": 1,
+        "name": "Hikyoumaru",
+        "path": "Entities/Avatar/Hikyoumaru_Story/NPC_Fox"
+    },
+    {
+        "avatarID": 1305,
+        "displayType": 0,
+        "name": "Woman_Ghost_2",
+        "path": ""
+    },
+    {
+        "avatarID": 1306,
+        "displayType": 0,
+        "name": "Woman_Ghost_3",
+        "path": ""
+    },
+    {
+        "avatarID": 1307,
+        "displayType": 0,
+        "name": "Man_Ghost_1",
+        "path": ""
+    },
+    {
+        "avatarID": 1308,
+        "displayType": 0,
+        "name": "Man_Ghost_2",
+        "path": ""
+    },
+    {
+        "avatarID": 1309,
+        "displayType": 0,
+        "name": "Girl_Ghost",
+        "path": ""
+    },
+    {
+        "avatarID": 1310,
+        "displayType": 0,
+        "name": "Man_Ghost_3",
+        "path": ""
+    },
+    {
+        "avatarID": 1311,
+        "displayType": 0,
+        "name": "SwordGirl",
+        "path": ""
+    },
+    {
+        "avatarID": 1312,
+        "displayType": 0,
+        "name": "OnmyojiGirl",
+        "path": ""
+    },
+    {
+        "avatarID": 1313,
+        "displayType": 0,
+        "name": "EatGirl",
+        "path": ""
+    },
+    {
+        "avatarID": 1314,
+        "displayType": 1,
+        "name": "SwordGirl",
+        "path": "Entities/Avatar/Mei_C1_DH_VV/Avatar_Mei_C1_DH_Story"
+    },
+    {
+        "avatarID": 1315,
+        "displayType": 1,
+        "name": "OnmyojiGirl",
+        "path": "Entities/Avatar/Bronya_C5_XT/Avatar_Bronya_C5_XT_Story"
+    },
+    {
+        "avatarID": 1316,
+        "displayType": 1,
+        "name": "EatGirl",
+        "path": "Entities/Avatar/Kiana_C1_FX/Avatar_Kiana_C1_FX_Story"
+    },
+    {
+        "avatarID": 1317,
+        "displayType": 0,
+        "name": "Houseparent",
+        "path": ""
+    },
+    {
+        "avatarID": 1318,
+        "displayType": 1,
+        "name": "Cecilia",
+        "path": "Entities/Avatar/Story_Cecilia/NPC_Cecilia"
+    },
+    {
+        "avatarID": 1319,
+        "displayType": 0,
+        "name": "Kallen",
+        "path": ""
+    },
+    {
+        "avatarID": 1320,
+        "displayType": 1,
+        "name": "Robot",
+        "path": "Entities/Avatar/Story_Robot/NPC_Robot"
+    },
+    {
+        "avatarID": 1321,
+        "displayType": 0,
+        "name": "Notebook",
+        "path": ""
+    },
+    {
+        "avatarID": 1322,
+        "displayType": 0,
+        "name": "DairyBook",
+        "path": ""
+    },
+    {
+        "avatarID": 1323,
+        "displayType": 0,
+        "name": "Einstein",
+        "path": ""
+    },
+    {
+        "avatarID": 1324,
+        "displayType": 1,
+        "name": "Tesla",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Tesla/NPC_Tesla_Story"
+    },
+    {
+        "avatarID": 1325,
+        "displayType": 0,
+        "name": "Fuhua",
+        "path": ""
+    },
+    {
+        "avatarID": 1326,
+        "displayType": 0,
+        "name": "Durandal",
+        "path": ""
+    },
+    {
+        "avatarID": 1327,
+        "displayType": 1,
+        "name": "Cangxuan",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Cangxuan/NPC_Cangxuan_Story"
+    },
+    {
+        "avatarID": 1328,
+        "displayType": 1,
+        "name": "Danzhu",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Danzhu/NPC_Danzhu_Story"
+    },
+    {
+        "avatarID": 1329,
+        "displayType": 1,
+        "name": "Fuka_C4",
+        "path": "Entities/Avatar/Fuka_C4_JW/Avatar_Fuka_C4_JW_Story"
+    },
+    {
+        "avatarID": 1330,
+        "displayType": 1,
+        "name": "GD_Story",
+        "path": "Entities/Avatar/Homo_Story/Avatar_Homo_Story_UI"
+    },
+    {
+        "avatarID": 1331,
+        "displayType": 1,
+        "name": "GD_Woman",
+        "path": "Entities/Avatar/Kallen_Common/Avatar_Kallen_Story"
+    },
+    {
+        "avatarID": 1332,
+        "displayType": 0,
+        "name": "GD_Hell",
+        "path": ""
+    },
+    {
+        "avatarID": 1333,
+        "displayType": 0,
+        "name": "3rd_Lvzhe",
+        "path": ""
+    },
+    {
+        "avatarID": 1334,
+        "displayType": 1,
+        "name": "Rita",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Rita/NPC_Rita_Story"
+    },
+    {
+        "avatarID": 1335,
+        "displayType": 1,
+        "name": "Fuka_C2",
+        "path": "Entities/Avatar/Fuka_C2_NL/Avatar_Fuka_C2_NL_Story"
+    },
+    {
+        "avatarID": 1336,
+        "displayType": 0,
+        "name": "YoungGirl",
+        "path": ""
+    },
+    {
+        "avatarID": 1337,
+        "displayType": 0,
+        "name": "Unknown",
+        "path": ""
+    },
+    {
+        "avatarID": 1338,
+        "displayType": 0,
+        "name": "GodFather",
+        "path": ""
+    },
+    {
+        "avatarID": 1339,
+        "displayType": 1,
+        "name": "BigWei",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Daweige/NPC_Daweige_Story"
+    },
+    {
+        "avatarID": 1340,
+        "displayType": 1,
+        "name": "Einstein_2",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_Einstein_2/Npc_Einstein_Human_Story"
+    },
+    {
+        "avatarID": 1341,
+        "displayType": 0,
+        "name": "Adam",
+        "path": ""
+    },
+    {
+        "avatarID": 1342,
+        "displayType": 0,
+        "name": "DLC_Mei",
+        "path": ""
+    },
+    {
+        "avatarID": 1343,
+        "displayType": 1,
+        "name": "DLC_Carol",
+        "path": "Entities/Avatar/Bronya_C5_XT/Avatar_Bronya_C5_XT_Story"
+    },
+    {
+        "avatarID": 1344,
+        "displayType": 0,
+        "name": "Adam_prologue",
+        "path": ""
+    },
+    {
+        "avatarID": 1345,
+        "displayType": 0,
+        "name": "Woman_Ghost_1",
+        "path": ""
+    },
+    {
+        "avatarID": 1346,
+        "displayType": 1,
+        "name": "DLC_NPC_Name_Welt",
+        "path": "Entities/PropObject/NPC/Standalone_NPC_DLC_Welt/NPC_Welt_DLC_Story"
+    }
+]

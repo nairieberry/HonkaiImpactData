@@ -1,0 +1,62 @@
+[
+    {
+        "ReplaceType": 0,
+        "SpecialID": 101,
+        "DefaultResPath": "UI/Menus/Widget/NotifyRemind/PopUp",
+        "ThemeResPath": "UI/Menus/Widget/NotifyRemind/EVA/PopUp"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 102,
+        "DefaultResPath": "UI/Menus/Widget/NotifyRemind/PopUpSmall",
+        "ThemeResPath": "UI/Menus/Widget/NotifyRemind/EVA/PopUpSmall"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 103,
+        "DefaultResPath": "UI/Menus/Widget/NotifyRemind/PopUpNum",
+        "ThemeResPath": "UI/Menus/Widget/NotifyRemind/EVA/PopUpNum"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 104,
+        "DefaultResPath": "UI/Menus/Widget/NotifyRemind/NewMark",
+        "ThemeResPath": "UI/Menus/Widget/NotifyRemind/EVA/NewMark"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 105,
+        "DefaultResPath": "UI/Menus/Widget/MainPage/PlayerStatusPanel",
+        "ThemeResPath": "UI/Menus/Widget/MainPage/EVA/PlayerStatusPanel"
+    },
+    {
+        "ReplaceType": 1,
+        "SpecialID": 106,
+        "DefaultResPath": "UI/Menus/Widget/PopUp/PopUpNew",
+        "ThemeResPath": "UI/Menus/Widget/PopUp/EVA/PopUpNew"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 107,
+        "DefaultResPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconMall",
+        "ThemeResPath": "SpriteOutput/MallTabIcon/MainPageIcon/EVA/IconMall"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 108,
+        "DefaultResPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconShoppingFestival",
+        "ThemeResPath": "SpriteOutput/MallTabIcon/MainPageIcon/EVA/IconShoppingFestival"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 109,
+        "DefaultResPath": "SpriteOutput/PlayerProfile/EXPBarInner",
+        "ThemeResPath": "SpriteOutput/PlayerProfile/EVA/EXPBarInner"
+    },
+    {
+        "ReplaceType": 0,
+        "SpecialID": 110,
+        "DefaultResPath": "SpriteOutput/PlayerProfile/EXPBarInnerGreen",
+        "ThemeResPath": "SpriteOutput/PlayerProfile/EVA/EXPBarInnerGreen"
+    }
+]

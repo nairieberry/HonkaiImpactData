@@ -1,0 +1,1318 @@
+[
+    {
+        "HandBookID": 1001,
+        "MonsterID": 1,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1001,
+        "MonsterID": 2,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1002,
+        "MonsterID": 3,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1002,
+        "MonsterID": 4,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1003,
+        "MonsterID": 5,
+        "MonsterLevel": 10,
+        "ConfigType": "Unique_Sakura",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1004,
+        "MonsterID": 6,
+        "MonsterLevel": 20,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "DeadWalker"
+    },
+    {
+        "HandBookID": 1005,
+        "MonsterID": 7,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "DeadArcher"
+    },
+    {
+        "HandBookID": 1005,
+        "MonsterID": 8,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "DeadArcher"
+    },
+    {
+        "HandBookID": 1006,
+        "MonsterID": 9,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "DeadArcher"
+    },
+    {
+        "HandBookID": 1006,
+        "MonsterID": 10,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "DeadArcher"
+    },
+    {
+        "HandBookID": 1007,
+        "MonsterID": 11,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "DeadArcher"
+    },
+    {
+        "HandBookID": 1008,
+        "MonsterID": 12,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "DeadKiller"
+    },
+    {
+        "HandBookID": 1008,
+        "MonsterID": 13,
+        "MonsterLevel": 20,
+        "ConfigType": "Power",
+        "MonsterName": "DeadKiller"
+    },
+    {
+        "HandBookID": 1009,
+        "MonsterID": 14,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "DeadKiller"
+    },
+    {
+        "HandBookID": 1009,
+        "MonsterID": 15,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "DeadKiller"
+    },
+    {
+        "HandBookID": 1010,
+        "MonsterID": 16,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Extend",
+        "MonsterName": "DeadKiller"
+    },
+    {
+        "HandBookID": 1011,
+        "MonsterID": 17,
+        "MonsterLevel": 20,
+        "ConfigType": "Default",
+        "MonsterName": "DeadWitch"
+    },
+    {
+        "HandBookID": 1012,
+        "MonsterID": 18,
+        "MonsterLevel": 40,
+        "ConfigType": "Power",
+        "MonsterName": "DeadWitch"
+    },
+    {
+        "HandBookID": 1013,
+        "MonsterID": 19,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "DeadWitch"
+    },
+    {
+        "HandBookID": 1014,
+        "MonsterID": 20,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "DeadCat"
+    },
+    {
+        "HandBookID": 1014,
+        "MonsterID": 21,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "DeadCat"
+    },
+    {
+        "HandBookID": 1015,
+        "MonsterID": 22,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "DeadCat"
+    },
+    {
+        "HandBookID": 1015,
+        "MonsterID": 23,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "DeadCat"
+    },
+    {
+        "HandBookID": 1016,
+        "MonsterID": 24,
+        "MonsterLevel": 30,
+        "ConfigType": "Default",
+        "MonsterName": "DeadGhost"
+    },
+    {
+        "HandBookID": 1016,
+        "MonsterID": 25,
+        "MonsterLevel": 40,
+        "ConfigType": "Power",
+        "MonsterName": "DeadGhost"
+    },
+    {
+        "HandBookID": 1017,
+        "MonsterID": 26,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "DeadGhost"
+    },
+    {
+        "HandBookID": 1017,
+        "MonsterID": 27,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "DeadGhost"
+    },
+    {
+        "HandBookID": 1018,
+        "MonsterID": 28,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "DeadGhost"
+    },
+    {
+        "HandBookID": 1041,
+        "MonsterID": 29,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1041,
+        "MonsterID": 30,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1042,
+        "MonsterID": 31,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1042,
+        "MonsterID": 32,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1043,
+        "MonsterID": 33,
+        "MonsterLevel": 10,
+        "ConfigType": "Unique_Sakura",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1044,
+        "MonsterID": 34,
+        "MonsterLevel": 20,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1044,
+        "MonsterID": 35,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Power",
+        "MonsterName": "UlyssesWarrior"
+    },
+    {
+        "HandBookID": 1045,
+        "MonsterID": 36,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1045,
+        "MonsterID": 37,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1046,
+        "MonsterID": 38,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1046,
+        "MonsterID": 39,
+        "MonsterLevel": 10,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1047,
+        "MonsterID": 40,
+        "MonsterLevel": 10,
+        "ConfigType": "Unique_Sakura",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1048,
+        "MonsterID": 41,
+        "MonsterLevel": 10,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "UlyssesFast"
+    },
+    {
+        "HandBookID": 1049,
+        "MonsterID": 42,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1049,
+        "MonsterID": 43,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1050,
+        "MonsterID": 44,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1050,
+        "MonsterID": 45,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1051,
+        "MonsterID": 46,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1051,
+        "MonsterID": 47,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Power",
+        "MonsterName": "UlyssesRider"
+    },
+    {
+        "HandBookID": 1052,
+        "MonsterID": 48,
+        "MonsterLevel": 20,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesDefend"
+    },
+    {
+        "HandBookID": 1052,
+        "MonsterID": 49,
+        "MonsterLevel": 20,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesDefend"
+    },
+    {
+        "HandBookID": 1053,
+        "MonsterID": 50,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesDefend"
+    },
+    {
+        "HandBookID": 1053,
+        "MonsterID": 51,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesDefend"
+    },
+    {
+        "HandBookID": 1055,
+        "MonsterID": 52,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesThrow"
+    },
+    {
+        "HandBookID": 1055,
+        "MonsterID": 53,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesThrow"
+    },
+    {
+        "HandBookID": 1056,
+        "MonsterID": 54,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesThrow"
+    },
+    {
+        "HandBookID": 1056,
+        "MonsterID": 55,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesThrow"
+    },
+    {
+        "HandBookID": 1058,
+        "MonsterID": 58,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "UlyssesThrow"
+    },
+    {
+        "HandBookID": 1059,
+        "MonsterID": 59,
+        "MonsterLevel": 30,
+        "ConfigType": "Default",
+        "MonsterName": "UlyssesHalo"
+    },
+    {
+        "HandBookID": 1059,
+        "MonsterID": 60,
+        "MonsterLevel": 30,
+        "ConfigType": "Power",
+        "MonsterName": "UlyssesHalo"
+    },
+    {
+        "HandBookID": 1060,
+        "MonsterID": 61,
+        "MonsterLevel": 40,
+        "ConfigType": "CS_Default",
+        "MonsterName": "UlyssesHalo"
+    },
+    {
+        "HandBookID": 1060,
+        "MonsterID": 62,
+        "MonsterLevel": 40,
+        "ConfigType": "CS_Power",
+        "MonsterName": "UlyssesHalo"
+    },
+    {
+        "HandBookID": 1061,
+        "MonsterID": 63,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "UlyssesHalo"
+    },
+    {
+        "HandBookID": 1019,
+        "MonsterID": 64,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1019,
+        "MonsterID": 65,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1020,
+        "MonsterID": 66,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1020,
+        "MonsterID": 67,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1021,
+        "MonsterID": 68,
+        "MonsterLevel": 40,
+        "ConfigType": "CS_Extend",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1021,
+        "MonsterID": 69,
+        "MonsterLevel": 40,
+        "ConfigType": "CS_ExPower",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1022,
+        "MonsterID": 70,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1023,
+        "MonsterID": 71,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Power",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1024,
+        "MonsterID": 72,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Extend",
+        "MonsterName": "RobotTitan"
+    },
+    {
+        "HandBookID": 1025,
+        "MonsterID": 73,
+        "MonsterLevel": 20,
+        "ConfigType": "Default",
+        "MonsterName": "RobotAssistant"
+    },
+    {
+        "HandBookID": 1025,
+        "MonsterID": 74,
+        "MonsterLevel": 30,
+        "ConfigType": "Power",
+        "MonsterName": "RobotAssistant"
+    },
+    {
+        "HandBookID": 1026,
+        "MonsterID": 75,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotAssistant"
+    },
+    {
+        "HandBookID": 1026,
+        "MonsterID": 76,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "RobotAssistant"
+    },
+    {
+        "HandBookID": 1028,
+        "MonsterID": 77,
+        "MonsterLevel": 10,
+        "ConfigType": "Default",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1028,
+        "MonsterID": 78,
+        "MonsterLevel": 10,
+        "ConfigType": "Power",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1029,
+        "MonsterID": 79,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1029,
+        "MonsterID": 80,
+        "MonsterLevel": 30,
+        "ConfigType": "CS_Power",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1030,
+        "MonsterID": 81,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1031,
+        "MonsterID": 82,
+        "MonsterLevel": 30,
+        "ConfigType": "Frost_Power",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1032,
+        "MonsterID": 83,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Extend",
+        "MonsterName": "RobotLauncher"
+    },
+    {
+        "HandBookID": 1033,
+        "MonsterID": 84,
+        "MonsterLevel": 4,
+        "ConfigType": "Default",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 1033,
+        "MonsterID": 85,
+        "MonsterLevel": 4,
+        "ConfigType": "Power",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 1034,
+        "MonsterID": 86,
+        "MonsterLevel": 4,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 1034,
+        "MonsterID": 87,
+        "MonsterLevel": 4,
+        "ConfigType": "CS_Power",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 1036,
+        "MonsterID": 88,
+        "MonsterLevel": 20,
+        "ConfigType": "Default",
+        "MonsterName": "RobotDeadGal"
+    },
+    {
+        "HandBookID": 1036,
+        "MonsterID": 89,
+        "MonsterLevel": 20,
+        "ConfigType": "Power",
+        "MonsterName": "RobotDeadGal"
+    },
+    {
+        "HandBookID": 1037,
+        "MonsterID": 90,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotDeadGal"
+    },
+    {
+        "HandBookID": 1037,
+        "MonsterID": 91,
+        "MonsterLevel": 20,
+        "ConfigType": "CS_Power",
+        "MonsterName": "RobotDeadGal"
+    },
+    {
+        "HandBookID": 1038,
+        "MonsterID": 92,
+        "MonsterLevel": 40,
+        "ConfigType": "Frost_Default",
+        "MonsterName": "RobotDeadGal"
+    },
+    {
+        "HandBookID": 1039,
+        "MonsterID": 93,
+        "MonsterLevel": 20,
+        "ConfigType": "Default",
+        "MonsterName": "RobotPoly"
+    },
+    {
+        "HandBookID": 1039,
+        "MonsterID": 94,
+        "MonsterLevel": 30,
+        "ConfigType": "Power",
+        "MonsterName": "RobotPoly"
+    },
+    {
+        "HandBookID": 1070,
+        "MonsterID": 95,
+        "MonsterLevel": 30,
+        "ConfigType": "Default",
+        "MonsterName": "RobotTCannon"
+    },
+    {
+        "HandBookID": 1072,
+        "MonsterID": 96,
+        "MonsterLevel": 30,
+        "ConfigType": "Dsword_Default",
+        "MonsterName": "RobotTNinja"
+    },
+    {
+        "HandBookID": 1073,
+        "MonsterID": 97,
+        "MonsterLevel": 40,
+        "ConfigType": "CannonShooter_Power",
+        "MonsterName": "RobotTCannon"
+    },
+    {
+        "HandBookID": 41,
+        "MonsterID": 1027,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "446"
+    },
+    {
+        "HandBookID": 34,
+        "MonsterID": 1029,
+        "MonsterLevel": 1008,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "471"
+    },
+    {
+        "HandBookID": 33,
+        "MonsterID": 1039,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "447"
+    },
+    {
+        "HandBookID": 35,
+        "MonsterID": 1042,
+        "MonsterLevel": 1003,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "472"
+    },
+    {
+        "HandBookID": 50,
+        "MonsterID": 1043,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "473"
+    },
+    {
+        "HandBookID": 44,
+        "MonsterID": 1045,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "448"
+    },
+    {
+        "HandBookID": 45,
+        "MonsterID": 1086,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "449"
+    },
+    {
+        "HandBookID": 37,
+        "MonsterID": 1100,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "450"
+    },
+    {
+        "HandBookID": 38,
+        "MonsterID": 1101,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "451"
+    },
+    {
+        "HandBookID": 40,
+        "MonsterID": 1102,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "452"
+    },
+    {
+        "HandBookID": 42,
+        "MonsterID": 1107,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "453"
+    },
+    {
+        "HandBookID": 47,
+        "MonsterID": 1125,
+        "MonsterLevel": 10001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "125"
+    },
+    {
+        "HandBookID": 36,
+        "MonsterID": 1126,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "126"
+    },
+    {
+        "HandBookID": 52,
+        "MonsterID": 1127,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "127"
+    },
+    {
+        "HandBookID": 43,
+        "MonsterID": 1128,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "454"
+    },
+    {
+        "HandBookID": 51,
+        "MonsterID": 1148,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "148"
+    },
+    {
+        "HandBookID": 46,
+        "MonsterID": 1161,
+        "MonsterLevel": 10004,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "161"
+    },
+    {
+        "HandBookID": 49,
+        "MonsterID": 1229,
+        "MonsterLevel": 10005,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "229"
+    },
+    {
+        "HandBookID": 39,
+        "MonsterID": 1259,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "455"
+    },
+    {
+        "HandBookID": 48,
+        "MonsterID": 1261,
+        "MonsterLevel": 7777,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "261"
+    },
+    {
+        "HandBookID": 23,
+        "MonsterID": 1301,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "456"
+    },
+    {
+        "HandBookID": 24,
+        "MonsterID": 1302,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "457"
+    },
+    {
+        "HandBookID": 62,
+        "MonsterID": 1303,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "458"
+    },
+    {
+        "HandBookID": 64,
+        "MonsterID": 1304,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "459"
+    },
+    {
+        "HandBookID": 65,
+        "MonsterID": 1305,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "460"
+    },
+    {
+        "HandBookID": 60,
+        "MonsterID": 1306,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "461"
+    },
+    {
+        "HandBookID": 77,
+        "MonsterID": 1307,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "464"
+    },
+    {
+        "HandBookID": 78,
+        "MonsterID": 1308,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "465"
+    },
+    {
+        "HandBookID": 79,
+        "MonsterID": 1309,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "466"
+    },
+    {
+        "HandBookID": 80,
+        "MonsterID": 1310,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "467"
+    },
+    {
+        "HandBookID": 10,
+        "MonsterID": 1311,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "468"
+    },
+    {
+        "HandBookID": 10,
+        "MonsterID": 1312,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "469"
+    },
+    {
+        "HandBookID": 10,
+        "MonsterID": 1313,
+        "MonsterLevel": 100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "470"
+    },
+    {
+        "HandBookID": 10,
+        "MonsterID": 1314,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "469"
+    },
+    {
+        "HandBookID": 10,
+        "MonsterID": 1315,
+        "MonsterLevel": 101,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "470"
+    },
+    {
+        "HandBookID": 13,
+        "MonsterID": 1401,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "474"
+    },
+    {
+        "HandBookID": 14,
+        "MonsterID": 1402,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "475"
+    },
+    {
+        "HandBookID": 23,
+        "MonsterID": 1403,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "476"
+    },
+    {
+        "HandBookID": 24,
+        "MonsterID": 1404,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "477"
+    },
+    {
+        "HandBookID": 62,
+        "MonsterID": 1405,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "478"
+    },
+    {
+        "HandBookID": 64,
+        "MonsterID": 1406,
+        "MonsterLevel": 1000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "479"
+    },
+    {
+        "HandBookID": 13,
+        "MonsterID": 1501,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "480"
+    },
+    {
+        "HandBookID": 14,
+        "MonsterID": 1502,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "481"
+    },
+    {
+        "HandBookID": 59,
+        "MonsterID": 1503,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "482"
+    },
+    {
+        "HandBookID": 62,
+        "MonsterID": 1504,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "483"
+    },
+    {
+        "HandBookID": 64,
+        "MonsterID": 1505,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "484"
+    },
+    {
+        "HandBookID": 83,
+        "MonsterID": 1506,
+        "MonsterLevel": 1004,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "485"
+    },
+    {
+        "HandBookID": 36,
+        "MonsterID": 1507,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "486"
+    },
+    {
+        "HandBookID": 52,
+        "MonsterID": 1508,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "487"
+    },
+    {
+        "HandBookID": 6,
+        "MonsterID": 1509,
+        "MonsterLevel": 1001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "488"
+    },
+    {
+        "HandBookID": 74,
+        "MonsterID": 1510,
+        "MonsterLevel": 1005,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "489"
+    },
+    {
+        "HandBookID": 36,
+        "MonsterID": 1601,
+        "MonsterLevel": 1002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "490"
+    },
+    {
+        "HandBookID": 52,
+        "MonsterID": 1602,
+        "MonsterLevel": 1002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "491"
+    },
+    {
+        "HandBookID": 6,
+        "MonsterID": 1603,
+        "MonsterLevel": 1002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "492"
+    },
+    {
+        "HandBookID": 74,
+        "MonsterID": 1604,
+        "MonsterLevel": 1049,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "493"
+    },
+    {
+        "HandBookID": 63,
+        "MonsterID": 1605,
+        "MonsterLevel": 1007,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "494"
+    },
+    {
+        "HandBookID": 47,
+        "MonsterID": 1606,
+        "MonsterLevel": 1002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "495"
+    },
+    {
+        "HandBookID": 46,
+        "MonsterID": 1607,
+        "MonsterLevel": 1051,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "496"
+    },
+    {
+        "HandBookID": 49,
+        "MonsterID": 1608,
+        "MonsterLevel": 1002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "497"
+    },
+    {
+        "HandBookID": 48,
+        "MonsterID": 1609,
+        "MonsterLevel": 1050,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "498"
+    },
+    {
+        "HandBookID": 84,
+        "MonsterID": 1610,
+        "MonsterLevel": 1100,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "499"
+    },
+    {
+        "HandBookID": 1068,
+        "MonsterID": 2000,
+        "MonsterLevel": 2000,
+        "ConfigType": "Default",
+        "MonsterName": "SpecialTreasure"
+    },
+    {
+        "HandBookID": 1069,
+        "MonsterID": 2001,
+        "MonsterLevel": 2001,
+        "ConfigType": "CS_Explode",
+        "MonsterName": "SpecialTreasure"
+    },
+    {
+        "HandBookID": 1062,
+        "MonsterID": 2101,
+        "MonsterLevel": 2101,
+        "ConfigType": "Default",
+        "MonsterName": "ModelSimple"
+    },
+    {
+        "HandBookID": 1063,
+        "MonsterID": 2102,
+        "MonsterLevel": 2101,
+        "ConfigType": "CS_Default",
+        "MonsterName": "ModelSimple"
+    },
+    {
+        "HandBookID": 1064,
+        "MonsterID": 2103,
+        "MonsterLevel": 2101,
+        "ConfigType": "CS_Extend",
+        "MonsterName": "ModelSimple"
+    },
+    {
+        "HandBookID": 1033,
+        "MonsterID": 2201,
+        "MonsterLevel": 2201,
+        "ConfigType": "Default",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 1034,
+        "MonsterID": 2202,
+        "MonsterLevel": 2202,
+        "ConfigType": "CS_Default",
+        "MonsterName": "RobotSpider"
+    },
+    {
+        "HandBookID": 35,
+        "MonsterID": 3000,
+        "MonsterLevel": 10002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "42"
+    },
+    {
+        "HandBookID": 50,
+        "MonsterID": 3001,
+        "MonsterLevel": 10003,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "43"
+    },
+    {
+        "HandBookID": 34,
+        "MonsterID": 3002,
+        "MonsterLevel": 10006,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "500"
+    },
+    {
+        "HandBookID": 35,
+        "MonsterID": 3003,
+        "MonsterLevel": 10006,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "501"
+    },
+    {
+        "HandBookID": 50,
+        "MonsterID": 3004,
+        "MonsterLevel": 10010,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "502"
+    },
+    {
+        "HandBookID": 55,
+        "MonsterID": 3005,
+        "MonsterLevel": 10007,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "503"
+    },
+    {
+        "HandBookID": 66,
+        "MonsterID": 3006,
+        "MonsterLevel": 10008,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "504"
+    },
+    {
+        "HandBookID": 68,
+        "MonsterID": 3007,
+        "MonsterLevel": 10009,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "505"
+    },
+    {
+        "HandBookID": 85,
+        "MonsterID": 4001,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "506"
+    },
+    {
+        "HandBookID": 86,
+        "MonsterID": 4002,
+        "MonsterLevel": 3004,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "507"
+    },
+    {
+        "HandBookID": 87,
+        "MonsterID": 4003,
+        "MonsterLevel": 3004,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "508"
+    },
+    {
+        "HandBookID": 97,
+        "MonsterID": 4004,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "520"
+    },
+    {
+        "HandBookID": 89,
+        "MonsterID": 4005,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "510"
+    },
+    {
+        "HandBookID": 90,
+        "MonsterID": 4006,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "511"
+    },
+    {
+        "HandBookID": 91,
+        "MonsterID": 4007,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "512"
+    },
+    {
+        "HandBookID": 93,
+        "MonsterID": 4008,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "514"
+    },
+    {
+        "HandBookID": 94,
+        "MonsterID": 4009,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "515"
+    },
+    {
+        "HandBookID": 95,
+        "MonsterID": 4010,
+        "MonsterLevel": 3000,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "516"
+    },
+    {
+        "HandBookID": 96,
+        "MonsterID": 4011,
+        "MonsterLevel": 3001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "517"
+    },
+    {
+        "HandBookID": 69,
+        "MonsterID": 4012,
+        "MonsterLevel": 3001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "518"
+    },
+    {
+        "HandBookID": 70,
+        "MonsterID": 4013,
+        "MonsterLevel": 3001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "519"
+    },
+    {
+        "HandBookID": 92,
+        "MonsterID": 4014,
+        "MonsterLevel": 3001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "513"
+    },
+    {
+        "HandBookID": 98,
+        "MonsterID": 4015,
+        "MonsterLevel": 3002,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "521"
+    },
+    {
+        "HandBookID": 59,
+        "MonsterID": 4016,
+        "MonsterLevel": 3003,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "522"
+    },
+    {
+        "HandBookID": 88,
+        "MonsterID": 4017,
+        "MonsterLevel": 3001,
+        "ConfigType": "uniqueMonster",
+        "MonsterName": "509"
+    }
+]

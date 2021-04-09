@@ -1,0 +1,212 @@
+[
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 101,
+        "FragmentID": 370101,
+        "GachaDisplayRarity": 4,
+        "QuantityLimit": 2999,
+        "Rarity": 3,
+        "ReturnMaterialID": 3129,
+        "ReturnMinStar": 0,
+        "ReturnNum": 75,
+        "DisplayDescription": {
+            "hash": 688041238
+        },
+        "DisplayTitle": {
+            "hash": 682766221
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10001",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10001",
+        "GachaGiftDropDisplayConfig": [
+            -6.0,
+            2.0,
+            56.0,
+            56.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            138.0,
+            138.0
+        ],
+        "ComeFromList": [
+            "<type=\"17|4;570\" text=\"EquipObtain_Source_Desc_Common_3\"/>",
+            "<type=\"23\" text=\"Obtain_Source_Desc_37010104\"/>",
+            "<type=\"17|1\" text=\"Obtain_Source_Desc_37010105\"/>",
+            "<type=\"17|5\" text=\"Obtain_Source_Desc_37010106\"/>"
+        ]
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 102,
+        "FragmentID": 370102,
+        "GachaDisplayRarity": 4,
+        "QuantityLimit": 2999,
+        "Rarity": 3,
+        "ReturnMaterialID": 3129,
+        "ReturnMinStar": 0,
+        "ReturnNum": 20,
+        "DisplayDescription": {
+            "hash": 688041239
+        },
+        "DisplayTitle": {
+            "hash": 682766222
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10002",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10002",
+        "GachaGiftDropDisplayConfig": [
+            -6.0,
+            2.0,
+            56.0,
+            56.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            138.0,
+            138.0
+        ],
+        "ComeFromList": [
+            "<type=\"31|30;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 103,
+        "FragmentID": 370103,
+        "GachaDisplayRarity": 15,
+        "QuantityLimit": 2999,
+        "Rarity": 4,
+        "ReturnMaterialID": 3134,
+        "ReturnMinStar": 7,
+        "ReturnNum": 30,
+        "DisplayDescription": {
+            "hash": 688041240
+        },
+        "DisplayTitle": {
+            "hash": 682766223
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10003",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10003",
+        "GachaGiftDropDisplayConfig": [
+            -6.0,
+            2.0,
+            56.0,
+            56.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            138.0,
+            138.0
+        ],
+        "ComeFromList": []
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 106,
+        "FragmentID": 370106,
+        "GachaDisplayRarity": 15,
+        "QuantityLimit": 2999,
+        "Rarity": 4,
+        "ReturnMaterialID": 3134,
+        "ReturnMinStar": 7,
+        "ReturnNum": 30,
+        "DisplayDescription": {
+            "hash": 688041243
+        },
+        "DisplayTitle": {
+            "hash": 682766226
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10006",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10006",
+        "GachaGiftDropDisplayConfig": [
+            -6.0,
+            2.0,
+            56.0,
+            56.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            138.0,
+            138.0
+        ],
+        "ComeFromList": []
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 108,
+        "FragmentID": 370108,
+        "GachaDisplayRarity": 15,
+        "QuantityLimit": 2999,
+        "Rarity": 4,
+        "ReturnMaterialID": 3134,
+        "ReturnMinStar": 7,
+        "ReturnNum": 30,
+        "DisplayDescription": {
+            "hash": 688041245
+        },
+        "DisplayTitle": {
+            "hash": 682766228
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10008",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10008",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "ComeFromList": []
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 109,
+        "FragmentID": 370109,
+        "GachaDisplayRarity": 15,
+        "QuantityLimit": 2999,
+        "Rarity": 4,
+        "ReturnMaterialID": 3134,
+        "ReturnMinStar": 7,
+        "ReturnNum": 30,
+        "DisplayDescription": {
+            "hash": 688041246
+        },
+        "DisplayTitle": {
+            "hash": 682766229
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10009",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10009",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "ComeFromList": []
+    },
+    {
+        "TagType": 7,
+        "BaseType": 2,
+        "ElfID": 110,
+        "FragmentID": 370110,
+        "GachaDisplayRarity": 15,
+        "QuantityLimit": 2999,
+        "Rarity": 4,
+        "ReturnMaterialID": 3134,
+        "ReturnMinStar": 7,
+        "ReturnNum": 30,
+        "DisplayDescription": {
+            "hash": 688041268
+        },
+        "DisplayTitle": {
+            "hash": 682766251
+        },
+        "IconPath": "SpriteOutput/ElfFragmentIcons/Elf_10010",
+        "ImagePath": "SpriteOutput/ElfFragmentFigures/Elf_10010",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "ComeFromList": [
+            "<type=\"7|26\" text=\"MaterialObtain_Desc_370110\"/>"
+        ]
+    }
+]
