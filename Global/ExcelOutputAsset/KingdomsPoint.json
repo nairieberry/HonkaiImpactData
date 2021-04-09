@@ -1,0 +1,1546 @@
+[
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 2,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1001,
+        "PointDesc": {
+            "hash": -1309888087
+        },
+        "PointTitle": {
+            "hash": -1309888087
+        },
+        "UIIndex": "1",
+        "NearPointList": [
+            1010,
+            1019
+        ],
+        "ParaList": [
+            142452
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 3,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1002,
+        "PointDesc": {
+            "hash": -1309888086
+        },
+        "PointTitle": {
+            "hash": -1309888086
+        },
+        "UIIndex": "2",
+        "NearPointList": [
+            1007,
+            1009
+        ],
+        "ParaList": [
+            142453
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 1,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1003,
+        "PointDesc": {
+            "hash": -1309888085
+        },
+        "PointTitle": {
+            "hash": -1309888085
+        },
+        "UIIndex": "3",
+        "NearPointList": [
+            1006,
+            1008
+        ],
+        "ParaList": [
+            142451
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1005,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "5",
+        "NearPointList": [
+            1018,
+            1010,
+            1022,
+            1019
+        ],
+        "ParaList": [
+            330273,
+            330275
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1006,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "6",
+        "NearPointList": [
+            1013,
+            1003,
+            1016
+        ],
+        "ParaList": [
+            142401,
+            142422
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1007,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "7",
+        "NearPointList": [
+            1016,
+            1002,
+            1021
+        ],
+        "ParaList": [
+            142402,
+            142423
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1008,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "8",
+        "NearPointList": [
+            1011,
+            1003,
+            1013
+        ],
+        "ParaList": [
+            142403,
+            142424
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1009,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "9",
+        "NearPointList": [
+            1021,
+            1002,
+            1020
+        ],
+        "ParaList": [
+            142404,
+            142425
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1010,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "10",
+        "NearPointList": [
+            1011,
+            1001,
+            1005
+        ],
+        "ParaList": [
+            142405,
+            142426
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1011,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "11",
+        "NearPointList": [
+            1022,
+            1008,
+            1010,
+            1012
+        ],
+        "ParaList": [
+            330274,
+            330276
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1012,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "12",
+        "NearPointList": [
+            1013,
+            1022,
+            1011
+        ],
+        "ParaList": [
+            142406,
+            142427
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1013,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "13",
+        "NearPointList": [
+            1014,
+            1006,
+            1008,
+            1012
+        ],
+        "ParaList": [
+            330277,
+            330279
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1014,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "14",
+        "NearPointList": [
+            1013,
+            1016,
+            1015
+        ],
+        "ParaList": [
+            142407,
+            142428
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1015,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "15",
+        "NearPointList": [
+            1014,
+            1016,
+            1021
+        ],
+        "ParaList": [
+            142408,
+            142429
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1016,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "16",
+        "NearPointList": [
+            1015,
+            1006,
+            1007,
+            1014
+        ],
+        "ParaList": [
+            330278,
+            330280
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1017,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "17",
+        "NearPointList": [
+            1020,
+            1021,
+            1018
+        ],
+        "ParaList": [
+            142409,
+            142430
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1018,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "18",
+        "NearPointList": [
+            1017,
+            1020,
+            1005
+        ],
+        "ParaList": [
+            142410,
+            142431
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1019,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "19",
+        "NearPointList": [
+            1001,
+            1020,
+            1005
+        ],
+        "ParaList": [
+            142411,
+            142432
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1020,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "20",
+        "NearPointList": [
+            1009,
+            1018,
+            1017,
+            1019
+        ],
+        "ParaList": [
+            330287,
+            330289
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 3,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1021,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "21",
+        "NearPointList": [
+            1007,
+            1009,
+            1017,
+            1015
+        ],
+        "ParaList": [
+            330288,
+            330290
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 1,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 1022,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "22",
+        "NearPointList": [
+            1012,
+            1005,
+            1011
+        ],
+        "ParaList": [
+            142412,
+            142433
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 6,
+        "ExchangeScore": 100,
+        "OccupyMinScore": 90000,
+        "PointID": 2001,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 0
+        },
+        "UIIndex": "1",
+        "NearPointList": [],
+        "ParaList": [
+            142443,
+            142444
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 1,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 0,
+        "OccupyMinScore": 0,
+        "PointID": 7001,
+        "PointDesc": {
+            "hash": 342186841
+        },
+        "PointTitle": {
+            "hash": 1583091312
+        },
+        "UIIndex": "1",
+        "NearPointList": [
+            7004,
+            7005
+        ],
+        "ParaList": [
+            142541,
+            142542,
+            142641,
+            142642,
+            142941,
+            142942
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 2,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 0,
+        "OccupyMinScore": 0,
+        "PointID": 7002,
+        "PointDesc": {
+            "hash": 342186842
+        },
+        "PointTitle": {
+            "hash": 1583091313
+        },
+        "UIIndex": "2",
+        "NearPointList": [
+            7006,
+            7007
+        ],
+        "ParaList": [
+            142543,
+            142544,
+            142643,
+            142644,
+            142943,
+            142944
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 3,
+        "KingdomsID": 3,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 0,
+        "OccupyMinScore": 0,
+        "PointID": 7003,
+        "PointDesc": {
+            "hash": 342186843
+        },
+        "PointTitle": {
+            "hash": 1583091314
+        },
+        "UIIndex": "3",
+        "NearPointList": [
+            7008,
+            7009
+        ],
+        "ParaList": [
+            142545,
+            142546,
+            142645,
+            142646,
+            142945,
+            142946
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7004,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091315
+        },
+        "UIIndex": "4",
+        "NearPointList": [
+            7001,
+            7010,
+            7015
+        ],
+        "ParaList": [
+            142547,
+            142548,
+            142647,
+            142648,
+            142947,
+            142948
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7005,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091316
+        },
+        "UIIndex": "5",
+        "NearPointList": [
+            7001,
+            7010,
+            7013
+        ],
+        "ParaList": [
+            142549,
+            142550,
+            142649,
+            142650,
+            142949,
+            142950
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7006,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091317
+        },
+        "UIIndex": "6",
+        "NearPointList": [
+            7002,
+            7011,
+            7013
+        ],
+        "ParaList": [
+            142551,
+            142552,
+            142651,
+            142652,
+            142951,
+            142952
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7007,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091318
+        },
+        "UIIndex": "7",
+        "NearPointList": [
+            7002,
+            7011,
+            7014
+        ],
+        "ParaList": [
+            142553,
+            142554,
+            142653,
+            142654,
+            142953,
+            142954
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7008,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091319
+        },
+        "UIIndex": "8",
+        "NearPointList": [
+            7003,
+            7012,
+            7014
+        ],
+        "ParaList": [
+            142555,
+            142556,
+            142655,
+            142656,
+            142955,
+            142956
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7009,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091320
+        },
+        "UIIndex": "9",
+        "NearPointList": [
+            7003,
+            7012,
+            7015
+        ],
+        "ParaList": [
+            142557,
+            142558,
+            142657,
+            142658,
+            142957,
+            142958
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7010,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091342
+        },
+        "UIIndex": "10",
+        "NearPointList": [
+            7004,
+            7005,
+            7016
+        ],
+        "ParaList": [
+            142501,
+            142502,
+            142503,
+            142504,
+            142601,
+            142602,
+            142603,
+            142604,
+            142901,
+            142902,
+            142903,
+            142904
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7011,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091343
+        },
+        "UIIndex": "11",
+        "NearPointList": [
+            7006,
+            7007,
+            7017
+        ],
+        "ParaList": [
+            142505,
+            142506,
+            142507,
+            142508,
+            142605,
+            142606,
+            142607,
+            142608,
+            142905,
+            142906,
+            142907,
+            142908
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7012,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091344
+        },
+        "UIIndex": "12",
+        "NearPointList": [
+            7008,
+            7009,
+            7018
+        ],
+        "ParaList": [
+            142509,
+            142510,
+            142511,
+            142512,
+            142609,
+            142610,
+            142611,
+            142612,
+            142909,
+            142910,
+            142911,
+            142912
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 2,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 2,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 56000000,
+        "PointID": 7013,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091345
+        },
+        "UIIndex": "13",
+        "NearPointList": [
+            7005,
+            7006
+        ],
+        "ParaList": [
+            142529,
+            142530,
+            142531,
+            142532,
+            142629,
+            142630,
+            142631,
+            142632,
+            142929,
+            142930,
+            142931,
+            142932
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 2,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 2,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 56000000,
+        "PointID": 7014,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091346
+        },
+        "UIIndex": "14",
+        "NearPointList": [
+            7007,
+            7008
+        ],
+        "ParaList": [
+            142533,
+            142534,
+            142535,
+            142536,
+            142633,
+            142634,
+            142635,
+            142636,
+            142933,
+            142934,
+            142935,
+            142936
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 2,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 2,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 56000000,
+        "PointID": 7015,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091347
+        },
+        "UIIndex": "15",
+        "NearPointList": [
+            7004,
+            7009
+        ],
+        "ParaList": [
+            142537,
+            142538,
+            142539,
+            142540,
+            142637,
+            142638,
+            142639,
+            142640,
+            142937,
+            142938,
+            142939,
+            142940
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7016,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091348
+        },
+        "UIIndex": "16",
+        "NearPointList": [
+            7010,
+            7017,
+            7018,
+            7019
+        ],
+        "ParaList": [
+            142559,
+            142560,
+            142659,
+            142660,
+            142959,
+            142960
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7017,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091349
+        },
+        "UIIndex": "17",
+        "NearPointList": [
+            7011,
+            7020,
+            7016,
+            7018
+        ],
+        "ParaList": [
+            142561,
+            142562,
+            142661,
+            142662,
+            142961,
+            142962
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 1,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 1,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 46000000,
+        "PointID": 7018,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091350
+        },
+        "UIIndex": "18",
+        "NearPointList": [
+            7012,
+            7016,
+            7017,
+            7021
+        ],
+        "ParaList": [
+            142563,
+            142564,
+            142663,
+            142664,
+            142963,
+            142964
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7019,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091351
+        },
+        "UIIndex": "19",
+        "NearPointList": [
+            7016,
+            7020,
+            7021
+        ],
+        "ParaList": [
+            142513,
+            142514,
+            142515,
+            142516,
+            142613,
+            142614,
+            142615,
+            142616,
+            142913,
+            142914,
+            142915,
+            142916
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7020,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091373
+        },
+        "UIIndex": "20",
+        "NearPointList": [
+            7017,
+            7019,
+            7021
+        ],
+        "ParaList": [
+            142517,
+            142518,
+            142519,
+            142520,
+            142617,
+            142618,
+            142619,
+            142620,
+            142917,
+            142918,
+            142919,
+            142920
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 1
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 1,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 1,
+        "ExchangeStaminaNum": 5,
+        "renown": 3,
+        "ExchangeScore": 1500,
+        "OccupyMinScore": 29000000,
+        "PointID": 7021,
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": 1583091374
+        },
+        "UIIndex": "21",
+        "NearPointList": [
+            7018,
+            7019,
+            7020
+        ],
+        "ParaList": [
+            142521,
+            142522,
+            142523,
+            142524,
+            142621,
+            142622,
+            142623,
+            142624,
+            142921,
+            142922,
+            142923,
+            142924
+        ],
+        "ExchangeCostMaterialList": [
+            {
+                "ID": 114292,
+                "Num": 10
+            }
+        ],
+        "bits1": 0
+    },
+    {
+        "DisplayDifficult": 3,
+        "PointType": 4,
+        "KingdomsID": 0,
+        "DanmakuID": 0,
+        "ExchangeKindomsWarStaminaNum": 0,
+        "ExchangeStaminaNum": 0,
+        "renown": 0,
+        "ExchangeScore": 0,
+        "OccupyMinScore": 0,
+        "PointID": 7101,
+        "PointDesc": {
+            "hash": 342187802
+        },
+        "PointTitle": {
+            "hash": 1583092273
+        },
+        "UIIndex": "22",
+        "NearPointList": [],
+        "ParaList": [
+            142801,
+            142802,
+            142803,
+            142804,
+            142805,
+            142806,
+            142807,
+            142808,
+            142809
+        ],
+        "ExchangeCostMaterialList": [],
+        "bits1": 0
+    }
+]

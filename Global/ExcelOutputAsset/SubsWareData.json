@@ -1,0 +1,68 @@
+[
+    {
+        "Sort": 1,
+        "SubsDur": 30,
+        "SubsID": 1,
+        "BGImg": "SpriteOutput/Subscription/sub1_30days2",
+        "Desc": "",
+        "Name": "SubsWareName_MonthlyPass_Hcoin1",
+        "ProductName": "glbsubcaptainm1tier4v35",
+        "Promo": "",
+        "Renewal": ""
+    },
+    {
+        "Sort": 2,
+        "SubsDur": 90,
+        "SubsID": 1,
+        "BGImg": "SpriteOutput/Subscription/sub1_90days2",
+        "Desc": "",
+        "Name": "SubsWareName_SeasonPass_Hcoin1",
+        "ProductName": "glbsubcaptainm3tier10v35",
+        "Promo": "",
+        "Renewal": ""
+    },
+    {
+        "Sort": 3,
+        "SubsDur": 180,
+        "SubsID": 1,
+        "BGImg": "SpriteOutput/Subscription/sub1_180days2",
+        "Desc": "",
+        "Name": "SubsWareName_YearPass_Hcoin1",
+        "ProductName": "glbsubcaptainm6tier18v35",
+        "Promo": "",
+        "Renewal": ""
+    },
+    {
+        "Sort": 1,
+        "SubsDur": 30,
+        "SubsID": 2,
+        "BGImg": "SpriteOutput/Subscription/sub2_30days2",
+        "Desc": "",
+        "Name": "SubsWareName_MonthlyPass_Hcoin2",
+        "ProductName": "glbsubvalkyriem1tier10v35",
+        "Promo": "",
+        "Renewal": ""
+    },
+    {
+        "Sort": 2,
+        "SubsDur": 90,
+        "SubsID": 2,
+        "BGImg": "SpriteOutput/Subscription/sub2_90days2",
+        "Desc": "",
+        "Name": "SubsWareName_SeasonPass_Hcoin2",
+        "ProductName": "glbsubvalkyriem3tier26v35",
+        "Promo": "",
+        "Renewal": ""
+    },
+    {
+        "Sort": 3,
+        "SubsDur": 180,
+        "SubsID": 2,
+        "BGImg": "SpriteOutput/Subscription/sub2_180days2",
+        "Desc": "",
+        "Name": "SubsWareName_YearPass_Hcoin2",
+        "ProductName": "glbsubvalkyriem6tier48v35",
+        "Promo": "",
+        "Renewal": ""
+    }
+]

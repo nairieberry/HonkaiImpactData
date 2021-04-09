@@ -1,0 +1,614 @@
+[
+    {
+        "AvatarID": 103,
+        "TextPositionType": 1,
+        "WeaponID": 24034,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Kiana_C4_YN/_dependencies/Animation/Avatar_Kiana_C4_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Kiana_C4_YN/Avatar_Kiana_C4_YN_UI",
+        "AvatarWinAnim": "Entities/Avatar/Kiana_C4_YN/_dependencies/Animation/Avatar_Kiana_C4_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Kiana/KianaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.1212,
+                "AudioPattern": "VO_GACHA_Kia_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 111,
+        "TextPositionType": 1,
+        "WeaponID": 24084,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Kallen_Common/_dependencies/Animation/Avatar_Kallen_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Kallen_C1_KT/Avatar_Kallen_C1_KT_UI",
+        "AvatarWinAnim": "Entities/Avatar/Kallen_Common/_dependencies/Animation/Avatar_Kallen_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Kallen/KallenWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.3564,
+                "AudioPattern": "VO_GACHA_Kal_C1"
+            }
+        ],
+        "FaceAnimation": [
+            {
+                "Time": 0.0,
+                "FaceAnimation": "Kal_Winning"
+            }
+        ],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 113,
+        "TextPositionType": 1,
+        "WeaponID": 24114,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "Entities/Avatar/Kiana_C5_YL/_dependencies/Animation/Add_Ani_Kiana_C5_WeaponOff",
+        "AvatarAddWinAnim": "Entities/Avatar/Kiana_C5_YL/_dependencies/Animation/Add_Ani_Kiana_C5_WeaponOff",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Kiana_C5_YL/_dependencies/Animation/Avatar_Kiana_C5_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Kiana_C5_YL/Avatar_Kiana_C5_YL_UI",
+        "AvatarWinAnim": "Entities/Avatar/Kiana_C5_YL/_dependencies/Animation/Avatar_Kiana_C5_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Kiana/KianaC5WinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.1005967,
+                "AudioPattern": "VO_GACHA_Kia_C5"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 204,
+        "TextPositionType": 1,
+        "WeaponID": 24024,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Mei_C4_LD/_dependencies/Animation/Avatar_Mei_C4_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Mei_C4_LD/Avatar_Mei_C4_LD_UI",
+        "AvatarWinAnim": "Entities/Avatar/Mei_C4_LD/_dependencies/Animation/Avatar_Mei_C4_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Mei/MeiWinAnimationShortBlade",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.71785,
+                "AudioPattern": "VO_GACHA_Mei_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 205,
+        "TextPositionType": 2,
+        "WeaponID": 24024,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Mei_C5_AC/_dependencies/Animation/Avatar_Mei_C5_Ani_UI_BornIdle",
+        "AvatarUIPath": "Entities/Avatar/Mei_C5_AC/Avatar_Mei_C5_AC_UI_new",
+        "AvatarWinAnim": "Entities/Avatar/Mei_C5_AC/_dependencies/Animation/Avatar_Mei_C5_Ani_UI_Born",
+        "CameraAnimPath": "AuxObject/CameraAnim/Mei/MeiC5UIEnterAnimation_new",
+        "StagePath": "Stage/Stage_SenBa_College/Stage_SenBa_College_Roof_UI",
+        "AudioPattern": [
+            {
+                "Time": 0.71785,
+                "AudioPattern": "VO_GACHA_Mei_C5"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 212,
+        "TextPositionType": 1,
+        "WeaponID": 24014,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "_shared/Entities/Avatar/Sakura_Common/Animation/Avatar_Yae_sakura_Ani_win_idle",
+        "AvatarUIPath": "Entities/Avatar/Sakura_C2_ZF/Avatar_Sakura_C2_ZF_UI",
+        "AvatarWinAnim": "_shared/Entities/Avatar/Sakura_Common/Animation/Avatar_Yae_sakura_Ani_win",
+        "CameraAnimPath": "AuxObject/CameraAnim/Sakura/SakuraWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.1666666,
+                "AudioPattern": "VO_GACHA_Sak_C2"
+            },
+            {
+                "Time": 0.9333333,
+                "AudioPattern": "Avatar_Sakura_Swd_Return_long"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 304,
+        "TextPositionType": 1,
+        "WeaponID": 20120,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Bronya_C4_BX/_dependencies/Animation/Avatar_Bronya_C4_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Bronya_C4_BX/Avatar_Bronya_C4_BX_UI",
+        "AvatarWinAnim": "Entities/Avatar/Bronya_C4_BX/_dependencies/Animation/Avatar_Bronya_C4_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Bronya/BronyaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.234,
+                "AudioPattern": "VO_GACHA_Bro_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 312,
+        "TextPositionType": 1,
+        "WeaponID": 20846,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "_shared/Entities/Avatar/Bronya_C3/Animation/Avatar_Bronya_C3_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Bronya_C6_HH/Avatar_Bronya_C6_HH_UI",
+        "AvatarWinAnim": "_shared/Entities/Avatar/Bronya_C3/Animation/Avatar_Bronya_C3_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Bronya/BronyaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.234,
+                "AudioPattern": "VO_GACHA_Bro_C6"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 313,
+        "TextPositionType": 1,
+        "WeaponID": 21054,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Bronya_C7_GZ/_dependencies/Animation/Avatar_Bronya_C7_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Bronya_C7_GZ/Avatar_Bronya_C7_GZ_UI",
+        "AvatarWinAnim": "Entities/Avatar/Bronya_C7_GZ/_dependencies/Animation/Avatar_Bronya_C7_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Bronya/BronyaC7WinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.169,
+                "AudioPattern": "VO_GACHA_Bro_C7"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 404,
+        "TextPositionType": 1,
+        "WeaponID": 20156,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Himeko_Common/_dependencies/Animation/Avatar_Himeko_Ani_Victory_01_Idle",
+        "AvatarUIPath": "Entities/Avatar/Himeko_C4_BZ/Avatar_Himeko_C4_BZ_UI",
+        "AvatarWinAnim": "Entities/Avatar/Himeko_Common/_dependencies/Animation/Avatar_Himeko_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Himeko/HimekoWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.108,
+                "AudioPattern": "VO_GACHA_Him_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 412,
+        "TextPositionType": 1,
+        "WeaponID": 21084,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Himeko_Common/_dependencies/Animation/Avatar_Himeko_Ani_Victory_01_Idle_SD",
+        "AvatarUIPath": "Entities/Avatar/Himeko_C6_SD/Avatar_Himeko_C6_SD_UI",
+        "AvatarWinAnim": "Entities/Avatar/Himeko_Common/_dependencies/Animation/Avatar_Himeko_Ani_Victory_01_SD",
+        "CameraAnimPath": "AuxObject/CameraAnim/Himeko/HimekoWinAnimation_C6",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.2135417,
+                "AudioPattern": "VO_GACHA_Him_C6"
+            },
+            {
+                "Time": 0.6666666,
+                "AudioPattern": "Avatar_Himeko_Win_Show"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 422,
+        "TextPositionType": 1,
+        "WeaponID": 20549,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Twins_C2_BS/_dependencies/Animation/Avatar_Twins_C2_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Twins_C2_BS/Avatar_Twins_C2_BS_UI",
+        "AvatarWinAnim": "Entities/Avatar/Twins_C2_BS/_dependencies/Animation/Avatar_Twins_C2_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Twins/TwinsWinAnimationC2",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.2608667,
+                "AudioPattern": "VO_GACHA_Twi_C2"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 502,
+        "TextPositionType": 1,
+        "WeaponID": 20467,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "Entities/Avatar/Theresa_Common/_dependencies/AnimationAdd/Add_Ani_Theresa_Victory_Loop_Sync",
+        "AvatarAddWinAnim": "Entities/Avatar/Theresa_Common/_dependencies/AnimationAdd/Add_Ani_Theresa_Victory_Sync",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Theresa_Common/_dependencies/Animation/Avatar_Theresa_Ani_Victory_01_idle",
+        "AvatarUIPath": "Entities/Avatar/Theresa_C2_TP/Avatar_Theresa_C2_TP_UI",
+        "AvatarWinAnim": "Entities/Avatar/Theresa_Common/_dependencies/Animation/Avatar_Theresa_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Theresa/TheresaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.2883998,
+                "AudioPattern": "VO_GACHA_The_C2"
+            }
+        ],
+        "FaceAnimation": [
+            {
+                "Time": 0.0,
+                "FaceAnimation": "winning"
+            }
+        ],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 504,
+        "TextPositionType": 1,
+        "WeaponID": 24044,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "Entities/Avatar/Theresa_Common/_dependencies/AnimationAdd/Add_Ani_Theresa_Victory_Loop_Sync",
+        "AvatarAddWinAnim": "Entities/Avatar/Theresa_Common/_dependencies/AnimationAdd/Add_Ani_Theresa_Victory_Sync",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Theresa_Common/_dependencies/Animation/Avatar_Theresa_Ani_Victory_01_idle",
+        "AvatarUIPath": "Entities/Avatar/Theresa_C4_JX/Avatar_Theresa_C4_JX_UI",
+        "AvatarWinAnim": "Entities/Avatar/Theresa_Common/_dependencies/Animation/Avatar_Theresa_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Theresa/TheresaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.2883998,
+                "AudioPattern": "VO_GACHA_The_C4"
+            }
+        ],
+        "FaceAnimation": [
+            {
+                "Time": 0.0,
+                "FaceAnimation": "winning"
+            }
+        ],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 602,
+        "TextPositionType": 1,
+        "WeaponID": 24064,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Fuka_Common/_dependencies/Animation/Avatar_Fuka_Ani_Victory_idle",
+        "AvatarUIPath": "Entities/Avatar/Fuka_C2_NL/Avatar_Fuka_C2_NL_UI",
+        "AvatarWinAnim": "Entities/Avatar/Fuka_Common/_dependencies/Animation/Avatar_Fuka_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Fuka/FukaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.7726833,
+                "AudioPattern": "VO_GACHA_Fuk_C2"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 604,
+        "TextPositionType": 1,
+        "WeaponID": 20754,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Fuka_Common/_dependencies/Animation/Avatar_Fuka_Ani_Victory_idle",
+        "AvatarUIPath": "Entities/Avatar/Fuka_C4_JW/Avatar_Fuka_C4_JW_UI",
+        "AvatarWinAnim": "Entities/Avatar/Fuka_Common/_dependencies/Animation/Avatar_Fuka_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Fuka/FukaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.7726833,
+                "AudioPattern": "VO_GACHA_Fuk_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 611,
+        "TextPositionType": 1,
+        "WeaponID": 21164,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Fuka_C5_IN/_dependencies/Animation/Avatar_Fuka_Ani_C5_VictoryIdle",
+        "AvatarUIPath": "Entities/Avatar/Fuka_C5_IN/Avatar_Fuka_C5_IN_UI",
+        "AvatarWinAnim": "Entities/Avatar/Fuka_C5_IN/_dependencies/Animation/Avatar_Fuka_Ani_C5_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Fuka/FukaWinAnimationC5",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.6166834,
+                "AudioPattern": "VO_GACHA_Fuk_C5"
+            },
+            {
+                "Time": 2.3381,
+                "AudioPattern": "Avatar_Fuka_IN_Victory"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 704,
+        "TextPositionType": 1,
+        "WeaponID": 24094,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "Entities/Avatar/Rita_Common/_dependencies/AnimationAdd/Add_Ani_Rita_Scythe_Sync_Victory",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Rita_Common/_dependencies/Animation/Avatar_Rita_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Rita_C4_DQ/Avatar_Rita_C4_DQ_UI",
+        "AvatarWinAnim": "Entities/Avatar/Rita_Common/_dependencies/Animation/Avatar_Rita_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Rita/RitaWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.08,
+                "AudioPattern": "VO_GACHA_Rit_C4"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 712,
+        "TextPositionType": 1,
+        "WeaponID": 21094,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "",
+        "AvatarAddWinAnim": "",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaCommonController",
+        "AvatarIdleAnim": "Entities/Avatar/Seele_Common/_dependencies/Animation/Avatar_Seele_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Seele_C2_HY/Avatar_Seele_C2_HY_UI",
+        "AvatarWinAnim": "Entities/Avatar/Seele_Common/_dependencies/Animation/Avatar_Seele_Ani_Victory_01",
+        "CameraAnimPath": "AuxObject/CameraAnim/Seele/SeeleWinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 0.7076,
+                "AudioPattern": "VO_GACHA_See_C2"
+            }
+        ],
+        "FaceAnimation": [
+            {
+                "Time": 0.0,
+                "FaceAnimation": "Seele_C2_W_Winning"
+            }
+        ],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AvatarID": 802,
+        "TextPositionType": 1,
+        "WeaponID": 21224,
+        "TextShowDelay": 3.0,
+        "AvatarAddIdleAnim": "_shared/Entities/Avatar/Durandal_C2/Animation/Durandal_C2_Animation/Durandal_C2_LayerAnimation/AddLayer_Avatar_Durandal_C2_VictoryIdle",
+        "AvatarAddWinAnim": "_shared/Entities/Avatar/Durandal_C2/Animation/Durandal_C2_Animation/Durandal_C2_LayerAnimation/AddLayer_Avatar_Durandal_C2_Victory",
+        "AvatarAnimatorControllerPath": "Entities/Avatar/Gacha_Common/AvatarGachaBlendShapeCommonController",
+        "AvatarIdleAnim": "_shared/Entities/Avatar/Durandal_C2/Animation/Durandal_C2_Animation/Avatar_Durandal_C2_Ani_Victory_Idle",
+        "AvatarUIPath": "Entities/Avatar/Durandal_C2_GD/Avatar_Durandal_C2_GD_UI",
+        "AvatarWinAnim": "_shared/Entities/Avatar/Durandal_C2/Animation/Durandal_C2_Animation/Avatar_Durandal_C2_Ani_Victory",
+        "CameraAnimPath": "AuxObject/CameraAnim/Durandal/DurandalC2WinAnimation",
+        "StagePath": "Stage/GachaV2/Stages/Avatar_Gacha_Stage",
+        "AudioPattern": [
+            {
+                "Time": 1.12,
+                "AudioPattern": "VO_GACHA_Dur_C2"
+            }
+        ],
+        "FaceAnimation": [],
+        "StageOffset": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+]

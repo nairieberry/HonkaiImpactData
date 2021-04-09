@@ -1,0 +1,861 @@
+[
+    {
+        "BuffID": 1001,
+        "EnvironmentID": 101,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 339746894
+        },
+        "EnvironmentNameText": {
+            "hash": 504850964
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/101",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1002,
+        "EnvironmentID": 102,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 2,
+        "EnvironmentDescText": {
+            "hash": 339746895
+        },
+        "EnvironmentNameText": {
+            "hash": 504850965
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/122",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1003,
+        "EnvironmentID": 103,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 3,
+        "EnvironmentDescText": {
+            "hash": 339746896
+        },
+        "EnvironmentNameText": {
+            "hash": 504850966
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/104",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1004,
+        "EnvironmentID": 104,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 4,
+        "EnvironmentDescText": {
+            "hash": 339746897
+        },
+        "EnvironmentNameText": {
+            "hash": 504850967
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/121",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1005,
+        "EnvironmentID": 105,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 5,
+        "EnvironmentDescText": {
+            "hash": 339746898
+        },
+        "EnvironmentNameText": {
+            "hash": 504850968
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/141",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1006,
+        "EnvironmentID": 106,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 6,
+        "EnvironmentDescText": {
+            "hash": 339746899
+        },
+        "EnvironmentNameText": {
+            "hash": 504850969
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/123",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1007,
+        "EnvironmentID": 110,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 7,
+        "EnvironmentDescText": {
+            "hash": 339746924
+        },
+        "EnvironmentNameText": {
+            "hash": 504850994
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1007",
+        "DownTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 768633344
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1008,
+        "EnvironmentID": 111,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 8,
+        "EnvironmentDescText": {
+            "hash": 339746925
+        },
+        "EnvironmentNameText": {
+            "hash": 504850995
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1008",
+        "DownTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": -974176991
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1009,
+        "EnvironmentID": 112,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 9,
+        "EnvironmentDescText": {
+            "hash": 339746926
+        },
+        "EnvironmentNameText": {
+            "hash": 504850996
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1009",
+        "DownTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": -1783523617
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1010,
+        "EnvironmentID": 113,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 10,
+        "EnvironmentDescText": {
+            "hash": 339746927
+        },
+        "EnvironmentNameText": {
+            "hash": 504850997
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1010",
+        "DownTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1577979970
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1011,
+        "EnvironmentID": 114,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 11,
+        "EnvironmentDescText": {
+            "hash": 339746928
+        },
+        "EnvironmentNameText": {
+            "hash": 504850998
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1011",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1012,
+        "EnvironmentID": 115,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 12,
+        "EnvironmentDescText": {
+            "hash": 339746929
+        },
+        "EnvironmentNameText": {
+            "hash": 504850999
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1012",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1013,
+        "EnvironmentID": 116,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 13,
+        "EnvironmentDescText": {
+            "hash": 339746930
+        },
+        "EnvironmentNameText": {
+            "hash": 504851000
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1013",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1014,
+        "EnvironmentID": 117,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 14,
+        "EnvironmentDescText": {
+            "hash": 339746931
+        },
+        "EnvironmentNameText": {
+            "hash": 504851001
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/141",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1015,
+        "EnvironmentID": 118,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 15,
+        "EnvironmentDescText": {
+            "hash": 339746932
+        },
+        "EnvironmentNameText": {
+            "hash": 504851002
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/141",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1011,
+        "EnvironmentID": 119,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 16,
+        "EnvironmentDescText": {
+            "hash": 339746933
+        },
+        "EnvironmentNameText": {
+            "hash": 504851003
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1011",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1012,
+        "EnvironmentID": 120,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 17,
+        "EnvironmentDescText": {
+            "hash": 339746955
+        },
+        "EnvironmentNameText": {
+            "hash": 504851025
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1012",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 1007,
+        "EnvironmentID": 121,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 18,
+        "EnvironmentDescText": {
+            "hash": 339746956
+        },
+        "EnvironmentNameText": {
+            "hash": 504851026
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1007",
+        "DownTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 768633344
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1009,
+        "EnvironmentID": 122,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 19,
+        "EnvironmentDescText": {
+            "hash": 339746957
+        },
+        "EnvironmentNameText": {
+            "hash": 504851027
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1009",
+        "DownTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": -1783523617
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1010,
+        "EnvironmentID": 123,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 20,
+        "EnvironmentDescText": {
+            "hash": 339746958
+        },
+        "EnvironmentNameText": {
+            "hash": 504851028
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1010",
+        "DownTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1577979970
+                }
+            }
+        ],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 1016,
+        "EnvironmentID": 124,
+        "ExtraBuffID": 0,
+        "MonsterTypeID": 21,
+        "EnvironmentDescText": {
+            "hash": 339746959
+        },
+        "EnvironmentNameText": {
+            "hash": 504851029
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1021",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 2001,
+        "EnvironmentID": 1000,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219139
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489283
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1014",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2002,
+        "EnvironmentID": 1001,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219140
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489282
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1015",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2003,
+        "EnvironmentID": 1002,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219141
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489281
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1016",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2004,
+        "EnvironmentID": 1003,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219142
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489280
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1017",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2005,
+        "EnvironmentID": 1004,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219143
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489279
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1019",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 2006,
+        "EnvironmentID": 1005,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219144
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489278
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1018",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            },
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            },
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2007,
+        "EnvironmentID": 1006,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942219145
+        },
+        "EnvironmentNameText": {
+            "hash": -1529489277
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1020",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 2001,
+        "EnvironmentID": 1100,
+        "ExtraBuffID": 3003,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220100
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488322
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1014",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2002,
+        "EnvironmentID": 1101,
+        "ExtraBuffID": 3002,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220101
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488321
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1015",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2003,
+        "EnvironmentID": 1102,
+        "ExtraBuffID": 3005,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220102
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488320
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1016",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2004,
+        "EnvironmentID": 1103,
+        "ExtraBuffID": 3004,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220103
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488319
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1017",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2007,
+        "EnvironmentID": 1104,
+        "ExtraBuffID": 3001,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220104
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488318
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1020",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2001,
+        "EnvironmentID": 1105,
+        "ExtraBuffID": 3001,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220105
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488317
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1014",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2002,
+        "EnvironmentID": 1106,
+        "ExtraBuffID": 3001,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220106
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488316
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1015",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2003,
+        "EnvironmentID": 1107,
+        "ExtraBuffID": 3001,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220107
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488315
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1016",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2004,
+        "EnvironmentID": 1108,
+        "ExtraBuffID": 3001,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942220108
+        },
+        "EnvironmentNameText": {
+            "hash": -1529488314
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1017",
+        "DownTagList": [],
+        "UpTagList": []
+    },
+    {
+        "BuffID": 2001,
+        "EnvironmentID": 2000,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942248930
+        },
+        "EnvironmentNameText": {
+            "hash": -1529459492
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1014",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": 1931672334
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2002,
+        "EnvironmentID": 2001,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942248931
+        },
+        "EnvironmentNameText": {
+            "hash": -1529459491
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1015",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": 1903043183
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2003,
+        "EnvironmentID": 2002,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942248932
+        },
+        "EnvironmentNameText": {
+            "hash": -1529459490
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1016",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": 1960301485
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2004,
+        "EnvironmentID": 2003,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942248933
+        },
+        "EnvironmentNameText": {
+            "hash": -1529459489
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1017",
+        "DownTagList": [],
+        "UpTagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": 1874414032
+                }
+            }
+        ]
+    },
+    {
+        "BuffID": 2007,
+        "EnvironmentID": 2004,
+        "ExtraBuffID": 3000,
+        "MonsterTypeID": 1,
+        "EnvironmentDescText": {
+            "hash": 1942248934
+        },
+        "EnvironmentNameText": {
+            "hash": -1529459488
+        },
+        "EnvironmentIconPath": "SpriteOutput/OpenWorld/WeatherType/1020",
+        "DownTagList": [],
+        "UpTagList": []
+    }
+]

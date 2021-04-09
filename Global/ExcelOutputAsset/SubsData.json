@@ -1,0 +1,30 @@
+[
+    {
+        "SubsID": 1,
+        "DetailImg": "SpriteOutput/ShopIcons/HardCoinTier60",
+        "DetailTitle": "SubsDetailTitle_MonthlyPass_HCoin",
+        "EntryDesc": "SubsEntryDesc_MonthlyPass_HCoin",
+        "EntryImg": "SpriteOutput/Subscription/PicPackageSubcription01",
+        "EntryName": "SubsEntryName_MonthlyPass_HCoin",
+        "BenefitList": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "SubsID": 2,
+        "DetailImg": "SpriteOutput/ShopIcons/HardCoinTier60",
+        "DetailTitle": "SubsDetailTitle_MonthlyPass_Hero",
+        "EntryDesc": "SubsEntryDesc_MonthlyPass_Hero",
+        "EntryImg": "SpriteOutput/Subscription/PicPackageSubcription02",
+        "EntryName": "SubsEntryName_MonthlyPass_Hero",
+        "BenefitList": [
+            5,
+            6,
+            7,
+            8
+        ]
+    }
+]

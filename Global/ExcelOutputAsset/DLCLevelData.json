@@ -1,0 +1,782 @@
+[
+    {
+        "exp": 400,
+        "level": 1,
+        "reward": 0,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 6000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 530,
+        "level": 2,
+        "reward": 955002,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 6200
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 640,
+        "level": 3,
+        "reward": 955003,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 6400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 740,
+        "level": 4,
+        "reward": 955004,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 6600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 840,
+        "level": 5,
+        "reward": 955005,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 6800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    },
+    {
+        "exp": 930,
+        "level": 6,
+        "reward": 955006,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 7000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1010,
+        "level": 7,
+        "reward": 955007,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 7200
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1090,
+        "level": 8,
+        "reward": 955008,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 7400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 0
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1170,
+        "level": 9,
+        "reward": 955009,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 7600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1250,
+        "level": 10,
+        "reward": 955010,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 7800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    },
+    {
+        "exp": 1320,
+        "level": 11,
+        "reward": 955011,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 8400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1400,
+        "level": 12,
+        "reward": 955012,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 8600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1470,
+        "level": 13,
+        "reward": 955013,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 8800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1540,
+        "level": 14,
+        "reward": 955014,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 9000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1610,
+        "level": 15,
+        "reward": 955015,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 9200
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    },
+    {
+        "exp": 1700,
+        "level": 16,
+        "reward": 955016,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 9400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 1850,
+        "level": 17,
+        "reward": 955017,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 9600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 1
+            },
+            {
+                "ItemID": 811,
+                "Limit": 1
+            },
+            {
+                "ItemID": 812,
+                "Limit": 1
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 2000,
+        "level": 18,
+        "reward": 955018,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 10000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 2
+            },
+            {
+                "ItemID": 811,
+                "Limit": 2
+            },
+            {
+                "ItemID": 812,
+                "Limit": 2
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 2250,
+        "level": 19,
+        "reward": 955019,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 10400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 2
+            },
+            {
+                "ItemID": 811,
+                "Limit": 2
+            },
+            {
+                "ItemID": 812,
+                "Limit": 2
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 2500,
+        "level": 20,
+        "reward": 955020,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 10800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 2
+            },
+            {
+                "ItemID": 811,
+                "Limit": 2
+            },
+            {
+                "ItemID": 812,
+                "Limit": 2
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    },
+    {
+        "exp": 2750,
+        "level": 21,
+        "reward": 955021,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 11200
+            },
+            {
+                "ItemID": 810,
+                "Limit": 2
+            },
+            {
+                "ItemID": 811,
+                "Limit": 2
+            },
+            {
+                "ItemID": 812,
+                "Limit": 2
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 3000,
+        "level": 22,
+        "reward": 955022,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 11600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 2
+            },
+            {
+                "ItemID": 811,
+                "Limit": 2
+            },
+            {
+                "ItemID": 812,
+                "Limit": 2
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 3250,
+        "level": 23,
+        "reward": 955023,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 12000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 3
+            },
+            {
+                "ItemID": 811,
+                "Limit": 3
+            },
+            {
+                "ItemID": 812,
+                "Limit": 3
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 3500,
+        "level": 24,
+        "reward": 955024,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 12400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 3
+            },
+            {
+                "ItemID": 811,
+                "Limit": 3
+            },
+            {
+                "ItemID": 812,
+                "Limit": 3
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 3800,
+        "level": 25,
+        "reward": 955025,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 12800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 3
+            },
+            {
+                "ItemID": 811,
+                "Limit": 3
+            },
+            {
+                "ItemID": 812,
+                "Limit": 3
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    },
+    {
+        "exp": 4100,
+        "level": 26,
+        "reward": 955026,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 13200
+            },
+            {
+                "ItemID": 810,
+                "Limit": 3
+            },
+            {
+                "ItemID": 811,
+                "Limit": 3
+            },
+            {
+                "ItemID": 812,
+                "Limit": 3
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 4400,
+        "level": 27,
+        "reward": 955027,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 13600
+            },
+            {
+                "ItemID": 810,
+                "Limit": 3
+            },
+            {
+                "ItemID": 811,
+                "Limit": 3
+            },
+            {
+                "ItemID": 812,
+                "Limit": 3
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 4700,
+        "level": 28,
+        "reward": 955028,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 14000
+            },
+            {
+                "ItemID": 810,
+                "Limit": 4
+            },
+            {
+                "ItemID": 811,
+                "Limit": 4
+            },
+            {
+                "ItemID": 812,
+                "Limit": 4
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 5000,
+        "level": 29,
+        "reward": 955029,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 14400
+            },
+            {
+                "ItemID": 810,
+                "Limit": 4
+            },
+            {
+                "ItemID": 811,
+                "Limit": 4
+            },
+            {
+                "ItemID": 812,
+                "Limit": 4
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 0
+    },
+    {
+        "exp": 5300,
+        "level": 30,
+        "reward": 955030,
+        "MaterialDropLimitAddedList": [
+            {
+                "ItemID": 801,
+                "Limit": 14800
+            },
+            {
+                "ItemID": 810,
+                "Limit": 4
+            },
+            {
+                "ItemID": 811,
+                "Limit": 4
+            },
+            {
+                "ItemID": 812,
+                "Limit": 4
+            }
+        ],
+        "UnlockTalentTips": [],
+        "UnlockSysTips": [],
+        "bits1": 1
+    }
+]

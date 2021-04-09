@@ -1,0 +1,59 @@
+[
+    {
+        "UnlockLevel": 30,
+        "ID": 1,
+        "DisplayMaterialID": 1110,
+        "MaxTimesPerDay": 99999,
+        "ScoreMaterialID": 114261,
+        "ScoreMaterialNum": 7,
+        "TicketMaterialID": 114260,
+        "DisplayAvatarIDList": [],
+        "StageList": [
+            310140,
+            310141,
+            310142,
+            310143,
+            310144,
+            310145,
+            310146
+        ]
+    },
+    {
+        "UnlockLevel": 30,
+        "ID": 2,
+        "DisplayMaterialID": 114274,
+        "MaxTimesPerDay": 99999,
+        "ScoreMaterialID": 114261,
+        "ScoreMaterialNum": 7,
+        "TicketMaterialID": 114260,
+        "DisplayAvatarIDList": [],
+        "StageList": [
+            310140,
+            310141,
+            310142,
+            310143,
+            310144,
+            310145,
+            310146
+        ]
+    },
+    {
+        "UnlockLevel": 20,
+        "ID": 3,
+        "DisplayMaterialID": 0,
+        "MaxTimesPerDay": 3,
+        "ScoreMaterialID": 0,
+        "ScoreMaterialNum": 0,
+        "TicketMaterialID": 0,
+        "DisplayAvatarIDList": [],
+        "StageList": [
+            310170,
+            310171,
+            310172,
+            310173,
+            310174,
+            310175,
+            310176
+        ]
+    }
+]

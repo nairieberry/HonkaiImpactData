@@ -1,0 +1,584 @@
+[
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1001,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:103:104",
+            "106:107:108:109",
+            "111:112:113:114",
+            "116:117:118:119"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1002,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:103:104",
+            "106:107:108:109",
+            "111:112:113:114",
+            "116:117:118:119"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1003,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2303:104:105",
+            "106:107:108:109:2310",
+            "111:112:2313:114:115",
+            "116:117:118:2319"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1004,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2403:104:3405",
+            "106:107:3408:109:2410",
+            "111:112:2413:114:3415",
+            "116:2417:118:3419"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1005,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2503:104:3505",
+            "106:107:3508:109:2510",
+            "111:112:2513:114:3515",
+            "116:2517:118:3519"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1006,
+        "BossScoreConfig": [
+            131,
+            132,
+            133,
+            134
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2603:104:3605",
+            "106:107:3608:109:2610",
+            "111:112:2613:114:3615",
+            "116:2617:118:3619"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1007,
+        "BossScoreConfig": [
+            131,
+            132,
+            133,
+            134
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2703:104:3705",
+            "106:107:3708:109:2710",
+            "111:112:2713:114:3715",
+            "116:2717:118:3719"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1008,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2303:104:105",
+            "106:107:108:109:2310",
+            "111:112:2313:114:115",
+            "116:117:118:2319"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1009,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2403:104:3405",
+            "106:107:3408:109:2410",
+            "111:112:2413:114:3415",
+            "116:2417:118:3419"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1010,
+        "BossScoreConfig": [
+            121,
+            122,
+            123,
+            124
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2503:104:3505",
+            "106:107:3508:109:2510",
+            "111:112:2513:114:3515",
+            "116:2517:118:3519"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1011,
+        "BossScoreConfig": [
+            131,
+            132,
+            133,
+            134
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2603:104:3605",
+            "106:107:3608:109:2610",
+            "111:112:2613:114:3615",
+            "116:2617:118:3619"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1012,
+        "BossScoreConfig": [
+            131,
+            132,
+            133,
+            134
+        ],
+        "MonsterScoreConfig": [
+            "101:102:2703:104:3705",
+            "106:107:3708:109:2710",
+            "111:112:2713:114:3715",
+            "116:2717:118:3719"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1101,
+        "BossScoreConfig": [
+            124
+        ],
+        "MonsterScoreConfig": [
+            "116:2517:118:3519"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1102,
+        "BossScoreConfig": [
+            134
+        ],
+        "MonsterScoreConfig": [
+            "116:2617:118:3619"
+        ]
+    },
+    {
+        "Type": 2,
+        "AreaScoreConfigID": 1103,
+        "BossScoreConfig": [
+            134
+        ],
+        "MonsterScoreConfig": [
+            "116:2717:118:3719"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2001,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "10000:10100:10200:10300:10",
+            "10400:10500:10600:10700:11",
+            "10800:10900:11000:11100:12",
+            "11200:11300:11400:11500:13"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2002,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "20000:20100:20200:20300:20",
+            "20400:20500:20600:20700:21",
+            "20800:20900:21000:21100:22",
+            "21200:21300:21400:21500:23"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2003,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "30000:30100:30200:30300:30",
+            "30400:30500:30600:30700:31",
+            "30800:30900:31000:31100:32",
+            "31200:31300:31400:31500:33"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2004,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "40000:40100:40200:40300:40",
+            "40400:40500:40600:40700:41",
+            "40800:40900:41000:41100:42",
+            "41200:41300:41400:41500:43"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2005,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "50000:50100:50200:50300:50",
+            "50400:50500:50600:50700:51",
+            "50800:50900:51000:51100:52"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2006,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "60000:60100:60200:60300:60",
+            "60400:60500:60600:60700:61",
+            "60800:60900:61000:61100:62"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2007,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "70000:70100:70200:70300:70",
+            "70400:70500:70600:70700:71",
+            "70800:70900:71000:71100:72"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2008,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "80000:80100:80200:80300:80",
+            "80400:80500:80600:80700:81",
+            "60800:80900:81000:81100:82"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2011,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "110000:110100:110200:110300:1110",
+            "110400:110500:110600:110700:1111",
+            "110800:110900:111000:111100:1112",
+            "111200:111300:111400:111500:1113"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2012,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "120000:120100:120200:120300:1120",
+            "120400:120500:120600:120700:1121",
+            "120800:120900:121000:121100:1122",
+            "121200:121300:121400:121500:1123"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2013,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "130000:130100:130200:130300:1130",
+            "130400:130500:130600:130700:1131",
+            "130800:130900:131000:131100:1132",
+            "131200:131300:131400:131500:1133"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2014,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "140000:140100:140200:140300:1140",
+            "140400:140500:140600:140700:1141",
+            "140800:140900:141000:141100:1142",
+            "141200:141300:141400:141500:1143"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2100,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "11200:11300:11400:11500:13"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2101,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:23"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2102,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "31200:31300:31400:31500:33"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2103,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "41200:41300:41400:41500:43"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2104,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "50800:50900:51000:51100:52"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2105,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "60800:60900:61000:61100:62"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2106,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "70800:70900:71000:71100:72"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2107,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "60800:80900:81000:81100:82"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2110,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "111200:111300:111400:111500:1113"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2111,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "121200:121300:121400:121500:1123"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2112,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "131200:131300:131400:131500:1133"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 2113,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "141200:141300:141400:141500:1143"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4095,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2041"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4096,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2050"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4097,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "31200:31300:31400:31500:2060"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4098,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2070"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4099,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2080"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4100,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "11200:11300:11400:11500:2083"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4101,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2081"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4102,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "31200:31300:31400:31500:2082"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4103,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2084"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4104,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2085"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4105,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2086"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4106,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2087"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4107,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2088"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4108,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2089"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4109,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2090"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4110,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2091"
+        ]
+    },
+    {
+        "Type": 3,
+        "AreaScoreConfigID": 4111,
+        "BossScoreConfig": [],
+        "MonsterScoreConfig": [
+            "21200:21300:21400:21500:2092"
+        ]
+    }
+]

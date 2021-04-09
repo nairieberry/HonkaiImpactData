@@ -1,0 +1,328 @@
+[
+    {
+        "StageID": 210106,
+        "A_MonsterTypes": [
+            3
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            1
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [
+            2
+        ],
+        "C_Position": [
+            120,
+            20
+        ]
+    },
+    {
+        "StageID": 210111,
+        "A_MonsterTypes": [
+            3
+        ],
+        "A_Position": [
+            140,
+            -120
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            20,
+            -110
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            -80,
+            70
+        ]
+    },
+    {
+        "StageID": 210116,
+        "A_MonsterTypes": [
+            1,
+            2
+        ],
+        "A_Position": [
+            -80,
+            80
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            0,
+            -80
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            80,
+            80
+        ]
+    },
+    {
+        "StageID": 214107,
+        "A_MonsterTypes": [
+            1
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            3
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [],
+        "C_Position": []
+    },
+    {
+        "StageID": 214809,
+        "A_MonsterTypes": [
+            1
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            3
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [
+            2
+        ],
+        "C_Position": [
+            120,
+            20
+        ]
+    },
+    {
+        "StageID": 215301,
+        "A_MonsterTypes": [
+            1
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            3
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [
+            2
+        ],
+        "C_Position": [
+            120,
+            20
+        ]
+    },
+    {
+        "StageID": 220106,
+        "A_MonsterTypes": [
+            3
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            1
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [
+            2
+        ],
+        "C_Position": [
+            120,
+            20
+        ]
+    },
+    {
+        "StageID": 220111,
+        "A_MonsterTypes": [
+            3,
+            1
+        ],
+        "A_Position": [
+            140,
+            -120
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            20,
+            -110
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            -80,
+            70
+        ]
+    },
+    {
+        "StageID": 220116,
+        "A_MonsterTypes": [
+            1,
+            2
+        ],
+        "A_Position": [
+            -80,
+            80
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            0,
+            -80
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            80,
+            80
+        ]
+    },
+    {
+        "StageID": 224107,
+        "A_MonsterTypes": [
+            1
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            3
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [],
+        "C_Position": []
+    },
+    {
+        "StageID": 224115,
+        "A_MonsterTypes": [
+            1
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            3
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [],
+        "C_Position": []
+    },
+    {
+        "StageID": 230106,
+        "A_MonsterTypes": [
+            3
+        ],
+        "A_Position": [
+            -20,
+            -20
+        ],
+        "B_MonsterTypes": [
+            1
+        ],
+        "B_Position": [
+            -60,
+            -120
+        ],
+        "C_MonsterTypes": [
+            2
+        ],
+        "C_Position": [
+            120,
+            20
+        ]
+    },
+    {
+        "StageID": 230111,
+        "A_MonsterTypes": [
+            3,
+            1
+        ],
+        "A_Position": [
+            140,
+            -120
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            20,
+            -110
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            -80,
+            70
+        ]
+    },
+    {
+        "StageID": 230116,
+        "A_MonsterTypes": [
+            1,
+            2
+        ],
+        "A_Position": [
+            -80,
+            80
+        ],
+        "B_MonsterTypes": [
+            2
+        ],
+        "B_Position": [
+            0,
+            -80
+        ],
+        "C_MonsterTypes": [
+            1
+        ],
+        "C_Position": [
+            80,
+            80
+        ]
+    }
+]

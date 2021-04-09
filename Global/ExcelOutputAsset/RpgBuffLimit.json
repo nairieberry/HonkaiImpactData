@@ -1,0 +1,453 @@
+[
+    {
+        "ID": 1101,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600406;17|1103,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1102,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1101,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1102,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1102,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1103,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600404",
+        "CostContent": [
+            {
+                "Count": 10,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1103,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1103,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1103,
+        "Level": 3,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1103,2",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1104,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1105,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1104,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1104,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1105,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600410;17|1106,1",
+        "CostContent": [
+            {
+                "Count": 10,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1105,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1105,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1105,
+        "Level": 3,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1105,2",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1106,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600405",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1106,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1106,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1107,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "",
+        "CostContent": [
+            {
+                "Count": 10,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1107,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1107,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1107,
+        "Level": 3,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1107,2",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1108,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600403",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1109,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1108,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1109,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1109,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1110,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "18|20,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1110,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1110,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1111,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600401",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1112,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1111,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1113,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "18|20,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119,1120,1121",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1114,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600407",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1114,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1114,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1115,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1114,1",
+        "CostContent": [
+            {
+                "Count": 10,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1115,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1115,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1115,
+        "Level": 3,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1115,2",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1116,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600412;17|1115,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1117,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600411;17|1118,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1118,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600409",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1118,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1118,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1119,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600402",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1120,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "8|600408;17|1119,1",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1121,
+        "Level": 1,
+        "TaleID": 6001,
+        "UnlockFlagList": "2|84145",
+        "CostContent": []
+    },
+    {
+        "ID": 1121,
+        "Level": 2,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1121,1",
+        "CostContent": [
+            {
+                "Count": 20,
+                "MaterialID": 114679
+            }
+        ]
+    },
+    {
+        "ID": 1121,
+        "Level": 3,
+        "TaleID": 6001,
+        "UnlockFlagList": "17|1121,2",
+        "CostContent": [
+            {
+                "Count": 30,
+                "MaterialID": 114679
+            }
+        ]
+    }
+]

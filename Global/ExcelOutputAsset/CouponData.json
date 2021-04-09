@@ -1,0 +1,38 @@
+[
+    {
+        "CouponNeedPrice": 65,
+        "CouponValue": 5,
+        "IsShow": 1,
+        "MaterialID": 1061043,
+        "SortId": 3,
+        "BeginTime": "2021-03-05 04:00:00",
+        "EndTime": "2021-04-02 12:00:00",
+        "CouponTypeList": [
+            15
+        ]
+    },
+    {
+        "CouponNeedPrice": 130,
+        "CouponValue": 10,
+        "IsShow": 1,
+        "MaterialID": 1061044,
+        "SortId": 2,
+        "BeginTime": "2021-03-05 04:00:00",
+        "EndTime": "2021-04-02 12:00:00",
+        "CouponTypeList": [
+            15
+        ]
+    },
+    {
+        "CouponNeedPrice": 330,
+        "CouponValue": 30,
+        "IsShow": 1,
+        "MaterialID": 1061045,
+        "SortId": 1,
+        "BeginTime": "2021-03-05 04:00:00",
+        "EndTime": "2021-04-02 12:00:00",
+        "CouponTypeList": [
+            15
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "CookDailyTimes": 40,
+        "CookGroupID": 1,
+        "CookID": 1,
+        "CookPoint": 10,
+        "CookProduce": 1509004,
+        "CookTotalTimes": 40,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_4",
+        "CookName": "Textmap_CookName_4",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118004
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 50,
+        "CookGroupID": 1,
+        "CookID": 2,
+        "CookPoint": 10,
+        "CookProduce": 1509004,
+        "CookTotalTimes": 50,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_5",
+        "CookName": "Textmap_CookName_5",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118005
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 12,
+        "CookGroupID": 1,
+        "CookID": 3,
+        "CookPoint": 80,
+        "CookProduce": 1509002,
+        "CookTotalTimes": 12,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_1",
+        "CookName": "Textmap_CookName_1",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118005
+            },
+            {
+                "Count": 1,
+                "ID": 118006
+            },
+            {
+                "Count": 1,
+                "ID": 118007
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 5,
+        "CookGroupID": 1,
+        "CookID": 4,
+        "CookPoint": 240,
+        "CookProduce": 1509001,
+        "CookTotalTimes": 5,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_2",
+        "CookName": "Textmap_CookName_2",
+        "CookConsumeList1": [
+            {
+                "Count": 2,
+                "ID": 118004
+            },
+            {
+                "Count": 3,
+                "ID": 118005
+            },
+            {
+                "Count": 3,
+                "ID": 118006
+            },
+            {
+                "Count": 3,
+                "ID": 118007
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 30,
+        "CookGroupID": 1,
+        "CookID": 5,
+        "CookPoint": 30,
+        "CookProduce": 1509003,
+        "CookTotalTimes": 30,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_3",
+        "CookName": "Textmap_CookName_3",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118006
+            },
+            {
+                "Count": 1,
+                "ID": 118007
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 50,
+        "CookGroupID": 1,
+        "CookID": 6,
+        "CookPoint": 10,
+        "CookProduce": 1509004,
+        "CookTotalTimes": 50,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_6",
+        "CookName": "Textmap_CookName_6",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118006
+            }
+        ]
+    },
+    {
+        "CookDailyTimes": 60,
+        "CookGroupID": 1,
+        "CookID": 7,
+        "CookPoint": 10,
+        "CookProduce": 1509004,
+        "CookTotalTimes": 60,
+        "CookType": 1,
+        "CookDesc": "Textmap_CookDesc_7",
+        "CookName": "Textmap_CookName_7",
+        "CookConsumeList1": [
+            {
+                "Count": 1,
+                "ID": 118007
+            }
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "SlotID": 1,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114201,
+        "SlotDesc": {
+            "hash": -871057564
+        },
+        "SlotName": {
+            "hash": -588636962
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune01",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            1,
+            2
+        ],
+        "SpUnlockLevel": [
+            2,
+            4
+        ]
+    },
+    {
+        "SlotID": 2,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114202,
+        "SlotDesc": {
+            "hash": -871057563
+        },
+        "SlotName": {
+            "hash": -588636961
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune02",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            3,
+            4
+        ],
+        "SpUnlockLevel": [
+            4,
+            7
+        ]
+    },
+    {
+        "SlotID": 3,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114203,
+        "SlotDesc": {
+            "hash": -871057562
+        },
+        "SlotName": {
+            "hash": -588636960
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune03",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            5,
+            6
+        ],
+        "SpUnlockLevel": [
+            4,
+            7
+        ]
+    },
+    {
+        "SlotID": 4,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114204,
+        "SlotDesc": {
+            "hash": -871057561
+        },
+        "SlotName": {
+            "hash": -588636959
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune04",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            7,
+            8
+        ],
+        "SpUnlockLevel": [
+            4,
+            7
+        ]
+    },
+    {
+        "SlotID": 5,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114205,
+        "SlotDesc": {
+            "hash": -871057560
+        },
+        "SlotName": {
+            "hash": -588636958
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune05",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            9,
+            10
+        ],
+        "SpUnlockLevel": [
+            4,
+            7
+        ]
+    },
+    {
+        "SlotID": 6,
+        "StrengthenExp": 1,
+        "CostMaterialID": 114206,
+        "SlotDesc": {
+            "hash": -871057559
+        },
+        "SlotName": {
+            "hash": -588636957
+        },
+        "SlotIcon": "SpriteOutput/Ninja/IconRuneFigures/IconRune06",
+        "OptionValue": [
+            5.0,
+            10.0
+        ],
+        "OptionalEffect": [
+            11,
+            12
+        ],
+        "SpUnlockLevel": [
+            4,
+            7
+        ]
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "Difficulty": 1,
+        "ID": 1,
+        "Reward": 968001,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 1,
+        "ID": 2,
+        "Reward": 968002,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 1,
+        "ID": 3,
+        "Reward": 968003,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 1,
+        "ID": 4,
+        "Reward": 968004,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 1,
+        "ID": 5,
+        "Reward": 968005,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 2,
+        "ID": 6,
+        "Reward": 968011,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 2,
+        "ID": 7,
+        "Reward": 968012,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 2,
+        "ID": 8,
+        "Reward": 968013,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 2,
+        "ID": 9,
+        "Reward": 968014,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 2,
+        "ID": 10,
+        "Reward": 968015,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 3,
+        "ID": 11,
+        "Reward": 968021,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 3,
+        "ID": 12,
+        "Reward": 968022,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 3,
+        "ID": 13,
+        "Reward": 968023,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 3,
+        "ID": 14,
+        "Reward": 968024,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 3,
+        "ID": 15,
+        "Reward": 968025,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 4,
+        "ID": 16,
+        "Reward": 968031,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 4,
+        "ID": 17,
+        "Reward": 968032,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 4,
+        "ID": 18,
+        "Reward": 968033,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 4,
+        "ID": 19,
+        "Reward": 968034,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 4,
+        "ID": 20,
+        "Reward": 968035,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 5,
+        "ID": 21,
+        "Reward": 968041,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 5,
+        "ID": 22,
+        "Reward": 968042,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 5,
+        "ID": 23,
+        "Reward": 968043,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 5,
+        "ID": 24,
+        "Reward": 968044,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 5,
+        "ID": 25,
+        "Reward": 968045,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 6,
+        "ID": 26,
+        "Reward": 968051,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 6,
+        "ID": 27,
+        "Reward": 968052,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 6,
+        "ID": 28,
+        "Reward": 968053,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 6,
+        "ID": 29,
+        "Reward": 968054,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 6,
+        "ID": 30,
+        "Reward": 968055,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 7,
+        "ID": 31,
+        "Reward": 968061,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 7,
+        "ID": 32,
+        "Reward": 968062,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 7,
+        "ID": 33,
+        "Reward": 968063,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 7,
+        "ID": 34,
+        "Reward": 968064,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 7,
+        "ID": 35,
+        "Reward": 968065,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 8,
+        "ID": 36,
+        "Reward": 968071,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 8,
+        "ID": 37,
+        "Reward": 968072,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 8,
+        "ID": 38,
+        "Reward": 968073,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 8,
+        "ID": 39,
+        "Reward": 968074,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 8,
+        "ID": 40,
+        "Reward": 968075,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 9,
+        "ID": 41,
+        "Reward": 968081,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 9,
+        "ID": 42,
+        "Reward": 968082,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 9,
+        "ID": 43,
+        "Reward": 968083,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 9,
+        "ID": 44,
+        "Reward": 968084,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 9,
+        "ID": 45,
+        "Reward": 968085,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "Difficulty": 10,
+        "ID": 46,
+        "Reward": 968091,
+        "Stage": 1,
+        "Desc": {
+            "hash": 1976341987
+        },
+        "TimeDisplayed": {
+            "hash": 264226948
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SSS"
+    },
+    {
+        "Difficulty": 10,
+        "ID": 47,
+        "Reward": 968092,
+        "Stage": 2,
+        "Desc": {
+            "hash": 150783953
+        },
+        "TimeDisplayed": {
+            "hash": 580006863
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_SS"
+    },
+    {
+        "Difficulty": 10,
+        "ID": 48,
+        "Reward": 968093,
+        "Stage": 3,
+        "Desc": {
+            "hash": -1656670510
+        },
+        "TimeDisplayed": {
+            "hash": 728740644
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "Difficulty": 10,
+        "ID": 49,
+        "Reward": 968094,
+        "Stage": 4,
+        "Desc": {
+            "hash": 830842323
+        },
+        "TimeDisplayed": {
+            "hash": -1096817390
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "Difficulty": 10,
+        "ID": 50,
+        "Reward": 968095,
+        "Stage": 5,
+        "Desc": {
+            "hash": -976612140
+        },
+        "TimeDisplayed": {
+            "hash": 1390695443
+        },
+        "Icon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "maxlevel": 85,
+        "minlevel": 6,
+        "rewardID": 16501102,
+        "BGTitle": {
+            "hash": 937685230
+        },
+        "Reference": {
+            "hash": 866617862
+        },
+        "smalltext": {
+            "hash": -112731687
+        },
+        "BannerPic": "",
+        "BGpic": "event/Immediately/01_update",
+        "product_name": "globalfdboxtier10",
+        "smallpic": "SpriteOutput\\ShopTabIcons\\IconShopConfidential",
+        "NewbieActivityScheduleID": []
+    },
+    {
+        "maxlevel": 85,
+        "minlevel": 20,
+        "rewardID": 6906,
+        "BGTitle": {
+            "hash": 937685230
+        },
+        "Reference": {
+            "hash": 866617862
+        },
+        "smalltext": {
+            "hash": -112731687
+        },
+        "BannerPic": "event/Immediately/newbie37/xinshou",
+        "BGpic": "SpriteOutput/Newcomer/Bg_Rebate",
+        "product_name": "globalfdboxtier13",
+        "smallpic": "SpriteOutput\\ShopTabIcons\\IconShopConfidential",
+        "NewbieActivityScheduleID": [
+            114
+        ]
+    }
+]

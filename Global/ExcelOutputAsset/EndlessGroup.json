@@ -1,0 +1,418 @@
+[
+    {
+        "demoteRank": 21,
+        "demoteRewardID": 0,
+        "groupHardLevel": 1,
+        "groupLevel": 11,
+        "maxLevel": 15,
+        "maxSkipLevel": 6,
+        "minSkipLevel": 1,
+        "normalRewardID": 41102,
+        "playerGroup": 1,
+        "promoteRank": 7,
+        "prototeRewardID": 41101,
+        "baseHardLevel": 8.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176780
+        },
+        "groupName": {
+            "hash": -106180485
+        },
+        "normalDesc": {
+            "hash": -798154407
+        },
+        "promoteDesc": {
+            "hash": 786934588
+        },
+        "bgColor": "#4DB10080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3b",
+        "unSelectColor": "#b4d35bFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 41203,
+        "groupHardLevel": 2,
+        "groupLevel": 12,
+        "maxLevel": 15,
+        "maxSkipLevel": 6,
+        "minSkipLevel": 1,
+        "normalRewardID": 41202,
+        "playerGroup": 1,
+        "promoteRank": 5,
+        "prototeRewardID": 41201,
+        "baseHardLevel": 16.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176781
+        },
+        "groupName": {
+            "hash": -106180484
+        },
+        "normalDesc": {
+            "hash": -798154406
+        },
+        "promoteDesc": {
+            "hash": 786934589
+        },
+        "bgColor": "#2896FA80",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4b",
+        "unSelectColor": "#18c7feFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 41303,
+        "groupHardLevel": 3,
+        "groupLevel": 13,
+        "maxLevel": 15,
+        "maxSkipLevel": 6,
+        "minSkipLevel": 1,
+        "normalRewardID": 41302,
+        "playerGroup": 1,
+        "promoteRank": 3,
+        "prototeRewardID": 41301,
+        "baseHardLevel": 30.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176782
+        },
+        "groupName": {
+            "hash": -106180483
+        },
+        "normalDesc": {
+            "hash": -798154405
+        },
+        "promoteDesc": {
+            "hash": 786934590
+        },
+        "bgColor": "#FF7D009B",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5b",
+        "unSelectColor": "#ff9900FF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5"
+    },
+    {
+        "demoteRank": 11,
+        "demoteRewardID": 41403,
+        "groupHardLevel": 4,
+        "groupLevel": 14,
+        "maxLevel": 15,
+        "maxSkipLevel": 6,
+        "minSkipLevel": 1,
+        "normalRewardID": 41402,
+        "playerGroup": 1,
+        "promoteRank": 0,
+        "prototeRewardID": 0,
+        "baseHardLevel": 35.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176783
+        },
+        "groupName": {
+            "hash": -106180482
+        },
+        "normalDesc": {
+            "hash": -798154404
+        },
+        "promoteDesc": {
+            "hash": 786934591
+        },
+        "bgColor": "#FF000080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6b",
+        "unSelectColor": "#ff6d6dFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6"
+    },
+    {
+        "demoteRank": 21,
+        "demoteRewardID": 0,
+        "groupHardLevel": 2,
+        "groupLevel": 21,
+        "maxLevel": 20,
+        "maxSkipLevel": 8,
+        "minSkipLevel": 1,
+        "normalRewardID": 42102,
+        "playerGroup": 2,
+        "promoteRank": 7,
+        "prototeRewardID": 42101,
+        "baseHardLevel": 30.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176780
+        },
+        "groupName": {
+            "hash": -106180485
+        },
+        "normalDesc": {
+            "hash": -798154407
+        },
+        "promoteDesc": {
+            "hash": 786934588
+        },
+        "bgColor": "#4DB10080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3b",
+        "unSelectColor": "#b4d35bFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 42203,
+        "groupHardLevel": 3,
+        "groupLevel": 22,
+        "maxLevel": 20,
+        "maxSkipLevel": 8,
+        "minSkipLevel": 1,
+        "normalRewardID": 42202,
+        "playerGroup": 2,
+        "promoteRank": 5,
+        "prototeRewardID": 42201,
+        "baseHardLevel": 35.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176781
+        },
+        "groupName": {
+            "hash": -106180484
+        },
+        "normalDesc": {
+            "hash": -798154406
+        },
+        "promoteDesc": {
+            "hash": 786934589
+        },
+        "bgColor": "#2896FA80",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4b",
+        "unSelectColor": "#18c7feFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 42303,
+        "groupHardLevel": 4,
+        "groupLevel": 23,
+        "maxLevel": 20,
+        "maxSkipLevel": 8,
+        "minSkipLevel": 1,
+        "normalRewardID": 42302,
+        "playerGroup": 2,
+        "promoteRank": 3,
+        "prototeRewardID": 42301,
+        "baseHardLevel": 40.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176782
+        },
+        "groupName": {
+            "hash": -106180483
+        },
+        "normalDesc": {
+            "hash": -798154405
+        },
+        "promoteDesc": {
+            "hash": 786934590
+        },
+        "bgColor": "#FF7D009B",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5b",
+        "unSelectColor": "#ff9900FF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5"
+    },
+    {
+        "demoteRank": 11,
+        "demoteRewardID": 42403,
+        "groupHardLevel": 5,
+        "groupLevel": 24,
+        "maxLevel": 20,
+        "maxSkipLevel": 8,
+        "minSkipLevel": 1,
+        "normalRewardID": 42402,
+        "playerGroup": 2,
+        "promoteRank": 0,
+        "prototeRewardID": 0,
+        "baseHardLevel": 50.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176783
+        },
+        "groupName": {
+            "hash": -106180482
+        },
+        "normalDesc": {
+            "hash": -798154404
+        },
+        "promoteDesc": {
+            "hash": 786934591
+        },
+        "bgColor": "#FF000080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6b",
+        "unSelectColor": "#ff6d6dFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6"
+    },
+    {
+        "demoteRank": 21,
+        "demoteRewardID": 0,
+        "groupHardLevel": 3,
+        "groupLevel": 31,
+        "maxLevel": 25,
+        "maxSkipLevel": 13,
+        "minSkipLevel": 1,
+        "normalRewardID": 43102,
+        "playerGroup": 3,
+        "promoteRank": 7,
+        "prototeRewardID": 43101,
+        "baseHardLevel": 35.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176780
+        },
+        "groupName": {
+            "hash": -106180485
+        },
+        "normalDesc": {
+            "hash": -798154407
+        },
+        "promoteDesc": {
+            "hash": 786934588
+        },
+        "bgColor": "#4DB10080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3b",
+        "unSelectColor": "#b4d35bFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_3"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 43203,
+        "groupHardLevel": 4,
+        "groupLevel": 32,
+        "maxLevel": 25,
+        "maxSkipLevel": 13,
+        "minSkipLevel": 1,
+        "normalRewardID": 43202,
+        "playerGroup": 3,
+        "promoteRank": 5,
+        "prototeRewardID": 43201,
+        "baseHardLevel": 40.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176781
+        },
+        "groupName": {
+            "hash": -106180484
+        },
+        "normalDesc": {
+            "hash": -798154406
+        },
+        "promoteDesc": {
+            "hash": 786934589
+        },
+        "bgColor": "#2896FA80",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4b",
+        "unSelectColor": "#18c7feFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_4"
+    },
+    {
+        "demoteRank": 16,
+        "demoteRewardID": 43303,
+        "groupHardLevel": 5,
+        "groupLevel": 33,
+        "maxLevel": 25,
+        "maxSkipLevel": 13,
+        "minSkipLevel": 1,
+        "normalRewardID": 43302,
+        "playerGroup": 3,
+        "promoteRank": 3,
+        "prototeRewardID": 43301,
+        "baseHardLevel": 50.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176782
+        },
+        "groupName": {
+            "hash": -106180483
+        },
+        "normalDesc": {
+            "hash": -798154405
+        },
+        "promoteDesc": {
+            "hash": 786934590
+        },
+        "bgColor": "#FF7D009B",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5b",
+        "unSelectColor": "#ff9900FF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_5"
+    },
+    {
+        "demoteRank": 11,
+        "demoteRewardID": 43403,
+        "groupHardLevel": 6,
+        "groupLevel": 34,
+        "maxLevel": 25,
+        "maxSkipLevel": 13,
+        "minSkipLevel": 1,
+        "normalRewardID": 43402,
+        "playerGroup": 3,
+        "promoteRank": 0,
+        "prototeRewardID": 43402,
+        "baseHardLevel": 60.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176845
+        },
+        "groupName": {
+            "hash": -106180482
+        },
+        "normalDesc": {
+            "hash": -798154342
+        },
+        "promoteDesc": {
+            "hash": 786934653
+        },
+        "bgColor": "#FF000080",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6b",
+        "unSelectColor": "#ff6d6dFF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_6"
+    },
+    {
+        "demoteRank": 11,
+        "demoteRewardID": 43503,
+        "groupHardLevel": 7,
+        "groupLevel": 35,
+        "maxLevel": 25,
+        "maxSkipLevel": 0,
+        "minSkipLevel": 0,
+        "normalRewardID": 43502,
+        "playerGroup": 3,
+        "promoteRank": 0,
+        "prototeRewardID": 0,
+        "baseHardLevel": 70.0,
+        "skipLevelTime": 60.0,
+        "demoteDesc": {
+            "hash": 1550176846
+        },
+        "groupName": {
+            "hash": -106180481
+        },
+        "normalDesc": {
+            "hash": -798154341
+        },
+        "promoteDesc": {
+            "hash": 786934654
+        },
+        "bgColor": "#630068FF",
+        "selectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7u",
+        "unopenPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7b",
+        "unSelectColor": "#111111FF",
+        "unselectPrefabPath": "SpriteOutput/EndlessGroup/IconGroup_7"
+    }
+]

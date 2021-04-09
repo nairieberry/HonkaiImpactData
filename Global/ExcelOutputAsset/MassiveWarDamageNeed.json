@@ -1,0 +1,794 @@
+[
+    {
+        "PlayerLevel": 50,
+        "DamageBasic": 130000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 1690000
+            },
+            {
+                "rank": 2,
+                "damage": 1050000
+            },
+            {
+                "rank": 3,
+                "damage": 600000
+            },
+            {
+                "rank": 4,
+                "damage": 300000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 51,
+        "DamageBasic": 140000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 1820000
+            },
+            {
+                "rank": 2,
+                "damage": 1100000
+            },
+            {
+                "rank": 3,
+                "damage": 630000
+            },
+            {
+                "rank": 4,
+                "damage": 310000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 52,
+        "DamageBasic": 150000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 1950000
+            },
+            {
+                "rank": 2,
+                "damage": 1160000
+            },
+            {
+                "rank": 3,
+                "damage": 660000
+            },
+            {
+                "rank": 4,
+                "damage": 330000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 53,
+        "DamageBasic": 150000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 1950000
+            },
+            {
+                "rank": 2,
+                "damage": 1210000
+            },
+            {
+                "rank": 3,
+                "damage": 690000
+            },
+            {
+                "rank": 4,
+                "damage": 350000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 54,
+        "DamageBasic": 170000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2210000
+            },
+            {
+                "rank": 2,
+                "damage": 1320000
+            },
+            {
+                "rank": 3,
+                "damage": 760000
+            },
+            {
+                "rank": 4,
+                "damage": 380000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 55,
+        "DamageBasic": 180000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2340000
+            },
+            {
+                "rank": 2,
+                "damage": 1380000
+            },
+            {
+                "rank": 3,
+                "damage": 790000
+            },
+            {
+                "rank": 4,
+                "damage": 390000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 56,
+        "DamageBasic": 180000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2340000
+            },
+            {
+                "rank": 2,
+                "damage": 1430000
+            },
+            {
+                "rank": 3,
+                "damage": 820000
+            },
+            {
+                "rank": 4,
+                "damage": 410000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 57,
+        "DamageBasic": 200000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2600000
+            },
+            {
+                "rank": 2,
+                "damage": 1540000
+            },
+            {
+                "rank": 3,
+                "damage": 880000
+            },
+            {
+                "rank": 4,
+                "damage": 440000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 58,
+        "DamageBasic": 200000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2600000
+            },
+            {
+                "rank": 2,
+                "damage": 1600000
+            },
+            {
+                "rank": 3,
+                "damage": 910000
+            },
+            {
+                "rank": 4,
+                "damage": 460000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 59,
+        "DamageBasic": 220000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2860000
+            },
+            {
+                "rank": 2,
+                "damage": 1710000
+            },
+            {
+                "rank": 3,
+                "damage": 980000
+            },
+            {
+                "rank": 4,
+                "damage": 490000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 60,
+        "DamageBasic": 220000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 2860000
+            },
+            {
+                "rank": 2,
+                "damage": 1760000
+            },
+            {
+                "rank": 3,
+                "damage": 1010000
+            },
+            {
+                "rank": 4,
+                "damage": 500000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 61,
+        "DamageBasic": 240000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 3120000
+            },
+            {
+                "rank": 2,
+                "damage": 1870000
+            },
+            {
+                "rank": 3,
+                "damage": 1070000
+            },
+            {
+                "rank": 4,
+                "damage": 540000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 62,
+        "DamageBasic": 250000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 3250000
+            },
+            {
+                "rank": 2,
+                "damage": 1980000
+            },
+            {
+                "rank": 3,
+                "damage": 1130000
+            },
+            {
+                "rank": 4,
+                "damage": 570000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 63,
+        "DamageBasic": 270000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 3510000
+            },
+            {
+                "rank": 2,
+                "damage": 2090000
+            },
+            {
+                "rank": 3,
+                "damage": 1200000
+            },
+            {
+                "rank": 4,
+                "damage": 600000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 64,
+        "DamageBasic": 280000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 3640000
+            },
+            {
+                "rank": 2,
+                "damage": 2200000
+            },
+            {
+                "rank": 3,
+                "damage": 1260000
+            },
+            {
+                "rank": 4,
+                "damage": 630000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 65,
+        "DamageBasic": 290000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 3770000
+            },
+            {
+                "rank": 2,
+                "damage": 2310000
+            },
+            {
+                "rank": 3,
+                "damage": 1320000
+            },
+            {
+                "rank": 4,
+                "damage": 660000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 66,
+        "DamageBasic": 310000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 4030000
+            },
+            {
+                "rank": 2,
+                "damage": 2420000
+            },
+            {
+                "rank": 3,
+                "damage": 1380000
+            },
+            {
+                "rank": 4,
+                "damage": 690000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 67,
+        "DamageBasic": 330000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 4290000
+            },
+            {
+                "rank": 2,
+                "damage": 2590000
+            },
+            {
+                "rank": 3,
+                "damage": 1480000
+            },
+            {
+                "rank": 4,
+                "damage": 740000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 68,
+        "DamageBasic": 340000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 4420000
+            },
+            {
+                "rank": 2,
+                "damage": 2700000
+            },
+            {
+                "rank": 3,
+                "damage": 1540000
+            },
+            {
+                "rank": 4,
+                "damage": 770000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 69,
+        "DamageBasic": 360000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 4680000
+            },
+            {
+                "rank": 2,
+                "damage": 2860000
+            },
+            {
+                "rank": 3,
+                "damage": 1640000
+            },
+            {
+                "rank": 4,
+                "damage": 820000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 70,
+        "DamageBasic": 390000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 5070000
+            },
+            {
+                "rank": 2,
+                "damage": 3030000
+            },
+            {
+                "rank": 3,
+                "damage": 1730000
+            },
+            {
+                "rank": 4,
+                "damage": 870000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 71,
+        "DamageBasic": 410000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 5330000
+            },
+            {
+                "rank": 2,
+                "damage": 3190000
+            },
+            {
+                "rank": 3,
+                "damage": 1830000
+            },
+            {
+                "rank": 4,
+                "damage": 910000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 72,
+        "DamageBasic": 430000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 5590000
+            },
+            {
+                "rank": 2,
+                "damage": 3360000
+            },
+            {
+                "rank": 3,
+                "damage": 1920000
+            },
+            {
+                "rank": 4,
+                "damage": 960000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 73,
+        "DamageBasic": 450000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 5850000
+            },
+            {
+                "rank": 2,
+                "damage": 3530000
+            },
+            {
+                "rank": 3,
+                "damage": 2010000
+            },
+            {
+                "rank": 4,
+                "damage": 1010000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 74,
+        "DamageBasic": 480000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 6240000
+            },
+            {
+                "rank": 2,
+                "damage": 3750000
+            },
+            {
+                "rank": 3,
+                "damage": 2140000
+            },
+            {
+                "rank": 4,
+                "damage": 1070000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 75,
+        "DamageBasic": 500000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 6500000
+            },
+            {
+                "rank": 2,
+                "damage": 3970000
+            },
+            {
+                "rank": 3,
+                "damage": 2270000
+            },
+            {
+                "rank": 4,
+                "damage": 1130000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 76,
+        "DamageBasic": 530000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 6890000
+            },
+            {
+                "rank": 2,
+                "damage": 4130000
+            },
+            {
+                "rank": 3,
+                "damage": 2360000
+            },
+            {
+                "rank": 4,
+                "damage": 1180000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 77,
+        "DamageBasic": 560000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 7280000
+            },
+            {
+                "rank": 2,
+                "damage": 4410000
+            },
+            {
+                "rank": 3,
+                "damage": 2520000
+            },
+            {
+                "rank": 4,
+                "damage": 1260000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 78,
+        "DamageBasic": 590000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 7670000
+            },
+            {
+                "rank": 2,
+                "damage": 4630000
+            },
+            {
+                "rank": 3,
+                "damage": 2640000
+            },
+            {
+                "rank": 4,
+                "damage": 1320000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 79,
+        "DamageBasic": 620000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 8060000
+            },
+            {
+                "rank": 2,
+                "damage": 4850000
+            },
+            {
+                "rank": 3,
+                "damage": 2770000
+            },
+            {
+                "rank": 4,
+                "damage": 1380000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 80,
+        "DamageBasic": 650000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 8450000
+            },
+            {
+                "rank": 2,
+                "damage": 5120000
+            },
+            {
+                "rank": 3,
+                "damage": 2930000
+            },
+            {
+                "rank": 4,
+                "damage": 1460000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 81,
+        "DamageBasic": 690000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 8970000
+            },
+            {
+                "rank": 2,
+                "damage": 5400000
+            },
+            {
+                "rank": 3,
+                "damage": 3080000
+            },
+            {
+                "rank": 4,
+                "damage": 1540000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 82,
+        "DamageBasic": 730000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 9490000
+            },
+            {
+                "rank": 2,
+                "damage": 5730000
+            },
+            {
+                "rank": 3,
+                "damage": 3270000
+            },
+            {
+                "rank": 4,
+                "damage": 1640000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 83,
+        "DamageBasic": 760000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 9880000
+            },
+            {
+                "rank": 2,
+                "damage": 6000000
+            },
+            {
+                "rank": 3,
+                "damage": 3430000
+            },
+            {
+                "rank": 4,
+                "damage": 1720000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 84,
+        "DamageBasic": 810000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 10530000
+            },
+            {
+                "rank": 2,
+                "damage": 6330000
+            },
+            {
+                "rank": 3,
+                "damage": 3620000
+            },
+            {
+                "rank": 4,
+                "damage": 1810000
+            }
+        ]
+    },
+    {
+        "PlayerLevel": 85,
+        "DamageBasic": 850000,
+        "DamageNeedList": [
+            {
+                "rank": 1,
+                "damage": 11050000
+            },
+            {
+                "rank": 2,
+                "damage": 6720000
+            },
+            {
+                "rank": 3,
+                "damage": 3840000
+            },
+            {
+                "rank": 4,
+                "damage": 1920000
+            }
+        ]
+    }
+]

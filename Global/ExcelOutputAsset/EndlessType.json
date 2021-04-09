@@ -1,0 +1,191 @@
+[
+    {
+        "endlessType": 1,
+        "InfoButtonTextmap": {
+            "hash": 2100713047
+        },
+        "infoDescPauseTextmap": {
+            "hash": -1691239639
+        },
+        "introduction": {
+            "hash": -1094213164
+        },
+        "name": {
+            "hash": 216936271
+        },
+        "bgImg": "",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPic01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPic02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndless",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeNormal",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEnd"
+    },
+    {
+        "endlessType": 2,
+        "InfoButtonTextmap": {
+            "hash": 2100713047
+        },
+        "infoDescPauseTextmap": {
+            "hash": -1691239639
+        },
+        "introduction": {
+            "hash": -1094213164
+        },
+        "name": {
+            "hash": 216936271
+        },
+        "bgImg": "event/Immediately/Endless",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPic01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPic02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndless",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeNormal",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEnd"
+    },
+    {
+        "endlessType": 3,
+        "InfoButtonTextmap": {
+            "hash": 676991770
+        },
+        "infoDescPauseTextmap": {
+            "hash": 825001068
+        },
+        "introduction": {
+            "hash": -1862832811
+        },
+        "name": {
+            "hash": 1671678482
+        },
+        "bgImg": "SpriteOutput/EndlessBG/EndlessPicLust",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPicLust01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPicLust02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndlessAngry",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeLust",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventRage"
+    },
+    {
+        "endlessType": 4,
+        "InfoButtonTextmap": {
+            "hash": -481898822
+        },
+        "infoDescPauseTextmap": {
+            "hash": -199491465
+        },
+        "introduction": {
+            "hash": -1094213164
+        },
+        "name": {
+            "hash": 216936271
+        },
+        "bgImg": "",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPic01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPic02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndless",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeGreed",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEnd"
+    },
+    {
+        "endlessType": 5,
+        "InfoButtonTextmap": {
+            "hash": -481898822
+        },
+        "infoDescPauseTextmap": {
+            "hash": -188577880
+        },
+        "introduction": {
+            "hash": -1907049505
+        },
+        "name": {
+            "hash": 288618178
+        },
+        "bgImg": "SpriteOutput/EndlessBG/EndlessPicSloth",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPicSloth01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPicSloth02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndlessLazy",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeSloth",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventLazy"
+    },
+    {
+        "endlessType": 6,
+        "InfoButtonTextmap": {
+            "hash": -484496904
+        },
+        "infoDescPauseTextmap": {
+            "hash": -191175962
+        },
+        "introduction": {
+            "hash": -1909647587
+        },
+        "name": {
+            "hash": 286020096
+        },
+        "bgImg": "SpriteOutput/EndlessBG/EndlessPicPride",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPicPride01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPicPride01",
+        "enterImgPath": "SpriteOutput/WorldMap/Entry/Cover_3",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypePride",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventArrogant"
+    },
+    {
+        "endlessType": 7,
+        "InfoButtonTextmap": {
+            "hash": -1733747910
+        },
+        "infoDescPauseTextmap": {
+            "hash": 626955148
+        },
+        "introduction": {
+            "hash": 1648943093
+        },
+        "name": {
+            "hash": 432969266
+        },
+        "bgImg": "SpriteOutput/EndlessBG/EndlessPicGluttony",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPicGluttony01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPicGluttony01",
+        "enterImgPath": "SpriteOutput/WorldMap/Entry/Cover_3_2",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeGluttony",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventGluttony"
+    },
+    {
+        "endlessType": 8,
+        "InfoButtonTextmap": {
+            "hash": -493918269
+        },
+        "infoDescPauseTextmap": {
+            "hash": -200597327
+        },
+        "introduction": {
+            "hash": -1919068952
+        },
+        "name": {
+            "hash": 276598731
+        },
+        "bgImg": "SpriteOutput/EndlessBG/EndlessPicFenxin",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPicFenxin01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPicFenxin02",
+        "enterImgPath": "SpriteOutput/WorldMap/Entry/Cover_3_3",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeFenxin",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventBurn"
+    },
+    {
+        "endlessType": 99,
+        "InfoButtonTextmap": {
+            "hash": 2100713047
+        },
+        "infoDescPauseTextmap": {
+            "hash": -1691239639
+        },
+        "introduction": {
+            "hash": -1094213164
+        },
+        "name": {
+            "hash": 216936271
+        },
+        "bgImg": "",
+        "bgImg1": "SpriteOutput/EndlessBG/EndlessPic01",
+        "bgImg2": "SpriteOutput/EndlessBG/EndlessPic02",
+        "enterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEndless",
+        "inlevelTypeIconPath": "SpriteOutput/EndlessType/EndlessTypeNormal",
+        "SelectEnterImgPath": "SpriteOutput/ChapterCover/Event/BookEventEnd"
+    }
+]

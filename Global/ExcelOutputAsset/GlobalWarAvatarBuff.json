@@ -1,0 +1,868 @@
+[
+    {
+        "BuffLevel": 0,
+        "AllDamageRatio": 0,
+        "Atk": 0,
+        "Def": 0,
+        "Hp": 0,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText0",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 1,
+        "AllDamageRatio": 100,
+        "Atk": 280,
+        "Def": 140,
+        "Hp": 1000,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText1",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 2,
+        "AllDamageRatio": 150,
+        "Atk": 420,
+        "Def": 220,
+        "Hp": 1300,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 3,
+        "AllDamageRatio": 200,
+        "Atk": 560,
+        "Def": 280,
+        "Hp": 1600,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText2",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 4,
+        "AllDamageRatio": 250,
+        "Atk": 700,
+        "Def": 360,
+        "Hp": 1900,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 5,
+        "AllDamageRatio": 250,
+        "Atk": 840,
+        "Def": 420,
+        "Hp": 2200,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText3",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 6,
+        "AllDamageRatio": 300,
+        "Atk": 980,
+        "Def": 500,
+        "Hp": 2500,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 1,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 7,
+        "AllDamageRatio": 350,
+        "Atk": 1120,
+        "Def": 560,
+        "Hp": 2800,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText4",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 8,
+        "AllDamageRatio": 400,
+        "Atk": 1260,
+        "Def": 640,
+        "Hp": 3100,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 9,
+        "AllDamageRatio": 450,
+        "Atk": 1400,
+        "Def": 700,
+        "Hp": 3400,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText5",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 10,
+        "AllDamageRatio": 500,
+        "Atk": 1540,
+        "Def": 780,
+        "Hp": 3700,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 11,
+        "AllDamageRatio": 550,
+        "Atk": 1680,
+        "Def": 840,
+        "Hp": 4000,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText6",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 12,
+        "AllDamageRatio": 600,
+        "Atk": 1820,
+        "Def": 920,
+        "Hp": 4300,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 2,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 13,
+        "AllDamageRatio": 650,
+        "Atk": 1960,
+        "Def": 980,
+        "Hp": 4600,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText7",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 14,
+        "AllDamageRatio": 700,
+        "Atk": 2100,
+        "Def": 1060,
+        "Hp": 4900,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 15,
+        "AllDamageRatio": 700,
+        "Atk": 2240,
+        "Def": 1120,
+        "Hp": 5200,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText8",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 16,
+        "AllDamageRatio": 750,
+        "Atk": 2380,
+        "Def": 1200,
+        "Hp": 5500,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 2,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 17,
+        "AllDamageRatio": 800,
+        "Atk": 2520,
+        "Def": 1260,
+        "Hp": 5800,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "GlobalBuff_EffectText9",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 18,
+        "AllDamageRatio": 850,
+        "Atk": 2660,
+        "Def": 1340,
+        "Hp": 6100,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 19,
+        "AllDamageRatio": 900,
+        "Atk": 2800,
+        "Def": 1400,
+        "Hp": 6400,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 20,
+        "AllDamageRatio": 950,
+        "Atk": 2940,
+        "Def": 1480,
+        "Hp": 6700,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    },
+    {
+        "BuffLevel": 21,
+        "AllDamageRatio": 1000,
+        "Atk": 3080,
+        "Def": 1540,
+        "Hp": 7000,
+        "BuffDesc": {
+            "hash": -1773556182
+        },
+        "BuffName": {
+            "hash": -2022334864
+        },
+        "BuffEffectDesc": "",
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_4thAnv",
+        "SpecialBuffList": [
+            {
+                "BuffLevel": 3,
+                "BuffType": 1
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 2
+            },
+            {
+                "BuffLevel": 3,
+                "BuffType": 3
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 4
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 5
+            },
+            {
+                "BuffLevel": 1,
+                "BuffType": 6
+            }
+        ]
+    }
+]

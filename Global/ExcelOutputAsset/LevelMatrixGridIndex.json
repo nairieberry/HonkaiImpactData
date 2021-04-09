@@ -1,0 +1,1666 @@
+[
+    {
+        "ClientParam": 0,
+        "ID": 0,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Floor",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 1,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 2,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_1",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 3,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Start",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 4,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Item",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 5,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "Stage/New_Home_01/Item/S00_Toy_01",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 6,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Random",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 7,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 8,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Shop",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 9,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Exit",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 10,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Random",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 11,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Teleport",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 100,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_1",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 101,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_1",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 102,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_2",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 103,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_3",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 104,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_4",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 105,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Barrier_5",
+        "bits1": 0
+    },
+    {
+        "ClientParam": 0,
+        "ID": 106,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Sandcastle",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 107,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Whelk_3",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 108,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 109,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Starfish_1",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 110,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Whelk_1",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 111,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Nautiloidea",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 112,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Box_2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 113,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Box_1",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 114,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Tombstone",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 115,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Tombstone2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 116,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 117,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Pumpkin1",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 118,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Pumpkin2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 119,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Pumpkin3",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 120,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Pumpkin4",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 121,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Pumpkin5",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 122,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Hand",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 123,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 124,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 125,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Mushroom",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 126,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Dixie",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 127,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Broom",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 128,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Box",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 129,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Box2Mud",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 130,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Bone",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 200,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Barrier_Summer",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 201,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Barrier_Summer",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 202,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Barrier_Summer",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 203,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Barrier_Summer",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 204,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Barrier_Summer",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 205,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/Barrier_Halloween",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 300,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Gnd_Rubble_01",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 301,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Gnd_Rubble_02",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 302,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Grass",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 303,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.6,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Ruin_05",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 304,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.6,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Ruin_06",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 305,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Tree_01",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 306,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.5,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Tree_03",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 307,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.6,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Tree_04",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 308,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Vine",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 309,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.7,
+            "y": 0.7,
+            "z": 0.7
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Island/LevelMatrix_Island_C_Woodencase_01",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 310,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Box_2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 311,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 312,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 313,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 314,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 315,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Summer/Obj_Tree",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 316,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 317,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S3F/AvatarQ_Stigmata_S3F",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 318,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Mei_C1_DH/AvatarQ_Mei_C1_DH",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 400,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/Maze_Winter_Outside/Maze_Winter_Outside",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 401,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_03",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 402,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_04",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 403,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_05",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 404,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_06",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 405,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_09",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 406,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_10",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 407,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_18",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 408,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Snowdrift2",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 409,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_11",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 410,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 0.8,
+            "y": 0.8,
+            "z": 0.8
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_12",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 411,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_13",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 412,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_14",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 413,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_15",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 414,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_16",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 415,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Blocker",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 416,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Iceman",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 417,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Warningboard",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 418,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Roadsign",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 419,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Winter_Outside/LevelMatrix_Winter_Outside_Obj_Roadsign 1",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 420,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "Stage/New_Home_01/Item/S00_Toy_01",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 421,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 422,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 423,
+        "PlaceType": 0,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Obj_Ghost",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 424,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Mei_C1_DH/AvatarQ_Mei_C1_DH",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 425,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Himeko_C1_VV/AvatarQ_Himeko_C1_VV",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 426,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Twins_C2_BS/AvatarQ_Twins_C2_BS",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 427,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Twins_C1_GP/AvatarQ_Twins_C1_GP",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 428,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Theresa_C1_YD/AvatarQ_Theresa_C1_YD",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 429,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Fuka_C2_NL/AvatarQ_Fuka_C2_NL",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 430,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Theresa_C4_JX/AvatarQ_Theresa_C4_JX",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1001,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Bronya_C1_ZP/AvatarQ_Bronya_C1_ZP",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1002,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Mei_C1_DH/AvatarQ_Mei_C1_DH",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1003,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Himeko_C1_VV/AvatarQ_Himeko_C1_VV",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1004,
+        "PlaceType": 2,
+        "PlaceParam": 90.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S4I/AvatarQ_Stigmata_S4I",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1005,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Bronya_C3_JJ/AvatarQ_Bronya_C3_JJ",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1006,
+        "PlaceType": 2,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S4S/AvatarQ_Stigmata_S4S",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1007,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S3E/AvatarQ_Stigmata_S3E",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1008,
+        "PlaceType": 2,
+        "PlaceParam": 270.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S3F/AvatarQ_Stigmata_S3F",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1009,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Theresa_C4_JX/AvatarQ_Theresa_C4_JX",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1010,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Kiana_Fake/AvatarQ_Kiana_Fake",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1011,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S4V/AvatarQ_Stigmata_S4V",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1012,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S4AA/AvatarQ_Stigmata_S4AA",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1013,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Theresa_C2_TP/AvatarQ_Theresa_C2_TP",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1014,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Bronya_C6_HH/AvatarQ_Bronya_C6_HH",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1015,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Sakura_C1_YS/AvatarQ_Sakura_C1_YS",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1016,
+        "PlaceType": 2,
+        "PlaceParam": 270.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Theresa_C1_YD/AvatarQ_Theresa_C1_YD",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1017,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Fuka_C2_NL/AvatarQ_Fuka_C2_NL",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1018,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Twins_C2_BS/AvatarQ_Twins_C2_BS",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1019,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Twins_C1_GP/AvatarQ_Twins_C1_GP",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1020,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Stigmata_S4O/AvatarQ_Stigmata_S4O",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1021,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Kiana_C4_YN/AvatarQ_Kiana_C4_YN",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1022,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Himeko_C3_KZ/AvatarQ_Himeko_C3_KZ",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1023,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Kiana_C1_FX/AvatarQ_Kiana_C1_FX",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1024,
+        "PlaceType": 2,
+        "PlaceParam": 90.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Kiana_C4_YN/AvatarQ_Kiana_C4_YN",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 1,
+        "ID": 1025,
+        "PlaceType": 2,
+        "PlaceParam": 90.0,
+        "ModScale": {
+            "x": 1.6,
+            "y": 1.6,
+            "z": 1.6
+        },
+        "ModPath": "Entities/Qavatar/Himeko_C3_KZ/AvatarQ_Himeko_C3_KZ",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 2000,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Random_Hand",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 2001,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Random_Tombstone",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 2002,
+        "PlaceType": 2,
+        "PlaceParam": 180.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Random_Homu",
+        "bits1": 1
+    },
+    {
+        "ClientParam": 0,
+        "ID": 2003,
+        "PlaceType": 1,
+        "PlaceParam": 0.0,
+        "ModScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "ModPath": "LevelMatrix/Maze/Maze_Halloween/LevelMatrix_Halloween_Random_Pumpkin",
+        "bits1": 1
+    }
+]

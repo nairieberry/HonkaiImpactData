@@ -1,0 +1,2154 @@
+[
+    {
+        "actId": 101,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418513712
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipOutside01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 102,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418513711
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_3",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 103,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418513710
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipOutside02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 104,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418513709
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool21",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 105,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -418513708
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipOutside01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 106,
+        "actType": 1,
+        "chapterId": 1,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -418513707
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 107,
+        "actType": 2,
+        "chapterId": 1,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -418513706
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipOutside02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 201,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418512751
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool21",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 202,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418512750
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipInside02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 203,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418512749
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool24",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 204,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418512748
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipInside01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 205,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -418512747
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSchool03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 206,
+        "actType": 1,
+        "chapterId": 2,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -418512746
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipInside03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 207,
+        "actType": 2,
+        "chapterId": 2,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -418512745
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicShipInside02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 301,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418511790
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 302,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418511789
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige04",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 303,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418511788
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 304,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418511787
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 305,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -418511786
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige04",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 306,
+        "actType": 1,
+        "chapterId": 3,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -418511785
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 307,
+        "actType": 2,
+        "chapterId": 3,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -418511784
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicVallige05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 401,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418510829
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BigPicMEStreet09",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2M_3S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 402,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418510828
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BigPicMEStreet02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_2S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2M_3S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 403,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418510827
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BigPicMESquare01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 404,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418510826
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicMES03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_2",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 405,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -418510825
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicMES04",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 406,
+        "actType": 1,
+        "chapterId": 4,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -418510824
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicMES01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 407,
+        "actType": 2,
+        "chapterId": 4,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -418510823
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BigPicMESquare01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2014-01-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 501,
+        "actType": 1,
+        "chapterId": 5,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418509868
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSnowField01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_1",
+        "openTime": "2017-07-27 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 502,
+        "actType": 1,
+        "chapterId": 5,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418509867
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSnowField10",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5M_1S_1",
+        "openTime": "2017-08-03 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 503,
+        "actType": 1,
+        "chapterId": 5,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418509866
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSnowField18",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3M_3S_1",
+        "openTime": "2017-08-10 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 504,
+        "actType": 1,
+        "chapterId": 5,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418509865
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicSnowField23",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4M_2S_2",
+        "openTime": "2017-08-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 601,
+        "actType": 1,
+        "chapterId": 6,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418508907
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHighTower02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4_3",
+        "openTime": "2017-08-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 602,
+        "actType": 1,
+        "chapterId": 6,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418508906
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHighTower05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3_4",
+        "openTime": "2017-08-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 603,
+        "actType": 1,
+        "chapterId": 6,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418508905
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHighTower03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_3",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_3",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_3",
+        "openTime": "2017-08-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory3",
+        "EventGroup": []
+    },
+    {
+        "actId": 604,
+        "actType": 1,
+        "chapterId": 6,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418508904
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHighTower07",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_4",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_4",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2_1",
+        "openTime": "2017-08-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 701,
+        "actType": 1,
+        "chapterId": 7,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418507946
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny01",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_3",
+        "openTime": "2017-12-21 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 702,
+        "actType": 1,
+        "chapterId": 7,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418507945
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny02",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel1",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel1",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel1",
+        "openTime": "2017-12-21 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 801,
+        "actType": 1,
+        "chapterId": 8,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418506985
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_3",
+        "openTime": "2018-05-10 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 802,
+        "actType": 1,
+        "chapterId": 8,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418506984
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4_3",
+        "openTime": "2018-05-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 901,
+        "actType": 1,
+        "chapterId": 9,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -418506024
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5M_1S_1",
+        "openTime": "2018-11-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 902,
+        "actType": 1,
+        "chapterId": 9,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -418506023
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_2",
+        "openTime": "2018-11-08 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 903,
+        "actType": 1,
+        "chapterId": 9,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -418506022
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4_3",
+        "openTime": "2018-11-15 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 904,
+        "actType": 1,
+        "chapterId": 9,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -418506021
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel5_1",
+        "openTime": "2018-11-15 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 905,
+        "actType": 1,
+        "chapterId": 9,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -418506020
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3_2CG",
+        "openTime": "2018-11-22 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": [
+            {
+                "eventID": 40332,
+                "preLevelID": 10921
+            },
+            {
+                "eventID": 40335,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 1001,
+        "actType": 1,
+        "chapterId": 10,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88783877
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_5",
+        "openTime": "2019-01-04 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 1002,
+        "actType": 1,
+        "chapterId": 10,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88783876
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3_1CG",
+        "openTime": "2019-01-04 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40352,
+                "preLevelID": 11009
+            }
+        ]
+    },
+    {
+        "actId": 1101,
+        "actType": 1,
+        "chapterId": 11,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88783846
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_5",
+        "openTime": "2019-03-07 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 1102,
+        "actType": 1,
+        "chapterId": 11,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88783845
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel3_1",
+        "openTime": "2019-03-07 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1201,
+        "actType": 1,
+        "chapterId": 12,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89023166
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_5",
+        "openTime": "2019-03-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 1202,
+        "actType": 1,
+        "chapterId": 12,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89023165
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4_3",
+        "openTime": "2019-03-21 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1203,
+        "actType": 1,
+        "chapterId": 12,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89023164
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicHyperion05",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel4_3",
+        "openTime": "2019-06-01 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1301,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89022205
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG01",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanel01",
+        "openTime": "2019-06-05 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1302,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89022204
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG01",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanel02",
+        "openTime": "2019-06-13 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1303,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89022203
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG01",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanel03",
+        "openTime": "2019-06-20 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1304,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -89022202
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG01",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanel04",
+        "openTime": "2019-06-20 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1305,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -89022201
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG03",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanelRisk01",
+        "openTime": "2019-06-05 12:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40593,
+                "preLevelID": 11323
+            }
+        ]
+    },
+    {
+        "actId": 1306,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -89022200
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG04",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanelRisk01",
+        "openTime": "2019-06-13 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40605,
+                "preLevelID": 11328
+            }
+        ]
+    },
+    {
+        "actId": 1307,
+        "actType": 1,
+        "chapterId": 13,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -89022199
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter11/ChapterActivityMapBG02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter11/LevelPanelRisk01",
+        "openTime": "2019-06-20 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40617,
+                "preLevelID": 11333
+            }
+        ]
+    },
+    {
+        "actId": 1401,
+        "actType": 1,
+        "chapterId": 14,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89022174
+        },
+        "bgImgPath": "SpriteOutput/ChapterBg/BgPicDestiny03",
+        "bgPrefabPath": "",
+        "hardLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "hellLevelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel2",
+        "levelPannelPath": "UI/Menus/Widget/LevelPanel/LevelPanel6_5",
+        "openTime": "2019-08-01 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory1",
+        "EventGroup": []
+    },
+    {
+        "actId": 1501,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89018361
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12ActivityMapBG",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12LevelPanel01",
+        "openTime": "2019-08-30 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40745,
+                "preLevelID": 11505
+            }
+        ]
+    },
+    {
+        "actId": 1502,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89018360
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12ActivityMapBG",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12LevelPanel02",
+        "openTime": "2019-09-05 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40758,
+                "preLevelID": 11511
+            }
+        ]
+    },
+    {
+        "actId": 1503,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89018359
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12ActivityMapBG",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12LevelPanel03",
+        "openTime": "2019-09-12 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40751,
+                "preLevelID": 11513
+            }
+        ]
+    },
+    {
+        "actId": 1504,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -89018358
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12ActivityMapBG",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/Chapter12LevelPanel04",
+        "openTime": "2019-10-13 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1505,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -89018357
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/ChapterActivityMapBG_15",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/LevelPanelRisk_15",
+        "openTime": "2019-08-30 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 99999,
+                "preLevelID": 11999
+            }
+        ]
+    },
+    {
+        "actId": 1506,
+        "actType": 1,
+        "chapterId": 15,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -89018356
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter12/ChapterActivityMapBG_15",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter12/LevelPanelRisk_15",
+        "openTime": "2019-09-05 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 99999,
+                "preLevelID": 11999
+            }
+        ]
+    },
+    {
+        "actId": 1601,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89017400
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanel01",
+        "openTime": "2019-10-31 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40796,
+                "preLevelID": 10101
+            }
+        ]
+    },
+    {
+        "actId": 1602,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89017399
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanel02",
+        "openTime": "2019-11-07 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 99999,
+                "preLevelID": 11999
+            }
+        ]
+    },
+    {
+        "actId": 1603,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89017398
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanel03",
+        "openTime": "2019-11-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40827,
+                "preLevelID": 11615
+            }
+        ]
+    },
+    {
+        "actId": 1604,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -89017397
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanelEX",
+        "openTime": "2019-10-31 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1605,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -89017396
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanelEX",
+        "openTime": "2019-10-31 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1606,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -89017395
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanelEX",
+        "openTime": "2019-11-07 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1607,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -89017394
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanelEX",
+        "openTime": "2019-11-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1608,
+        "actType": 1,
+        "chapterId": 16,
+        "numInChapter": 8,
+        "actName": {
+            "hash": -89017394
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter13/Chapter13LevelPanelEX",
+        "openTime": "2019-11-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1701,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89016439
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel01",
+        "openTime": "2019-12-19 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40885,
+                "preLevelID": 10101
+            }
+        ]
+    },
+    {
+        "actId": 1702,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89016438
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel02",
+        "openTime": "2019-12-26 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 99999,
+                "preLevelID": 11999
+            }
+        ]
+    },
+    {
+        "actId": 1703,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89016437
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel03",
+        "openTime": "2020-01-02 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40904,
+                "preLevelID": 11713
+            }
+        ]
+    },
+    {
+        "actId": 1704,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -89016436
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel04",
+        "openTime": "2019-12-19 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1705,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -89016435
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel04",
+        "openTime": "2019-12-26 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1706,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 6,
+        "actName": {
+            "hash": -89016434
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel05",
+        "openTime": "2020-01-02 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1707,
+        "actType": 1,
+        "chapterId": 17,
+        "numInChapter": 7,
+        "actName": {
+            "hash": -89016433
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter13/ChapterActivityMapBG_16_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel05",
+        "openTime": "2020-01-02 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1801,
+        "actType": 1,
+        "chapterId": 18,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89015478
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter15/ChapterActivityMapBG_18",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter15/Chapter15LevelPanel01",
+        "openTime": "2020-03-26 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1802,
+        "actType": 1,
+        "chapterId": 18,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89015477
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter15/ChapterActivityMapBG_18",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter15/Chapter15LevelPanel02",
+        "openTime": "2020-04-02 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 40967,
+                "preLevelID": 11806
+            }
+        ]
+    },
+    {
+        "actId": 1803,
+        "actType": 1,
+        "chapterId": 18,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89015476
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter15/ChapterActivityMapBG_18",
+        "hardLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "hellLevelPannelPath": "UI/Menus/Widget/ChapterActivity/LevelPanel05",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter14/Chapter14LevelPanel02",
+        "openTime": "2020-04-10 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1804,
+        "actType": 1,
+        "chapterId": 18,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89015475
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter15/ChapterActivityMapBG_18_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter15/Chapter15LevelPanel05",
+        "openTime": "2020-04-02 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1805,
+        "actType": 1,
+        "chapterId": 18,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89015474
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter15/ChapterActivityMapBG_18_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter15/Chapter15LevelPanel05",
+        "openTime": "2020-04-09 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1901,
+        "actType": 1,
+        "chapterId": 19,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -89014517
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter16/ChapterActivityMapBG_19_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter16/Chapter16LevelPanel01",
+        "openTime": "2020-05-11 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48647,
+                "preLevelID": 10101
+            },
+            {
+                "eventID": 48648,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 1902,
+        "actType": 1,
+        "chapterId": 19,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -89014516
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter16/ChapterActivityMapBG_19_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter16/Chapter16LevelPanel02",
+        "openTime": "2020-05-11 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48666,
+                "preLevelID": 11909
+            }
+        ]
+    },
+    {
+        "actId": 1903,
+        "actType": 1,
+        "chapterId": 19,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -89014515
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter16/ChapterActivityMapBG_19_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter16/Chapter16LevelPanel03",
+        "openTime": "2020-05-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1904,
+        "actType": 1,
+        "chapterId": 19,
+        "numInChapter": 4,
+        "actName": {
+            "hash": -89014514
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter16/ChapterActivityMapBG_19_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter16/Chapter16LevelPanel04",
+        "openTime": "2020-05-14 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 1905,
+        "actType": 1,
+        "chapterId": 19,
+        "numInChapter": 5,
+        "actName": {
+            "hash": -89014513
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter16/ChapterActivityMapBG_19_02",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter16/Chapter16LevelPanel05",
+        "openTime": "2020-05-21 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48691,
+                "preLevelID": 11923
+            },
+            {
+                "eventID": 48692,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 2001,
+        "actType": 1,
+        "chapterId": 20,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88993375
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter17/ChapterActivityMapBG_20",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter17/Chapter17LevelPanel01",
+        "openTime": "2020-06-11 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48739,
+                "preLevelID": 10101
+            },
+            {
+                "eventID": 48748,
+                "preLevelID": 12004
+            }
+        ]
+    },
+    {
+        "actId": 2002,
+        "actType": 1,
+        "chapterId": 20,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88993374
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter17/ChapterActivityMapBG_20",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter17/Chapter17LevelPanel02",
+        "openTime": "2020-06-18 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48749,
+                "preLevelID": 10101
+            },
+            {
+                "eventID": 48756,
+                "preLevelID": 12008
+            }
+        ]
+    },
+    {
+        "actId": 2003,
+        "actType": 1,
+        "chapterId": 20,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88993373
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter17/ChapterActivityMapBG_20",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter17/Chapter17LevelPanel03",
+        "openTime": "2020-06-25 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 48759,
+                "preLevelID": 12014
+            }
+        ]
+    },
+    {
+        "actId": 2101,
+        "actType": 1,
+        "chapterId": 21,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88992414
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter18/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter18/Chapter18LevelPanel01",
+        "openTime": "2020-07-23 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49011,
+                "preLevelID": 12106
+            }
+        ]
+    },
+    {
+        "actId": 2102,
+        "actType": 1,
+        "chapterId": 21,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88992413
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter18/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter18/Chapter18LevelPanel02",
+        "openTime": "2020-07-30 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49018,
+                "preLevelID": 12109
+            }
+        ]
+    },
+    {
+        "actId": 2103,
+        "actType": 1,
+        "chapterId": 21,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88992412
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter18/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter18/Chapter18LevelPanel03",
+        "openTime": "2020-08-06 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 2201,
+        "actType": 1,
+        "chapterId": 22,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88991453
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter19/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter19/Chapter19LevelPanel01",
+        "openTime": "2020-09-03 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49031,
+                "preLevelID": 10101
+            }
+        ]
+    },
+    {
+        "actId": 2202,
+        "actType": 1,
+        "chapterId": 22,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88991452
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter19/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter19/Chapter19LevelPanel02",
+        "openTime": "2020-09-10 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49049,
+                "preLevelID": 12209
+            },
+            {
+                "eventID": 49054,
+                "preLevelID": 12211
+            }
+        ]
+    },
+    {
+        "actId": 2203,
+        "actType": 1,
+        "chapterId": 22,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88991451
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter19/ChapterActivityMapBG_21",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter19/Chapter19LevelPanel03",
+        "openTime": "2020-09-17 04:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49061,
+                "preLevelID": 12214
+            },
+            {
+                "eventID": 49062,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 2301,
+        "actType": 1,
+        "chapterId": 23,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88990492
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter20/Chapter20LevelPanel01FuHua",
+        "openTime": "2020-10-15 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49065,
+                "preLevelID": 10101
+            },
+            {
+                "eventID": 49067,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 2302,
+        "actType": 1,
+        "chapterId": 23,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88990491
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter20/Chapter20LevelPanel02FuHua",
+        "openTime": "2020-10-22 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 2303,
+        "actType": 1,
+        "chapterId": 23,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88990490
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter20/Chapter20LevelPanel03FuHua",
+        "openTime": "2020-10-29 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": []
+    },
+    {
+        "actId": 2401,
+        "actType": 1,
+        "chapterId": 24,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88989531
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel01FuHua",
+        "openTime": "2020-12-03 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49189,
+                "preLevelID": 12401
+            },
+            {
+                "eventID": 49202,
+                "preLevelID": 12405
+            }
+        ]
+    },
+    {
+        "actId": 2402,
+        "actType": 1,
+        "chapterId": 24,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88989530
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel02FuHua",
+        "openTime": "2020-12-10 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49203,
+                "preLevelID": 12405
+            },
+            {
+                "eventID": 49207,
+                "preLevelID": 12406
+            },
+            {
+                "eventID": 49212,
+                "preLevelID": 12409
+            }
+        ]
+    },
+    {
+        "actId": 2403,
+        "actType": 1,
+        "chapterId": 24,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88989529
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel03FuHua",
+        "openTime": "2020-12-17 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49223,
+                "preLevelID": 12413
+            },
+            {
+                "eventID": 49224,
+                "preLevelID": 0
+            }
+        ]
+    },
+    {
+        "actId": 2501,
+        "actType": 1,
+        "chapterId": 25,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88988570
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter22/Chapter22LevelPanel01FuHua",
+        "openTime": "2021-01-15 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49324,
+                "preLevelID": 10101
+            },
+            {
+                "eventID": 49328,
+                "preLevelID": 12501
+            },
+            {
+                "eventID": 49332,
+                "preLevelID": 12502
+            },
+            {
+                "eventID": 49336,
+                "preLevelID": 12503
+            },
+            {
+                "eventID": 49341,
+                "preLevelID": 12504
+            }
+        ]
+    },
+    {
+        "actId": 2502,
+        "actType": 1,
+        "chapterId": 25,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88988569
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter22/Chapter22LevelPanel02FuHua",
+        "openTime": "2021-01-22 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49342,
+                "preLevelID": 12507
+            }
+        ]
+    },
+    {
+        "actId": 2601,
+        "actType": 1,
+        "chapterId": 26,
+        "numInChapter": 1,
+        "actName": {
+            "hash": -88989531
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel01FuHua",
+        "openTime": "2020-12-03 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49189,
+                "preLevelID": 12401
+            },
+            {
+                "eventID": 49202,
+                "preLevelID": 12405
+            }
+        ]
+    },
+    {
+        "actId": 2602,
+        "actType": 1,
+        "chapterId": 26,
+        "numInChapter": 2,
+        "actName": {
+            "hash": -88989530
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel02FuHua",
+        "openTime": "2020-12-10 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49203,
+                "preLevelID": 12405
+            },
+            {
+                "eventID": 49207,
+                "preLevelID": 12406
+            },
+            {
+                "eventID": 49212,
+                "preLevelID": 12409
+            }
+        ]
+    },
+    {
+        "actId": 2603,
+        "actType": 1,
+        "chapterId": 26,
+        "numInChapter": 3,
+        "actName": {
+            "hash": -88989529
+        },
+        "bgImgPath": "",
+        "bgPrefabPath": "UI/Menus/Widget/ChapterActivity/Chapter20/ChapterActivityMapBG_21_02FuHua",
+        "hardLevelPannelPath": "",
+        "hellLevelPannelPath": "",
+        "levelPannelPath": "UI/Menus/Widget/ChapterActivity/Chapter21/Chapter21LevelPanel03FuHua",
+        "openTime": "2020-12-17 10:00:00",
+        "smallImgPath": "SpriteOutput/ActivitySmallImgs/PicMainStory2",
+        "EventGroup": [
+            {
+                "eventID": 49223,
+                "preLevelID": 12413
+            },
+            {
+                "eventID": 49224,
+                "preLevelID": 0
+            }
+        ]
+    }
+]

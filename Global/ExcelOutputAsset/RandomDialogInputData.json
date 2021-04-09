@@ -1,0 +1,18 @@
+[
+    {
+        "InputID": 101,
+        "InputLength": 8,
+        "InputType": 0,
+        "InputNullTipText": "Dialog_Hint_DLC_CodeName",
+        "PlaceholderText": "StageData_displayDetail_125504",
+        "TipText": "StageData_displayDetail_125503"
+    },
+    {
+        "InputID": 102,
+        "InputLength": 8,
+        "InputType": 1,
+        "InputNullTipText": "Dialog_Hint_DLC_CodeName_Empty",
+        "PlaceholderText": "Dialog_Desc_DLC_CodeName",
+        "TipText": "Dialog_Hint_DLC_CodeName"
+    }
+]

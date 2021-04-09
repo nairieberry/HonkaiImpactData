@@ -1,0 +1,702 @@
+[
+    {
+        "Popup_x": 60,
+        "Popup_y": 60,
+        "ConversationID": 1,
+        "ConversationType": 1,
+        "ActivityID": 4488,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9test_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 602963282
+            }
+        ]
+    },
+    {
+        "Popup_x": 60,
+        "Popup_y": 60,
+        "ConversationID": 2,
+        "ConversationType": 1,
+        "ActivityID": 4488,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "SpriteOutput/AvatarCardFigures/1411"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 602963283
+            }
+        ]
+    },
+    {
+        "Popup_x": 60,
+        "Popup_y": 60,
+        "ConversationID": 3,
+        "ConversationType": 1,
+        "ActivityID": 4488,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "SpriteOutput/AvatarCardFigures/1411",
+            "event/Immediately/ActivityPage/3.9test_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -372866042
+            },
+            {
+                "hash": -372866041
+            }
+        ]
+    },
+    {
+        "Popup_x": 60,
+        "Popup_y": 60,
+        "ConversationID": 4,
+        "ConversationType": 2,
+        "ActivityID": 4488,
+        "ConversationTypeParaInt": [
+            5,
+            3
+        ],
+        "CharacterImagePathList": [
+            "SpriteOutput/AvatarCardFigures/1411"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 602963285
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 1,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL06_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742542
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 2,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL09_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742540
+            },
+            {
+                "hash": -1565742539
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 3,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL03_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL14_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742538
+            },
+            {
+                "hash": -1565742537
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 4,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL04_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL04_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742536
+            },
+            {
+                "hash": -1565742535
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 5,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL01_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL06_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742534
+            },
+            {
+                "hash": -1565742512
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 6,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL07_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL07_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742511
+            },
+            {
+                "hash": -1565742510
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 7,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL11_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742509
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 8,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL08_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742508
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 9,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL04_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL04_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742506
+            },
+            {
+                "hash": -1565742505
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 10,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL12_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL15_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742504
+            },
+            {
+                "hash": -1565742503
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 11,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL09_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742481
+            },
+            {
+                "hash": -1565742480
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 12,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL14_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL14_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742479
+            },
+            {
+                "hash": -1565742478
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 13,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL05_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742476
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 14,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL10_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL14_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742474
+            },
+            {
+                "hash": -1565742473
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 15,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL02_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742472
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 16,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL03_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742450
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 17,
+        "ConversationType": 1,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL12_truecolor",
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL12_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742448
+            },
+            {
+                "hash": -1565742447
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 18,
+        "ConversationType": 2,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [
+            5,
+            5
+        ],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742446
+            }
+        ]
+    },
+    {
+        "Popup_x": 790,
+        "Popup_y": 240,
+        "ConversationID": 19,
+        "ConversationType": 2,
+        "ActivityID": 4541,
+        "ConversationTypeParaInt": [
+            40,
+            15
+        ],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysTSL04_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -1565742445
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 1,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella01_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519668
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 2,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella01_truecolor",
+            "event/Immediately/ActivityPage/Bella01_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519669
+            },
+            {
+                "hash": 789982006
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 3,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella04_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 789982967
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 4,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella04_truecolor",
+            "event/Immediately/ActivityPage/Bella04_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 789982968
+            },
+            {
+                "hash": 789982969
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 5,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella05_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519671
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 6,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella06_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519672
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 7,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella07_truecolor",
+            "event/Immediately/ActivityPage/Bella07_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519673
+            },
+            {
+                "hash": 789985850
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 8,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella08_truecolor",
+            "event/Immediately/ActivityPage/Bella09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -2052726521
+            },
+            {
+                "hash": -2052726520
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 9,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella08_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519675
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 10,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 626519676
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 11,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella09_truecolor",
+            "event/Immediately/ActivityPage/Bella09_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -2052726724
+            },
+            {
+                "hash": 789981045
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 12,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella10_truecolor",
+            "event/Immediately/ActivityPage/Bella10_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -2052726723
+            },
+            {
+                "hash": -1280390402
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 13,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella10_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": -2052726722
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 14,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella02_truecolor",
+            "event/Immediately/ActivityPage/Bella03_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 789981154
+            },
+            {
+                "hash": 789981155
+            }
+        ]
+    },
+    {
+        "Popup_x": 120,
+        "Popup_y": 40,
+        "ConversationID": 15,
+        "ConversationType": 1,
+        "ActivityID": 4638,
+        "ConversationTypeParaInt": [
+            40,
+            15
+        ],
+        "CharacterImagePathList": [
+            "event/Immediately/ActivityPage/Bella02_truecolor",
+            "event/Immediately/ActivityPage/Bella03_truecolor"
+        ],
+        "ConversationTextMapList": [
+            {
+                "hash": 789981185
+            },
+            {
+                "hash": 789981186
+            }
+        ]
+    }
+]

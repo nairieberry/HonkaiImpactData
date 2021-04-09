@@ -1,0 +1,79 @@
+[
+    {
+        "attenuationType": 0,
+        "levelDiff": 7,
+        "ratioDailyMentor": 1.0,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 1.0,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": -358613179
+        }
+    },
+    {
+        "attenuationType": 0,
+        "levelDiff": 10,
+        "ratioDailyMentor": 0.8,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.8,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 968615689
+        }
+    },
+    {
+        "attenuationType": 1,
+        "levelDiff": 15,
+        "ratioDailyMentor": 0.5,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.5,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 215532823
+        }
+    },
+    {
+        "attenuationType": 1,
+        "levelDiff": 20,
+        "ratioDailyMentor": 0.3,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.3,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 215532823
+        }
+    },
+    {
+        "attenuationType": 2,
+        "levelDiff": 25,
+        "ratioDailyMentor": 0.1,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.1,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 357167955
+        }
+    },
+    {
+        "attenuationType": 2,
+        "levelDiff": 30,
+        "ratioDailyMentor": 0.05,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.05,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 357167955
+        }
+    },
+    {
+        "attenuationType": 2,
+        "levelDiff": 99,
+        "ratioDailyMentor": 0.05,
+        "ratioDailyStudent": 1.0,
+        "ratioExamMentor": 0.05,
+        "ratioExamStudent": 1.0,
+        "attenuationTipsTextmap": {
+            "hash": 357167955
+        }
+    }
+]

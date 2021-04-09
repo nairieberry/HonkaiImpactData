@@ -1,0 +1,636 @@
+[
+    {
+        "ImgID": 21,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />",
+            "<type=\"27|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/EventPage_Test01",
+            "event/Immediately/ThemeEvent/EventPage/EventPage_Test01"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 22,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"7|5\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/PayPage_Test01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 23,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"7|5\" text=\"GO\" />",
+            "<type=\"7|5\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/PayPage_Test02",
+            "event/Immediately/ThemeEvent/PayPage/PayPage_Test02"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 24,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/WebPage_Test01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 25,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/WebPage_Test02"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 26,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/WebPage_Test03"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 27,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/AdPage/AdPage_Test01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 28,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"9|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/AdPage/AdPage_Test02"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 100,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614945600
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616500799
+        },
+        "GoToLink": [
+            "<type=\"91|1\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GiftPack01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 110,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614945600
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1615550399
+        },
+        "GoToLink": [
+            "<type=\"7|26\" text=\"GO\" />",
+            "<type=\"7|5\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaElf",
+            "event/Immediately/ThemeEvent/PayPage/GachaFuka"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 111,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1615550400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616500799
+        },
+        "GoToLink": [
+            "<type=\"7|5\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaFuka",
+            "event/Immediately/ThemeEvent/PayPage/GachaWeapon"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 112,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1615550400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1615809599
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|5\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaMei",
+            "event/Immediately/ThemeEvent/PayPage/GachaFuka"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 113,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1615809600
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1615895999
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|5\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaDudu",
+            "event/Immediately/ThemeEvent/PayPage/GachaFuka"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 114,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1615896000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616068799
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaDudu",
+            "event/Immediately/ThemeEvent/PayPage/GachaWeapon"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 115,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616068800
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616327999
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaFireDudu",
+            "event/Immediately/ThemeEvent/PayPage/GachaWeapon"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 116,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616328000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616587199
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaMei",
+            "event/Immediately/ThemeEvent/PayPage/GachaWeapon"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 117,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616587200
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616759999
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaDudu",
+            "event/Immediately/ThemeEvent/PayPage/GachaWeapon"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 118,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616760000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617364799
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|27\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/Himeko",
+            "event/Immediately/ThemeEvent/PayPage/WeaponAgain"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 119,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1617364800
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617883199
+        },
+        "GoToLink": [
+            "<type=\"7|18\" text=\"GO\" />",
+            "<type=\"7|3\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/PayPage/GachaDudu",
+            "event/Immediately/ThemeEvent/PayPage/GachaDante"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 120,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616039999
+        },
+        "GoToLink": [
+            "<type=\"81|1010\" text=\"GO\" />",
+            "<type=\"64|4803\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Shooter",
+            "event/Immediately/ThemeEvent/EventPage/ChatRoom"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 121,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616234400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616990399
+        },
+        "GoToLink": [
+            "<type=\"81|4020\" text=\"GO\" />",
+            "<type=\"81|1010\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Rogue",
+            "event/Immediately/ThemeEvent/EventPage/Shooter"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 122,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616990400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617011999
+        },
+        "GoToLink": [
+            "<type=\"81|4020\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Rogue"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 123,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1617012000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617875999
+        },
+        "GoToLink": [
+            "<type=\"84|0\" text=\"GO\" />",
+            "<type=\"81|4020\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Dinner",
+            "event/Immediately/ThemeEvent/EventPage/Rogue"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 124,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1617876000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1618199999
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />",
+            "<type=\"84|0\" text=\"GO\" />",
+            "<type=\"81|4020\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Bronya",
+            "event/Immediately/ThemeEvent/EventPage/Dinner",
+            "event/Immediately/ThemeEvent/EventPage/Rogue"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 125,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1618200000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1618221599
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />",
+            "<type=\"81|4020\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Bronya",
+            "event/Immediately/ThemeEvent/EventPage/Rogue"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 126,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1618221600
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1619063999
+        },
+        "GoToLink": [
+            "<type=\"124|40000116\" text=\"GO\" />",
+            "<type=\"0\" text=\"GO\" />",
+            "<type=\"81|4020\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/United",
+            "event/Immediately/ThemeEvent/EventPage/Bronya",
+            "event/Immediately/ThemeEvent/EventPage/Rogue"
+        ],
+        "bits1": 1
+    },
+    {
+        "ImgID": 130,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617249599
+        },
+        "GoToLink": [
+            "<type=\"64|4841\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Dream"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 131,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1615197599
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Temple01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 132,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1615197600
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616126399
+        },
+        "GoToLink": [
+            "<type=\"64|4885\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Temple02"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 133,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616126400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616147999
+        },
+        "GoToLink": [
+            "<type=\"64|4883\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Pay01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 134,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1583316000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1584871199
+        },
+        "GoToLink": [
+            "<type=\"64|4880\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Recall"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 135,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1584871200
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1585713599
+        },
+        "GoToLink": [
+            "<type=\"112|42\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Dinner01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 136,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616148000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617249599
+        },
+        "GoToLink": [
+            "<type=\"64|4883\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/WebPage/Pay01"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 140,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616990399
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/AdPage/RoguePreheat"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 141,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616990400
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617854399
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/AdPage/BronyaPreheat"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 142,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1614852000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1617854399
+        },
+        "GoToLink": [
+            "<type=\"0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/AdPage/UnitedPreheat"
+        ],
+        "bits1": 0
+    },
+    {
+        "ImgID": 150,
+        "BeginTime": {
+            "_remoteTimeStampValue": 1616040000
+        },
+        "EndTime": {
+            "_remoteTimeStampValue": 1616234399
+        },
+        "GoToLink": [
+            "<type=\"81|1010\" text=\"GO\" />",
+            "<type=\"64|4803\" text=\"GO\" />",
+            "<type=\"84|0\" text=\"GO\" />"
+        ],
+        "ImgPath": [
+            "event/Immediately/ThemeEvent/EventPage/Shooter"
+        ],
+        "bits1": 0
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "ThemeBGMID": 0,
+        "ShowName": {
+            "hash": -986678341
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Default_NeoGion2"
+    },
+    {
+        "ThemeBGMID": 1,
+        "ShowName": {
+            "hash": -986678340
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Default_ACE"
+    },
+    {
+        "ThemeBGMID": 2,
+        "ShowName": {
+            "hash": -986678339
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Default_Random"
+    },
+    {
+        "ThemeBGMID": 3,
+        "ShowName": {
+            "hash": -986678338
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Txs_Random"
+    },
+    {
+        "ThemeBGMID": 4,
+        "ShowName": {
+            "hash": -986678337
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Tqs_Random"
+    },
+    {
+        "ThemeBGMID": 100,
+        "ShowName": {
+            "hash": 989889212
+        },
+        "StateName": "EVA_Activity",
+        "SwitchGroupName": "BGM_EVA_Main",
+        "SwitchName": "EM11"
+    },
+    {
+        "ThemeBGMID": 200,
+        "ShowName": {
+            "hash": 989890173
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Txs_1"
+    },
+    {
+        "ThemeBGMID": 201,
+        "ShowName": {
+            "hash": 989890174
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Txs_2"
+    },
+    {
+        "ThemeBGMID": 202,
+        "ShowName": {
+            "hash": 989890175
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Tqs_1"
+    },
+    {
+        "ThemeBGMID": 203,
+        "ShowName": {
+            "hash": 989890176
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Tqs_2"
+    },
+    {
+        "ThemeBGMID": 204,
+        "ShowName": {
+            "hash": 989890177
+        },
+        "StateName": "MainMenu",
+        "SwitchGroupName": "BGM_Bridge_Main",
+        "SwitchName": "BGM_B_Tqs_3"
+    }
+]

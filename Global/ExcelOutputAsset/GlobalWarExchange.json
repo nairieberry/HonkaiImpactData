@@ -1,0 +1,77 @@
+[
+    {
+        "ExchangeID": 1,
+        "CostStamina": 5,
+        "GetCurrencyNum": 16,
+        "CostMaterialList": [
+            {
+                "ID": 114072,
+                "Num": 1
+            },
+            {
+                "ID": 114073,
+                "Num": 10
+            }
+        ]
+    },
+    {
+        "ExchangeID": 2,
+        "CostStamina": 5,
+        "GetCurrencyNum": 16,
+        "CostMaterialList": [
+            {
+                "ID": 114072,
+                "Num": 1
+            },
+            {
+                "ID": 114073,
+                "Num": 10
+            }
+        ]
+    },
+    {
+        "ExchangeID": 3,
+        "CostStamina": 5,
+        "GetCurrencyNum": 16,
+        "CostMaterialList": [
+            {
+                "ID": 114072,
+                "Num": 1
+            },
+            {
+                "ID": 114073,
+                "Num": 10
+            }
+        ]
+    },
+    {
+        "ExchangeID": 4,
+        "CostStamina": 5,
+        "GetCurrencyNum": 16,
+        "CostMaterialList": [
+            {
+                "ID": 114072,
+                "Num": 1
+            },
+            {
+                "ID": 114073,
+                "Num": 10
+            }
+        ]
+    },
+    {
+        "ExchangeID": 11,
+        "CostStamina": 3,
+        "GetCurrencyNum": 240,
+        "CostMaterialList": [
+            {
+                "ID": 114651,
+                "Num": 1
+            },
+            {
+                "ID": 114652,
+                "Num": 10
+            }
+        ]
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "AtkSpeed": 40,
+        "attackPara": 55,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 1001,
+        "WeaponType": 1
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 58,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 1002,
+        "WeaponType": 1
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 61,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 1003,
+        "WeaponType": 1
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 66,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 1004,
+        "WeaponType": 1
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 77,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 1005,
+        "WeaponType": 1
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 200,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 2001,
+        "WeaponType": 2
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 210,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 2002,
+        "WeaponType": 2
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 220,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 2003,
+        "WeaponType": 2
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 240,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 2004,
+        "WeaponType": 2
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 280,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 2005,
+        "WeaponType": 2
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 250,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 3001,
+        "WeaponType": 3
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 263,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 3002,
+        "WeaponType": 3
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 275,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 3003,
+        "WeaponType": 3
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 300,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 3004,
+        "WeaponType": 3
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 350,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 3005,
+        "WeaponType": 3
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 60,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 4001,
+        "WeaponType": 4
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 63,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 4002,
+        "WeaponType": 4
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 66,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 4003,
+        "WeaponType": 4
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 72,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 4004,
+        "WeaponType": 4
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 84,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 4005,
+        "WeaponType": 4
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 30,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 5001,
+        "WeaponType": 5
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 32,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 5002,
+        "WeaponType": 5
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 33,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 5003,
+        "WeaponType": 5
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 36,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 5004,
+        "WeaponType": 5
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 42,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 5005,
+        "WeaponType": 5
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 105,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 6001,
+        "WeaponType": 6
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 105,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 6002,
+        "WeaponType": 6
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 105,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 6003,
+        "WeaponType": 6
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 105,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 6004,
+        "WeaponType": 6
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 105,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 6005,
+        "WeaponType": 6
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 100,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 10001,
+        "WeaponType": 11
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 100,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 10011,
+        "WeaponType": 12
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 100,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 10021,
+        "WeaponType": 13
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 100,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 10031,
+        "WeaponType": 14
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 100,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 10041,
+        "WeaponType": 15
+    },
+    {
+        "AtkSpeed": 40,
+        "attackPara": 100,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 10101,
+        "WeaponType": 21
+    },
+    {
+        "AtkSpeed": 200,
+        "attackPara": 100,
+        "LockRange": 150,
+        "Range": 180,
+        "SurvivalWeaponID": 10111,
+        "WeaponType": 22
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 100,
+        "LockRange": 500,
+        "Range": 600,
+        "SurvivalWeaponID": 10121,
+        "WeaponType": 28
+    },
+    {
+        "AtkSpeed": 400,
+        "attackPara": 100,
+        "LockRange": 400,
+        "Range": 500,
+        "SurvivalWeaponID": 10131,
+        "WeaponType": 27
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 100,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 10141,
+        "WeaponType": 24
+    },
+    {
+        "AtkSpeed": 100,
+        "attackPara": 100,
+        "LockRange": 700,
+        "Range": 800,
+        "SurvivalWeaponID": 10151,
+        "WeaponType": 26
+    }
+]

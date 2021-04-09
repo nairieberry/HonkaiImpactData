@@ -1,0 +1,198 @@
+[
+    {
+        "AreaCurrencyID": 114344,
+        "IsMainArea": 1,
+        "QAvartarID": 70011,
+        "RichAreaID": 1,
+        "RichID": 1,
+        "SubToArea": 1,
+        "ThemeID": 0,
+        "TileTowerID": 140,
+        "AreaName": "Rich_Area_Name_1",
+        "AreaNumber": "Monopoly_Title_Num_01",
+        "AreaSubTitle": "Monopoly_SubTitle_01",
+        "AreaTabBGpath": "SpriteOutput/SummerTreasureHunt/Challenge/TabBtn01",
+        "BuffList": [
+            10,
+            11,
+            12,
+            5
+        ],
+        "ItemList": [
+            114350,
+            114351,
+            114352,
+            114353,
+            114354,
+            114355,
+            114356,
+            114357,
+            114374,
+            114375,
+            114376,
+            114377
+        ]
+    },
+    {
+        "AreaCurrencyID": 114345,
+        "IsMainArea": 1,
+        "QAvartarID": 70011,
+        "RichAreaID": 2,
+        "RichID": 1,
+        "SubToArea": 2,
+        "ThemeID": 0,
+        "TileTowerID": 141,
+        "AreaName": "Rich_Area_Name_2",
+        "AreaNumber": "Monopoly_Title_Num_02",
+        "AreaSubTitle": "Monopoly_SubTitle_02",
+        "AreaTabBGpath": "SpriteOutput/SummerTreasureHunt/Challenge/TabBtn02",
+        "BuffList": [
+            110,
+            111,
+            112,
+            6
+        ],
+        "ItemList": [
+            114431,
+            114432,
+            114433,
+            114434,
+            114435
+        ]
+    },
+    {
+        "AreaCurrencyID": 114346,
+        "IsMainArea": 1,
+        "QAvartarID": 70011,
+        "RichAreaID": 3,
+        "RichID": 1,
+        "SubToArea": 3,
+        "ThemeID": 0,
+        "TileTowerID": 142,
+        "AreaName": "Rich_Area_Name_3",
+        "AreaNumber": "Monopoly_Title_Num_03",
+        "AreaSubTitle": "Monopoly_SubTitle_03",
+        "AreaTabBGpath": "SpriteOutput/SummerTreasureHunt/Challenge/TabBtn03",
+        "BuffList": [
+            210,
+            211,
+            212,
+            7
+        ],
+        "ItemList": [
+            114441,
+            114442,
+            114443,
+            114445,
+            114461,
+            114462,
+            114463,
+            114500,
+            114427
+        ]
+    },
+    {
+        "AreaCurrencyID": 114347,
+        "IsMainArea": 1,
+        "QAvartarID": 70011,
+        "RichAreaID": 4,
+        "RichID": 1,
+        "SubToArea": 4,
+        "ThemeID": 0,
+        "TileTowerID": 143,
+        "AreaName": "Rich_Area_Name_4",
+        "AreaNumber": "Monopoly_Title_Num_04",
+        "AreaSubTitle": "Monopoly_SubTitle_04",
+        "AreaTabBGpath": "SpriteOutput/SummerTreasureHunt/Challenge/TabBtn04",
+        "BuffList": [
+            310,
+            311
+        ],
+        "ItemList": [
+            114464,
+            114465,
+            114466,
+            114451,
+            114452,
+            114453,
+            114455,
+            114497
+        ]
+    },
+    {
+        "AreaCurrencyID": 114344,
+        "IsMainArea": 0,
+        "QAvartarID": 70011,
+        "RichAreaID": 5,
+        "RichID": 1,
+        "SubToArea": 5,
+        "ThemeID": 0,
+        "TileTowerID": 171,
+        "AreaName": "Rich_Area_Name_5",
+        "AreaNumber": "0",
+        "AreaSubTitle": "0",
+        "AreaTabBGpath": "0",
+        "BuffList": [],
+        "ItemList": [
+            114401,
+            114402,
+            114404
+        ]
+    },
+    {
+        "AreaCurrencyID": 114345,
+        "IsMainArea": 0,
+        "QAvartarID": 70011,
+        "RichAreaID": 6,
+        "RichID": 1,
+        "SubToArea": 6,
+        "ThemeID": 0,
+        "TileTowerID": 172,
+        "AreaName": "Rich_Area_Name_6",
+        "AreaNumber": "0",
+        "AreaSubTitle": "0",
+        "AreaTabBGpath": "0",
+        "BuffList": [],
+        "ItemList": [
+            114405,
+            114406,
+            114407,
+            114409
+        ]
+    },
+    {
+        "AreaCurrencyID": 114346,
+        "IsMainArea": 1,
+        "QAvartarID": 70011,
+        "RichAreaID": 7,
+        "RichID": 1,
+        "SubToArea": 7,
+        "ThemeID": 0,
+        "TileTowerID": 173,
+        "AreaName": "Rich_Area_Name_7",
+        "AreaNumber": "0",
+        "AreaSubTitle": "0",
+        "AreaTabBGpath": "0",
+        "BuffList": [],
+        "ItemList": []
+    },
+    {
+        "AreaCurrencyID": 114347,
+        "IsMainArea": 0,
+        "QAvartarID": 70011,
+        "RichAreaID": 8,
+        "RichID": 1,
+        "SubToArea": 8,
+        "ThemeID": 0,
+        "TileTowerID": 174,
+        "AreaName": "Rich_Area_Name_8",
+        "AreaNumber": "0",
+        "AreaSubTitle": "0",
+        "AreaTabBGpath": "0",
+        "BuffList": [],
+        "ItemList": [
+            114415,
+            114416
+        ]
+    }
+]

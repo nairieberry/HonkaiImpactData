@@ -1,0 +1,474 @@
+[
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10101,
+        "TriggerTime": 0,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10101,
+        "TriggerTime": 9,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10101,
+        "TriggerTime": 19,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10102,
+        "TriggerTime": 0,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10102,
+        "TriggerTime": 11,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10102,
+        "TriggerTime": 20,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10103,
+        "TriggerTime": 0,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10103,
+        "TriggerTime": 14,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10103,
+        "TriggerTime": 24,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10103,
+        "TriggerTime": 30,
+        "FaceAnimationKey": "Elf_01_01",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10201,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_02_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10201,
+        "TriggerTime": 7,
+        "FaceAnimationKey": "Elf_02_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": [
+            {
+                "BeginTime": 0.7,
+                "AttachPoint": "Transform",
+                "EffectPath": "Effect/Elf/Elf_02/Elf_02_FX_Idle_Sit_Chair"
+            }
+        ]
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10201,
+        "TriggerTime": 17,
+        "FaceAnimationKey": "Elf_02_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10202,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_02_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": [
+            {
+                "BeginTime": 0.7,
+                "AttachPoint": "Transform",
+                "EffectPath": "Effect/Elf/Elf_02/Elf_02_FX_Idle_Sit_Chair"
+            }
+        ]
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10202,
+        "TriggerTime": 7,
+        "FaceAnimationKey": "Elf_02_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10202,
+        "TriggerTime": 17,
+        "FaceAnimationKey": "Elf_02_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": [
+            {
+                "BeginTime": 0.7,
+                "AttachPoint": "Transform",
+                "EffectPath": "Effect/Elf/Elf_02/Elf_02_FX_Idle_Sit_Chair"
+            }
+        ]
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10203,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_02_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10203,
+        "TriggerTime": 7,
+        "FaceAnimationKey": "Elf_02_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": [
+            {
+                "BeginTime": 0.7,
+                "AttachPoint": "Transform",
+                "EffectPath": "Effect/Elf/Elf_02/Elf_02_FX_Idle_Sit_Chair"
+            }
+        ]
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10203,
+        "TriggerTime": 17,
+        "FaceAnimationKey": "Elf_02_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10301,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10301,
+        "TriggerTime": 9,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10301,
+        "TriggerTime": 19,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10301,
+        "TriggerTime": 22,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10302,
+        "TriggerTime": 0,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10302,
+        "TriggerTime": 11,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10302,
+        "TriggerTime": 20,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10302,
+        "TriggerTime": 26,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10303,
+        "TriggerTime": 0,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10303,
+        "TriggerTime": 14,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10303,
+        "TriggerTime": 23,
+        "FaceAnimationKey": "Elf_03_01",
+        "TriggerName": "Tease_Cool_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10801,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_08_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10801,
+        "TriggerTime": 10,
+        "FaceAnimationKey": "Elf_08_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10801,
+        "TriggerTime": 15,
+        "FaceAnimationKey": "Elf_08_03",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10901,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_09_01",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10901,
+        "TriggerTime": 10,
+        "FaceAnimationKey": "Elf_09_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10901,
+        "TriggerTime": 15,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10901,
+        "TriggerTime": 20,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10902,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_09_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10902,
+        "TriggerTime": 9,
+        "FaceAnimationKey": "Elf_09_02",
+        "TriggerName": "Tease_4_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10902,
+        "TriggerTime": 15,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_5_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10902,
+        "TriggerTime": 26,
+        "FaceAnimationKey": "Elf_09_02",
+        "TriggerName": "Tease_4_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10902,
+        "TriggerTime": 35,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_4_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10903,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_09_01",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10903,
+        "TriggerTime": 10,
+        "FaceAnimationKey": "Elf_09_02",
+        "TriggerName": "Tease_4_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10903,
+        "TriggerTime": 22,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_5_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 10903,
+        "TriggerTime": 28,
+        "FaceAnimationKey": "Elf_09_03",
+        "TriggerName": "Tease_3_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11001,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_10_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11001,
+        "TriggerTime": 10,
+        "FaceAnimationKey": "Elf_10_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11001,
+        "TriggerTime": 15,
+        "FaceAnimationKey": "Elf_10_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11002,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_10_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11002,
+        "TriggerTime": 9,
+        "FaceAnimationKey": "Elf_10_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11002,
+        "TriggerTime": 15,
+        "FaceAnimationKey": "Elf_10_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11002,
+        "TriggerTime": 26,
+        "FaceAnimationKey": "Elf_10_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11003,
+        "TriggerTime": 1,
+        "FaceAnimationKey": "Elf_10_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11003,
+        "TriggerTime": 10,
+        "FaceAnimationKey": "Elf_10_01",
+        "TriggerName": "Tease_1_Trigger",
+        "TriggerEffectList": []
+    },
+    {
+        "FaceAnimationDelayTime": 0,
+        "StoryId": 11003,
+        "TriggerTime": 22,
+        "FaceAnimationKey": "Elf_10_02",
+        "TriggerName": "Tease_2_Trigger",
+        "TriggerEffectList": []
+    }
+]

@@ -1,0 +1,2018 @@
+[
+    {
+        "BuffID": 1,
+        "BuffType": 1,
+        "GroupType": 1,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": -973334545
+        },
+        "BuffDescBrief": {
+            "hash": -442636433
+        },
+        "BuffName": {
+            "hash": -690913943
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "BuffID": 2,
+        "BuffType": 1,
+        "GroupType": 1,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": -973334544
+        },
+        "BuffDescBrief": {
+            "hash": -442636432
+        },
+        "BuffName": {
+            "hash": -690913942
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "BuffID": 3,
+        "BuffType": 1,
+        "GroupType": 1,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": -973334543
+        },
+        "BuffDescBrief": {
+            "hash": -442636431
+        },
+        "BuffName": {
+            "hash": -690913941
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "BuffID": 4,
+        "BuffType": 1,
+        "GroupType": 1,
+        "Level": 4,
+        "RestrictID": 0,
+        "Score": 2000,
+        "BuffDesc": {
+            "hash": -973334542
+        },
+        "BuffDescBrief": {
+            "hash": -442636430
+        },
+        "BuffName": {
+            "hash": -690913940
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffID": 5,
+        "BuffType": 1,
+        "GroupType": 1,
+        "Level": 5,
+        "RestrictID": 0,
+        "Score": 2500,
+        "BuffDesc": {
+            "hash": -973334541
+        },
+        "BuffDescBrief": {
+            "hash": -442636429
+        },
+        "BuffName": {
+            "hash": -690913939
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffID": 6,
+        "BuffType": 1,
+        "GroupType": 2,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": -973334540
+        },
+        "BuffDescBrief": {
+            "hash": -442636428
+        },
+        "BuffName": {
+            "hash": -690913938
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 7,
+        "BuffType": 1,
+        "GroupType": 2,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": -973334539
+        },
+        "BuffDescBrief": {
+            "hash": -442636427
+        },
+        "BuffName": {
+            "hash": -690913937
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 8,
+        "BuffType": 1,
+        "GroupType": 2,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": -973334538
+        },
+        "BuffDescBrief": {
+            "hash": -442636426
+        },
+        "BuffName": {
+            "hash": -690913936
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 9,
+        "BuffType": 1,
+        "GroupType": 2,
+        "Level": 4,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": -973334537
+        },
+        "BuffDescBrief": {
+            "hash": -442636425
+        },
+        "BuffName": {
+            "hash": -690913935
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 10,
+        "BuffType": 1,
+        "GroupType": 3,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": -108599775
+        },
+        "BuffDescBrief": {
+            "hash": -836827487
+        },
+        "BuffName": {
+            "hash": 56504295
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak"
+    },
+    {
+        "BuffID": 11,
+        "BuffType": 1,
+        "GroupType": 3,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": -108599774
+        },
+        "BuffDescBrief": {
+            "hash": -836827486
+        },
+        "BuffName": {
+            "hash": 56504296
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak"
+    },
+    {
+        "BuffID": 12,
+        "BuffType": 1,
+        "GroupType": 3,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": -108599773
+        },
+        "BuffDescBrief": {
+            "hash": -836827485
+        },
+        "BuffName": {
+            "hash": 56504297
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Weak"
+    },
+    {
+        "BuffID": 13,
+        "BuffType": 1,
+        "GroupType": 4,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": -108599772
+        },
+        "BuffDescBrief": {
+            "hash": -836827484
+        },
+        "BuffName": {
+            "hash": 56504298
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect"
+    },
+    {
+        "BuffID": 14,
+        "BuffType": 1,
+        "GroupType": 4,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": -108599771
+        },
+        "BuffDescBrief": {
+            "hash": -836827483
+        },
+        "BuffName": {
+            "hash": 56504299
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect"
+    },
+    {
+        "BuffID": 15,
+        "BuffType": 1,
+        "GroupType": 4,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 900,
+        "BuffDesc": {
+            "hash": -108599770
+        },
+        "BuffDescBrief": {
+            "hash": -836827482
+        },
+        "BuffName": {
+            "hash": 56504300
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect"
+    },
+    {
+        "BuffID": 16,
+        "BuffType": 1,
+        "GroupType": 5,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": -108599769
+        },
+        "BuffDescBrief": {
+            "hash": -836827481
+        },
+        "BuffName": {
+            "hash": 56504301
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "BuffID": 17,
+        "BuffType": 1,
+        "GroupType": 5,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": -108599768
+        },
+        "BuffDescBrief": {
+            "hash": -836827480
+        },
+        "BuffName": {
+            "hash": 56504302
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "BuffID": 18,
+        "BuffType": 1,
+        "GroupType": 5,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 700,
+        "BuffDesc": {
+            "hash": -108599767
+        },
+        "BuffDescBrief": {
+            "hash": -836827479
+        },
+        "BuffName": {
+            "hash": 56504303
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "BuffID": 100,
+        "BuffType": 1,
+        "GroupType": 6,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": 928374319
+        },
+        "BuffDescBrief": {
+            "hash": -171848273
+        },
+        "BuffName": {
+            "hash": 1751633193
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "BuffID": 101,
+        "BuffType": 1,
+        "GroupType": 6,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": 928374320
+        },
+        "BuffDescBrief": {
+            "hash": -171848272
+        },
+        "BuffName": {
+            "hash": 1751633194
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "BuffID": 102,
+        "BuffType": 1,
+        "GroupType": 6,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": 928374321
+        },
+        "BuffDescBrief": {
+            "hash": -171848271
+        },
+        "BuffName": {
+            "hash": 1751633195
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "BuffID": 103,
+        "BuffType": 1,
+        "GroupType": 7,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374322
+        },
+        "BuffDescBrief": {
+            "hash": -171848270
+        },
+        "BuffName": {
+            "hash": 1751633196
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "BuffID": 104,
+        "BuffType": 1,
+        "GroupType": 7,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": 928374323
+        },
+        "BuffDescBrief": {
+            "hash": -171848269
+        },
+        "BuffName": {
+            "hash": 1751633197
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "BuffID": 105,
+        "BuffType": 1,
+        "GroupType": 7,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 900,
+        "BuffDesc": {
+            "hash": 928374324
+        },
+        "BuffDescBrief": {
+            "hash": -171848268
+        },
+        "BuffName": {
+            "hash": 1751633198
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "BuffID": 106,
+        "BuffType": 1,
+        "GroupType": 8,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": 928374325
+        },
+        "BuffDescBrief": {
+            "hash": -171848267
+        },
+        "BuffName": {
+            "hash": 1751633199
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "BuffID": 107,
+        "BuffType": 1,
+        "GroupType": 8,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": 928374326
+        },
+        "BuffDescBrief": {
+            "hash": -171848266
+        },
+        "BuffName": {
+            "hash": 1751633200
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "BuffID": 108,
+        "BuffType": 1,
+        "GroupType": 8,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": 928374327
+        },
+        "BuffDescBrief": {
+            "hash": -171848265
+        },
+        "BuffName": {
+            "hash": 1751633201
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "BuffID": 109,
+        "BuffType": 1,
+        "GroupType": 9,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": 928374328
+        },
+        "BuffDescBrief": {
+            "hash": -171848264
+        },
+        "BuffName": {
+            "hash": 1751633202
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "BuffID": 110,
+        "BuffType": 1,
+        "GroupType": 9,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374350
+        },
+        "BuffDescBrief": {
+            "hash": -171848242
+        },
+        "BuffName": {
+            "hash": 1751633224
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "BuffID": 111,
+        "BuffType": 1,
+        "GroupType": 9,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374351
+        },
+        "BuffDescBrief": {
+            "hash": -171848241
+        },
+        "BuffName": {
+            "hash": 1751633225
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "BuffID": 112,
+        "BuffType": 1,
+        "GroupType": 10,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": 928374352
+        },
+        "BuffDescBrief": {
+            "hash": -171848240
+        },
+        "BuffName": {
+            "hash": 1751633226
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "BuffID": 113,
+        "BuffType": 1,
+        "GroupType": 10,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": 928374353
+        },
+        "BuffDescBrief": {
+            "hash": -171848239
+        },
+        "BuffName": {
+            "hash": 1751633227
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "BuffID": 114,
+        "BuffType": 1,
+        "GroupType": 10,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": 928374354
+        },
+        "BuffDescBrief": {
+            "hash": -171848238
+        },
+        "BuffName": {
+            "hash": 1751633228
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "BuffID": 115,
+        "BuffType": 1,
+        "GroupType": 11,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 200,
+        "BuffDesc": {
+            "hash": 928374355
+        },
+        "BuffDescBrief": {
+            "hash": -171848237
+        },
+        "BuffName": {
+            "hash": 1751633229
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown"
+    },
+    {
+        "BuffID": 116,
+        "BuffType": 1,
+        "GroupType": 11,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": 928374356
+        },
+        "BuffDescBrief": {
+            "hash": -171848236
+        },
+        "BuffName": {
+            "hash": 1751633230
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown"
+    },
+    {
+        "BuffID": 117,
+        "BuffType": 1,
+        "GroupType": 11,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 600,
+        "BuffDesc": {
+            "hash": 928374357
+        },
+        "BuffDescBrief": {
+            "hash": -171848235
+        },
+        "BuffName": {
+            "hash": 1751633231
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown"
+    },
+    {
+        "BuffID": 120,
+        "BuffType": 1,
+        "GroupType": 12,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374381
+        },
+        "BuffDescBrief": {
+            "hash": -171848211
+        },
+        "BuffName": {
+            "hash": 1751633255
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "BuffID": 121,
+        "BuffType": 1,
+        "GroupType": 12,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374382
+        },
+        "BuffDescBrief": {
+            "hash": -171848210
+        },
+        "BuffName": {
+            "hash": 1751633256
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "BuffID": 122,
+        "BuffType": 1,
+        "GroupType": 12,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374383
+        },
+        "BuffDescBrief": {
+            "hash": -171848209
+        },
+        "BuffName": {
+            "hash": 1751633257
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "BuffID": 123,
+        "BuffType": 1,
+        "GroupType": 13,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374384
+        },
+        "BuffDescBrief": {
+            "hash": -171848208
+        },
+        "BuffName": {
+            "hash": 1751633258
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "BuffID": 124,
+        "BuffType": 1,
+        "GroupType": 13,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374385
+        },
+        "BuffDescBrief": {
+            "hash": -171848207
+        },
+        "BuffName": {
+            "hash": 1751633259
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "BuffID": 125,
+        "BuffType": 1,
+        "GroupType": 13,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374386
+        },
+        "BuffDescBrief": {
+            "hash": -171848206
+        },
+        "BuffName": {
+            "hash": 1751633260
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "BuffID": 126,
+        "BuffType": 1,
+        "GroupType": 14,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374387
+        },
+        "BuffDescBrief": {
+            "hash": -171848205
+        },
+        "BuffName": {
+            "hash": 1751633261
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g"
+    },
+    {
+        "BuffID": 127,
+        "BuffType": 1,
+        "GroupType": 14,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374388
+        },
+        "BuffDescBrief": {
+            "hash": -171848204
+        },
+        "BuffName": {
+            "hash": 1751633262
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g"
+    },
+    {
+        "BuffID": 128,
+        "BuffType": 1,
+        "GroupType": 14,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374389
+        },
+        "BuffDescBrief": {
+            "hash": -171848203
+        },
+        "BuffName": {
+            "hash": 1751633263
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03g"
+    },
+    {
+        "BuffID": 129,
+        "BuffType": 1,
+        "GroupType": 15,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374390
+        },
+        "BuffDescBrief": {
+            "hash": -171848202
+        },
+        "BuffName": {
+            "hash": 1751633264
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield"
+    },
+    {
+        "BuffID": 130,
+        "BuffType": 1,
+        "GroupType": 15,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374412
+        },
+        "BuffDescBrief": {
+            "hash": -171848180
+        },
+        "BuffName": {
+            "hash": 1751633286
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield"
+    },
+    {
+        "BuffID": 131,
+        "BuffType": 1,
+        "GroupType": 15,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374413
+        },
+        "BuffDescBrief": {
+            "hash": -171848179
+        },
+        "BuffName": {
+            "hash": 1751633287
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield"
+    },
+    {
+        "BuffID": 132,
+        "BuffType": 1,
+        "GroupType": 16,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374414
+        },
+        "BuffDescBrief": {
+            "hash": -171848178
+        },
+        "BuffName": {
+            "hash": 1751633288
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield"
+    },
+    {
+        "BuffID": 133,
+        "BuffType": 1,
+        "GroupType": 16,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374415
+        },
+        "BuffDescBrief": {
+            "hash": -171848177
+        },
+        "BuffName": {
+            "hash": 1751633289
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield"
+    },
+    {
+        "BuffID": 134,
+        "BuffType": 1,
+        "GroupType": 16,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374416
+        },
+        "BuffDescBrief": {
+            "hash": -171848176
+        },
+        "BuffName": {
+            "hash": 1751633290
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield"
+    },
+    {
+        "BuffID": 135,
+        "BuffType": 1,
+        "GroupType": 17,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374417
+        },
+        "BuffDescBrief": {
+            "hash": -171848175
+        },
+        "BuffName": {
+            "hash": 1751633291
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "BuffID": 136,
+        "BuffType": 1,
+        "GroupType": 17,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374418
+        },
+        "BuffDescBrief": {
+            "hash": -171848174
+        },
+        "BuffName": {
+            "hash": 1751633292
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "BuffID": 137,
+        "BuffType": 1,
+        "GroupType": 17,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374419
+        },
+        "BuffDescBrief": {
+            "hash": -171848173
+        },
+        "BuffName": {
+            "hash": 1751633293
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "BuffID": 138,
+        "BuffType": 1,
+        "GroupType": 18,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 400,
+        "BuffDesc": {
+            "hash": 928374420
+        },
+        "BuffDescBrief": {
+            "hash": -171848172
+        },
+        "BuffName": {
+            "hash": 1751633294
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "BuffID": 139,
+        "BuffType": 1,
+        "GroupType": 18,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 700,
+        "BuffDesc": {
+            "hash": 928374421
+        },
+        "BuffDescBrief": {
+            "hash": -171848171
+        },
+        "BuffName": {
+            "hash": 1751633295
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "BuffID": 140,
+        "BuffType": 1,
+        "GroupType": 18,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374443
+        },
+        "BuffDescBrief": {
+            "hash": -171848149
+        },
+        "BuffName": {
+            "hash": 1751633317
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "BuffID": 141,
+        "BuffType": 1,
+        "GroupType": 19,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374444
+        },
+        "BuffDescBrief": {
+            "hash": -171848148
+        },
+        "BuffName": {
+            "hash": 1751633318
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 142,
+        "BuffType": 1,
+        "GroupType": 19,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374445
+        },
+        "BuffDescBrief": {
+            "hash": -171848147
+        },
+        "BuffName": {
+            "hash": 1751633319
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 143,
+        "BuffType": 1,
+        "GroupType": 19,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374446
+        },
+        "BuffDescBrief": {
+            "hash": -171848146
+        },
+        "BuffName": {
+            "hash": 1751633320
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "BuffID": 144,
+        "BuffType": 1,
+        "GroupType": 20,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 300,
+        "BuffDesc": {
+            "hash": 928374447
+        },
+        "BuffDescBrief": {
+            "hash": -171848145
+        },
+        "BuffName": {
+            "hash": 1751633321
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 145,
+        "BuffType": 1,
+        "GroupType": 20,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 800,
+        "BuffDesc": {
+            "hash": 928374448
+        },
+        "BuffDescBrief": {
+            "hash": -171848144
+        },
+        "BuffName": {
+            "hash": 1751633322
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 146,
+        "BuffType": 1,
+        "GroupType": 20,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374449
+        },
+        "BuffDescBrief": {
+            "hash": -171848143
+        },
+        "BuffName": {
+            "hash": 1751633323
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 147,
+        "BuffType": 1,
+        "GroupType": 21,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374450
+        },
+        "BuffDescBrief": {
+            "hash": -171848142
+        },
+        "BuffName": {
+            "hash": 1751633324
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime"
+    },
+    {
+        "BuffID": 148,
+        "BuffType": 1,
+        "GroupType": 21,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374451
+        },
+        "BuffDescBrief": {
+            "hash": -171848141
+        },
+        "BuffName": {
+            "hash": 1751633325
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime"
+    },
+    {
+        "BuffID": 149,
+        "BuffType": 1,
+        "GroupType": 21,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374452
+        },
+        "BuffDescBrief": {
+            "hash": -171848140
+        },
+        "BuffName": {
+            "hash": 1751633326
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime"
+    },
+    {
+        "BuffID": 150,
+        "BuffType": 1,
+        "GroupType": 22,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374474
+        },
+        "BuffDescBrief": {
+            "hash": -171848118
+        },
+        "BuffName": {
+            "hash": 1751633348
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 151,
+        "BuffType": 1,
+        "GroupType": 22,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374475
+        },
+        "BuffDescBrief": {
+            "hash": -171848117
+        },
+        "BuffName": {
+            "hash": 1751633349
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 152,
+        "BuffType": 1,
+        "GroupType": 22,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2500,
+        "BuffDesc": {
+            "hash": 928374476
+        },
+        "BuffDescBrief": {
+            "hash": -171848116
+        },
+        "BuffName": {
+            "hash": 1751633350
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 153,
+        "BuffType": 1,
+        "GroupType": 23,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374477
+        },
+        "BuffDescBrief": {
+            "hash": -171848115
+        },
+        "BuffName": {
+            "hash": 1751633351
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 154,
+        "BuffType": 1,
+        "GroupType": 23,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374478
+        },
+        "BuffDescBrief": {
+            "hash": -171848114
+        },
+        "BuffName": {
+            "hash": 1751633352
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 155,
+        "BuffType": 1,
+        "GroupType": 23,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374479
+        },
+        "BuffDescBrief": {
+            "hash": -171848113
+        },
+        "BuffName": {
+            "hash": 1751633353
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 156,
+        "BuffType": 1,
+        "GroupType": 24,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374480
+        },
+        "BuffDescBrief": {
+            "hash": -171848112
+        },
+        "BuffName": {
+            "hash": 1751633354
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 157,
+        "BuffType": 1,
+        "GroupType": 24,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374481
+        },
+        "BuffDescBrief": {
+            "hash": -171848111
+        },
+        "BuffName": {
+            "hash": 1751633355
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 158,
+        "BuffType": 1,
+        "GroupType": 24,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374482
+        },
+        "BuffDescBrief": {
+            "hash": -171848110
+        },
+        "BuffName": {
+            "hash": 1751633356
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 159,
+        "BuffType": 1,
+        "GroupType": 25,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374483
+        },
+        "BuffDescBrief": {
+            "hash": -171848109
+        },
+        "BuffName": {
+            "hash": 1751633357
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 160,
+        "BuffType": 1,
+        "GroupType": 25,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374505
+        },
+        "BuffDescBrief": {
+            "hash": -171848087
+        },
+        "BuffName": {
+            "hash": 1751633379
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 161,
+        "BuffType": 1,
+        "GroupType": 25,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2500,
+        "BuffDesc": {
+            "hash": 928374506
+        },
+        "BuffDescBrief": {
+            "hash": -171848086
+        },
+        "BuffName": {
+            "hash": 1751633380
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 162,
+        "BuffType": 1,
+        "GroupType": 26,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374507
+        },
+        "BuffDescBrief": {
+            "hash": -171848085
+        },
+        "BuffName": {
+            "hash": 1751633381
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 163,
+        "BuffType": 1,
+        "GroupType": 26,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374508
+        },
+        "BuffDescBrief": {
+            "hash": -171848084
+        },
+        "BuffName": {
+            "hash": 1751633382
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 164,
+        "BuffType": 1,
+        "GroupType": 26,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374509
+        },
+        "BuffDescBrief": {
+            "hash": -171848083
+        },
+        "BuffName": {
+            "hash": 1751633383
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 165,
+        "BuffType": 1,
+        "GroupType": 27,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374510
+        },
+        "BuffDescBrief": {
+            "hash": -171848082
+        },
+        "BuffName": {
+            "hash": 1751633384
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 166,
+        "BuffType": 1,
+        "GroupType": 27,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374511
+        },
+        "BuffDescBrief": {
+            "hash": -171848081
+        },
+        "BuffName": {
+            "hash": 1751633385
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 167,
+        "BuffType": 1,
+        "GroupType": 27,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2000,
+        "BuffDesc": {
+            "hash": 928374512
+        },
+        "BuffDescBrief": {
+            "hash": -171848080
+        },
+        "BuffName": {
+            "hash": 1751633386
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 168,
+        "BuffType": 1,
+        "GroupType": 28,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374513
+        },
+        "BuffDescBrief": {
+            "hash": -171848079
+        },
+        "BuffName": {
+            "hash": 1751633387
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 169,
+        "BuffType": 1,
+        "GroupType": 28,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374514
+        },
+        "BuffDescBrief": {
+            "hash": -171848078
+        },
+        "BuffName": {
+            "hash": 1751633388
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 170,
+        "BuffType": 1,
+        "GroupType": 28,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374536
+        },
+        "BuffDescBrief": {
+            "hash": -171848056
+        },
+        "BuffName": {
+            "hash": 1751633410
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 171,
+        "BuffType": 1,
+        "GroupType": 29,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374537
+        },
+        "BuffDescBrief": {
+            "hash": -171848055
+        },
+        "BuffName": {
+            "hash": 1751633411
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 172,
+        "BuffType": 1,
+        "GroupType": 29,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374538
+        },
+        "BuffDescBrief": {
+            "hash": -171848054
+        },
+        "BuffName": {
+            "hash": 1751633412
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 173,
+        "BuffType": 1,
+        "GroupType": 29,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2000,
+        "BuffDesc": {
+            "hash": 928374539
+        },
+        "BuffDescBrief": {
+            "hash": -171848053
+        },
+        "BuffName": {
+            "hash": 1751633413
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 174,
+        "BuffType": 1,
+        "GroupType": 30,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374540
+        },
+        "BuffDescBrief": {
+            "hash": -171848052
+        },
+        "BuffName": {
+            "hash": 1751633414
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 175,
+        "BuffType": 1,
+        "GroupType": 30,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374541
+        },
+        "BuffDescBrief": {
+            "hash": -171848051
+        },
+        "BuffName": {
+            "hash": 1751633415
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 176,
+        "BuffType": 1,
+        "GroupType": 30,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 1500,
+        "BuffDesc": {
+            "hash": 928374542
+        },
+        "BuffDescBrief": {
+            "hash": -171848050
+        },
+        "BuffName": {
+            "hash": 1751633416
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 177,
+        "BuffType": 1,
+        "GroupType": 31,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374543
+        },
+        "BuffDescBrief": {
+            "hash": -171848049
+        },
+        "BuffName": {
+            "hash": 1751633417
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 178,
+        "BuffType": 1,
+        "GroupType": 31,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374544
+        },
+        "BuffDescBrief": {
+            "hash": -171848048
+        },
+        "BuffName": {
+            "hash": 1751633418
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 179,
+        "BuffType": 1,
+        "GroupType": 31,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2000,
+        "BuffDesc": {
+            "hash": 928374545
+        },
+        "BuffDescBrief": {
+            "hash": -171848047
+        },
+        "BuffName": {
+            "hash": 1751633419
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 180,
+        "BuffType": 1,
+        "GroupType": 32,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374567
+        },
+        "BuffDescBrief": {
+            "hash": -171848025
+        },
+        "BuffName": {
+            "hash": 1751633441
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 181,
+        "BuffType": 1,
+        "GroupType": 32,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 1000,
+        "BuffDesc": {
+            "hash": 928374568
+        },
+        "BuffDescBrief": {
+            "hash": -171848024
+        },
+        "BuffName": {
+            "hash": 1751633442
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 182,
+        "BuffType": 1,
+        "GroupType": 32,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2000,
+        "BuffDesc": {
+            "hash": 928374569
+        },
+        "BuffDescBrief": {
+            "hash": -171848023
+        },
+        "BuffName": {
+            "hash": 1751633443
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 183,
+        "BuffType": 1,
+        "GroupType": 33,
+        "Level": 1,
+        "RestrictID": 0,
+        "Score": 500,
+        "BuffDesc": {
+            "hash": 928374570
+        },
+        "BuffDescBrief": {
+            "hash": -171848022
+        },
+        "BuffName": {
+            "hash": 1751633444
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 184,
+        "BuffType": 1,
+        "GroupType": 33,
+        "Level": 2,
+        "RestrictID": 0,
+        "Score": 750,
+        "BuffDesc": {
+            "hash": 928374571
+        },
+        "BuffDescBrief": {
+            "hash": -171848021
+        },
+        "BuffName": {
+            "hash": 1751633445
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 185,
+        "BuffType": 1,
+        "GroupType": 33,
+        "Level": 3,
+        "RestrictID": 0,
+        "Score": 2500,
+        "BuffDesc": {
+            "hash": 928374572
+        },
+        "BuffDescBrief": {
+            "hash": -171848020
+        },
+        "BuffName": {
+            "hash": 1751633446
+        },
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter"
+    },
+    {
+        "BuffID": 1000,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 134,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167135
+        },
+        "BuffDescBrief": {
+            "hash": -1032329119
+        },
+        "BuffName": {
+            "hash": -1533945817
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1001,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 22,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167134
+        },
+        "BuffDescBrief": {
+            "hash": -1032329118
+        },
+        "BuffName": {
+            "hash": -1533945816
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1002,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 222,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167133
+        },
+        "BuffDescBrief": {
+            "hash": -1032329117
+        },
+        "BuffName": {
+            "hash": -1533945815
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1003,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 223,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167132
+        },
+        "BuffDescBrief": {
+            "hash": -1032329116
+        },
+        "BuffName": {
+            "hash": -1533945814
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1004,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 224,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167131
+        },
+        "BuffDescBrief": {
+            "hash": -1032329115
+        },
+        "BuffName": {
+            "hash": -1533945813
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1005,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 225,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285167130
+        },
+        "BuffDescBrief": {
+            "hash": -1032329114
+        },
+        "BuffName": {
+            "hash": -1533945812
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1100,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 22,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285166174
+        },
+        "BuffDescBrief": {
+            "hash": -1032328158
+        },
+        "BuffName": {
+            "hash": -1533944856
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1101,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 21,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285166173
+        },
+        "BuffDescBrief": {
+            "hash": -1032328157
+        },
+        "BuffName": {
+            "hash": -1533944855
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1102,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 23,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285166172
+        },
+        "BuffDescBrief": {
+            "hash": -1032328156
+        },
+        "BuffName": {
+            "hash": -1533944854
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    },
+    {
+        "BuffID": 1103,
+        "BuffType": 2,
+        "GroupType": 0,
+        "Level": 0,
+        "RestrictID": 22,
+        "Score": 100,
+        "BuffDesc": {
+            "hash": -1285166171
+        },
+        "BuffDescBrief": {
+            "hash": -1032328155
+        },
+        "BuffName": {
+            "hash": -1533944853
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_BlackArmour"
+    }
+]

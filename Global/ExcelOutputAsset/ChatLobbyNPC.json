@@ -1,0 +1,2568 @@
+[
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1000,
+        "QAvatarID": 80001,
+        "DialogOffset": 3.0,
+        "NameOffset": 2.0,
+        "Name": {
+            "hash": -153928440
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1678077187
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_05"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1678077188
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_07"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 1678077189
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_13"
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_04"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_06"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_08"
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_HappyJump"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 35,
+        "BubbleDialogIntervalMin": 20,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1001,
+        "QAvatarID": 91002,
+        "DialogOffset": 2.05,
+        "NameOffset": 1.65,
+        "Name": {
+            "hash": -1961382903
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/DaWeiGe",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1678077187
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_04"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1678077188
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_08"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 1678077189
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_04"
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_04"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_06"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_08"
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/DaWeiGe_Ani_Reward"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1002,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 526129930
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1003,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1281324533
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1004,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1206188300
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1005,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -601266163
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1006,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1886246670
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Poker"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1007,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 78792207
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Eat"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1008,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1728662256
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Sit"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1009,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 758850577
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1010,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -350441945
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1011,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 2137070888
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1012,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 329616425
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance_Gawu"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1013,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1477838038
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1014,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1009674795
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Sit_Eat"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1015,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -797779668
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Face_Tsundere"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1016,
+        "QAvatarID": 80001,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1689733165
+        },
+        "HeadIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Tsundere"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1017,
+        "QAvatarID": 704,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -117721298
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/703",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1409966671
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1409966672
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 1409966673
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1004433324
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1004433323
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1004433322
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1018,
+        "QAvatarID": 412,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1925175761
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/412",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1531690928
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1531690927
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -1531690926
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 348876373
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 348876374
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 348876375
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1019,
+        "QAvatarID": 113,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 562337072
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/113",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -178381231
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -178381230
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -178381229
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1702186070
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1702186071
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1702186072
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1020,
+        "QAvatarID": 504,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -546955450
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/504",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -470338969
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -470338968
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -470338967
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1410228332
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1410228333
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1410228334
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1021,
+        "QAvatarID": 312,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1940557383
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/312",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 882970728
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 882970729
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 882970730
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1531429267
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1531429266
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1531429265
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1022,
+        "QAvatarID": 111,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 133102920
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/111",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -2058686871
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -2058686870
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -2058686869
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -178119570
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -178119569
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -178119568
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1023,
+        "QAvatarID": 204,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1674351543
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/204",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -705377174
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -705377173
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -705377172
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1175190127
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1175190128
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1175190129
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1024,
+        "QAvatarID": 602,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 813161290
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/602",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 647932523
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 647932524
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 647932525
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1766467472
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1766467471
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1766467470
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1025,
+        "QAvatarID": 604,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -994293173
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/604",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2001242220
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 2001242221
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 2001242222
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -413157775
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -413157774
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -413157773
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1026,
+        "QAvatarID": 212,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1493219660
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/212",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -940415379
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -940415378
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -940415377
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 940151922
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 940151923
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 940151924
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1027,
+        "QAvatarID": 704,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -117721298
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/703",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1409966671
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1409966672
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 1409966673
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1004433324
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1004433323
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1004433322
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1028,
+        "QAvatarID": 412,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1925175761
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/412",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1531690928
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1531690927
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -1531690926
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 348876373
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 348876374
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 348876375
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1029,
+        "QAvatarID": 113,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 562337072
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/113",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -178381231
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -178381230
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -178381229
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1702186070
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1702186071
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1702186072
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1030,
+        "QAvatarID": 504,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -546955450
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/504",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -470338969
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -470338968
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -470338967
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1410228332
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1410228333
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1410228334
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1031,
+        "QAvatarID": 312,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1940557383
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/312",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 882970728
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 882970729
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 882970730
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1531429267
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1531429266
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1531429265
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1032,
+        "QAvatarID": 111,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 133102920
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/111",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -2058686871
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -2058686870
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -2058686869
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -178119570
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -178119569
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -178119568
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1033,
+        "QAvatarID": 204,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1674351543
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/204",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -705377174
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -705377173
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -705377172
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 1175190127
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 1175190128
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 1175190129
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1034,
+        "QAvatarID": 602,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 813161290
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/602",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 647932523
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 647932524
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 647932525
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -1766467472
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -1766467471
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -1766467470
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1035,
+        "QAvatarID": 604,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -994293173
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/604",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2001242220
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 2001242221
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": 2001242222
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -413157775
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -413157774
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -413157773
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1036,
+        "QAvatarID": 212,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1493219660
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/212",
+        "BubbleDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -940415379
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -940415378
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 10.0,
+                "Text": {
+                    "hash": -940415377
+                },
+                "Voice": ""
+            }
+        ],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 940151922
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": 940151923
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": 940151924
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Play_Guzheng"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1037,
+        "QAvatarID": 704,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -117721298
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/703",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676620
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676625
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676622
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676624
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1038,
+        "QAvatarID": 204,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": -1674351543
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/204",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676620
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676623
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676624
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676621
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 5,
+        "BubbleDialogIntervalMin": 2,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1039,
+        "QAvatarID": 212,
+        "DialogOffset": 2.1,
+        "NameOffset": 1.7,
+        "Name": {
+            "hash": 1493219660
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/212",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676620
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676623
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676624
+                },
+                "Voice": ""
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": 2091676621
+                },
+                "Voice": ""
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 100.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_idle"
+            }
+        ],
+        "bits1": 3
+    },
+    {
+        "BubbleDialogIntervalMax": 25,
+        "BubbleDialogIntervalMin": 10,
+        "IdleIntervalMax": 12,
+        "IdleIntervalMin": 3,
+        "ID": 1040,
+        "QAvatarID": 91002,
+        "DialogOffset": 2.05,
+        "NameOffset": 1.65,
+        "Name": {
+            "hash": -1961382903
+        },
+        "HeadIcon": "SpriteOutput/AvatarIcon/DaWeiGe",
+        "BubbleDialogList": [],
+        "NormalDialogList": [
+            {
+                "Duration": 5.0,
+                "Weight": 50.0,
+                "Text": {
+                    "hash": -736322808
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_04"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 30.0,
+                "Text": {
+                    "hash": -736322807
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_06"
+            },
+            {
+                "Duration": 5.0,
+                "Weight": 20.0,
+                "Text": {
+                    "hash": -736322806
+                },
+                "Voice": "VO_ChatLobby_DaWeiGe_NewYear_08"
+            }
+        ],
+        "IdleList": [
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Angry"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/NPC_Ani_Dance"
+            },
+            {
+                "Weight": 30.0,
+                "Path": "ChatLobby/Avatar/Animation/DaWeiGe_Ani_Reward"
+            }
+        ],
+        "bits1": 3
+    }
+]

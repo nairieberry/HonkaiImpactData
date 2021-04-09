@@ -1,0 +1,263 @@
+[
+    {
+        "PositiveState": 1,
+        "StarNum": 1,
+        "ResistID": 1,
+        "ResistName": {
+            "hash": 750020625
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 2,
+        "ResistID": 2,
+        "ResistName": {
+            "hash": 750020626
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 3,
+        "ResistID": 3,
+        "ResistName": {
+            "hash": 750020627
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 1,
+        "ResistID": 4,
+        "ResistName": {
+            "hash": 750020628
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 2,
+        "ResistID": 5,
+        "ResistName": {
+            "hash": 750020629
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 3,
+        "ResistID": 6,
+        "ResistName": {
+            "hash": 750020630
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 0,
+        "StarNum": 4,
+        "ResistID": 7,
+        "ResistName": {
+            "hash": 750020631
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 1,
+        "ResistID": 10,
+        "ResistName": {
+            "hash": 750020655
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 2,
+        "ResistID": 11,
+        "ResistName": {
+            "hash": 750020656
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 3,
+        "ResistID": 12,
+        "ResistName": {
+            "hash": 750020657
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 1,
+        "ResistID": 13,
+        "ResistName": {
+            "hash": 750020658
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 2,
+        "ResistID": 14,
+        "ResistName": {
+            "hash": 750020659
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 3,
+        "ResistID": 15,
+        "ResistName": {
+            "hash": 750020660
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 0,
+        "StarNum": 4,
+        "ResistID": 16,
+        "ResistName": {
+            "hash": 750020661
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 1,
+        "ResistID": 20,
+        "ResistName": {
+            "hash": 750020686
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 2,
+        "ResistID": 21,
+        "ResistName": {
+            "hash": 750020687
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 3,
+        "ResistID": 22,
+        "ResistName": {
+            "hash": 750020688
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 1,
+        "ResistID": 23,
+        "ResistName": {
+            "hash": 750020689
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 2,
+        "ResistID": 24,
+        "ResistName": {
+            "hash": 750020690
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 3,
+        "ResistID": 25,
+        "ResistName": {
+            "hash": 750020691
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 0,
+        "StarNum": 4,
+        "ResistID": 26,
+        "ResistName": {
+            "hash": 750020692
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Fire"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 1,
+        "ResistID": 30,
+        "ResistName": {
+            "hash": 750020717
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 2,
+        "ResistID": 31,
+        "ResistName": {
+            "hash": 750020718
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 1,
+        "StarNum": 3,
+        "ResistID": 32,
+        "ResistName": {
+            "hash": 750020719
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 1,
+        "ResistID": 33,
+        "ResistName": {
+            "hash": 750020720
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 2,
+        "ResistID": 34,
+        "ResistName": {
+            "hash": 750020721
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 2,
+        "StarNum": 3,
+        "ResistID": 35,
+        "ResistName": {
+            "hash": 750020722
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 0,
+        "StarNum": 4,
+        "ResistID": 36,
+        "ResistName": {
+            "hash": 750020723
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning"
+    },
+    {
+        "PositiveState": 0,
+        "StarNum": 4,
+        "ResistID": 37,
+        "ResistName": {
+            "hash": 750020724
+        },
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Stun"
+    }
+]
