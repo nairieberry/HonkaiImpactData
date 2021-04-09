@@ -1,0 +1,242 @@
+[
+    {
+        "ItemType": 3,
+        "MuseumID": 1,
+        "ExhibitionID": 101,
+        "LinkType": 0,
+        "ItemID": 141504,
+        "LinkColor": "#902E9AFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 3,
+        "MuseumID": 1,
+        "ExhibitionID": 102,
+        "LinkType": 0,
+        "ItemID": 141510,
+        "LinkColor": "#FD992FFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 1,
+        "MuseumID": 1,
+        "ExhibitionID": 103,
+        "LinkType": 0,
+        "ItemID": 20991,
+        "LinkColor": "#5750B2FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 2,
+        "ExhibitionID": 201,
+        "LinkType": 77,
+        "ItemID": 50070,
+        "LinkColor": "#487EE8FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress01",
+        "LinkParams": [
+            1,
+            0
+        ]
+    },
+    {
+        "ItemType": 1,
+        "MuseumID": 2,
+        "ExhibitionID": 202,
+        "LinkType": 77,
+        "ItemID": 21021,
+        "LinkColor": "#F06B3AFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress02",
+        "LinkParams": [
+            7,
+            1
+        ]
+    },
+    {
+        "ItemType": 5,
+        "MuseumID": 2,
+        "ExhibitionID": 203,
+        "LinkType": 77,
+        "ItemID": 101060,
+        "LinkColor": "#814FFFFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress03",
+        "LinkParams": [
+            7,
+            1
+        ]
+    },
+    {
+        "ItemType": 5,
+        "MuseumID": 2,
+        "ExhibitionID": 204,
+        "LinkType": 0,
+        "ItemID": 101052,
+        "LinkColor": "#2FA377FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 2,
+        "MuseumID": 2,
+        "ExhibitionID": 205,
+        "LinkType": 0,
+        "ItemID": 31821,
+        "LinkColor": "#00A1C1FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 3,
+        "ExhibitionID": 301,
+        "LinkType": 0,
+        "ItemID": 50056,
+        "LinkColor": "#E8592EFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 3,
+        "ExhibitionID": 302,
+        "LinkType": 0,
+        "ItemID": 50053,
+        "LinkColor": "#4D90FFFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 2,
+        "MuseumID": 3,
+        "ExhibitionID": 303,
+        "LinkType": 0,
+        "ItemID": 31371,
+        "LinkColor": "#19A973FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 2,
+        "MuseumID": 3,
+        "ExhibitionID": 304,
+        "LinkType": 0,
+        "ItemID": 31361,
+        "LinkColor": "#8456F8FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 2,
+        "MuseumID": 3,
+        "ExhibitionID": 305,
+        "LinkType": 0,
+        "ItemID": 31351,
+        "LinkColor": "#2C2D8EFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 4,
+        "ExhibitionID": 401,
+        "LinkType": 17,
+        "ItemID": 50101,
+        "LinkColor": "#000000CF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2020SpringFestival01",
+        "LinkParams": [
+            3
+        ]
+    },
+    {
+        "ItemType": 2,
+        "MuseumID": 4,
+        "ExhibitionID": 402,
+        "LinkType": 17,
+        "ItemID": 32741,
+        "LinkColor": "#000000CF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2020SpringFestival02",
+        "LinkParams": [
+            3
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 5,
+        "ExhibitionID": 501,
+        "LinkType": 77,
+        "ItemID": 50086,
+        "LinkColor": "#41B0DDFF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress01",
+        "LinkParams": [
+            1,
+            0
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 5,
+        "ExhibitionID": 502,
+        "LinkType": 77,
+        "ItemID": 50083,
+        "LinkColor": "#3FD0D0FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress02",
+        "LinkParams": [
+            7,
+            1
+        ]
+    },
+    {
+        "ItemType": 4,
+        "MuseumID": 5,
+        "ExhibitionID": 503,
+        "LinkType": 77,
+        "ItemID": 50084,
+        "LinkColor": "#C74380FF",
+        "LinkParamStr": "",
+        "SpecialTextmap": "2019RPG_Dress03",
+        "LinkParams": [
+            7,
+            1
+        ]
+    }
+]

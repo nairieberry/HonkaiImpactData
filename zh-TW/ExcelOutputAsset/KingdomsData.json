@@ -1,0 +1,53 @@
+[
+    {
+        "KingdomsID": 1,
+        "Qavatar": 50079,
+        "KingdomsName": {
+            "hash": 875717531
+        },
+        "PhotoTitle": {
+            "hash": 970679384
+        },
+        "Color1": "E3A31BFF",
+        "Color2": "E3A31B28",
+        "ColorName": "Y",
+        "FlagIconPath": "SpriteOutput/AvatarCardFigures/60801_04_01",
+        "IconPath": "SpriteOutput/KingdomsWar/IconKingdoms/Campflag_Durandal",
+        "PhotoDesc": "KingdomsWar_Album_Tab_1_Desc",
+        "QavatarIconPath": "SpriteOutput/AvatarChibiIcons/801_04_01"
+    },
+    {
+        "KingdomsID": 2,
+        "Qavatar": 50066,
+        "KingdomsName": {
+            "hash": 875717532
+        },
+        "PhotoTitle": {
+            "hash": 970679385
+        },
+        "Color1": "1DA6D0FF",
+        "Color2": "1DA6D028",
+        "ColorName": "B",
+        "FlagIconPath": "SpriteOutput/AvatarCardFigures/60704_04_01",
+        "IconPath": "SpriteOutput/KingdomsWar/IconKingdoms/Campflag_Rita",
+        "PhotoDesc": "KingdomsWar_Album_Tab_2_Desc",
+        "QavatarIconPath": "SpriteOutput/AvatarChibiIcons/704_04_01"
+    },
+    {
+        "KingdomsID": 3,
+        "Qavatar": 50080,
+        "KingdomsName": {
+            "hash": 875717533
+        },
+        "PhotoTitle": {
+            "hash": 970679386
+        },
+        "Color1": "D85C62FF",
+        "Color2": "D85C6228",
+        "ColorName": "R",
+        "FlagIconPath": "SpriteOutput/AvatarCardFigures/60104_04_02",
+        "IconPath": "SpriteOutput/KingdomsWar/IconKingdoms/Campflag_Kiana",
+        "PhotoDesc": "KingdomsWar_Album_Tab_3_Desc",
+        "QavatarIconPath": "SpriteOutput/AvatarChibiIcons/104_04_02"
+    }
+]

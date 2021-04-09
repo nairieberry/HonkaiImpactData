@@ -1,0 +1,50 @@
+[
+    {
+        "BossId": 1,
+        "MessageId": 1,
+        "StageDetailMonsterId": 4060,
+        "BossDetail": "MassiveWar_BossDetail_1",
+        "BossName": "MassiveWar_BossName_1",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_180/SinDemonEx/BOSS_180_SinDemonEx"
+    },
+    {
+        "BossId": 2,
+        "MessageId": 2,
+        "StageDetailMonsterId": 4113,
+        "BossDetail": "MassiveWar_BossDetail_2",
+        "BossName": "MassiveWar_BossName_2",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_190/SinDemonEx/BOSS_190_SinDemonEx"
+    },
+    {
+        "BossId": 3,
+        "MessageId": 1,
+        "StageDetailMonsterId": 4060,
+        "BossDetail": "MassiveWar_BossDetail_3",
+        "BossName": "MassiveWar_BossName_3",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_180/SinDemonEx/BOSS_180_SinDemonEx"
+    },
+    {
+        "BossId": 4,
+        "MessageId": 2,
+        "StageDetailMonsterId": 4113,
+        "BossDetail": "MassiveWar_BossDetail_4",
+        "BossName": "MassiveWar_BossName_4",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_190/SinDemonEx/BOSS_190_SinDemonEx"
+    },
+    {
+        "BossId": 5,
+        "MessageId": 3,
+        "StageDetailMonsterId": 4119,
+        "BossDetail": "MassiveWar_BossDetail_5",
+        "BossName": "MassiveWar_BossName_5",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_230/SinDemonEx/BOSS_230_SinDemonEx"
+    },
+    {
+        "BossId": 6,
+        "MessageId": 3,
+        "StageDetailMonsterId": 4119,
+        "BossDetail": "MassiveWar_BossDetail_6",
+        "BossName": "MassiveWar_BossName_6",
+        "BossPrefabPath": "Entities/Monster/Boss/BOSS_230/SinDemonEx/BOSS_230_SinDemonEx"
+    }
+]

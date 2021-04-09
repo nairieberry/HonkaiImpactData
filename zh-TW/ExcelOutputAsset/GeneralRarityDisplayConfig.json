@@ -1,0 +1,44 @@
+[
+    {
+        "RarityID": 1,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Blue",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Blue_Base_10",
+        "GachaDropNameTextColor": "#FFFFFFFF",
+        "GachaUIColorType": "Blue"
+    },
+    {
+        "RarityID": 2,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Blue",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Blue_Base_10",
+        "GachaDropNameTextColor": "#FFFFFFFF",
+        "GachaUIColorType": "Blue"
+    },
+    {
+        "RarityID": 3,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Blue",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Blue_Base_10",
+        "GachaDropNameTextColor": "#FFFFFFFF",
+        "GachaUIColorType": "Blue"
+    },
+    {
+        "RarityID": 4,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Violet",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Violet_Base_10",
+        "GachaDropNameTextColor": "#C1A3FFFF",
+        "GachaUIColorType": "Violet"
+    },
+    {
+        "RarityID": 5,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Violet",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Violet_Base_10",
+        "GachaDropNameTextColor": "#C1A3FFFF",
+        "GachaUIColorType": "Violet"
+    },
+    {
+        "RarityID": 15,
+        "GachaBoxPlateEffectPath": "Effect/Gacha/Gacha_4_0_Demo_Grade_Orange",
+        "GachaDropIconBgPath": "SpriteOutput/Gacha/GaChaDemo/Orange_Base_10",
+        "GachaDropNameTextColor": "#FEDF4CFF",
+        "GachaUIColorType": "Orange"
+    }
+]

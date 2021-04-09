@@ -1,0 +1,65 @@
+[
+    {
+        "ShopTabId": 1,
+        "ShopTabTitle": {
+            "hash": -910174613
+        },
+        "TabIconPath": "SpriteOutput\\ShopTabIcons\\ParentTab\\IconDaily",
+        "ShopTypeList": [
+            1,
+            7,
+            22,
+            14,
+            25
+        ]
+    },
+    {
+        "ShopTabId": 2,
+        "ShopTabTitle": {
+            "hash": -910174612
+        },
+        "TabIconPath": "SpriteOutput\\ShopTabIcons\\ParentTab\\IconPlay",
+        "ShopTypeList": [
+            10,
+            15,
+            9,
+            21,
+            5,
+            12
+        ]
+    },
+    {
+        "ShopTabId": 3,
+        "ShopTabTitle": {
+            "hash": -910174611
+        },
+        "TabIconPath": "SpriteOutput\\ShopTabIcons\\ParentTab\\IconCurrency",
+        "ShopTypeList": [
+            4,
+            2,
+            8,
+            201,
+            6
+        ]
+    },
+    {
+        "ShopTabId": 4,
+        "ShopTabTitle": {
+            "hash": -910174610
+        },
+        "TabIconPath": "SpriteOutput\\ShopTabIcons\\ParentTab\\IconActivity",
+        "ShopTypeList": [
+            302,
+            24,
+            305,
+            3,
+            18,
+            23,
+            19,
+            13,
+            303,
+            304,
+            20
+        ]
+    }
+]

@@ -1,0 +1,375 @@
+[
+    {
+        "CampID": 101,
+        "CampReward": 981001,
+        "CampReward2": 981011,
+        "CampReward3": 981021,
+        "CampWinMaterial": 50019,
+        "CampDescText": {
+            "hash": -935785357
+        },
+        "CampNameText": {
+            "hash": 506069817
+        },
+        "JoinCampBtnText": {
+            "hash": -1346812684
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigure01",
+        "CampColor": "#fc4399ff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss1",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlag01",
+        "IconPath": "SpriteOutput/CampWarCampIcons/Camp01",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfo01",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_SeaAdd_01",
+        "CampEffectList": [
+            101,
+            104
+        ]
+    },
+    {
+        "CampID": 102,
+        "CampReward": 981002,
+        "CampReward2": 981012,
+        "CampReward3": 981022,
+        "CampWinMaterial": 50020,
+        "CampDescText": {
+            "hash": -935785356
+        },
+        "CampNameText": {
+            "hash": 506069818
+        },
+        "JoinCampBtnText": {
+            "hash": -1346812683
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigure02",
+        "CampColor": "#ff9900ff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss2",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlag02",
+        "IconPath": "SpriteOutput/CampWarCampIcons/Camp02",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfo02",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_SeaAdd_02",
+        "CampEffectList": [
+            102,
+            105
+        ]
+    },
+    {
+        "CampID": 103,
+        "CampReward": 981003,
+        "CampReward2": 981013,
+        "CampReward3": 981023,
+        "CampWinMaterial": 50021,
+        "CampDescText": {
+            "hash": -935785355
+        },
+        "CampNameText": {
+            "hash": 506069819
+        },
+        "JoinCampBtnText": {
+            "hash": -1346812682
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigure03",
+        "CampColor": "#00c3ffff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss3",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlag03",
+        "IconPath": "SpriteOutput/CampWarCampIcons/Camp03",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfo03",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_SeaAdd_03",
+        "CampEffectList": [
+            103,
+            106
+        ]
+    },
+    {
+        "CampID": 201,
+        "CampReward": 981004,
+        "CampReward2": 981014,
+        "CampReward3": 0,
+        "CampWinMaterial": 50024,
+        "CampDescText": {
+            "hash": -935784396
+        },
+        "CampNameText": {
+            "hash": 506070778
+        },
+        "JoinCampBtnText": {
+            "hash": -1346811723
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureQixi01",
+        "CampColor": "#3c34ffff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss2",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagQixi01",
+        "IconPath": "SpriteOutput/CampWarCampIcons/QixiCamp01",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfoQixi01",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_QixiAdd_01",
+        "CampEffectList": [
+            201,
+            204
+        ]
+    },
+    {
+        "CampID": 202,
+        "CampReward": 981004,
+        "CampReward2": 981014,
+        "CampReward3": 0,
+        "CampWinMaterial": 50023,
+        "CampDescText": {
+            "hash": -935784395
+        },
+        "CampNameText": {
+            "hash": 506070779
+        },
+        "JoinCampBtnText": {
+            "hash": -1346811722
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureQixi02",
+        "CampColor": "#c93539ff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss1",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagQixi02",
+        "IconPath": "SpriteOutput/CampWarCampIcons/QixiCamp02",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfoQixi02",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_QixiAdd_02",
+        "CampEffectList": [
+            202,
+            205
+        ]
+    },
+    {
+        "CampID": 301,
+        "CampReward": 984930,
+        "CampReward2": 984931,
+        "CampReward3": 0,
+        "CampWinMaterial": 50025,
+        "CampDescText": {
+            "hash": -935783435
+        },
+        "CampNameText": {
+            "hash": 506071739
+        },
+        "JoinCampBtnText": {
+            "hash": -1346810762
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureFFF01",
+        "CampColor": "#fb391e",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss3",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagFFF01",
+        "IconPath": "SpriteOutput/CampWarCampIcons/FFFCamp01",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfoFFF01",
+        "OccupyImgPath": "",
+        "CampEffectList": [
+            301,
+            302
+        ]
+    },
+    {
+        "CampID": 302,
+        "CampReward": 984930,
+        "CampReward2": 984931,
+        "CampReward3": 0,
+        "CampWinMaterial": 50026,
+        "CampDescText": {
+            "hash": -935783434
+        },
+        "CampNameText": {
+            "hash": 506071740
+        },
+        "JoinCampBtnText": {
+            "hash": -1346810761
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureFFF02",
+        "CampColor": "#82e631",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss4",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagFFF02",
+        "IconPath": "SpriteOutput/CampWarCampIcons/FFFCamp02",
+        "ImgPath": "SpriteOutput/CampWarInfoPics/PicCampInfoFFF02",
+        "OccupyImgPath": "",
+        "CampEffectList": [
+            303,
+            304
+        ]
+    },
+    {
+        "CampID": 401,
+        "CampReward": 1430505,
+        "CampReward2": 1430506,
+        "CampReward3": 1430506,
+        "CampWinMaterial": 50027,
+        "CampDescText": {
+            "hash": -935782474
+        },
+        "CampNameText": {
+            "hash": 506072700
+        },
+        "JoinCampBtnText": {
+            "hash": -1346809801
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureFFF01",
+        "CampColor": "#44cdff",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss1",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagQixi02",
+        "IconPath": "SpriteOutput/CampWarCampIcons/FFFCamp01",
+        "ImgPath": "event/Immediately/CampWar/PiCampInfoTMBattle01",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_QixiAdd_02",
+        "CampEffectList": [
+            401
+        ]
+    },
+    {
+        "CampID": 402,
+        "CampReward": 1430505,
+        "CampReward2": 1430506,
+        "CampReward3": 1430506,
+        "CampWinMaterial": 50028,
+        "CampDescText": {
+            "hash": -935782473
+        },
+        "CampNameText": {
+            "hash": 506072701
+        },
+        "JoinCampBtnText": {
+            "hash": -1346809800
+        },
+        "BigImgPath": "SpriteOutput/CampWarCampFigures/CampFigureFFF02",
+        "CampColor": "#d33739",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss2",
+        "FlagImgPath": "SpriteOutput/CampWarCampFlags/CampFlagQixi01",
+        "IconPath": "SpriteOutput/CampWarCampIcons/FFFCamp02",
+        "ImgPath": "event/Immediately/CampWar/PiCampInfoTMBattle02",
+        "OccupyImgPath": "SpriteOutput/CampWarActImgs/CampWarAct_QixiAdd_01",
+        "CampEffectList": [
+            402
+        ]
+    },
+    {
+        "CampID": 501,
+        "CampReward": 1430605,
+        "CampReward2": 1430606,
+        "CampReward3": 1430607,
+        "CampWinMaterial": 20841,
+        "CampDescText": {
+            "hash": -935781513
+        },
+        "CampNameText": {
+            "hash": 506073661
+        },
+        "JoinCampBtnText": {
+            "hash": -1346808840
+        },
+        "BigImgPath": "event/Immediately/CampwarConcert/CampFigureConcert01",
+        "CampColor": "#fc4399ff",
+        "CampWinPic": "event/Immediately/CampwarConcert/CampRewardConcert01",
+        "FlagImgPath": "event/Immediately/CampwarConcert/CampFlagConcert01",
+        "IconPath": "event/Immediately/CampwarConcert/CampConcert01",
+        "ImgPath": "event/Immediately/CampwarConcert/PicCampInfoConcert01",
+        "OccupyImgPath": "event/Immediately/CampwarConcert/null",
+        "CampEffectList": [
+            501
+        ]
+    },
+    {
+        "CampID": 502,
+        "CampReward": 1430605,
+        "CampReward2": 1430606,
+        "CampReward3": 1430607,
+        "CampWinMaterial": 20821,
+        "CampDescText": {
+            "hash": -935781512
+        },
+        "CampNameText": {
+            "hash": 506073662
+        },
+        "JoinCampBtnText": {
+            "hash": -1346808839
+        },
+        "BigImgPath": "event/Immediately/CampwarConcert/CampFigureConcert02",
+        "CampColor": "#ff9900ff",
+        "CampWinPic": "event/Immediately/CampwarConcert/CampRewardConcert02",
+        "FlagImgPath": "event/Immediately/CampwarConcert/CampFlagConcert02",
+        "IconPath": "event/Immediately/CampwarConcert/CampConcert02",
+        "ImgPath": "event/Immediately/CampwarConcert/PicCampInfoConcert03",
+        "OccupyImgPath": "event/Immediately/CampwarConcert/null",
+        "CampEffectList": [
+            502
+        ]
+    },
+    {
+        "CampID": 503,
+        "CampReward": 1430605,
+        "CampReward2": 1430606,
+        "CampReward3": 1430607,
+        "CampWinMaterial": 20831,
+        "CampDescText": {
+            "hash": -935781511
+        },
+        "CampNameText": {
+            "hash": 506073663
+        },
+        "JoinCampBtnText": {
+            "hash": -1346808838
+        },
+        "BigImgPath": "event/Immediately/CampwarConcert/CampFigureConcert03",
+        "CampColor": "#00c3ffff",
+        "CampWinPic": "event/Immediately/CampwarConcert/CampRewardConcert03",
+        "FlagImgPath": "event/Immediately/CampwarConcert/CampFlagConcert03",
+        "IconPath": "event/Immediately/CampwarConcert/CampConcert03",
+        "ImgPath": "event/Immediately/CampwarConcert/PicCampInfoConcert02",
+        "OccupyImgPath": "event/Immediately/CampwarConcert/null",
+        "CampEffectList": [
+            503
+        ]
+    },
+    {
+        "CampID": 3011,
+        "CampReward": 11912101,
+        "CampReward2": 11912201,
+        "CampReward3": 0,
+        "CampWinMaterial": 50029,
+        "CampDescText": {
+            "hash": 1055484636
+        },
+        "CampNameText": {
+            "hash": -1491645226
+        },
+        "JoinCampBtnText": {
+            "hash": -1346810762
+        },
+        "BigImgPath": "event/Immediately/TW_CampWar_001",
+        "CampColor": "#5d8800",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss3",
+        "FlagImgPath": "event/Immediately/CampFlagTWVS01",
+        "IconPath": "event/Immediately/TW_CampWar_051",
+        "ImgPath": "event/Immediately/TW_CampWar_021",
+        "OccupyImgPath": "event/Immediately/TW_CampWar_062",
+        "CampEffectList": [
+            301,
+            302
+        ]
+    },
+    {
+        "CampID": 3021,
+        "CampReward": 11922101,
+        "CampReward2": 11922201,
+        "CampReward3": 0,
+        "CampWinMaterial": 50030,
+        "CampDescText": {
+            "hash": 1055484667
+        },
+        "CampNameText": {
+            "hash": -1491645195
+        },
+        "JoinCampBtnText": {
+            "hash": -1346810761
+        },
+        "BigImgPath": "event/Immediately/TW_CampWar_002",
+        "CampColor": "#4a2eaa",
+        "CampWinPic": "SpriteOutput/ChapterCover/Event/BookOnlineBoss4",
+        "FlagImgPath": "event/Immediately/CampFlagTWVS02",
+        "IconPath": "event/Immediately/TW_CampWar_052",
+        "ImgPath": "event/Immediately/TW_CampWar_022",
+        "OccupyImgPath": "event/Immediately/TW_CampWar_061",
+        "CampEffectList": [
+            303,
+            304
+        ]
+    }
+]

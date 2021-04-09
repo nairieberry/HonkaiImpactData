@@ -1,0 +1,436 @@
+[
+    {
+        "ChallengeActivityID": 0,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 101,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 101,
+        "StageMissionID": 101,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "SpriteOutput/LevelLimitBreakDialog/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 0,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 102,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 22,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 102,
+        "StageMissionID": 102,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "SpriteOutput/LevelLimitBreakDialog/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 0,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 103,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 22,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 103,
+        "StageMissionID": 103,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newplayers/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 0,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 103,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 22,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 104,
+        "StageMissionID": 104,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newplayers/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 1,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 104,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 105,
+        "StageMissionID": 105,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newplayers/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 104,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 106,
+        "StageMissionID": 105,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 1,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 104,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 107,
+        "StageMissionID": 107,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newplayers/LbCharacter02",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 104,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 108,
+        "StageMissionID": 108,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 104,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 109,
+        "StageMissionID": 109,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 105,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 110,
+        "StageMissionID": 110,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 106,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 111,
+        "StageMissionID": 110,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 2,
+        "BattleArrayTutorialID": 0,
+        "EffectMaxLevel": 0,
+        "EffectMinLevel": 0,
+        "GrowUpActivityID": 0,
+        "LevelRewardID": 107,
+        "LinkType": 77,
+        "LoginRewardSchedule": 0,
+        "NewbieGachaTypeID": 22,
+        "NewbieNavigationConfigID": 0,
+        "NewbiePanelSchedule": 0,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 112,
+        "StageMissionID": 112,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "event/immediately/newbie37/LbCharacter03",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ChallengeActivityID": 3,
+        "BattleArrayTutorialID": 7001,
+        "EffectMaxLevel": 66,
+        "EffectMinLevel": 12,
+        "GrowUpActivityID": 1,
+        "LevelRewardID": 108,
+        "LinkType": 77,
+        "LoginRewardSchedule": 520,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 1,
+        "NewbiePanelSchedule": 1,
+        "NewbiePrivilegeConfigID": 1,
+        "NewbieShopID": 23,
+        "ScheduleID": 113,
+        "StageMissionID": 113,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "SpriteOutput/Newcomer/Bg_Level",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 1
+    },
+    {
+        "ChallengeActivityID": 3,
+        "BattleArrayTutorialID": 7001,
+        "EffectMaxLevel": 66,
+        "EffectMinLevel": 12,
+        "GrowUpActivityID": 2,
+        "LevelRewardID": 108,
+        "LinkType": 77,
+        "LoginRewardSchedule": 525,
+        "NewbieGachaTypeID": 21,
+        "NewbieNavigationConfigID": 2,
+        "NewbiePanelSchedule": 2,
+        "NewbiePrivilegeConfigID": 3,
+        "NewbieShopID": 23,
+        "ScheduleID": 114,
+        "StageMissionID": 113,
+        "LevelRewardDetailDesc": {
+            "hash": -764120584
+        },
+        "LevelRewardDetailTitle": {
+            "hash": -1751101023
+        },
+        "LevelRewardBannerPath": "SpriteOutput/Newcomer/Bg_Level",
+        "LevelRewardSloganPath": "SpriteOutput/LevelLimitBreakDialog/LbSloganCn03",
+        "LinkParamStr": "",
+        "LinkParams": [
+            6,
+            1
+        ],
+        "bits1": 1
+    }
+]

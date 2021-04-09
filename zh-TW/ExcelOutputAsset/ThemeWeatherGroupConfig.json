@@ -1,0 +1,47 @@
+[
+    {
+        "WeatherGroupID": 1,
+        "WeatherIDList": [
+            1,
+            2,
+            3
+        ],
+        "AllLevelsClearedRate": [
+            1,
+            1,
+            1
+        ],
+        "ChooseRate": [
+            4,
+            4,
+            0
+        ]
+    },
+    {
+        "WeatherGroupID": 2,
+        "WeatherIDList": [
+            4
+        ],
+        "AllLevelsClearedRate": [
+            1
+        ],
+        "ChooseRate": [
+            1
+        ]
+    },
+    {
+        "WeatherGroupID": 3,
+        "WeatherIDList": [
+            6,
+            7
+        ],
+        "AllLevelsClearedRate": [
+            1,
+            1
+        ],
+        "ChooseRate": [
+            1,
+            1
+        ]
+    }
+]

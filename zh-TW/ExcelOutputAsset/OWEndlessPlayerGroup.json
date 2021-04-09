@@ -1,0 +1,52 @@
+[
+    {
+        "Type": 3,
+        "maxPlayerLevel": 55,
+        "minPlayerLevel": 25,
+        "playerGroup": 1,
+        "name": {
+            "hash": -724185643
+        },
+        "icon": "SpriteOutput/SinDemonExRankIcons/Interval01"
+    },
+    {
+        "Type": 2,
+        "maxPlayerLevel": 69,
+        "minPlayerLevel": 56,
+        "playerGroup": 2,
+        "name": {
+            "hash": -724185642
+        },
+        "icon": "SpriteOutput/SinDemonExRankIcons/Interval02"
+    },
+    {
+        "Type": 3,
+        "maxPlayerLevel": 69,
+        "minPlayerLevel": 56,
+        "playerGroup": 2,
+        "name": {
+            "hash": -724185642
+        },
+        "icon": "SpriteOutput/SinDemonExRankIcons/Interval02"
+    },
+    {
+        "Type": 2,
+        "maxPlayerLevel": 80,
+        "minPlayerLevel": 70,
+        "playerGroup": 3,
+        "name": {
+            "hash": -724185641
+        },
+        "icon": "SpriteOutput/SinDemonExRankIcons/Interval03"
+    },
+    {
+        "Type": 3,
+        "maxPlayerLevel": 80,
+        "minPlayerLevel": 70,
+        "playerGroup": 3,
+        "name": {
+            "hash": -724185641
+        },
+        "icon": "SpriteOutput/SinDemonExRankIcons/Interval03"
+    }
+]

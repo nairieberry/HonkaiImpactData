@@ -1,0 +1,5537 @@
+[
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 0,
+        "BuffNameDesc": {
+            "hash": 0
+        },
+        "Description": {
+            "hash": 0
+        },
+        "IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_BQ_003",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1,
+        "BuffNameDesc": {
+            "hash": 123130358
+        },
+        "Description": {
+            "hash": -1813336528
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Invincible",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 2,
+        "BuffNameDesc": {
+            "hash": -1616058714
+        },
+        "Description": {
+            "hash": 1801113132
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Limbo",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 3,
+        "BuffNameDesc": {
+            "hash": -89303235
+        },
+        "Description": {
+            "hash": 521932611
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WitchTimeSlowed",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 1,
+        "IsActive": 1,
+        "StateID": 4,
+        "BuffNameDesc": {
+            "hash": -1625212157
+        },
+        "Description": {
+            "hash": 1791959689
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Bleed",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 5,
+        "BuffNameDesc": {
+            "hash": -1298837551
+        },
+        "Description": {
+            "hash": -1050058869
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Stun",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 1,
+        "IsActive": 1,
+        "StateID": 6,
+        "BuffNameDesc": {
+            "hash": -1703262993
+        },
+        "Description": {
+            "hash": -51648599
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Paralyze",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 1,
+        "IsActive": 1,
+        "StateID": 7,
+        "BuffNameDesc": {
+            "hash": -1299343130
+        },
+        "Description": {
+            "hash": -1050564448
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 1,
+        "IsActive": 1,
+        "StateID": 8,
+        "BuffNameDesc": {
+            "hash": 1890893118
+        },
+        "Description": {
+            "hash": -752459784
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Poisoned",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 9,
+        "BuffNameDesc": {
+            "hash": 1278406647
+        },
+        "Description": {
+            "hash": -163448527
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 10,
+        "BuffNameDesc": {
+            "hash": -718110847
+        },
+        "Description": {
+            "hash": -2391801
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MoveSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 11,
+        "BuffNameDesc": {
+            "hash": -1995631446
+        },
+        "Description": {
+            "hash": -1384395600
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 12,
+        "BuffNameDesc": {
+            "hash": -1298733425
+        },
+        "Description": {
+            "hash": -1049954743
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 13,
+        "BuffNameDesc": {
+            "hash": 962408953
+        },
+        "Description": {
+            "hash": -785428481
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Fragile",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 3,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 14,
+        "BuffNameDesc": {
+            "hash": 1245751300
+        },
+        "Description": {
+            "hash": -196103874
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Endure",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 15,
+        "BuffNameDesc": {
+            "hash": 227185978
+        },
+        "Description": {
+            "hash": 326254656
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MoveSpeedUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 16,
+        "BuffNameDesc": {
+            "hash": 1781162147
+        },
+        "Description": {
+            "hash": -1798086103
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 17,
+        "BuffNameDesc": {
+            "hash": 1181889545
+        },
+        "Description": {
+            "hash": -565947889
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_PowerUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 18,
+        "BuffNameDesc": {
+            "hash": 893770079
+        },
+        "Description": {
+            "hash": -1749582823
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Shielded",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 19,
+        "BuffNameDesc": {
+            "hash": 1192334188
+        },
+        "Description": {
+            "hash": -249520986
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_CritUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 20,
+        "BuffNameDesc": {
+            "hash": 1359612378
+        },
+        "Description": {
+            "hash": -82242796
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Immune",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 21,
+        "BuffNameDesc": {
+            "hash": 444406281
+        },
+        "Description": {
+            "hash": -779431997
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MaxMoveSpeed",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 22,
+        "BuffNameDesc": {
+            "hash": 64397330
+        },
+        "Description": {
+            "hash": -1159440948
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TargetLocked",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 23,
+        "BuffNameDesc": {
+            "hash": -1298818837
+        },
+        "Description": {
+            "hash": -1050040155
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Tied",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 24,
+        "BuffNameDesc": {
+            "hash": -663948421
+        },
+        "Description": {
+            "hash": 1320046389
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BlockAnimEventAttack",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 25,
+        "BuffNameDesc": {
+            "hash": -101325664
+        },
+        "Description": {
+            "hash": -2256986
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Undamagable",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 26,
+        "BuffNameDesc": {
+            "hash": -1783748376
+        },
+        "Description": {
+            "hash": -1068029330
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ReflectBullet",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 27,
+        "BuffNameDesc": {
+            "hash": -2004120659
+        },
+        "Description": {
+            "hash": 48527975
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SlowWhenFrozenOrParalyze",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 28,
+        "BuffNameDesc": {
+            "hash": 1376683676
+        },
+        "Description": {
+            "hash": 152845398
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_UtilityState",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 29,
+        "BuffNameDesc": {
+            "hash": -1624411319
+        },
+        "Description": {
+            "hash": 1792760527
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Chaos",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 30,
+        "BuffNameDesc": {
+            "hash": -822522122
+        },
+        "Description": {
+            "hash": -1162083460
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Invisible",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 31,
+        "BuffNameDesc": {
+            "hash": 175963434
+        },
+        "Description": {
+            "hash": 275032112
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_EvadeSucces",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 3,
+        "IsActive": 1,
+        "StateID": 101,
+        "BuffNameDesc": {
+            "hash": 1143413852
+        },
+        "Description": {
+            "hash": 1242482530
+        },
+        "IconPath": "SpriteOutput/InLevel/DLCBuff/01",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 3,
+        "IsActive": 1,
+        "StateID": 102,
+        "BuffNameDesc": {
+            "hash": -1929302317
+        },
+        "Description": {
+            "hash": 617827545
+        },
+        "IconPath": "SpriteOutput/InLevel/DLCBuff/04",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 103,
+        "BuffNameDesc": {
+            "hash": 1881677508
+        },
+        "Description": {
+            "hash": -1697570742
+        },
+        "IconPath": "SpriteOutput/InLevel/DLCBuff/03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 104,
+        "BuffNameDesc": {
+            "hash": 1508692300
+        },
+        "Description": {
+            "hash": -2070555950
+        },
+        "IconPath": "SpriteOutput/InLevel/DLCBuff/05",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 111,
+        "BuffNameDesc": {
+            "hash": 1508692300
+        },
+        "Description": {
+            "hash": -2070555950
+        },
+        "IconPath": "SpriteOutput/InLevel/DLCBuff/05",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1001,
+        "BuffNameDesc": {
+            "hash": -822522122
+        },
+        "Description": {
+            "hash": -1162083460
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Invisible",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1002,
+        "BuffNameDesc": {
+            "hash": 1010726503
+        },
+        "Description": {
+            "hash": 1109795181
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KianaC1Stun",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1003,
+        "BuffNameDesc": {
+            "hash": -92245347
+        },
+        "Description": {
+            "hash": 1676196695
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1004,
+        "BuffNameDesc": {
+            "hash": -92245346
+        },
+        "Description": {
+            "hash": 1676196696
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1005,
+        "BuffNameDesc": {
+            "hash": -92245345
+        },
+        "Description": {
+            "hash": 1676196697
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1006,
+        "BuffNameDesc": {
+            "hash": -92245344
+        },
+        "Description": {
+            "hash": 1676196698
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp4",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1007,
+        "BuffNameDesc": {
+            "hash": -92245343
+        },
+        "Description": {
+            "hash": 1676196699
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp5",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1008,
+        "BuffNameDesc": {
+            "hash": -92245342
+        },
+        "Description": {
+            "hash": 1676196700
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp6",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1009,
+        "BuffNameDesc": {
+            "hash": -92245341
+        },
+        "Description": {
+            "hash": 1676196701
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp7",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1010,
+        "BuffNameDesc": {
+            "hash": -92245340
+        },
+        "Description": {
+            "hash": 1676196702
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp8",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1011,
+        "BuffNameDesc": {
+            "hash": -92245339
+        },
+        "Description": {
+            "hash": 1676196703
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp9",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1012,
+        "BuffNameDesc": {
+            "hash": 1435361587
+        },
+        "Description": {
+            "hash": 422490041
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp10",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1013,
+        "BuffNameDesc": {
+            "hash": -832940556
+        },
+        "Description": {
+            "hash": 1525559854
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2Kiva",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 1014,
+        "BuffNameDesc": {
+            "hash": 1654224057
+        },
+        "Description": {
+            "hash": 430385779
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1015,
+        "BuffNameDesc": {
+            "hash": 2125092192
+        },
+        "Description": {
+            "hash": -1457421158
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC2KeepCombo",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1016,
+        "BuffNameDesc": {
+            "hash": -1759382716
+        },
+        "Description": {
+            "hash": 224612094
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_HimekoC2PerfectCombo",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1017,
+        "BuffNameDesc": {
+            "hash": 1696608661
+        },
+        "Description": {
+            "hash": -1885904689
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RitaC4CDAttack",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1018,
+        "BuffNameDesc": {
+            "hash": -1259470427
+        },
+        "Description": {
+            "hash": -648234581
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SeeleC1EscapeCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1019,
+        "BuffNameDesc": {
+            "hash": 2011646547
+        },
+        "Description": {
+            "hash": 1672085209
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_GP_Charge",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1020,
+        "BuffNameDesc": {
+            "hash": -690163870
+        },
+        "Description": {
+            "hash": -1029725208
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FK_AF01_X",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1021,
+        "BuffNameDesc": {
+            "hash": 82374078
+        },
+        "Description": {
+            "hash": -1854092808
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Seele_HY_B",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1022,
+        "BuffNameDesc": {
+            "hash": 82374099
+        },
+        "Description": {
+            "hash": -1854092787
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Seele_HY_W",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1023,
+        "BuffNameDesc": {
+            "hash": -1542950321
+        },
+        "Description": {
+            "hash": -168653355
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1024,
+        "BuffNameDesc": {
+            "hash": -555652703
+        },
+        "Description": {
+            "hash": 1496995931
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_NinjiaSignBuff",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1025,
+        "BuffNameDesc": {
+            "hash": -802826657
+        },
+        "Description": {
+            "hash": -87107611
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC5UltraCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1026,
+        "BuffNameDesc": {
+            "hash": 1298283479
+        },
+        "Description": {
+            "hash": 74445201
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC5Shield",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1027,
+        "BuffNameDesc": {
+            "hash": 43857278
+        },
+        "Description": {
+            "hash": 142925956
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC5Ultra",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1028,
+        "BuffNameDesc": {
+            "hash": -1234456182
+        },
+        "Description": {
+            "hash": 353564304
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalDamageLayer",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1029,
+        "BuffNameDesc": {
+            "hash": 152320826
+        },
+        "Description": {
+            "hash": 1920762868
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalEscapeCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1030,
+        "BuffNameDesc": {
+            "hash": -875732223
+        },
+        "Description": {
+            "hash": 1108262587
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalC2_UltraTime",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1031,
+        "BuffNameDesc": {
+            "hash": -1777651955
+        },
+        "Description": {
+            "hash": -2124118969
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DurandalC2_MoraleCount",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1032,
+        "BuffNameDesc": {
+            "hash": -1348936373
+        },
+        "Description": {
+            "hash": -737700527
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Theresa_ZG_Team",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1033,
+        "BuffNameDesc": {
+            "hash": -2037304982
+        },
+        "Description": {
+            "hash": -449284496
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Theresa_ZG_Help_Tag",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1034,
+        "BuffNameDesc": {
+            "hash": 1463160888
+        },
+        "Description": {
+            "hash": 450289342
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mei_AC_DragonTime",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1035,
+        "BuffNameDesc": {
+            "hash": 867436577
+        },
+        "Description": {
+            "hash": 1583155623
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mei_AC_Shield",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1036,
+        "BuffNameDesc": {
+            "hash": -740744093
+        },
+        "Description": {
+            "hash": 1027697949
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RitaC5_Rose",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1037,
+        "BuffNameDesc": {
+            "hash": -741226547
+        },
+        "Description": {
+            "hash": 1027215495
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_RitaC5_Bird",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1038,
+        "BuffNameDesc": {
+            "hash": 1620542537
+        },
+        "Description": {
+            "hash": -1723280765
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mei_C3_Artifact_Ultra_Charge1",
+        "bits1": 1
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1039,
+        "BuffNameDesc": {
+            "hash": 1620542538
+        },
+        "Description": {
+            "hash": -1723280764
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mei_C3_Artifact_Ultra_Charge2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1040,
+        "BuffNameDesc": {
+            "hash": 1620542539
+        },
+        "Description": {
+            "hash": -1723280763
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mei_C3_Artifact_Ultra_Charge3",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1041,
+        "BuffNameDesc": {
+            "hash": -726832042
+        },
+        "Description": {
+            "hash": 861188444
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Asuka_C1_Ultra",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1042,
+        "BuffNameDesc": {
+            "hash": -1265526349
+        },
+        "Description": {
+            "hash": 1695194093
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC6PowerUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1043,
+        "BuffNameDesc": {
+            "hash": 379697875
+        },
+        "Description": {
+            "hash": -2146827379
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC6Happy",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 1044,
+        "BuffNameDesc": {
+            "hash": 392035231
+        },
+        "Description": {
+            "hash": -2134490023
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC6Ultra",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3001,
+        "BuffNameDesc": {
+            "hash": -1115548753
+        },
+        "Description": {
+            "hash": 258748213
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_EnergyConcentrationCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 3002,
+        "BuffNameDesc": {
+            "hash": -1341490682
+        },
+        "Description": {
+            "hash": 426951360
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ThirdLawDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3003,
+        "BuffNameDesc": {
+            "hash": -1875577293
+        },
+        "Description": {
+            "hash": 482923117
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ThirdLawCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 3004,
+        "BuffNameDesc": {
+            "hash": -1241515091
+        },
+        "Description": {
+            "hash": 132781875
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WaveCharacterDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3005,
+        "BuffNameDesc": {
+            "hash": 372932890
+        },
+        "Description": {
+            "hash": 984168736
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WaveCharacterCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3006,
+        "BuffNameDesc": {
+            "hash": 175909664
+        },
+        "Description": {
+            "hash": 274978342
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DarkBlustCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3007,
+        "BuffNameDesc": {
+            "hash": 38299813
+        },
+        "Description": {
+            "hash": -1185538465
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_OrbitalLawCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3008,
+        "BuffNameDesc": {
+            "hash": -708035745
+        },
+        "Description": {
+            "hash": 1650464665
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NenupharCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3009,
+        "BuffNameDesc": {
+            "hash": 134418104
+        },
+        "Description": {
+            "hash": 1508715070
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_PrincessEnchantmentCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3010,
+        "BuffNameDesc": {
+            "hash": -1080848758
+        },
+        "Description": {
+            "hash": 1277651652
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FirstLawCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3011,
+        "BuffNameDesc": {
+            "hash": 1193322643
+        },
+        "Description": {
+            "hash": -30515635
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FrostTouchCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3012,
+        "BuffNameDesc": {
+            "hash": 1608838518
+        },
+        "Description": {
+            "hash": 1707907196
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FireworksCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3013,
+        "BuffNameDesc": {
+            "hash": 291506638
+        },
+        "Description": {
+            "hash": 2059948680
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BurstWaterballCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3014,
+        "BuffNameDesc": {
+            "hash": -1119274146
+        },
+        "Description": {
+            "hash": 649167896
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BloodflameTimeCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3015,
+        "BuffNameDesc": {
+            "hash": -423874536
+        },
+        "Description": {
+            "hash": 1344567506
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WheelOfDestinyCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3016,
+        "BuffNameDesc": {
+            "hash": -16644139
+        },
+        "Description": {
+            "hash": 594591707
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ParticleStateCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3017,
+        "BuffNameDesc": {
+            "hash": 1744292837
+        },
+        "Description": {
+            "hash": -1939438613
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_GenesisDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3018,
+        "BuffNameDesc": {
+            "hash": -1205584134
+        },
+        "Description": {
+            "hash": -1106515456
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SwordSoulCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3019,
+        "BuffNameDesc": {
+            "hash": -1206300114
+        },
+        "Description": {
+            "hash": -595064268
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KitsunenoKageCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3020,
+        "BuffNameDesc": {
+            "hash": -1889639076
+        },
+        "Description": {
+            "hash": 657490786
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ManiaCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3021,
+        "BuffNameDesc": {
+            "hash": -612868904
+        },
+        "Description": {
+            "hash": 1371125906
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedDamageResistCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3022,
+        "BuffNameDesc": {
+            "hash": 1457923652
+        },
+        "Description": {
+            "hash": 1118362314
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BerserkCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3023,
+        "BuffNameDesc": {
+            "hash": -1808166383
+        },
+        "Description": {
+            "hash": -156551989
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Nobel_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3024,
+        "BuffNameDesc": {
+            "hash": 378381784
+        },
+        "Description": {
+            "hash": -845456494
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mendeleev_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3025,
+        "BuffNameDesc": {
+            "hash": -1764007399
+        },
+        "Description": {
+            "hash": 1196713043
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Mendeleev_ThreeSet",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3026,
+        "BuffNameDesc": {
+            "hash": -1657915928
+        },
+        "Description": {
+            "hash": -945461982
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DLK_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3027,
+        "BuffNameDesc": {
+            "hash": 829596905
+        },
+        "Description": {
+            "hash": 1542050851
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DLK_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3028,
+        "BuffNameDesc": {
+            "hash": -977857558
+        },
+        "Description": {
+            "hash": -265403612
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DLK_03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3029,
+        "BuffNameDesc": {
+            "hash": 444051711
+        },
+        "Description": {
+            "hash": 1055287557
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DLK_02NineTimes",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3030,
+        "BuffNameDesc": {
+            "hash": 2133017432
+        },
+        "Description": {
+            "hash": 1120145886
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XDE_YX_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3031,
+        "BuffNameDesc": {
+            "hash": 325562969
+        },
+        "Description": {
+            "hash": -687308577
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XDE_YX_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3032,
+        "BuffNameDesc": {
+            "hash": -1481891494
+        },
+        "Description": {
+            "hash": 1800204256
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XDE_YX_03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3033,
+        "BuffNameDesc": {
+            "hash": 1013428011
+        },
+        "Description": {
+            "hash": -1513097243
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WET_Y_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3034,
+        "BuffNameDesc": {
+            "hash": 201236760
+        },
+        "Description": {
+            "hash": 916955806
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_HM_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3035,
+        "BuffNameDesc": {
+            "hash": 2019897281
+        },
+        "Description": {
+            "hash": -1559350969
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_PL_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3036,
+        "BuffNameDesc": {
+            "hash": 212442818
+        },
+        "Description": {
+            "hash": 928161864
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_PL_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3037,
+        "BuffNameDesc": {
+            "hash": -1851445678
+        },
+        "Description": {
+            "hash": -1240209832
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_LSPT_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3038,
+        "BuffNameDesc": {
+            "hash": 858559035
+        },
+        "Description": {
+            "hash": 1571012981
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3039,
+        "BuffNameDesc": {
+            "hash": -948895428
+        },
+        "Description": {
+            "hash": -236441482
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3040,
+        "BuffNameDesc": {
+            "hash": 1538617405
+        },
+        "Description": {
+            "hash": -2043895945
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3041,
+        "BuffNameDesc": {
+            "hash": -268837058
+        },
+        "Description": {
+            "hash": 443616888
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_04Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3042,
+        "BuffNameDesc": {
+            "hash": -2076291521
+        },
+        "Description": {
+            "hash": -1363837575
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_05Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3043,
+        "BuffNameDesc": {
+            "hash": 411221312
+        },
+        "Description": {
+            "hash": 1123675258
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_06Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3044,
+        "BuffNameDesc": {
+            "hash": -1396233151
+        },
+        "Description": {
+            "hash": -683779205
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_07Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3045,
+        "BuffNameDesc": {
+            "hash": 1091279682
+        },
+        "Description": {
+            "hash": 1803733628
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_08Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3046,
+        "BuffNameDesc": {
+            "hash": -716174781
+        },
+        "Description": {
+            "hash": -3720835
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_09Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3047,
+        "BuffNameDesc": {
+            "hash": -1825467303
+        },
+        "Description": {
+            "hash": -1113013357
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KFK_10Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3048,
+        "BuffNameDesc": {
+            "hash": 1691300010
+        },
+        "Description": {
+            "hash": -1992431440
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_LTXC_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3049,
+        "BuffNameDesc": {
+            "hash": 803786767
+        },
+        "Description": {
+            "hash": 1516240713
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SKT_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3050,
+        "BuffNameDesc": {
+            "hash": 504173542
+        },
+        "Description": {
+            "hash": 1216627488
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ALP_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3051,
+        "BuffNameDesc": {
+            "hash": -1303280921
+        },
+        "Description": {
+            "hash": -590826975
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ALP_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3052,
+        "BuffNameDesc": {
+            "hash": -756708316
+        },
+        "Description": {
+            "hash": -44254370
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SCW_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3053,
+        "BuffNameDesc": {
+            "hash": -1404522506
+        },
+        "Description": {
+            "hash": -793286660
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FHSX_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3054,
+        "BuffNameDesc": {
+            "hash": 1606766703
+        },
+        "Description": {
+            "hash": -2076964747
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_LWHK_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3055,
+        "BuffNameDesc": {
+            "hash": -200687760
+        },
+        "Description": {
+            "hash": 410548086
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_LWHK_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3056,
+        "BuffNameDesc": {
+            "hash": 213104317
+        },
+        "Description": {
+            "hash": 928823363
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DD_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3057,
+        "BuffNameDesc": {
+            "hash": -1594350146
+        },
+        "Description": {
+            "hash": -878631100
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DD_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3058,
+        "BuffNameDesc": {
+            "hash": 893162687
+        },
+        "Description": {
+            "hash": 1608881733
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DD_03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3059,
+        "BuffNameDesc": {
+            "hash": 881522822
+        },
+        "Description": {
+            "hash": 1597241868
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SJ_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3060,
+        "BuffNameDesc": {
+            "hash": -925931641
+        },
+        "Description": {
+            "hash": -210212595
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SJ_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3061,
+        "BuffNameDesc": {
+            "hash": 841760859
+        },
+        "Description": {
+            "hash": 1554214805
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DGS_01Duration",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3062,
+        "BuffNameDesc": {
+            "hash": 569570790
+        },
+        "Description": {
+            "hash": 1180806636
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SSBY_01Duration",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3063,
+        "BuffNameDesc": {
+            "hash": -1237883673
+        },
+        "Description": {
+            "hash": -626647827
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SSBY_02Duration",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3064,
+        "BuffNameDesc": {
+            "hash": 1249629160
+        },
+        "Description": {
+            "hash": 1860865006
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SSBY_03Duration",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3065,
+        "BuffNameDesc": {
+            "hash": -557825303
+        },
+        "Description": {
+            "hash": 53410543
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SSBY_04Duration",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 3066,
+        "BuffNameDesc": {
+            "hash": -1995318952
+        },
+        "Description": {
+            "hash": -1282865006
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MRX_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 6001,
+        "BuffNameDesc": {
+            "hash": -1528278769
+        },
+        "Description": {
+            "hash": -917042923
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_GodFireDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6002,
+        "BuffNameDesc": {
+            "hash": -119927447
+        },
+        "Description": {
+            "hash": 592526499
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FreezingHellCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6003,
+        "BuffNameDesc": {
+            "hash": -115217389
+        },
+        "Description": {
+            "hash": 1653224653
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NightMessengerCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 6004,
+        "BuffNameDesc": {
+            "hash": 1702950859
+        },
+        "Description": {
+            "hash": -1386668027
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_BloodDragonRampageDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 6005,
+        "BuffNameDesc": {
+            "hash": 717078299
+        },
+        "Description": {
+            "hash": -295793247
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_OathProofDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6006,
+        "BuffNameDesc": {
+            "hash": 1337126664
+        },
+        "Description": {
+            "hash": 1436195342
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_OathProofCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6007,
+        "BuffNameDesc": {
+            "hash": 567725633
+        },
+        "Description": {
+            "hash": -656112645
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KurenaiUtaCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6008,
+        "BuffNameDesc": {
+            "hash": 792632293
+        },
+        "Description": {
+            "hash": -1914314517
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MikuinohebiDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6009,
+        "BuffNameDesc": {
+            "hash": 607767150
+        },
+        "Description": {
+            "hash": 1219002996
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChronosCleaveCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6010,
+        "BuffNameDesc": {
+            "hash": 1929535407
+        },
+        "Description": {
+            "hash": -381437079
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KazenokekkaiDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6011,
+        "BuffNameDesc": {
+            "hash": -2051401268
+        },
+        "Description": {
+            "hash": 1247366
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6012,
+        "BuffNameDesc": {
+            "hash": 1771022748
+        },
+        "Description": {
+            "hash": 436775894
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FragileAddDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6013,
+        "BuffNameDesc": {
+            "hash": -1662566378
+        },
+        "Description": {
+            "hash": 1839999132
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SupperFireSword01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6014,
+        "BuffNameDesc": {
+            "hash": 824946455
+        },
+        "Description": {
+            "hash": 32544669
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SupperFireSword02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6015,
+        "BuffNameDesc": {
+            "hash": -982508008
+        },
+        "Description": {
+            "hash": -1774909794
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SupperFireSword03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6016,
+        "BuffNameDesc": {
+            "hash": 1928743505
+        },
+        "Description": {
+            "hash": -221799337
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KianaYNSignal01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6017,
+        "BuffNameDesc": {
+            "hash": 121289042
+        },
+        "Description": {
+            "hash": -2029253800
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_KianaYNSignal02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6018,
+        "BuffNameDesc": {
+            "hash": -1592105175
+        },
+        "Description": {
+            "hash": 766395235
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DemonSlash",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6019,
+        "BuffNameDesc": {
+            "hash": -1059242357
+        },
+        "Description": {
+            "hash": -346788411
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6020,
+        "BuffNameDesc": {
+            "hash": 1428270476
+        },
+        "Description": {
+            "hash": 2140724422
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_02Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6021,
+        "BuffNameDesc": {
+            "hash": -379183987
+        },
+        "Description": {
+            "hash": 333269959
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_03Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6022,
+        "BuffNameDesc": {
+            "hash": 2108328846
+        },
+        "Description": {
+            "hash": -1474184504
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_04Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6023,
+        "BuffNameDesc": {
+            "hash": 300874383
+        },
+        "Description": {
+            "hash": 1013328329
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_05Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6024,
+        "BuffNameDesc": {
+            "hash": -1506580080
+        },
+        "Description": {
+            "hash": -794126134
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_06Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6025,
+        "BuffNameDesc": {
+            "hash": 980932753
+        },
+        "Description": {
+            "hash": 1693386699
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_07Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6026,
+        "BuffNameDesc": {
+            "hash": -826521710
+        },
+        "Description": {
+            "hash": -114067764
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_08Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6027,
+        "BuffNameDesc": {
+            "hash": 1660991123
+        },
+        "Description": {
+            "hash": -1921522227
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_09Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6028,
+        "BuffNameDesc": {
+            "hash": 551698601
+        },
+        "Description": {
+            "hash": 1264152547
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DFB_10Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6029,
+        "BuffNameDesc": {
+            "hash": 899468129
+        },
+        "Description": {
+            "hash": -1627057125
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YSKXQ_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6030,
+        "BuffNameDesc": {
+            "hash": 1563239851
+        },
+        "Description": {
+            "hash": -1143706959
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Lance_D2_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6031,
+        "BuffNameDesc": {
+            "hash": -585439816
+        },
+        "Description": {
+            "hash": 1961690046
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_SkadiCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6032,
+        "BuffNameDesc": {
+            "hash": -2012939982
+        },
+        "Description": {
+            "hash": -638643016
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Lance_D7_MarkDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6033,
+        "BuffNameDesc": {
+            "hash": 825760128
+        },
+        "Description": {
+            "hash": 1436995974
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Lance_D7_MarkDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 6034,
+        "BuffNameDesc": {
+            "hash": 568591952
+        },
+        "Description": {
+            "hash": -765654902
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Scythe_R14_SpearCD",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9001,
+        "BuffNameDesc": {
+            "hash": -376867535
+        },
+        "Description": {
+            "hash": 338851511
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9002,
+        "BuffNameDesc": {
+            "hash": -376867534
+        },
+        "Description": {
+            "hash": 338851512
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70018",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9003,
+        "BuffNameDesc": {
+            "hash": -376867533
+        },
+        "Description": {
+            "hash": 338851513
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9004,
+        "BuffNameDesc": {
+            "hash": -376867532
+        },
+        "Description": {
+            "hash": 338851514
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70019",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9005,
+        "BuffNameDesc": {
+            "hash": -376867531
+        },
+        "Description": {
+            "hash": 338851515
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70021",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9006,
+        "BuffNameDesc": {
+            "hash": 1360016265
+        },
+        "Description": {
+            "hash": 1971252111
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_HimekoC2PerfectCombo",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9007,
+        "BuffNameDesc": {
+            "hash": 963780484
+        },
+        "Description": {
+            "hash": -370466370
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9008,
+        "BuffNameDesc": {
+            "hash": -29585125
+        },
+        "Description": {
+            "hash": -1253423403
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9009,
+        "BuffNameDesc": {
+            "hash": -616359158
+        },
+        "Description": {
+            "hash": 96094788
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9010,
+        "BuffNameDesc": {
+            "hash": 50286670
+        },
+        "Description": {
+            "hash": -1173551608
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9011,
+        "BuffNameDesc": {
+            "hash": 924199636
+        },
+        "Description": {
+            "hash": -299638642
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 9012,
+        "BuffNameDesc": {
+            "hash": 1832757108
+        },
+        "Description": {
+            "hash": -1749756242
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 10001,
+        "BuffNameDesc": {
+            "hash": 202829563
+        },
+        "Description": {
+            "hash": -1947713279
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 10002,
+        "BuffNameDesc": {
+            "hash": 698235488
+        },
+        "Description": {
+            "hash": -590669466
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 10003,
+        "BuffNameDesc": {
+            "hash": -1773985866
+        },
+        "Description": {
+            "hash": 1728579644
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 4,
+        "DisplayTypeTwo": 4,
+        "IsActive": 1,
+        "StateID": 10004,
+        "BuffNameDesc": {
+            "hash": 104692318
+        },
+        "Description": {
+            "hash": -2045850524
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MeiC4Thunder",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10005,
+        "BuffNameDesc": {
+            "hash": -636902554
+        },
+        "Description": {
+            "hash": -1429304340
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10006,
+        "BuffNameDesc": {
+            "hash": 1622625230
+        },
+        "Description": {
+            "hash": -688347256
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10007,
+        "BuffNameDesc": {
+            "hash": -608273403
+        },
+        "Description": {
+            "hash": -1400675189
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10008,
+        "BuffNameDesc": {
+            "hash": 1622625231
+        },
+        "Description": {
+            "hash": -688347255
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10009,
+        "BuffNameDesc": {
+            "hash": -579644252
+        },
+        "Description": {
+            "hash": -1372046038
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10010,
+        "BuffNameDesc": {
+            "hash": 1622625232
+        },
+        "Description": {
+            "hash": -688347254
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10011,
+        "BuffNameDesc": {
+            "hash": -551015101
+        },
+        "Description": {
+            "hash": -1343416887
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10012,
+        "BuffNameDesc": {
+            "hash": 1622625233
+        },
+        "Description": {
+            "hash": -688347253
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10013,
+        "BuffNameDesc": {
+            "hash": 311302158
+        },
+        "Description": {
+            "hash": 1516650568
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10014,
+        "BuffNameDesc": {
+            "hash": 295079462
+        },
+        "Description": {
+            "hash": 1669376428
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10015,
+        "BuffNameDesc": {
+            "hash": 1666141279
+        },
+        "Description": {
+            "hash": 873739493
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10016,
+        "BuffNameDesc": {
+            "hash": -840422603
+        },
+        "Description": {
+            "hash": 1143572207
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10017,
+        "BuffNameDesc": {
+            "hash": 1664480766
+        },
+        "Description": {
+            "hash": -1425138120
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10018,
+        "BuffNameDesc": {
+            "hash": 437762614
+        },
+        "Description": {
+            "hash": 1812059580
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10019,
+        "BuffNameDesc": {
+            "hash": 1693109917
+        },
+        "Description": {
+            "hash": -1396508969
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10020,
+        "BuffNameDesc": {
+            "hash": 437762615
+        },
+        "Description": {
+            "hash": 1812059581
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10021,
+        "BuffNameDesc": {
+            "hash": 442115760
+        },
+        "Description": {
+            "hash": -317742614
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10022,
+        "BuffNameDesc": {
+            "hash": -637509052
+        },
+        "Description": {
+            "hash": -1429910838
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10023,
+        "BuffNameDesc": {
+            "hash": -1354835599
+        },
+        "Description": {
+            "hash": -2114693973
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10024,
+        "BuffNameDesc": {
+            "hash": -608879901
+        },
+        "Description": {
+            "hash": -1401281687
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10025,
+        "BuffNameDesc": {
+            "hash": 1143180338
+        },
+        "Description": {
+            "hash": 383321964
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10026,
+        "BuffNameDesc": {
+            "hash": -580250750
+        },
+        "Description": {
+            "hash": -1372652536
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10027,
+        "BuffNameDesc": {
+            "hash": -653771021
+        },
+        "Description": {
+            "hash": -1413629395
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10028,
+        "BuffNameDesc": {
+            "hash": -551621599
+        },
+        "Description": {
+            "hash": -1344023385
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10029,
+        "BuffNameDesc": {
+            "hash": -1523819768
+        },
+        "Description": {
+            "hash": 690374414
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10030,
+        "BuffNameDesc": {
+            "hash": 310695660
+        },
+        "Description": {
+            "hash": 1516044070
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10031,
+        "BuffNameDesc": {
+            "hash": -347852457
+        },
+        "Description": {
+            "hash": -1107710831
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10032,
+        "BuffNameDesc": {
+            "hash": 1665534781
+        },
+        "Description": {
+            "hash": 873132995
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10033,
+        "BuffNameDesc": {
+            "hash": 1567732504
+        },
+        "Description": {
+            "hash": -513040610
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10034,
+        "BuffNameDesc": {
+            "hash": 1663874268
+        },
+        "Description": {
+            "hash": -1425744618
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 10035,
+        "BuffNameDesc": {
+            "hash": -229218855
+        },
+        "Description": {
+            "hash": 1984975327
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10036,
+        "BuffNameDesc": {
+            "hash": 1692503419
+        },
+        "Description": {
+            "hash": -1397115467
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 10037,
+        "BuffNameDesc": {
+            "hash": 1601329192
+        },
+        "Description": {
+            "hash": 1254862178
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 19001,
+        "BuffNameDesc": {
+            "hash": -1541873693
+        },
+        "Description": {
+            "hash": 1418846749
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 19002,
+        "BuffNameDesc": {
+            "hash": -1513244542
+        },
+        "Description": {
+            "hash": 1447475900
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70018",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 0,
+        "StateID": 19003,
+        "BuffNameDesc": {
+            "hash": -1484615391
+        },
+        "Description": {
+            "hash": 1476105051
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 19004,
+        "BuffNameDesc": {
+            "hash": 1496210871
+        },
+        "Description": {
+            "hash": 1149743857
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70031",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20001,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20002,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20003,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20004,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp4",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20005,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp5",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20006,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp6",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20007,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp7",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20008,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp8",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20009,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp9",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20010,
+        "BuffNameDesc": {
+            "hash": 1672349102
+        },
+        "Description": {
+            "hash": 1672349102
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp10",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20011,
+        "BuffNameDesc": {
+            "hash": -836151646
+        },
+        "Description": {
+            "hash": -1827901478
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20012,
+        "BuffNameDesc": {
+            "hash": -836151645
+        },
+        "Description": {
+            "hash": -1827901477
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20013,
+        "BuffNameDesc": {
+            "hash": -836151644
+        },
+        "Description": {
+            "hash": -1827901476
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20014,
+        "BuffNameDesc": {
+            "hash": -836151643
+        },
+        "Description": {
+            "hash": -1827901475
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20015,
+        "BuffNameDesc": {
+            "hash": -836151642
+        },
+        "Description": {
+            "hash": -1827901474
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20016,
+        "BuffNameDesc": {
+            "hash": -1027535578
+        },
+        "Description": {
+            "hash": -1374002592
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Wizard",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20017,
+        "BuffNameDesc": {
+            "hash": -216242365
+        },
+        "Description": {
+            "hash": 1928182089
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20018,
+        "BuffNameDesc": {
+            "hash": -610214670
+        },
+        "Description": {
+            "hash": 1021176
+        },
+        "IconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20019,
+        "BuffNameDesc": {
+            "hash": -1782820569
+        },
+        "Description": {
+            "hash": -1171584723
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20020,
+        "BuffNameDesc": {
+            "hash": -1183520136
+        },
+        "Description": {
+            "hash": 584921906
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20021,
+        "BuffNameDesc": {
+            "hash": -2056066934
+        },
+        "Description": {
+            "hash": 904653508
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Holy",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20022,
+        "BuffNameDesc": {
+            "hash": 1261280006
+        },
+        "Description": {
+            "hash": -72966848
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20023,
+        "BuffNameDesc": {
+            "hash": -499422352
+        },
+        "Description": {
+            "hash": -845889366
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20024,
+        "BuffNameDesc": {
+            "hash": 1515443769
+        },
+        "Description": {
+            "hash": -1011081485
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20025,
+        "BuffNameDesc": {
+            "hash": -430132703
+        },
+        "Description": {
+            "hash": -1731480613
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Lord",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20026,
+        "BuffNameDesc": {
+            "hash": 987303096
+        },
+        "Description": {
+            "hash": 1699757042
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20027,
+        "BuffNameDesc": {
+            "hash": -1625212157
+        },
+        "Description": {
+            "hash": 1791959689
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Bleed",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20028,
+        "BuffNameDesc": {
+            "hash": 1994115721
+        },
+        "Description": {
+            "hash": -532409533
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Boss_DeadCore",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20029,
+        "BuffNameDesc": {
+            "hash": 1678790054
+        },
+        "Description": {
+            "hash": -2004941396
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ScanMode",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20030,
+        "BuffNameDesc": {
+            "hash": -2023536060
+        },
+        "Description": {
+            "hash": -39541250
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Immune",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20031,
+        "BuffNameDesc": {
+            "hash": 1938255554
+        },
+        "Description": {
+            "hash": 925384008
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 20032,
+        "BuffNameDesc": {
+            "hash": 1678937840
+        },
+        "Description": {
+            "hash": -1241732490
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Endure",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 1,
+        "DisplayTypeTwo": 1,
+        "IsActive": 1,
+        "StateID": 20033,
+        "BuffNameDesc": {
+            "hash": -724357199
+        },
+        "Description": {
+            "hash": -1737228745
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Monster_QT_Counter",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 3,
+        "DisplayTypeTwo": 3,
+        "IsActive": 1,
+        "StateID": 20034,
+        "BuffNameDesc": {
+            "hash": 1545411188
+        },
+        "Description": {
+            "hash": -2138320262
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Endure",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30003,
+        "BuffNameDesc": {
+            "hash": -7316083
+        },
+        "Description": {
+            "hash": 708402963
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30004,
+        "BuffNameDesc": {
+            "hash": 1559181824
+        },
+        "Description": {
+            "hash": -2124549626
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30007,
+        "BuffNameDesc": {
+            "hash": -1992995711
+        },
+        "Description": {
+            "hash": 1478712711
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30008,
+        "BuffNameDesc": {
+            "hash": -1992995710
+        },
+        "Description": {
+            "hash": 1478712712
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30009,
+        "BuffNameDesc": {
+            "hash": -1992995709
+        },
+        "Description": {
+            "hash": 1478712713
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30010,
+        "BuffNameDesc": {
+            "hash": -1992994750
+        },
+        "Description": {
+            "hash": 1478713672
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30011,
+        "BuffNameDesc": {
+            "hash": -1992994749
+        },
+        "Description": {
+            "hash": 1478713673
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30012,
+        "BuffNameDesc": {
+            "hash": -1992994748
+        },
+        "Description": {
+            "hash": 1478713674
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30013,
+        "BuffNameDesc": {
+            "hash": -1992993789
+        },
+        "Description": {
+            "hash": 1478714633
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30014,
+        "BuffNameDesc": {
+            "hash": -1992993788
+        },
+        "Description": {
+            "hash": 1478714634
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30015,
+        "BuffNameDesc": {
+            "hash": -1992993787
+        },
+        "Description": {
+            "hash": 1478714635
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2ThunderUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30016,
+        "BuffNameDesc": {
+            "hash": 199043218
+        },
+        "Description": {
+            "hash": -83377384
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_04",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30017,
+        "BuffNameDesc": {
+            "hash": -1992991867
+        },
+        "Description": {
+            "hash": 1478716555
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30018,
+        "BuffNameDesc": {
+            "hash": -1992991866
+        },
+        "Description": {
+            "hash": 1478716556
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30019,
+        "BuffNameDesc": {
+            "hash": 199043220
+        },
+        "Description": {
+            "hash": -83377382
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30020,
+        "BuffNameDesc": {
+            "hash": 199043223
+        },
+        "Description": {
+            "hash": -83377379
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_XY_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30021,
+        "BuffNameDesc": {
+            "hash": -1653368589
+        },
+        "Description": {
+            "hash": -1404589907
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30022,
+        "BuffNameDesc": {
+            "hash": -1653368588
+        },
+        "Description": {
+            "hash": -1404589906
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30023,
+        "BuffNameDesc": {
+            "hash": -1653368587
+        },
+        "Description": {
+            "hash": -1404589905
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30024,
+        "BuffNameDesc": {
+            "hash": 1875372418
+        },
+        "Description": {
+            "hash": 1710268348
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Endure",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30025,
+        "BuffNameDesc": {
+            "hash": 1875372420
+        },
+        "Description": {
+            "hash": 1710268350
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30026,
+        "BuffNameDesc": {
+            "hash": -1653364745
+        },
+        "Description": {
+            "hash": -1404586063
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01_01",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30027,
+        "BuffNameDesc": {
+            "hash": -1653364744
+        },
+        "Description": {
+            "hash": -1404586062
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30028,
+        "BuffNameDesc": {
+            "hash": -1653364743
+        },
+        "Description": {
+            "hash": -1404586061
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30029,
+        "BuffNameDesc": {
+            "hash": 1875372422
+        },
+        "Description": {
+            "hash": 1710268352
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30030,
+        "BuffNameDesc": {
+            "hash": 1875372423
+        },
+        "Description": {
+            "hash": 1710268353
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MoveSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30031,
+        "BuffNameDesc": {
+            "hash": -1653359940
+        },
+        "Description": {
+            "hash": -1404581258
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03_01",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30032,
+        "BuffNameDesc": {
+            "hash": -1653359939
+        },
+        "Description": {
+            "hash": -1404581257
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_03_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30033,
+        "BuffNameDesc": {
+            "hash": 1875372448
+        },
+        "Description": {
+            "hash": 1710268378
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30034,
+        "BuffNameDesc": {
+            "hash": 1875372449
+        },
+        "Description": {
+            "hash": 1710268379
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30035,
+        "BuffNameDesc": {
+            "hash": 1875372450
+        },
+        "Description": {
+            "hash": 1710268380
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30036,
+        "BuffNameDesc": {
+            "hash": -1992988984
+        },
+        "Description": {
+            "hash": 1478719438
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30037,
+        "BuffNameDesc": {
+            "hash": -1992988983
+        },
+        "Description": {
+            "hash": 1478719439
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30038,
+        "BuffNameDesc": {
+            "hash": -1992988982
+        },
+        "Description": {
+            "hash": 1478719440
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30039,
+        "BuffNameDesc": {
+            "hash": -1992988981
+        },
+        "Description": {
+            "hash": 1478719441
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp4",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30040,
+        "BuffNameDesc": {
+            "hash": 1875372479
+        },
+        "Description": {
+            "hash": 1710268409
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC5Ultra",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30041,
+        "BuffNameDesc": {
+            "hash": -2101382232
+        },
+        "Description": {
+            "hash": -2101676114
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30042,
+        "BuffNameDesc": {
+            "hash": -226798707
+        },
+        "Description": {
+            "hash": 485655239
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30043,
+        "BuffNameDesc": {
+            "hash": 755936941
+        },
+        "Description": {
+            "hash": 409469927
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30044,
+        "BuffNameDesc": {
+            "hash": -226798704
+        },
+        "Description": {
+            "hash": 485655242
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FK_AF01_X",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30045,
+        "BuffNameDesc": {
+            "hash": 1089780547
+        },
+        "Description": {
+            "hash": -1436744707
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FK_AF01_X",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30046,
+        "BuffNameDesc": {
+            "hash": -7316089
+        },
+        "Description": {
+            "hash": 708402957
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30047,
+        "BuffNameDesc": {
+            "hash": -7316088
+        },
+        "Description": {
+            "hash": 708402958
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Weak",
+        "bits1": 0
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30048,
+        "BuffNameDesc": {
+            "hash": -1408430265
+        },
+        "Description": {
+            "hash": 1552290177
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackSpeedDown",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30049,
+        "BuffNameDesc": {
+            "hash": -1330839637
+        },
+        "Description": {
+            "hash": 653155173
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_HimekoC2PerfectCombo",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30050,
+        "BuffNameDesc": {
+            "hash": 620267954
+        },
+        "Description": {
+            "hash": -2086678856
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30051,
+        "BuffNameDesc": {
+            "hash": -216708312
+        },
+        "Description": {
+            "hash": 495745634
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30052,
+        "BuffNameDesc": {
+            "hash": 1394579183
+        },
+        "Description": {
+            "hash": 381707637
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_FK_AF01_X",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30053,
+        "BuffNameDesc": {
+            "hash": -211650536
+        },
+        "Description": {
+            "hash": -843578760
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30054,
+        "BuffNameDesc": {
+            "hash": 1184146150
+        },
+        "Description": {
+            "hash": -1261016982
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30055,
+        "BuffNameDesc": {
+            "hash": -1762664961
+        },
+        "Description": {
+            "hash": 1039217905
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30056,
+        "BuffNameDesc": {
+            "hash": -1122094944
+        },
+        "Description": {
+            "hash": 930553690
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30057,
+        "BuffNameDesc": {
+            "hash": -578876975
+        },
+        "Description": {
+            "hash": 1009143511
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30058,
+        "BuffNameDesc": {
+            "hash": -89303235
+        },
+        "Description": {
+            "hash": 521932611
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WitchTimeSlowed",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30059,
+        "BuffNameDesc": {
+            "hash": -2062959944
+        },
+        "Description": {
+            "hash": -2067878022
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AvatarUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30060,
+        "BuffNameDesc": {
+            "hash": -2062959943
+        },
+        "Description": {
+            "hash": -2067878021
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WET_Y_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30061,
+        "BuffNameDesc": {
+            "hash": -2062959942
+        },
+        "Description": {
+            "hash": -2067878020
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30062,
+        "BuffNameDesc": {
+            "hash": -2062959941
+        },
+        "Description": {
+            "hash": -2067878019
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30063,
+        "BuffNameDesc": {
+            "hash": -2062959940
+        },
+        "Description": {
+            "hash": -2067878018
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30064,
+        "BuffNameDesc": {
+            "hash": -2062959939
+        },
+        "Description": {
+            "hash": -2067878017
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30065,
+        "BuffNameDesc": {
+            "hash": -2062959938
+        },
+        "Description": {
+            "hash": -2067878016
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Burn3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30066,
+        "BuffNameDesc": {
+            "hash": -2062959943
+        },
+        "Description": {
+            "hash": -2067878021
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_WET_Y_01Duration",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30067,
+        "BuffNameDesc": {
+            "hash": 1834490840
+        },
+        "Description": {
+            "hash": 1825380498
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Invisible",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30068,
+        "BuffNameDesc": {
+            "hash": 385013433
+        },
+        "Description": {
+            "hash": -1925959053
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30069,
+        "BuffNameDesc": {
+            "hash": 1834490841
+        },
+        "Description": {
+            "hash": 1825380499
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Invisible",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30070,
+        "BuffNameDesc": {
+            "hash": 1834490842
+        },
+        "Description": {
+            "hash": 1825380500
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+        "bits1": 1
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30071,
+        "BuffNameDesc": {
+            "hash": 1834490843
+        },
+        "Description": {
+            "hash": 1825380501
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30072,
+        "BuffNameDesc": {
+            "hash": 1834490844
+        },
+        "Description": {
+            "hash": 1825380502
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30073,
+        "BuffNameDesc": {
+            "hash": 385013433
+        },
+        "Description": {
+            "hash": -1925959053
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30100,
+        "BuffNameDesc": {
+            "hash": -1480284870
+        },
+        "Description": {
+            "hash": -1489395212
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30101,
+        "BuffNameDesc": {
+            "hash": -1480284869
+        },
+        "Description": {
+            "hash": -1489395211
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30102,
+        "BuffNameDesc": {
+            "hash": -1480284868
+        },
+        "Description": {
+            "hash": -1489395210
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30103,
+        "BuffNameDesc": {
+            "hash": -1480284867
+        },
+        "Description": {
+            "hash": -1489395209
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp4",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30104,
+        "BuffNameDesc": {
+            "hash": -1480284866
+        },
+        "Description": {
+            "hash": -1489395208
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AvatarUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30105,
+        "BuffNameDesc": {
+            "hash": -1480284865
+        },
+        "Description": {
+            "hash": -1489395207
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30106,
+        "BuffNameDesc": {
+            "hash": -1480284864
+        },
+        "Description": {
+            "hash": -1489395206
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30107,
+        "BuffNameDesc": {
+            "hash": -1480284863
+        },
+        "Description": {
+            "hash": -1489395205
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp2",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30108,
+        "BuffNameDesc": {
+            "hash": -1480284862
+        },
+        "Description": {
+            "hash": -1489395204
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AvatarUp",
+        "bits1": 1
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 3,
+        "DisplayTypeTwo": 3,
+        "IsActive": 1,
+        "StateID": 30109,
+        "BuffNameDesc": {
+            "hash": 1355809334
+        },
+        "Description": {
+            "hash": 1073388732
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+        "bits1": 1
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 3,
+        "DisplayTypeTwo": 3,
+        "IsActive": 1,
+        "StateID": 30110,
+        "BuffNameDesc": {
+            "hash": 1355809335
+        },
+        "Description": {
+            "hash": 1073388733
+        },
+        "IconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Curse",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30111,
+        "BuffNameDesc": {
+            "hash": 1355809336
+        },
+        "Description": {
+            "hash": 1073388734
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp1",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30112,
+        "BuffNameDesc": {
+            "hash": 1355809338
+        },
+        "Description": {
+            "hash": 1073388736
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AttackScaleUp3",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30113,
+        "BuffNameDesc": {
+            "hash": 1355809339
+        },
+        "Description": {
+            "hash": 1073388737
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AvatarUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30114,
+        "BuffNameDesc": {
+            "hash": 1355809339
+        },
+        "Description": {
+            "hash": 1073388737
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_AvatarUp",
+        "bits1": 0
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30115,
+        "BuffNameDesc": {
+            "hash": 1355809340
+        },
+        "Description": {
+            "hash": 1073388738
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoHP",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30116,
+        "BuffNameDesc": {
+            "hash": 1181889545
+        },
+        "Description": {
+            "hash": -565947889
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30117,
+        "BuffNameDesc": {
+            "hash": 2059460555
+        },
+        "Description": {
+            "hash": 1236201681
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03",
+        "bits1": 1
+    },
+    {
+        "BGColor": 2,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30118,
+        "BuffNameDesc": {
+            "hash": 2059460554
+        },
+        "Description": {
+            "hash": 1236201680
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_MonoAtk",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30119,
+        "BuffNameDesc": {
+            "hash": 2059460589
+        },
+        "Description": {
+            "hash": 1236201715
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "bits1": 1
+    },
+    {
+        "BGColor": 3,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30120,
+        "BuffNameDesc": {
+            "hash": 1278406647
+        },
+        "Description": {
+            "hash": -163448527
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30121,
+        "BuffNameDesc": {
+            "hash": -1843098516
+        },
+        "Description": {
+            "hash": -468801550
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_El_Item_70021",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30122,
+        "BuffNameDesc": {
+            "hash": -1843098578
+        },
+        "Description": {
+            "hash": -468801612
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_El_Item_70001",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30123,
+        "BuffNameDesc": {
+            "hash": -1843098517
+        },
+        "Description": {
+            "hash": -468801551
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_El_Item_70020",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30124,
+        "BuffNameDesc": {
+            "hash": 69209793
+        },
+        "Description": {
+            "hash": 1657230279
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_001",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30125,
+        "BuffNameDesc": {
+            "hash": 69209796
+        },
+        "Description": {
+            "hash": 1657230282
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_004",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30126,
+        "BuffNameDesc": {
+            "hash": 69209797
+        },
+        "Description": {
+            "hash": 1657230283
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_005",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30127,
+        "BuffNameDesc": {
+            "hash": 69209795
+        },
+        "Description": {
+            "hash": 1657230281
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_003",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30128,
+        "BuffNameDesc": {
+            "hash": 69209825
+        },
+        "Description": {
+            "hash": 1657230311
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_3v3Card_TVTItem_012",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30129,
+        "BuffNameDesc": {
+            "hash": -1117528509
+        },
+        "Description": {
+            "hash": 797963061
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_DLCAbsorbSoul",
+        "bits1": 0
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30165,
+        "BuffNameDesc": {
+            "hash": 2059460589
+        },
+        "Description": {
+            "hash": 1236201715
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "bits1": 1
+    },
+    {
+        "BGColor": 1,
+        "DisplayType": 2,
+        "DisplayTypeTwo": 2,
+        "IsActive": 1,
+        "StateID": 30166,
+        "BuffNameDesc": {
+            "hash": 2059460589
+        },
+        "Description": {
+            "hash": 1236201715
+        },
+        "IconPath": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "bits1": 1
+    }
+]

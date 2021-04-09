@@ -1,0 +1,1345 @@
+[
+    {
+        "MentoringRelationship": 0,
+        "SortID": 24,
+        "LinkType": 23,
+        "PanelID": 1,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/9004",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/9004",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime1",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit1",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_OW_Mission",
+        "DisplayRewardItemList": [
+            9003,
+            9004
+        ],
+        "HangMissionList": [
+            38222,
+            38221,
+            38220
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 25,
+        "LinkType": 23,
+        "PanelID": 2,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/9004",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/9004",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime1",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit1",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_OW_Mission",
+        "DisplayRewardItemList": [
+            9003,
+            9004
+        ],
+        "HangMissionList": [
+            38225,
+            38224,
+            38223
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 26,
+        "LinkType": 23,
+        "PanelID": 3,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/9004",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/9004",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime1",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit1",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_OW_Mission",
+        "DisplayRewardItemList": [
+            9003,
+            9004
+        ],
+        "HangMissionList": [
+            38228,
+            38227,
+            38226
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 28,
+        "LinkType": 10,
+        "PanelID": 5,
+        "DefaultMissionDisplay": 38172,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit3",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211
+        ],
+        "HangMissionList": [
+            38233,
+            38232
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 29,
+        "LinkType": 10,
+        "PanelID": 6,
+        "DefaultMissionDisplay": 38172,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit3",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211
+        ],
+        "HangMissionList": [
+            38236,
+            38235
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 30,
+        "LinkType": 77,
+        "PanelID": 7,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/112102",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/112102",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit4",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Wanted",
+        "DisplayRewardItemList": [
+            5424,
+            5423,
+            915
+        ],
+        "HangMissionList": [
+            38240,
+            38239,
+            38238
+        ],
+        "LinkParams": [
+            11,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 16,
+        "LinkType": 77,
+        "PanelID": 10,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5012",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5012",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit7",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_MaterialStage",
+        "DisplayRewardItemList": [
+            5008,
+            1006,
+            25071
+        ],
+        "HangMissionList": [
+            38148,
+            38149,
+            38150
+        ],
+        "LinkParams": [
+            9,
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 11,
+        "LinkType": 9,
+        "PanelID": 11,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7606",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7606",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit8",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_PlotStage",
+        "DisplayRewardItemList": [
+            10703,
+            10302
+        ],
+        "HangMissionList": [
+            38243,
+            38242,
+            38241
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 12,
+        "LinkType": 9,
+        "PanelID": 12,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7606",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7606",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit9",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_MainStage",
+        "DisplayRewardItemList": [
+            10703,
+            10302
+        ],
+        "HangMissionList": [
+            38245,
+            38244
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 13,
+        "LinkType": 20,
+        "PanelID": 13,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7605",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7605",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit10",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_AnnalsStage",
+        "DisplayRewardItemList": [
+            20530,
+            30699,
+            30703
+        ],
+        "HangMissionList": [
+            38247,
+            38246
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 20,
+        "LinkType": 15,
+        "PanelID": 17,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/9101",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/9101",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit13",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Donate",
+        "DisplayRewardItemList": [
+            9101,
+            9008
+        ],
+        "HangMissionList": [
+            38160
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 89,
+        "LinkType": 0,
+        "PanelID": 18,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit14",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_TotalPower",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38161
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 21,
+        "LinkType": 9,
+        "PanelID": 19,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7024",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7024",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit15",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_FreeStage",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38253,
+            38252,
+            38251
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 22,
+        "LinkType": 5,
+        "PanelID": 20,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/1002",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/1002",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit16",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Avatar",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38165,
+            38168
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 23,
+        "LinkType": 6,
+        "PanelID": 21,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit17",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Equipment",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38166,
+            38167
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 90,
+        "LinkType": 0,
+        "PanelID": 22,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/80014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/80014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit18",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Free",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38169,
+            38177
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 91,
+        "LinkType": 0,
+        "PanelID": 23,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/80014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/80014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit18",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Free",
+        "DisplayRewardItemList": [
+            4,
+            5
+        ],
+        "HangMissionList": [
+            38169
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 92,
+        "LinkType": 0,
+        "PanelID": 24,
+        "DefaultMissionDisplay": 38173,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7191",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7191",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime6",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit19",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Lunch",
+        "DisplayRewardItemList": [
+            7033
+        ],
+        "HangMissionList": [
+            38170
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 93,
+        "LinkType": 0,
+        "PanelID": 25,
+        "DefaultMissionDisplay": 38174,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/7191",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/7191",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime7",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit20",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Dinner",
+        "DisplayRewardItemList": [
+            7033
+        ],
+        "HangMissionList": [
+            38171
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 27,
+        "LinkType": 37,
+        "PanelID": 32,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5600",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5600",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime2",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit23",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Battlefield",
+        "DisplayRewardItemList": [
+            3101,
+            5
+        ],
+        "HangMissionList": [
+            38255,
+            38256,
+            38257
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 27,
+        "LinkType": 37,
+        "PanelID": 33,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5600",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5600",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime2",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit24",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Battlefield",
+        "DisplayRewardItemList": [
+            3101,
+            5
+        ],
+        "HangMissionList": [
+            38258,
+            38259,
+            38260
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 65,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_EXRaid",
+        "DisplayRewardItemList": [
+            6003,
+            4013,
+            9107
+        ],
+        "HangMissionList": [
+            78934
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 66,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 67,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_EXRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78938
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 68,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_EXRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78938
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 7,
+        "LinkType": 19,
+        "PanelID": 69,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/2008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/2008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime9",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit22",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_ArmadaBoss",
+        "DisplayRewardItemList": [
+            9101,
+            2008
+        ],
+        "HangMissionList": [
+            38266
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 7,
+        "LinkType": 19,
+        "PanelID": 70,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/2008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/2008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime9",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit22",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_ArmadaBoss",
+        "DisplayRewardItemList": [
+            9101,
+            2008
+        ],
+        "HangMissionList": [
+            38267
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 71,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 72,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 73,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4008",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4008",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 5,
+        "LinkType": 93,
+        "PanelID": 74,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/813",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/813",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit4",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_DLCTower",
+        "DisplayRewardItemList": [
+            813,
+            802
+        ],
+        "HangMissionList": [
+            38268
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 1,
+        "LinkType": 1016,
+        "PanelID": 87,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5600",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5600",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime11",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit25",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_HighProfit",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Examination",
+        "DisplayRewardItemList": [
+            3101,
+            5
+        ],
+        "HangMissionList": [
+            38269,
+            38270,
+            38271,
+            38272
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 5,
+        "LinkType": 93,
+        "PanelID": 100,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/813",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/813",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit4",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_DLCTower",
+        "DisplayRewardItemList": [
+            813,
+            802
+        ],
+        "HangMissionList": [
+            38273
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 5,
+        "LinkType": 93,
+        "PanelID": 101,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/813",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/813",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit4",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_DLCTower",
+        "DisplayRewardItemList": [
+            813,
+            802
+        ],
+        "HangMissionList": [
+            38273
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 5,
+        "LinkType": 93,
+        "PanelID": 102,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/813",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/813",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit4",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_DLCTower",
+        "DisplayRewardItemList": [
+            813,
+            802
+        ],
+        "HangMissionList": [
+            38273
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 28,
+        "LinkType": 10,
+        "PanelID": 105,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit3",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211
+        ],
+        "HangMissionList": [
+            38233,
+            38232
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 29,
+        "LinkType": 10,
+        "PanelID": 106,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit3",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211
+        ],
+        "HangMissionList": [
+            38236,
+            38235
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 18,
+        "LinkType": 107,
+        "PanelID": 115,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/934",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/934",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit7",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_HomeWork",
+        "DisplayRewardItemList": [
+            934
+        ],
+        "HangMissionList": [
+            38262
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 19,
+        "LinkType": 105,
+        "PanelID": 116,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/GeneralIcon/IconSC",
+        "InfoButtonIcon": "SpriteOutput/GeneralIcon/IconSC",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime5",
+        "TextMapActivityType": "DailyRecommend_ActivityType3",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit7",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_GoldCollection",
+        "DisplayRewardItemList": [
+            7022
+        ],
+        "HangMissionList": [
+            38263
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 125,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_EXRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78960
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 129,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_EXRaid",
+        "DisplayRewardItemList": [
+            6003,
+            4013,
+            9107
+        ],
+        "HangMissionList": [
+            78961
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 134,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 146,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit27",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Low_DifficultPetRaid",
+        "DisplayRewardItemList": [
+            9004,
+            4004,
+            9107
+        ],
+        "HangMissionList": [
+            78936
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 6,
+        "LinkType": 27,
+        "PanelID": 149,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/4014",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/4014",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime8",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "Textmap_DailyRecommend_Tag",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_EXRaid",
+        "DisplayRewardItemList": [
+            6003,
+            4013,
+            9107
+        ],
+        "HangMissionList": [
+            78934
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 28,
+        "LinkType": 10,
+        "PanelID": 205,
+        "DefaultMissionDisplay": 38172,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211,
+            9139
+        ],
+        "HangMissionList": [
+            38275,
+            38274
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 29,
+        "LinkType": 10,
+        "PanelID": 206,
+        "DefaultMissionDisplay": 38172,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211,
+            9139
+        ],
+        "HangMissionList": [
+            38277,
+            38276
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 28,
+        "LinkType": 10,
+        "PanelID": 305,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211,
+            9139
+        ],
+        "HangMissionList": [
+            38275,
+            38274
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 29,
+        "LinkType": 10,
+        "PanelID": 306,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/CrystalPack2",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/CrystalPack2",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime3",
+        "TextMapActivityType": "DailyRecommend_ActivityType1",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit26",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Abyss",
+        "DisplayRewardItemList": [
+            114211,
+            9139
+        ],
+        "HangMissionList": [
+            38277,
+            38276
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 15,
+        "LinkType": 27,
+        "PanelID": 309,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5569",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5569",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit28",
+        "TextMapTag": "Textmap_DailyRecommend_Tag_Weekly",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_Raid",
+        "DisplayRewardItemList": [
+            9010,
+            5569
+        ],
+        "HangMissionList": [
+            38280
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    },
+    {
+        "MentoringRelationship": 0,
+        "SortID": 15,
+        "LinkType": 39,
+        "PanelID": 409,
+        "DefaultMissionDisplay": 0,
+        "InfoButtonFigure": "SpriteOutput/MaterialFigures/5569",
+        "InfoButtonIcon": "SpriteOutput/MaterialIcons/5569",
+        "LinkParamStr": "",
+        "TextMapActivityTime": "DailyRecommend_ActivityTime4",
+        "TextMapActivityType": "DailyRecommend_ActivityType2",
+        "TextMapLevelLimit": "DailyRecommend_LevelLitmit24",
+        "TextMapTag": "",
+        "TextMapTitle": "DailyRecommend_ActivityTitle_DailyChallenge",
+        "DisplayRewardItemList": [
+            9010,
+            5569
+        ],
+        "HangMissionList": [
+            38279
+        ],
+        "LinkParams": [
+            0
+        ],
+        "bits1": 0
+    }
+]

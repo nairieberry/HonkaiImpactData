@@ -1,0 +1,662 @@
+[
+    {
+        "SlotID": 1,
+        "SpEffectID": 13,
+        "Level": 1,
+        "StrengthenExp": 80,
+        "SpValue": 0.1,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            2000,
+            500
+        ]
+    },
+    {
+        "SlotID": 1,
+        "SpEffectID": 13,
+        "Level": 2,
+        "StrengthenExp": 80,
+        "SpValue": 0.2,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            2400,
+            600
+        ]
+    },
+    {
+        "SlotID": 1,
+        "SpEffectID": 13,
+        "Level": 3,
+        "StrengthenExp": 90,
+        "SpValue": 0.3,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            3200,
+            800
+        ]
+    },
+    {
+        "SlotID": 1,
+        "SpEffectID": 13,
+        "Level": 4,
+        "StrengthenExp": 0,
+        "SpValue": 0.5,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            4000,
+            1100
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 1,
+        "StrengthenExp": 50,
+        "SpValue": 0.1,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            600,
+            500
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 2,
+        "StrengthenExp": 60,
+        "SpValue": 0.2,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            750,
+            800
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 3,
+        "StrengthenExp": 70,
+        "SpValue": 0.3,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            1000,
+            1200
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 4,
+        "StrengthenExp": 80,
+        "SpValue": 0.5,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            1300,
+            1400
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 5,
+        "StrengthenExp": 90,
+        "SpValue": 0.7,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            1700,
+            1800
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 6,
+        "StrengthenExp": 100,
+        "SpValue": 1.0,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            2250,
+            2200
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 7,
+        "StrengthenExp": 110,
+        "SpValue": 1.4,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            2900,
+            3000
+        ]
+    },
+    {
+        "SlotID": 2,
+        "SpEffectID": 14,
+        "Level": 8,
+        "StrengthenExp": 0,
+        "SpValue": 1.8,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            3650,
+            4000
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 1,
+        "StrengthenExp": 50,
+        "SpValue": 0.1,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            400,
+            10
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 2,
+        "StrengthenExp": 60,
+        "SpValue": 0.2,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            700,
+            13
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 3,
+        "StrengthenExp": 70,
+        "SpValue": 0.3,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            1100,
+            18
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 4,
+        "StrengthenExp": 80,
+        "SpValue": 0.5,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            1600,
+            26
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 5,
+        "StrengthenExp": 90,
+        "SpValue": 0.7,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            2100,
+            36
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 6,
+        "StrengthenExp": 100,
+        "SpValue": 1.0,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            2700,
+            51
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 7,
+        "StrengthenExp": 110,
+        "SpValue": 1.4,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            3300,
+            91
+        ]
+    },
+    {
+        "SlotID": 3,
+        "SpEffectID": 15,
+        "Level": 8,
+        "StrengthenExp": 0,
+        "SpValue": 1.8,
+        "AttrList": [
+            1,
+            4
+        ],
+        "AttrValue": [
+            4000,
+            136
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 1,
+        "StrengthenExp": 50,
+        "SpValue": 0.1,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            700,
+            1000
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 2,
+        "StrengthenExp": 60,
+        "SpValue": 0.2,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            900,
+            1300
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 3,
+        "StrengthenExp": 70,
+        "SpValue": 0.3,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            1250,
+            1700
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 4,
+        "StrengthenExp": 80,
+        "SpValue": 0.5,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            1750,
+            1900
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 5,
+        "StrengthenExp": 90,
+        "SpValue": 0.7,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            2350,
+            2300
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 6,
+        "StrengthenExp": 100,
+        "SpValue": 1.0,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            3300,
+            2700
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 7,
+        "StrengthenExp": 110,
+        "SpValue": 1.4,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            5300,
+            3500
+        ]
+    },
+    {
+        "SlotID": 4,
+        "SpEffectID": 16,
+        "Level": 8,
+        "StrengthenExp": 0,
+        "SpValue": 1.8,
+        "AttrList": [
+            2,
+            3
+        ],
+        "AttrValue": [
+            8300,
+            4500
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 1,
+        "StrengthenExp": 50,
+        "SpValue": 0.1,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            400,
+            10
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 2,
+        "StrengthenExp": 60,
+        "SpValue": 0.2,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            700,
+            13
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 3,
+        "StrengthenExp": 70,
+        "SpValue": 0.3,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            1100,
+            18
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 4,
+        "StrengthenExp": 80,
+        "SpValue": 0.5,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            1600,
+            26
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 5,
+        "StrengthenExp": 90,
+        "SpValue": 0.7,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            2100,
+            36
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 6,
+        "StrengthenExp": 100,
+        "SpValue": 1.0,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            2700,
+            51
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 7,
+        "StrengthenExp": 110,
+        "SpValue": 1.4,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            3300,
+            91
+        ]
+    },
+    {
+        "SlotID": 5,
+        "SpEffectID": 17,
+        "Level": 8,
+        "StrengthenExp": 0,
+        "SpValue": 1.8,
+        "AttrList": [
+            1,
+            5
+        ],
+        "AttrValue": [
+            4000,
+            136
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 1,
+        "StrengthenExp": 50,
+        "SpValue": 0.1,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            500,
+            800
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 2,
+        "StrengthenExp": 60,
+        "SpValue": 0.2,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            800,
+            1050
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 3,
+        "StrengthenExp": 70,
+        "SpValue": 0.3,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            1200,
+            1450
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 4,
+        "StrengthenExp": 80,
+        "SpValue": 0.5,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            1700,
+            2250
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 5,
+        "StrengthenExp": 90,
+        "SpValue": 0.7,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            2200,
+            3650
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 6,
+        "StrengthenExp": 100,
+        "SpValue": 1.0,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            2800,
+            6150
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 7,
+        "StrengthenExp": 110,
+        "SpValue": 1.4,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            3400,
+            12150
+        ]
+    },
+    {
+        "SlotID": 6,
+        "SpEffectID": 18,
+        "Level": 8,
+        "StrengthenExp": 0,
+        "SpValue": 1.8,
+        "AttrList": [
+            1,
+            2
+        ],
+        "AttrValue": [
+            4100,
+            19150
+        ]
+    }
+]

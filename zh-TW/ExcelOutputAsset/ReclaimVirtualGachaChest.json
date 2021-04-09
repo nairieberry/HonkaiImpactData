@@ -1,0 +1,230 @@
+[
+    {
+        "chestIconID": 9,
+        "chestRarity": 1,
+        "id": 10101,
+        "showRewardId": 1401211,
+        "chestDesc": {
+            "hash": 309005768
+        },
+        "chestName": {
+            "hash": -1976169329
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_10",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7349,
+                "Unused": 10101
+            }
+        ]
+    },
+    {
+        "chestIconID": 8,
+        "chestRarity": 2,
+        "id": 10102,
+        "showRewardId": 1401212,
+        "chestDesc": {
+            "hash": 309005790
+        },
+        "chestName": {
+            "hash": -1976169307
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_09",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7350,
+                "Unused": 10102
+            }
+        ]
+    },
+    {
+        "chestIconID": 0,
+        "chestRarity": 1,
+        "id": 10103,
+        "showRewardId": 1401213,
+        "chestDesc": {
+            "hash": 309005791
+        },
+        "chestName": {
+            "hash": -1976169306
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_01",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7351,
+                "Unused": 10103
+            }
+        ]
+    },
+    {
+        "chestIconID": 1,
+        "chestRarity": 2,
+        "id": 10104,
+        "showRewardId": 1401214,
+        "chestDesc": {
+            "hash": 309005792
+        },
+        "chestName": {
+            "hash": -1976169305
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_02",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7352,
+                "Unused": 10104
+            }
+        ]
+    },
+    {
+        "chestIconID": 2,
+        "chestRarity": 2,
+        "id": 10105,
+        "showRewardId": 1401215,
+        "chestDesc": {
+            "hash": 309005793
+        },
+        "chestName": {
+            "hash": -1976169304
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_03",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7353,
+                "Unused": 10105
+            }
+        ]
+    },
+    {
+        "chestIconID": 3,
+        "chestRarity": 2,
+        "id": 10106,
+        "showRewardId": 1401216,
+        "chestDesc": {
+            "hash": 309005794
+        },
+        "chestName": {
+            "hash": -1976169303
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_04",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7354,
+                "Unused": 10106
+            }
+        ]
+    },
+    {
+        "chestIconID": 4,
+        "chestRarity": 2,
+        "id": 10107,
+        "showRewardId": 1401217,
+        "chestDesc": {
+            "hash": 309005827
+        },
+        "chestName": {
+            "hash": -1976169270
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_05",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7366,
+                "Unused": 10107
+            }
+        ]
+    },
+    {
+        "chestIconID": 5,
+        "chestRarity": 2,
+        "id": 10108,
+        "showRewardId": 1401218,
+        "chestDesc": {
+            "hash": 309005828
+        },
+        "chestName": {
+            "hash": -1976169269
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_06",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7367,
+                "Unused": 10108
+            }
+        ]
+    },
+    {
+        "chestIconID": 6,
+        "chestRarity": 2,
+        "id": 10109,
+        "showRewardId": 1401219,
+        "chestDesc": {
+            "hash": 309005829
+        },
+        "chestName": {
+            "hash": -1976169268
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_07",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7368,
+                "Unused": 10109
+            }
+        ]
+    },
+    {
+        "chestIconID": 7,
+        "chestRarity": 2,
+        "id": 10110,
+        "showRewardId": 1401220,
+        "chestDesc": {
+            "hash": 309005830
+        },
+        "chestName": {
+            "hash": -1976169267
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_08",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7369,
+                "Unused": 10110
+            }
+        ]
+    },
+    {
+        "chestIconID": 10,
+        "chestRarity": 2,
+        "id": 10111,
+        "showRewardId": 1401221,
+        "chestDesc": {
+            "hash": 309005852
+        },
+        "chestName": {
+            "hash": -1976169245
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_11",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7370,
+                "Unused": 10111
+            }
+        ]
+    },
+    {
+        "chestIconID": 11,
+        "chestRarity": 2,
+        "id": 10112,
+        "showRewardId": 1401222,
+        "chestDesc": {
+            "hash": 309005853
+        },
+        "chestName": {
+            "hash": -1976169244
+        },
+        "selectChestImgPath": "SpriteOutput/ReclaimEvent/Box_12",
+        "gachaPoolList": [
+            {
+                "MaterialID": 7371,
+                "Unused": 10112
+            }
+        ]
+    }
+]

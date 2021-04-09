@@ -1,0 +1,7474 @@
+[
+    {
+        "challengeId": 1001,
+        "conditionId": 1,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971422
+        },
+        "explanation": {
+            "hash": -1948872696
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 1002,
+        "conditionId": 1,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971422
+        },
+        "explanation": {
+            "hash": -1948872696
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1003,
+        "conditionId": 1,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971422
+        },
+        "explanation": {
+            "hash": -1948872696
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 2001,
+        "conditionId": 2,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1701390801
+        },
+        "explanation": {
+            "hash": -260915845
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 2002,
+        "conditionId": 2,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1701390802
+        },
+        "explanation": {
+            "hash": -260915844
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 2003,
+        "conditionId": 2,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1701390802
+        },
+        "explanation": {
+            "hash": -260915844
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 2004,
+        "conditionId": 2,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1701390801
+        },
+        "explanation": {
+            "hash": -260915845
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 2101,
+        "conditionId": 2,
+        "difficulty": 2,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -906078877
+        },
+        "explanation": {
+            "hash": -260915845
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 3001,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            25
+        ]
+    },
+    {
+        "challengeId": 3002,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 10,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 3003,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 3004,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 15,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            75
+        ]
+    },
+    {
+        "challengeId": 3005,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            150
+        ]
+    },
+    {
+        "challengeId": 3006,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 50,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            250
+        ]
+    },
+    {
+        "challengeId": 3007,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 8,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            40
+        ]
+    },
+    {
+        "challengeId": 3008,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 12,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 3009,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 16,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 3010,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 24,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 3011,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            99
+        ]
+    },
+    {
+        "challengeId": 4001,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 4002,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 4003,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 4,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            20
+        ]
+    },
+    {
+        "challengeId": 4004,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 6,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            30
+        ]
+    },
+    {
+        "challengeId": 4005,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            25
+        ]
+    },
+    {
+        "challengeId": 4006,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 8,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            40
+        ]
+    },
+    {
+        "challengeId": 4007,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 7,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            35
+        ]
+    },
+    {
+        "challengeId": 4008,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 4009,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 4010,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 4011,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 4012,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 4101,
+        "conditionId": 4,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -608763405
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 4102,
+        "conditionId": 4,
+        "difficulty": 2,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -608763405
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 5001,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 16,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 5002,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 24,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 5003,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 32,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            160
+        ]
+    },
+    {
+        "challengeId": 5004,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 5005,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 5006,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 28,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            140
+        ]
+    },
+    {
+        "challengeId": 5007,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 36,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            180
+        ]
+    },
+    {
+        "challengeId": 5008,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 48,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            240
+        ]
+    },
+    {
+        "challengeId": 5009,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            300
+        ]
+    },
+    {
+        "challengeId": 5010,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 42,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            210
+        ]
+    },
+    {
+        "challengeId": 5011,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 12,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 5012,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 5013,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 9,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            45
+        ]
+    },
+    {
+        "challengeId": 5014,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 18,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 5015,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 29,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            145
+        ]
+    },
+    {
+        "challengeId": 5016,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 26,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            130
+        ]
+    },
+    {
+        "challengeId": 5017,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 14,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            70
+        ]
+    },
+    {
+        "challengeId": 5099,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 2000,
+        "diaplayTarget": {
+            "hash": -637853128
+        },
+        "explanation": {
+            "hash": -285511346
+        },
+        "paramList": [
+            10000
+        ]
+    },
+    {
+        "challengeId": 5101,
+        "conditionId": 5,
+        "difficulty": 2,
+        "hintPeriod": 16,
+        "diaplayTarget": {
+            "hash": -608763404
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 5102,
+        "conditionId": 5,
+        "difficulty": 2,
+        "hintPeriod": 24,
+        "diaplayTarget": {
+            "hash": -608763404
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 6001,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 6002,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 6003,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 6004,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 6005,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            7
+        ]
+    },
+    {
+        "challengeId": 6006,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 6007,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 6008,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 6009,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 6010,
+        "conditionId": 6,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971427
+        },
+        "explanation": {
+            "hash": -1948872691
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 7001,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            500
+        ]
+    },
+    {
+        "challengeId": 7002,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 240,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            1200
+        ]
+    },
+    {
+        "challengeId": 7003,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 600,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            3000
+        ]
+    },
+    {
+        "challengeId": 7004,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 400,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            2000
+        ]
+    },
+    {
+        "challengeId": 7005,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 160,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            800
+        ]
+    },
+    {
+        "challengeId": 7006,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 300,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            1500
+        ]
+    },
+    {
+        "challengeId": 7007,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            2500
+        ]
+    },
+    {
+        "challengeId": 7008,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 800,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            4000
+        ]
+    },
+    {
+        "challengeId": 7009,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 1000,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            5000
+        ]
+    },
+    {
+        "challengeId": 7010,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 4000,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            20000
+        ]
+    },
+    {
+        "challengeId": 7011,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 8000,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            40000
+        ]
+    },
+    {
+        "challengeId": 7012,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 30000,
+        "diaplayTarget": {
+            "hash": 117971428
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            150000
+        ]
+    },
+    {
+        "challengeId": 7107,
+        "conditionId": 7,
+        "difficulty": 2,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -608763402
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            2500
+        ]
+    },
+    {
+        "challengeId": 7110,
+        "conditionId": 7,
+        "difficulty": 1,
+        "hintPeriod": 4000,
+        "diaplayTarget": {
+            "hash": -608763402
+        },
+        "explanation": {
+            "hash": -1948872690
+        },
+        "paramList": [
+            20000
+        ]
+    },
+    {
+        "challengeId": 8001,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 8002,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 8003,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 8004,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 8005,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 9001,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            2000
+        ]
+    },
+    {
+        "challengeId": 9002,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            4500
+        ]
+    },
+    {
+        "challengeId": 9003,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            8000
+        ]
+    },
+    {
+        "challengeId": 9004,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            3000
+        ]
+    },
+    {
+        "challengeId": 9005,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            6000
+        ]
+    },
+    {
+        "challengeId": 9006,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            11111
+        ]
+    },
+    {
+        "challengeId": 9007,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            33333
+        ]
+    },
+    {
+        "challengeId": 9008,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            66666
+        ]
+    },
+    {
+        "challengeId": 9009,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            8000
+        ]
+    },
+    {
+        "challengeId": 9010,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            40000
+        ]
+    },
+    {
+        "challengeId": 9011,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            80000
+        ]
+    },
+    {
+        "challengeId": 9012,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            3,
+            300000
+        ]
+    },
+    {
+        "challengeId": 10001,
+        "conditionId": 10,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853166
+        },
+        "explanation": {
+            "hash": -285511384
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 10002,
+        "conditionId": 10,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853166
+        },
+        "explanation": {
+            "hash": -285511384
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 10003,
+        "conditionId": 10,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853166
+        },
+        "explanation": {
+            "hash": -285511384
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 10004,
+        "conditionId": 10,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853166
+        },
+        "explanation": {
+            "hash": -285511384
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 11001,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203434756
+        },
+        "explanation": {
+            "hash": 501470874
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 11002,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 11003,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 11004,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 11005,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 11006,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 11007,
+        "conditionId": 11,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 1203434757
+        },
+        "explanation": {
+            "hash": 501470875
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 12001,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435718
+        },
+        "explanation": {
+            "hash": 501471836
+        },
+        "paramList": [
+            1,
+            1
+        ]
+    },
+    {
+        "challengeId": 12002,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435719
+        },
+        "explanation": {
+            "hash": 501471837
+        },
+        "paramList": [
+            1,
+            2
+        ]
+    },
+    {
+        "challengeId": 12003,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435720
+        },
+        "explanation": {
+            "hash": 501471838
+        },
+        "paramList": [
+            1,
+            3
+        ]
+    },
+    {
+        "challengeId": 12004,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435718
+        },
+        "explanation": {
+            "hash": 501471836
+        },
+        "paramList": [
+            2,
+            1
+        ]
+    },
+    {
+        "challengeId": 12005,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435719
+        },
+        "explanation": {
+            "hash": 501471837
+        },
+        "paramList": [
+            2,
+            2
+        ]
+    },
+    {
+        "challengeId": 12006,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435720
+        },
+        "explanation": {
+            "hash": 501471838
+        },
+        "paramList": [
+            2,
+            3
+        ]
+    },
+    {
+        "challengeId": 12007,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435718
+        },
+        "explanation": {
+            "hash": 501471836
+        },
+        "paramList": [
+            3,
+            1
+        ]
+    },
+    {
+        "challengeId": 12008,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435719
+        },
+        "explanation": {
+            "hash": 501471837
+        },
+        "paramList": [
+            3,
+            2
+        ]
+    },
+    {
+        "challengeId": 12009,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435720
+        },
+        "explanation": {
+            "hash": 501471838
+        },
+        "paramList": [
+            3,
+            3
+        ]
+    },
+    {
+        "challengeId": 12010,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435721
+        },
+        "explanation": {
+            "hash": 501471839
+        },
+        "paramList": [
+            1,
+            4
+        ]
+    },
+    {
+        "challengeId": 12011,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435721
+        },
+        "explanation": {
+            "hash": 501471839
+        },
+        "paramList": [
+            2,
+            4
+        ]
+    },
+    {
+        "challengeId": 12012,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435721
+        },
+        "explanation": {
+            "hash": 501471839
+        },
+        "paramList": [
+            3,
+            4
+        ]
+    },
+    {
+        "challengeId": 12013,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435722
+        },
+        "explanation": {
+            "hash": 501471840
+        },
+        "paramList": [
+            1,
+            5
+        ]
+    },
+    {
+        "challengeId": 12014,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435724
+        },
+        "explanation": {
+            "hash": 501471842
+        },
+        "paramList": [
+            1,
+            7
+        ]
+    },
+    {
+        "challengeId": 12015,
+        "conditionId": 12,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203435723
+        },
+        "explanation": {
+            "hash": 501471841
+        },
+        "paramList": [
+            1,
+            6
+        ]
+    },
+    {
+        "challengeId": 13001,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 13002,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 13003,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 13004,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 13005,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 13006,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 6,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            30
+        ]
+    },
+    {
+        "challengeId": 13007,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 7,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            35
+        ]
+    },
+    {
+        "challengeId": 13008,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 9,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            45
+        ]
+    },
+    {
+        "challengeId": 13009,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 13010,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 13011,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            11
+        ]
+    },
+    {
+        "challengeId": 13012,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 4,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            20
+        ]
+    },
+    {
+        "challengeId": 13013,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            22
+        ]
+    },
+    {
+        "challengeId": 13014,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 7,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            33
+        ]
+    },
+    {
+        "challengeId": 13015,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 14,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            66
+        ]
+    },
+    {
+        "challengeId": 13016,
+        "conditionId": 13,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": -637853163
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            99
+        ]
+    },
+    {
+        "challengeId": 13101,
+        "conditionId": 13,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1691796413
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 13102,
+        "conditionId": 13,
+        "difficulty": 2,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -1691796413
+        },
+        "explanation": {
+            "hash": -285511381
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 14001,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437640
+        },
+        "explanation": {
+            "hash": 501473758
+        },
+        "paramList": [
+            1,
+            1
+        ]
+    },
+    {
+        "challengeId": 14002,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437641
+        },
+        "explanation": {
+            "hash": 501473759
+        },
+        "paramList": [
+            1,
+            2
+        ]
+    },
+    {
+        "challengeId": 14003,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437642
+        },
+        "explanation": {
+            "hash": 501473760
+        },
+        "paramList": [
+            1,
+            3
+        ]
+    },
+    {
+        "challengeId": 14004,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437640
+        },
+        "explanation": {
+            "hash": 501473758
+        },
+        "paramList": [
+            2,
+            1
+        ]
+    },
+    {
+        "challengeId": 14005,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437641
+        },
+        "explanation": {
+            "hash": 501473759
+        },
+        "paramList": [
+            2,
+            2
+        ]
+    },
+    {
+        "challengeId": 14006,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437642
+        },
+        "explanation": {
+            "hash": 501473760
+        },
+        "paramList": [
+            2,
+            3
+        ]
+    },
+    {
+        "challengeId": 14007,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437640
+        },
+        "explanation": {
+            "hash": 501473758
+        },
+        "paramList": [
+            3,
+            1
+        ]
+    },
+    {
+        "challengeId": 14008,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437641
+        },
+        "explanation": {
+            "hash": 501473759
+        },
+        "paramList": [
+            3,
+            2
+        ]
+    },
+    {
+        "challengeId": 14009,
+        "conditionId": 14,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203437642
+        },
+        "explanation": {
+            "hash": 501473760
+        },
+        "paramList": [
+            3,
+            3
+        ]
+    },
+    {
+        "challengeId": 15001,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 15002,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 160,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            800
+        ]
+    },
+    {
+        "challengeId": 15003,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 400,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            2000
+        ]
+    },
+    {
+        "challengeId": 15004,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            500
+        ]
+    },
+    {
+        "challengeId": 15005,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            1000
+        ]
+    },
+    {
+        "challengeId": 15006,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 260,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            1300
+        ]
+    },
+    {
+        "challengeId": 15007,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 320,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            1600
+        ]
+    },
+    {
+        "challengeId": 15008,
+        "conditionId": 15,
+        "difficulty": 1,
+        "hintPeriod": 800,
+        "diaplayTarget": {
+            "hash": -637853161
+        },
+        "explanation": {
+            "hash": -285511379
+        },
+        "paramList": [
+            4000
+        ]
+    },
+    {
+        "challengeId": 16001,
+        "conditionId": 16,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853160
+        },
+        "explanation": {
+            "hash": -285511378
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 17001,
+        "conditionId": 17,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853159
+        },
+        "explanation": {
+            "hash": -285511377
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 17002,
+        "conditionId": 17,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203440523
+        },
+        "explanation": {
+            "hash": 501476641
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 17003,
+        "conditionId": 17,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203440523
+        },
+        "explanation": {
+            "hash": 501476641
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 17099,
+        "conditionId": 17,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853128
+        },
+        "explanation": {
+            "hash": -285511346
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 18001,
+        "conditionId": 18,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853158
+        },
+        "explanation": {
+            "hash": -285511376
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 18002,
+        "conditionId": 18,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853158
+        },
+        "explanation": {
+            "hash": -285511376
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 18003,
+        "conditionId": 18,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853158
+        },
+        "explanation": {
+            "hash": -285511376
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 18004,
+        "conditionId": 18,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853158
+        },
+        "explanation": {
+            "hash": -285511376
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 18005,
+        "conditionId": 18,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853158
+        },
+        "explanation": {
+            "hash": -285511376
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 19001,
+        "conditionId": 19,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853157
+        },
+        "explanation": {
+            "hash": -285511375
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 20001,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 1203463586
+        },
+        "explanation": {
+            "hash": 501499704
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 20002,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 20003,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 20004,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 20005,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 20006,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 20007,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 20103,
+        "conditionId": 20,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1976282193
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 20105,
+        "conditionId": 20,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1976282193
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 21001,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 300,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            1500
+        ]
+    },
+    {
+        "challengeId": 21002,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 600,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            3000
+        ]
+    },
+    {
+        "challengeId": 21003,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 1600,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            8000
+        ]
+    },
+    {
+        "challengeId": 21004,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            1000
+        ]
+    },
+    {
+        "challengeId": 21005,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 800,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            4000
+        ]
+    },
+    {
+        "challengeId": 21006,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 1000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            5000
+        ]
+    },
+    {
+        "challengeId": 21007,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 1200,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            6000
+        ]
+    },
+    {
+        "challengeId": 21008,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 1000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            5000
+        ]
+    },
+    {
+        "challengeId": 21009,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 8000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            40000
+        ]
+    },
+    {
+        "challengeId": 21010,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 20000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            100000
+        ]
+    },
+    {
+        "challengeId": 21011,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 50000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            250000
+        ]
+    },
+    {
+        "challengeId": 22001,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 22002,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 22003,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 22004,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 22005,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 22006,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 22007,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 22008,
+        "conditionId": 22,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853133
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 22102,
+        "conditionId": 22,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1691796383
+        },
+        "explanation": {
+            "hash": -285511351
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 23001,
+        "conditionId": 23,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853132
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 23002,
+        "conditionId": 23,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853132
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 23003,
+        "conditionId": 23,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853132
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 23004,
+        "conditionId": 23,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853132
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 23005,
+        "conditionId": 23,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853132
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 23101,
+        "conditionId": 23,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1691796382
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 23102,
+        "conditionId": 23,
+        "difficulty": 2,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -1691796382
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 23103,
+        "conditionId": 23,
+        "difficulty": 2,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -1691796382
+        },
+        "explanation": {
+            "hash": -285511350
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 24001,
+        "conditionId": 24,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853131
+        },
+        "explanation": {
+            "hash": -285511349
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 25001,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            2
+        ]
+    },
+    {
+        "challengeId": 25002,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            3
+        ]
+    },
+    {
+        "challengeId": 25003,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            4
+        ]
+    },
+    {
+        "challengeId": 25004,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            7
+        ]
+    },
+    {
+        "challengeId": 25005,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            10,
+            5
+        ]
+    },
+    {
+        "challengeId": 25006,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            10,
+            3
+        ]
+    },
+    {
+        "challengeId": 25007,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            15,
+            3
+        ]
+    },
+    {
+        "challengeId": 25008,
+        "conditionId": 25,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853130
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            10,
+            2
+        ]
+    },
+    {
+        "challengeId": 25102,
+        "conditionId": 25,
+        "difficulty": 2,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -1691796380
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            3
+        ]
+    },
+    {
+        "challengeId": 25103,
+        "conditionId": 25,
+        "difficulty": 2,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -1691796380
+        },
+        "explanation": {
+            "hash": -285511348
+        },
+        "paramList": [
+            5,
+            4
+        ]
+    },
+    {
+        "challengeId": 26001,
+        "conditionId": 26,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853129
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 26002,
+        "conditionId": 26,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853129
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 26003,
+        "conditionId": 26,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853129
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 26004,
+        "conditionId": 26,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853129
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 26005,
+        "conditionId": 26,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853129
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 26101,
+        "conditionId": 26,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1691796379
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 26102,
+        "conditionId": 26,
+        "difficulty": 2,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -1691796379
+        },
+        "explanation": {
+            "hash": -285511347
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 27001,
+        "conditionId": 27,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853128
+        },
+        "explanation": {
+            "hash": -285511346
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 28001,
+        "conditionId": 28,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": -637853127
+        },
+        "explanation": {
+            "hash": -285511345
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 29001,
+        "conditionId": 29,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": -637853126
+        },
+        "explanation": {
+            "hash": -285511344
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 30001,
+        "conditionId": 30,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853104
+        },
+        "explanation": {
+            "hash": -285511322
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 30002,
+        "conditionId": 30,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853104
+        },
+        "explanation": {
+            "hash": -285511322
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 30003,
+        "conditionId": 30,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853104
+        },
+        "explanation": {
+            "hash": -285511322
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 30004,
+        "conditionId": 30,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853104
+        },
+        "explanation": {
+            "hash": -285511322
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 30104,
+        "conditionId": 30,
+        "difficulty": 2,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1691796354
+        },
+        "explanation": {
+            "hash": -285511322
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 31001,
+        "conditionId": 31,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853103
+        },
+        "explanation": {
+            "hash": -285511321
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 31002,
+        "conditionId": 31,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853103
+        },
+        "explanation": {
+            "hash": -285511321
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 31003,
+        "conditionId": 31,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853103
+        },
+        "explanation": {
+            "hash": -285511321
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 31004,
+        "conditionId": 31,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853103
+        },
+        "explanation": {
+            "hash": -285511321
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 32001,
+        "conditionId": 32,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853102
+        },
+        "explanation": {
+            "hash": -285511320
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 32002,
+        "conditionId": 32,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853102
+        },
+        "explanation": {
+            "hash": -285511320
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 32003,
+        "conditionId": 32,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853102
+        },
+        "explanation": {
+            "hash": -285511320
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 32004,
+        "conditionId": 32,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853102
+        },
+        "explanation": {
+            "hash": -285511320
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 33001,
+        "conditionId": 33,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853101
+        },
+        "explanation": {
+            "hash": -285511319
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 33002,
+        "conditionId": 33,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853101
+        },
+        "explanation": {
+            "hash": -285511319
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 33003,
+        "conditionId": 33,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853101
+        },
+        "explanation": {
+            "hash": -285511319
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 33004,
+        "conditionId": 33,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853101
+        },
+        "explanation": {
+            "hash": -285511319
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 34001,
+        "conditionId": 34,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853100
+        },
+        "explanation": {
+            "hash": -285511318
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 34002,
+        "conditionId": 34,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853100
+        },
+        "explanation": {
+            "hash": -285511318
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 34003,
+        "conditionId": 34,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853100
+        },
+        "explanation": {
+            "hash": -285511318
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 34004,
+        "conditionId": 34,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853100
+        },
+        "explanation": {
+            "hash": -285511318
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 35001,
+        "conditionId": 35,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853099
+        },
+        "explanation": {
+            "hash": -285511317
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 35002,
+        "conditionId": 35,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853099
+        },
+        "explanation": {
+            "hash": -285511317
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 35003,
+        "conditionId": 35,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853099
+        },
+        "explanation": {
+            "hash": -285511317
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 35004,
+        "conditionId": 35,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853099
+        },
+        "explanation": {
+            "hash": -285511317
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 36001,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 36002,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            500
+        ]
+    },
+    {
+        "challengeId": 36003,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            1000
+        ]
+    },
+    {
+        "challengeId": 36004,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 300,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            1500
+        ]
+    },
+    {
+        "challengeId": 36005,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 400,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            2000
+        ]
+    },
+    {
+        "challengeId": 36006,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            2500
+        ]
+    },
+    {
+        "challengeId": 36007,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 600,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            3000
+        ]
+    },
+    {
+        "challengeId": 36008,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 800,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            4000
+        ]
+    },
+    {
+        "challengeId": 36009,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 1000,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            5000
+        ]
+    },
+    {
+        "challengeId": 36010,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 1200,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            6000
+        ]
+    },
+    {
+        "challengeId": 36011,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 1400,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            7000
+        ]
+    },
+    {
+        "challengeId": 36012,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 1600,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            8000
+        ]
+    },
+    {
+        "challengeId": 37001,
+        "conditionId": 37,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853097
+        },
+        "explanation": {
+            "hash": -285511315
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 37002,
+        "conditionId": 37,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853097
+        },
+        "explanation": {
+            "hash": -285511315
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 37003,
+        "conditionId": 37,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853097
+        },
+        "explanation": {
+            "hash": -285511315
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 37004,
+        "conditionId": 37,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853097
+        },
+        "explanation": {
+            "hash": -285511315
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 37005,
+        "conditionId": 37,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853097
+        },
+        "explanation": {
+            "hash": -285511315
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 38001,
+        "conditionId": 38,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -637853096
+        },
+        "explanation": {
+            "hash": -285511314
+        },
+        "paramList": [
+            0
+        ]
+    },
+    {
+        "challengeId": 39001,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            180
+        ]
+    },
+    {
+        "challengeId": 39002,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            240
+        ]
+    },
+    {
+        "challengeId": 39003,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            300
+        ]
+    },
+    {
+        "challengeId": 39004,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 39005,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 39006,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 39007,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 39008,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            900
+        ]
+    },
+    {
+        "challengeId": 39009,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            1200
+        ]
+    },
+    {
+        "challengeId": 40001,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 40002,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 40003,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 40004,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 40005,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 40006,
+        "conditionId": 40,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853073
+        },
+        "explanation": {
+            "hash": -285511291
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 41001,
+        "conditionId": 41,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853072
+        },
+        "explanation": {
+            "hash": -285511290
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 41002,
+        "conditionId": 41,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853072
+        },
+        "explanation": {
+            "hash": -285511290
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 41003,
+        "conditionId": 41,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853072
+        },
+        "explanation": {
+            "hash": -285511290
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 41004,
+        "conditionId": 41,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853072
+        },
+        "explanation": {
+            "hash": -285511290
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 42001,
+        "conditionId": 42,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853071
+        },
+        "explanation": {
+            "hash": -285511289
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 42002,
+        "conditionId": 42,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853071
+        },
+        "explanation": {
+            "hash": -285511289
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 42003,
+        "conditionId": 42,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853071
+        },
+        "explanation": {
+            "hash": -285511289
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 42004,
+        "conditionId": 42,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853071
+        },
+        "explanation": {
+            "hash": -285511289
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 42005,
+        "conditionId": 42,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853071
+        },
+        "explanation": {
+            "hash": -285511289
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 43001,
+        "conditionId": 43,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853070
+        },
+        "explanation": {
+            "hash": -285511288
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 43002,
+        "conditionId": 43,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853070
+        },
+        "explanation": {
+            "hash": -285511288
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 43003,
+        "conditionId": 43,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853070
+        },
+        "explanation": {
+            "hash": -285511288
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 43004,
+        "conditionId": 43,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853070
+        },
+        "explanation": {
+            "hash": -285511288
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 44001,
+        "conditionId": 48,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853069
+        },
+        "explanation": {
+            "hash": -285511287
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 44002,
+        "conditionId": 48,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853069
+        },
+        "explanation": {
+            "hash": -285511287
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 44003,
+        "conditionId": 48,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853069
+        },
+        "explanation": {
+            "hash": -285511287
+        },
+        "paramList": [
+            9
+        ]
+    },
+    {
+        "challengeId": 44004,
+        "conditionId": 48,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -637853069
+        },
+        "explanation": {
+            "hash": -285511287
+        },
+        "paramList": [
+            12
+        ]
+    },
+    {
+        "challengeId": 45001,
+        "conditionId": 45,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853068
+        },
+        "explanation": {
+            "hash": -285511286
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 45002,
+        "conditionId": 45,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853068
+        },
+        "explanation": {
+            "hash": -285511286
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 45003,
+        "conditionId": 45,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853068
+        },
+        "explanation": {
+            "hash": -285511286
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 45004,
+        "conditionId": 45,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853068
+        },
+        "explanation": {
+            "hash": -285511286
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 45005,
+        "conditionId": 45,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853068
+        },
+        "explanation": {
+            "hash": -285511286
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 46001,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 46002,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 46003,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 46004,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 46005,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 46006,
+        "conditionId": 46,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853067
+        },
+        "explanation": {
+            "hash": -285511285
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 47001,
+        "conditionId": 47,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853066
+        },
+        "explanation": {
+            "hash": -285511284
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 47002,
+        "conditionId": 47,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853066
+        },
+        "explanation": {
+            "hash": -285511284
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 47003,
+        "conditionId": 47,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853066
+        },
+        "explanation": {
+            "hash": -285511284
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 47004,
+        "conditionId": 47,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853066
+        },
+        "explanation": {
+            "hash": -285511284
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 48001,
+        "conditionId": 44,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853065
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 48002,
+        "conditionId": 44,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853065
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 48003,
+        "conditionId": 44,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853065
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            6
+        ]
+    },
+    {
+        "challengeId": 48004,
+        "conditionId": 44,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": -637853065
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 49001,
+        "conditionId": 50,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853064
+        },
+        "explanation": {
+            "hash": -285511282
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 49002,
+        "conditionId": 50,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -637853064
+        },
+        "explanation": {
+            "hash": -285511282
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 51001,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 51002,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 51003,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            160
+        ]
+    },
+    {
+        "challengeId": 51004,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 51005,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 51006,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            140
+        ]
+    },
+    {
+        "challengeId": 51007,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            180
+        ]
+    },
+    {
+        "challengeId": 51008,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            240
+        ]
+    },
+    {
+        "challengeId": 51009,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            300
+        ]
+    },
+    {
+        "challengeId": 51010,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            210
+        ]
+    },
+    {
+        "challengeId": 51011,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 51012,
+        "conditionId": 51,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 51101,
+        "conditionId": 51,
+        "difficulty": 2,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -608763404
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 51102,
+        "conditionId": 51,
+        "difficulty": 2,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": -608763404
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 60001,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -359530640
+        },
+        "explanation": {
+            "hash": 502513560
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 60002,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -359530639
+        },
+        "explanation": {
+            "hash": 502513561
+        },
+        "paramList": [
+            40
+        ]
+    },
+    {
+        "challengeId": 60003,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -359530639
+        },
+        "explanation": {
+            "hash": 502513561
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 60004,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -359530638
+        },
+        "explanation": {
+            "hash": 502513562
+        },
+        "paramList": [
+            7
+        ]
+    },
+    {
+        "challengeId": 60005,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -359530638
+        },
+        "explanation": {
+            "hash": 502513562
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 60006,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 25,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            55
+        ]
+    },
+    {
+        "challengeId": 60007,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            85
+        ]
+    },
+    {
+        "challengeId": 60008,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            105
+        ]
+    },
+    {
+        "challengeId": 60009,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            70
+        ]
+    },
+    {
+        "challengeId": 60010,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            75
+        ]
+    },
+    {
+        "challengeId": 60011,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -359530640
+        },
+        "explanation": {
+            "hash": 502513560
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 60012,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": -359530640
+        },
+        "explanation": {
+            "hash": 502513560
+        },
+        "paramList": [
+            4
+        ]
+    },
+    {
+        "challengeId": 60013,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 150,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            180
+        ]
+    },
+    {
+        "challengeId": 61000,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116036985
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            65
+        ]
+    },
+    {
+        "challengeId": 61001,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116036986
+        },
+        "explanation": {
+            "hash": -1629699603
+        },
+        "paramList": [
+            10100
+        ]
+    },
+    {
+        "challengeId": 61002,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116036987
+        },
+        "explanation": {
+            "hash": -1629699602
+        },
+        "paramList": [
+            10101
+        ]
+    },
+    {
+        "challengeId": 61003,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116036988
+        },
+        "explanation": {
+            "hash": -1629699601
+        },
+        "paramList": [
+            10102
+        ]
+    },
+    {
+        "challengeId": 61004,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116036989
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            1
+        ]
+    },
+    {
+        "challengeId": 61010,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037016
+        },
+        "explanation": {
+            "hash": -1629699573
+        },
+        "paramList": [
+            10120
+        ]
+    },
+    {
+        "challengeId": 61011,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 1116037017
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            35
+        ]
+    },
+    {
+        "challengeId": 61012,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116037018
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 61013,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037019
+        },
+        "explanation": {
+            "hash": -1629699570
+        },
+        "paramList": [
+            10121
+        ]
+    },
+    {
+        "challengeId": 61014,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037020
+        },
+        "explanation": {
+            "hash": -1634345975
+        },
+        "paramList": [
+            10122
+        ]
+    },
+    {
+        "challengeId": 61020,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 1116037047
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            150
+        ]
+    },
+    {
+        "challengeId": 61021,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037048
+        },
+        "explanation": {
+            "hash": -1629699541
+        },
+        "paramList": [
+            10000
+        ]
+    },
+    {
+        "challengeId": 61022,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037049
+        },
+        "explanation": {
+            "hash": -1629699540
+        },
+        "paramList": [
+            10001
+        ]
+    },
+    {
+        "challengeId": 61023,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037050
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            40
+        ]
+    },
+    {
+        "challengeId": 61024,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 4,
+        "diaplayTarget": {
+            "hash": 1116037051
+        },
+        "explanation": {
+            "hash": -1629699538
+        },
+        "paramList": [
+            10123
+        ]
+    },
+    {
+        "challengeId": 61025,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037052
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 61026,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037053
+        },
+        "explanation": {
+            "hash": -1629699536
+        },
+        "paramList": [
+            10002
+        ]
+    },
+    {
+        "challengeId": 61027,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 300,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            1200
+        ]
+    },
+    {
+        "challengeId": 61028,
+        "conditionId": 21,
+        "difficulty": 1,
+        "hintPeriod": 100000,
+        "diaplayTarget": {
+            "hash": -637853134
+        },
+        "explanation": {
+            "hash": -285511352
+        },
+        "paramList": [
+            800000
+        ]
+    },
+    {
+        "challengeId": 61029,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 10,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 61030,
+        "conditionId": 9,
+        "difficulty": 1,
+        "hintPeriod": 0,
+        "diaplayTarget": {
+            "hash": 117971430
+        },
+        "explanation": {
+            "hash": -1948872688
+        },
+        "paramList": [
+            5,
+            2000000
+        ]
+    },
+    {
+        "challengeId": 61031,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            160
+        ]
+    },
+    {
+        "challengeId": 61032,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 1116037051
+        },
+        "explanation": {
+            "hash": -1629699538
+        },
+        "paramList": [
+            10124
+        ]
+    },
+    {
+        "challengeId": 61033,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            130
+        ]
+    },
+    {
+        "challengeId": 61034,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 1116037080
+        },
+        "explanation": {
+            "hash": -1629699509
+        },
+        "paramList": [
+            10124
+        ]
+    },
+    {
+        "challengeId": 61035,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            150
+        ]
+    },
+    {
+        "challengeId": 61036,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 1116037084
+        },
+        "explanation": {
+            "hash": -1629699505
+        },
+        "paramList": [
+            10140
+        ]
+    },
+    {
+        "challengeId": 61040,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116037109
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            75
+        ]
+    },
+    {
+        "challengeId": 61041,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037110
+        },
+        "explanation": {
+            "hash": -1629699479
+        },
+        "paramList": [
+            10102
+        ]
+    },
+    {
+        "challengeId": 61042,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037111
+        },
+        "explanation": {
+            "hash": -1629699478
+        },
+        "paramList": [
+            10130
+        ]
+    },
+    {
+        "challengeId": 61043,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 4,
+        "diaplayTarget": {
+            "hash": 1116037112
+        },
+        "explanation": {
+            "hash": -1629699477
+        },
+        "paramList": [
+            10131
+        ]
+    },
+    {
+        "challengeId": 61044,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116037113
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 61045,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037114
+        },
+        "explanation": {
+            "hash": -1629699475
+        },
+        "paramList": [
+            10150
+        ]
+    },
+    {
+        "challengeId": 61046,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 1116037115
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 61047,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 1116037116
+        },
+        "explanation": {
+            "hash": -1629699473
+        },
+        "paramList": [
+            10112
+        ]
+    },
+    {
+        "challengeId": 61048,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116037117
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 61050,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 1116037109
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            75
+        ]
+    },
+    {
+        "challengeId": 61051,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037110
+        },
+        "explanation": {
+            "hash": -1629699479
+        },
+        "paramList": [
+            10102
+        ]
+    },
+    {
+        "challengeId": 61052,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037052
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 61053,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037053
+        },
+        "explanation": {
+            "hash": -1629699536
+        },
+        "paramList": [
+            10002
+        ]
+    },
+    {
+        "challengeId": 61054,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037111
+        },
+        "explanation": {
+            "hash": -1629699478
+        },
+        "paramList": [
+            10130
+        ]
+    },
+    {
+        "challengeId": 61055,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1116037114
+        },
+        "explanation": {
+            "hash": -1629699475
+        },
+        "paramList": [
+            10150
+        ]
+    },
+    {
+        "challengeId": 61056,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 1116037115
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            5
+        ]
+    },
+    {
+        "challengeId": 62001,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793265
+        },
+        "explanation": {
+            "hash": -1629699473
+        },
+        "paramList": [
+            30000
+        ]
+    },
+    {
+        "challengeId": 62002,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793264
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            30001
+        ]
+    },
+    {
+        "challengeId": 62003,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793263
+        },
+        "explanation": {
+            "hash": -1301440855
+        },
+        "paramList": [
+            30002
+        ]
+    },
+    {
+        "challengeId": 63001,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 60,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            50
+        ]
+    },
+    {
+        "challengeId": 63002,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793262
+        },
+        "explanation": {
+            "hash": -646793262
+        },
+        "paramList": [
+            30003
+        ]
+    },
+    {
+        "challengeId": 63003,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793261
+        },
+        "explanation": {
+            "hash": -646793261
+        },
+        "paramList": [
+            30004
+        ]
+    },
+    {
+        "challengeId": 63004,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793260
+        },
+        "explanation": {
+            "hash": -646793260
+        },
+        "paramList": [
+            30005
+        ]
+    },
+    {
+        "challengeId": 63005,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793259
+        },
+        "explanation": {
+            "hash": -646793259
+        },
+        "paramList": [
+            30006
+        ]
+    },
+    {
+        "challengeId": 63006,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793258
+        },
+        "explanation": {
+            "hash": -646793258
+        },
+        "paramList": [
+            30007
+        ]
+    },
+    {
+        "challengeId": 63007,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -646793257
+        },
+        "explanation": {
+            "hash": -646793257
+        },
+        "paramList": [
+            30008
+        ]
+    },
+    {
+        "challengeId": 100001,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772110
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100001
+        ]
+    },
+    {
+        "challengeId": 100002,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772111
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100002
+        ]
+    },
+    {
+        "challengeId": 100003,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772112
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100003
+        ]
+    },
+    {
+        "challengeId": 100004,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772113
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100004
+        ]
+    },
+    {
+        "challengeId": 100005,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772114
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100005
+        ]
+    },
+    {
+        "challengeId": 100006,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772115
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100006
+        ]
+    },
+    {
+        "challengeId": 100007,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772116
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100007
+        ]
+    },
+    {
+        "challengeId": 100008,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772117
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100008
+        ]
+    },
+    {
+        "challengeId": 100009,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772118
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100009
+        ]
+    },
+    {
+        "challengeId": 100010,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772140
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100010
+        ]
+    },
+    {
+        "challengeId": 100011,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772141
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100011
+        ]
+    },
+    {
+        "challengeId": 100012,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 860772142
+        },
+        "explanation": {
+            "hash": -285511283
+        },
+        "paramList": [
+            100012
+        ]
+    },
+    {
+        "challengeId": 1000001,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            8
+        ]
+    },
+    {
+        "challengeId": 1000002,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000003,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            580
+        ]
+    },
+    {
+        "challengeId": 1000011,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 1000012,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000013,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 1000021,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000022,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000023,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            650
+        ]
+    },
+    {
+        "challengeId": 1000031,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 5,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000032,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000033,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            650
+        ]
+    },
+    {
+        "challengeId": 1000101,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000102,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000103,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000111,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000112,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000113,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000121,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 1000122,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000123,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000131,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 1000132,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000133,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000201,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 50,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 1000202,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000203,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 1000211,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 50,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            200
+        ]
+    },
+    {
+        "challengeId": 1000212,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000213,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 1000221,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 50,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            300
+        ]
+    },
+    {
+        "challengeId": 1000222,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000223,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            700
+        ]
+    },
+    {
+        "challengeId": 1000231,
+        "conditionId": 3,
+        "difficulty": 1,
+        "hintPeriod": 50,
+        "diaplayTarget": {
+            "hash": 117971424
+        },
+        "explanation": {
+            "hash": -1948872694
+        },
+        "paramList": [
+            300
+        ]
+    },
+    {
+        "challengeId": 1000232,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000233,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            700
+        ]
+    },
+    {
+        "challengeId": 1000301,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000302,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000303,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000311,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 3,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            15
+        ]
+    },
+    {
+        "challengeId": 1000312,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000313,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000321,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 1000322,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 1000323,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000331,
+        "conditionId": 4,
+        "difficulty": 1,
+        "hintPeriod": 2,
+        "diaplayTarget": {
+            "hash": 117971425
+        },
+        "explanation": {
+            "hash": -1948872693
+        },
+        "paramList": [
+            10
+        ]
+    },
+    {
+        "challengeId": 1000332,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            60
+        ]
+    },
+    {
+        "challengeId": 1000333,
+        "conditionId": 20,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 1203463587
+        },
+        "explanation": {
+            "hash": 501499705
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000401,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000402,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000403,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            2500
+        ]
+    },
+    {
+        "challengeId": 1000411,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000412,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            2
+        ]
+    },
+    {
+        "challengeId": 1000413,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            2500
+        ]
+    },
+    {
+        "challengeId": 1000421,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000422,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000423,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            3500
+        ]
+    },
+    {
+        "challengeId": 1000431,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 30,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            90
+        ]
+    },
+    {
+        "challengeId": 1000432,
+        "conditionId": 8,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": 117971429
+        },
+        "explanation": {
+            "hash": -1948872689
+        },
+        "paramList": [
+            3
+        ]
+    },
+    {
+        "challengeId": 1000433,
+        "conditionId": 36,
+        "difficulty": 1,
+        "hintPeriod": 500,
+        "diaplayTarget": {
+            "hash": -637853098
+        },
+        "explanation": {
+            "hash": -285511316
+        },
+        "paramList": [
+            3500
+        ]
+    },
+    {
+        "challengeId": 1000501,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 40,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            120
+        ]
+    },
+    {
+        "challengeId": 1000502,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            400
+        ]
+    },
+    {
+        "challengeId": 1000503,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 1000511,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 25,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            100
+        ]
+    },
+    {
+        "challengeId": 1000512,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            500
+        ]
+    },
+    {
+        "challengeId": 1000513,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 100,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            700
+        ]
+    },
+    {
+        "challengeId": 1000521,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 1000522,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            600
+        ]
+    },
+    {
+        "challengeId": 1000523,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            800
+        ]
+    },
+    {
+        "challengeId": 1000531,
+        "conditionId": 5,
+        "difficulty": 1,
+        "hintPeriod": 20,
+        "diaplayTarget": {
+            "hash": 117971426
+        },
+        "explanation": {
+            "hash": -1948872692
+        },
+        "paramList": [
+            80
+        ]
+    },
+    {
+        "challengeId": 1000532,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            800
+        ]
+    },
+    {
+        "challengeId": 1000533,
+        "conditionId": 39,
+        "difficulty": 1,
+        "hintPeriod": 200,
+        "diaplayTarget": {
+            "hash": -637853095
+        },
+        "explanation": {
+            "hash": -285511313
+        },
+        "paramList": [
+            1000
+        ]
+    },
+    {
+        "challengeId": 1001001,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430347
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100013
+        ]
+    },
+    {
+        "challengeId": 1001002,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430346
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100014
+        ]
+    },
+    {
+        "challengeId": 1001003,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430345
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100015
+        ]
+    },
+    {
+        "challengeId": 1001004,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430344
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100016
+        ]
+    },
+    {
+        "challengeId": 1001005,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430343
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100017
+        ]
+    },
+    {
+        "challengeId": 1001006,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430342
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100018
+        ]
+    },
+    {
+        "challengeId": 1001007,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430341
+        },
+        "explanation": {
+            "hash": -285511260
+        },
+        "paramList": [
+            100019
+        ]
+    },
+    {
+        "challengeId": 1001008,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430340
+        },
+        "explanation": {
+            "hash": -285511259
+        },
+        "paramList": [
+            100020
+        ]
+    },
+    {
+        "challengeId": 1001009,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430339
+        },
+        "explanation": {
+            "hash": -285511259
+        },
+        "paramList": [
+            100021
+        ]
+    },
+    {
+        "challengeId": 1001010,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430317
+        },
+        "explanation": {
+            "hash": -285511259
+        },
+        "paramList": [
+            100022
+        ]
+    },
+    {
+        "challengeId": 1001011,
+        "conditionId": 49,
+        "difficulty": 1,
+        "hintPeriod": 1,
+        "diaplayTarget": {
+            "hash": -1401430316
+        },
+        "explanation": {
+            "hash": -285511259
+        },
+        "paramList": [
+            100023
+        ]
+    }
+]

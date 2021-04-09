@@ -1,0 +1,52 @@
+[
+    {
+        "GardenID": 5,
+        "NeedCropNum": 0,
+        "PlayPlot": 0,
+        "WeatherID": 1,
+        "IconPath": "SpriteOutput/Garden/Bg/01",
+        "ShadowColor": "#47291697",
+        "SmallIconPath": "SpriteOutput/Garden/Weather/01",
+        "WeatherName": "GardenActivity_Weather_Name01"
+    },
+    {
+        "GardenID": 5,
+        "NeedCropNum": 80,
+        "PlayPlot": 0,
+        "WeatherID": 2,
+        "IconPath": "SpriteOutput/Garden/Bg/02",
+        "ShadowColor": "#47291697",
+        "SmallIconPath": "SpriteOutput/Garden/Weather/02",
+        "WeatherName": "GardenActivity_Weather_Name02"
+    },
+    {
+        "GardenID": 5,
+        "NeedCropNum": 200,
+        "PlayPlot": 0,
+        "WeatherID": 3,
+        "IconPath": "SpriteOutput/Garden/Bg/03",
+        "ShadowColor": "#47291697",
+        "SmallIconPath": "SpriteOutput/Garden/Weather/03",
+        "WeatherName": "GardenActivity_Weather_Name03"
+    },
+    {
+        "GardenID": 5,
+        "NeedCropNum": 360,
+        "PlayPlot": 0,
+        "WeatherID": 4,
+        "IconPath": "SpriteOutput/Garden/Bg/04",
+        "ShadowColor": "#4666B497",
+        "SmallIconPath": "SpriteOutput/Garden/Weather/04",
+        "WeatherName": "GardenActivity_Weather_Name04"
+    },
+    {
+        "GardenID": 5,
+        "NeedCropNum": 560,
+        "PlayPlot": 0,
+        "WeatherID": 5,
+        "IconPath": "SpriteOutput/Garden/Bg/05",
+        "ShadowColor": "#4666B497",
+        "SmallIconPath": "SpriteOutput/Garden/Weather/05",
+        "WeatherName": "GardenActivity_Weather_Name05"
+    }
+]

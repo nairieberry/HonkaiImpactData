@@ -1,0 +1,399 @@
+[
+    {
+        "FailDialog": 100628,
+        "ShopID": 1,
+        "StoreDialog": 100626,
+        "StoreType": 1,
+        "SuccessDialog": 100627,
+        "CoinPos": 1.0,
+        "ShopName": {
+            "hash": -1907351828
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 2,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351827
+        },
+        "BeginPlotIDs": [
+            210003
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 3,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": -1907351826
+        },
+        "BeginPlotIDs": [
+            210001
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 4,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351825
+        },
+        "BeginPlotIDs": [
+            210002
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 5,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351824
+        },
+        "BeginPlotIDs": [
+            210004
+        ]
+    },
+    {
+        "FailDialog": 100588,
+        "ShopID": 6,
+        "StoreDialog": 100586,
+        "StoreType": 3,
+        "SuccessDialog": 100587,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351823
+        },
+        "BeginPlotIDs": [
+            210005,
+            210006,
+            210007,
+            210008,
+            210009,
+            210010,
+            210011
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 7,
+        "StoreDialog": 100593,
+        "StoreType": 3,
+        "SuccessDialog": 100594,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351822
+        },
+        "BeginPlotIDs": [
+            210019,
+            210020,
+            210021,
+            210022,
+            210023,
+            210024
+        ]
+    },
+    {
+        "FailDialog": 100592,
+        "ShopID": 8,
+        "StoreDialog": 100589,
+        "StoreType": 3,
+        "SuccessDialog": 100590,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351821
+        },
+        "BeginPlotIDs": [
+            210012,
+            210013,
+            210014,
+            210015,
+            210016,
+            210017,
+            210018
+        ]
+    },
+    {
+        "FailDialog": 100598,
+        "ShopID": 9,
+        "StoreDialog": 100596,
+        "StoreType": 3,
+        "SuccessDialog": 100597,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": -1907351820
+        },
+        "BeginPlotIDs": [
+            210025,
+            210026,
+            210027,
+            210028,
+            210029
+        ]
+    },
+    {
+        "FailDialog": 100604,
+        "ShopID": 10,
+        "StoreDialog": 100602,
+        "StoreType": 3,
+        "SuccessDialog": 100603,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": 1001635524
+        },
+        "BeginPlotIDs": [
+            210030,
+            210031,
+            210032,
+            210033,
+            210034
+        ]
+    },
+    {
+        "FailDialog": 100601,
+        "ShopID": 11,
+        "StoreDialog": 100599,
+        "StoreType": 3,
+        "SuccessDialog": 100600,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": 1001635525
+        },
+        "BeginPlotIDs": [
+            210035,
+            210036,
+            210037,
+            210038,
+            210039
+        ]
+    },
+    {
+        "FailDialog": 100607,
+        "ShopID": 12,
+        "StoreDialog": 100605,
+        "StoreType": 3,
+        "SuccessDialog": 100606,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": 1001635526
+        },
+        "BeginPlotIDs": [
+            230001,
+            230002,
+            230003,
+            230004,
+            230005
+        ]
+    },
+    {
+        "FailDialog": 100795,
+        "ShopID": 13,
+        "StoreDialog": 100794,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": 1001635527
+        },
+        "BeginPlotIDs": [
+            100073
+        ]
+    },
+    {
+        "FailDialog": 100795,
+        "ShopID": 14,
+        "StoreDialog": 100794,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": 1001635528
+        },
+        "BeginPlotIDs": [
+            100074
+        ]
+    },
+    {
+        "FailDialog": 100795,
+        "ShopID": 15,
+        "StoreDialog": 100794,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": 1001635529
+        },
+        "BeginPlotIDs": [
+            100072
+        ]
+    },
+    {
+        "FailDialog": 100795,
+        "ShopID": 16,
+        "StoreDialog": 100794,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": 1001635530
+        },
+        "BeginPlotIDs": [
+            100071
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 17,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": -1907351827
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 18,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": -1907351826
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 19,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": -1907351825
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 20,
+        "StoreDialog": 100629,
+        "StoreType": 2,
+        "SuccessDialog": 0,
+        "CoinPos": 0.75,
+        "ShopName": {
+            "hash": -1907351824
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100588,
+        "ShopID": 21,
+        "StoreDialog": 100586,
+        "StoreType": 3,
+        "SuccessDialog": 100587,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351823
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100595,
+        "ShopID": 22,
+        "StoreDialog": 100593,
+        "StoreType": 3,
+        "SuccessDialog": 100594,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351822
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100592,
+        "ShopID": 23,
+        "StoreDialog": 100589,
+        "StoreType": 3,
+        "SuccessDialog": 100590,
+        "CoinPos": 0.5,
+        "ShopName": {
+            "hash": -1907351821
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100598,
+        "ShopID": 24,
+        "StoreDialog": 100596,
+        "StoreType": 3,
+        "SuccessDialog": 100597,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": -1907351820
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100604,
+        "ShopID": 25,
+        "StoreDialog": 100602,
+        "StoreType": 3,
+        "SuccessDialog": 100603,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": 1001635524
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    },
+    {
+        "FailDialog": 100601,
+        "ShopID": 26,
+        "StoreDialog": 100599,
+        "StoreType": 3,
+        "SuccessDialog": 100600,
+        "CoinPos": 0.0,
+        "ShopName": {
+            "hash": 1001635525
+        },
+        "BeginPlotIDs": [
+            0
+        ]
+    }
+]

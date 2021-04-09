@@ -1,0 +1,68 @@
+[
+    {
+        "buffId": 40002,
+        "maxLv": 5,
+        "rarity": 3,
+        "paramAdd_1": 80.0,
+        "paramAdd_2": 0.16,
+        "paramAdd_3": 0.0,
+        "paramBase_1": 0.0,
+        "paramBase_2": 0.0,
+        "paramBase_3": 0.0,
+        "desc": {
+            "hash": 1755486334
+        },
+        "name": {
+            "hash": 1198369215
+        },
+        "abilityName": "ExtraStory_Elite_Power",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power",
+        "buffLink": [
+            0
+        ]
+    },
+    {
+        "buffId": 40003,
+        "maxLv": 5,
+        "rarity": 3,
+        "paramAdd_1": -20.0,
+        "paramAdd_2": 80.0,
+        "paramAdd_3": 0.0,
+        "paramBase_1": 0.0,
+        "paramBase_2": 0.0,
+        "paramBase_3": 0.0,
+        "desc": {
+            "hash": -1840938059
+        },
+        "name": {
+            "hash": -276916376
+        },
+        "abilityName": "ExtraStory_Elite_RangeAttackShield_Matrix",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield",
+        "buffLink": [
+            0
+        ]
+    },
+    {
+        "buffId": 40033,
+        "maxLv": 5,
+        "rarity": 4,
+        "paramAdd_1": 0.24,
+        "paramAdd_2": 0.0,
+        "paramAdd_3": 0.0,
+        "paramBase_1": 0.0,
+        "paramBase_2": 0.0,
+        "paramBase_3": 0.0,
+        "desc": {
+            "hash": 1344041075
+        },
+        "name": {
+            "hash": -1796241814
+        },
+        "abilityName": "ExtraStory_ReverseEntropy_HonKaiEnergy_Matrix",
+        "iconPath": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02",
+        "buffLink": [
+            0
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "ActivityID": 1,
+        "Cover": "SpriteOutput/WikiActivity/Activity/Cover/Halloween2018",
+        "Description": "WikiActivity_Description_Halloween2018",
+        "Name": "WikiActivity_Name_Halloween2018",
+        "Season": "WikiActivity_Season_Autumn",
+        "SeasonColor": "#FFCA1AFF",
+        "SeasonPic": "SpriteOutput/WikiActivity/Activity/SeasonPic/Autumn",
+        "Thumbnails": "SpriteOutput/WikiActivity/Activity/Thumbnails/Halloween2018",
+        "Time": "WikiActivity_Time_Halloween2018",
+        "Year": "WikiActivity_Year_Halloween2018"
+    },
+    {
+        "ActivityID": 2,
+        "Cover": "SpriteOutput/WikiActivity/Activity/Cover/AlicesAdventures",
+        "Description": "WikiActivity_Description_AlicesAdventures",
+        "Name": "WikiActivity_Name_AlicesAdventures",
+        "Season": "WikiActivity_Season_Winter",
+        "SeasonColor": "#00C3FFFF",
+        "SeasonPic": "SpriteOutput/WikiActivity/Activity/SeasonPic/Winter",
+        "Thumbnails": "SpriteOutput/WikiActivity/Activity/Thumbnails/AlicesAdventures",
+        "Time": "WikiActivity_Time_AlicesAdventures",
+        "Year": "WikiActivity_Year_AlicesAdventures"
+    },
+    {
+        "ActivityID": 3,
+        "Cover": "SpriteOutput/WikiActivity/Activity/Cover/SummerMemorys",
+        "Description": "WikiActivity_Description_SummerMemorys",
+        "Name": "WikiActivity_Name_SummerMemorys",
+        "Season": "WikiActivity_Season_Summer",
+        "SeasonColor": "#FF871AFF",
+        "SeasonPic": "SpriteOutput/WikiActivity/Activity/SeasonPic/Summer",
+        "Thumbnails": "SpriteOutput/WikiActivity/Activity/Thumbnails/SummerMemorys",
+        "Time": "WikiActivity_Time_SummerMemorys",
+        "Year": "WikiActivity_Year_SummerMemorys"
+    },
+    {
+        "ActivityID": 4,
+        "Cover": "SpriteOutput/WikiActivity/Activity/Cover/MidsummerNight",
+        "Description": "WikiActivity_Description_MidsummerNight",
+        "Name": "WikiActivity_Name_MidsummerNight",
+        "Season": "WikiActivity_Season_Summer",
+        "SeasonColor": "#FF871AFF",
+        "SeasonPic": "SpriteOutput/WikiActivity/Activity/SeasonPic/Summer",
+        "Thumbnails": "SpriteOutput/WikiActivity/Activity/Thumbnails/MidsummerNight",
+        "Time": "WikiActivity_Time_MidsummerNight",
+        "Year": "WikiActivity_Year_MidsummerNight"
+    }
+]

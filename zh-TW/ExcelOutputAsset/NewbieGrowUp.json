@@ -1,0 +1,522 @@
+[
+    {
+        "NeedMissionNum": 4,
+        "OpenLevel": 1,
+        "Rank": 1,
+        "RankMissionGroupID": 1000001,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1898986441
+        },
+        "RankName": {
+            "hash": -753872781
+        },
+        "RankRewardDesc": {
+            "hash": -449122941
+        },
+        "SubTitleName": {
+            "hash": 1184382993
+        },
+        "TitleName": {
+            "hash": -1678824975
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity08",
+        "MissionChainDisplay": "",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 6,
+        "OpenLevel": 10,
+        "Rank": 2,
+        "RankMissionGroupID": 1000002,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1898062920
+        },
+        "RankName": {
+            "hash": -752949260
+        },
+        "RankRewardDesc": {
+            "hash": -448199420
+        },
+        "SubTitleName": {
+            "hash": 1184382994
+        },
+        "TitleName": {
+            "hash": -1678824974
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60711",
+        "MissionChainDisplay": "100201:100301;100205:100206",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 20,
+        "Rank": 3,
+        "RankMissionGroupID": 1000003,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1897139399
+        },
+        "RankName": {
+            "hash": -752025739
+        },
+        "RankRewardDesc": {
+            "hash": -447275899
+        },
+        "SubTitleName": {
+            "hash": 1184382995
+        },
+        "TitleName": {
+            "hash": -1678824973
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60302",
+        "MissionChainDisplay": "100401:100403:100405:100402:100409:100404:100406:100407:100408:100410;100411:100413;100415:100416",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 16,
+        "OpenLevel": 25,
+        "Rank": 4,
+        "RankMissionGroupID": 1000004,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1896215878
+        },
+        "RankName": {
+            "hash": -751102218
+        },
+        "RankRewardDesc": {
+            "hash": -446352378
+        },
+        "SubTitleName": {
+            "hash": 1184382996
+        },
+        "TitleName": {
+            "hash": -1678824972
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60104",
+        "MissionChainDisplay": "100501:100503:100505:100502:100509:100504:100506:100507:100508:100510;100511:100512:100513;100515:100615",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 30,
+        "Rank": 5,
+        "RankMissionGroupID": 1000005,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1895292357
+        },
+        "RankName": {
+            "hash": -750178697
+        },
+        "RankRewardDesc": {
+            "hash": -445428857
+        },
+        "SubTitleName": {
+            "hash": 1184382997
+        },
+        "TitleName": {
+            "hash": -1678824971
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60213",
+        "MissionChainDisplay": "100601:100603:100605:100602:100609:100604:100606:100607:100608:100610;100611:100612",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 12,
+        "OpenLevel": 35,
+        "Rank": 6,
+        "RankMissionGroupID": 1000006,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1894368836
+        },
+        "RankName": {
+            "hash": -749255176
+        },
+        "RankRewardDesc": {
+            "hash": -444505336
+        },
+        "SubTitleName": {
+            "hash": 1184382998
+        },
+        "TitleName": {
+            "hash": -1678824970
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity06",
+        "MissionChainDisplay": "100703:100704:100705:100706:100707;100710:100711;100701:100712",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 8,
+        "OpenLevel": 40,
+        "Rank": 7,
+        "RankMissionGroupID": 1000007,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1893445315
+        },
+        "RankName": {
+            "hash": -748331655
+        },
+        "RankRewardDesc": {
+            "hash": -443581815
+        },
+        "SubTitleName": {
+            "hash": 1184382999
+        },
+        "TitleName": {
+            "hash": -1678824969
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity07",
+        "MissionChainDisplay": "100801:100806",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 8,
+        "OpenLevel": 45,
+        "Rank": 8,
+        "RankMissionGroupID": 1000008,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1892521794
+        },
+        "RankName": {
+            "hash": -747408134
+        },
+        "RankRewardDesc": {
+            "hash": -442658294
+        },
+        "SubTitleName": {
+            "hash": 1184383000
+        },
+        "TitleName": {
+            "hash": -1678824968
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity08",
+        "MissionChainDisplay": "100901:100907",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 14,
+        "OpenLevel": 50,
+        "Rank": 9,
+        "RankMissionGroupID": 1000009,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": -1891598273
+        },
+        "RankName": {
+            "hash": -746484613
+        },
+        "RankRewardDesc": {
+            "hash": -441734773
+        },
+        "SubTitleName": {
+            "hash": 1184383001
+        },
+        "TitleName": {
+            "hash": -1678824967
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity09",
+        "MissionChainDisplay": "101003:101004:101005:101013;101006:101015:101008;101001:101014",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 55,
+        "Rank": 10,
+        "RankMissionGroupID": 1000010,
+        "ScheduleID": 1,
+        "KeyRewardDesc": {
+            "hash": 1212896731
+        },
+        "RankName": {
+            "hash": -1952101933
+        },
+        "RankRewardDesc": {
+            "hash": -1085975025
+        },
+        "SubTitleName": {
+            "hash": -1938832833
+        },
+        "TitleName": {
+            "hash": -503966625
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity10",
+        "MissionChainDisplay": "101202:101203;101210:101211:101212;101213:101214:101215;101205:101217:101206;101201:101209",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 4,
+        "OpenLevel": 1,
+        "Rank": 1,
+        "RankMissionGroupID": 2000001,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1898986441
+        },
+        "RankName": {
+            "hash": -753872781
+        },
+        "RankRewardDesc": {
+            "hash": -449122941
+        },
+        "SubTitleName": {
+            "hash": 1184382993
+        },
+        "TitleName": {
+            "hash": -1678824975
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity08",
+        "MissionChainDisplay": "",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 6,
+        "OpenLevel": 10,
+        "Rank": 2,
+        "RankMissionGroupID": 2000002,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1898062920
+        },
+        "RankName": {
+            "hash": -752949260
+        },
+        "RankRewardDesc": {
+            "hash": -448199420
+        },
+        "SubTitleName": {
+            "hash": 1184382994
+        },
+        "TitleName": {
+            "hash": -1678824974
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60711",
+        "MissionChainDisplay": "100201:100301;100205:100206",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 20,
+        "Rank": 3,
+        "RankMissionGroupID": 2000003,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1897139399
+        },
+        "RankName": {
+            "hash": -752025739
+        },
+        "RankRewardDesc": {
+            "hash": -447275899
+        },
+        "SubTitleName": {
+            "hash": 1184382995
+        },
+        "TitleName": {
+            "hash": -1678824973
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60302",
+        "MissionChainDisplay": "100401:100403:100405:100402:100409:100404:100406:100407:100408:100410;100411:100413;100415:100416",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 16,
+        "OpenLevel": 25,
+        "Rank": 4,
+        "RankMissionGroupID": 2000004,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1896215878
+        },
+        "RankName": {
+            "hash": -751102218
+        },
+        "RankRewardDesc": {
+            "hash": -446352378
+        },
+        "SubTitleName": {
+            "hash": 1184382996
+        },
+        "TitleName": {
+            "hash": -1678824972
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60104",
+        "MissionChainDisplay": "100501:100503:100505:100502:100509:100504:100506:100507:100508:100510;100511:100512:100513;100515:100615",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 30,
+        "Rank": 5,
+        "RankMissionGroupID": 2000005,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1895292357
+        },
+        "RankName": {
+            "hash": -750178697
+        },
+        "RankRewardDesc": {
+            "hash": -445428857
+        },
+        "SubTitleName": {
+            "hash": 1184382997
+        },
+        "TitleName": {
+            "hash": -1678824971
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/AvatarCardFigures/60213",
+        "MissionChainDisplay": "100601:100603:100605:100602:100609:100604:100606:100607:100608:100610;100611:100612",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 12,
+        "OpenLevel": 35,
+        "Rank": 6,
+        "RankMissionGroupID": 2000006,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1894368836
+        },
+        "RankName": {
+            "hash": -749255176
+        },
+        "RankRewardDesc": {
+            "hash": -444505336
+        },
+        "SubTitleName": {
+            "hash": 1184382998
+        },
+        "TitleName": {
+            "hash": -1678824970
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity06",
+        "MissionChainDisplay": "100703:100704:100705:100706:100707;100710:100711;100701:100712",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 8,
+        "OpenLevel": 40,
+        "Rank": 7,
+        "RankMissionGroupID": 2000007,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1893445315
+        },
+        "RankName": {
+            "hash": -748331655
+        },
+        "RankRewardDesc": {
+            "hash": -443581815
+        },
+        "SubTitleName": {
+            "hash": 1184382999
+        },
+        "TitleName": {
+            "hash": -1678824969
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity07",
+        "MissionChainDisplay": "100801:100806",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 8,
+        "OpenLevel": 45,
+        "Rank": 8,
+        "RankMissionGroupID": 2000008,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1892521794
+        },
+        "RankName": {
+            "hash": -747408134
+        },
+        "RankRewardDesc": {
+            "hash": -442658294
+        },
+        "SubTitleName": {
+            "hash": 1184383000
+        },
+        "TitleName": {
+            "hash": -1678824968
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity08",
+        "MissionChainDisplay": "100901:100907",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 14,
+        "OpenLevel": 50,
+        "Rank": 9,
+        "RankMissionGroupID": 2000009,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": -1891598273
+        },
+        "RankName": {
+            "hash": -746484613
+        },
+        "RankRewardDesc": {
+            "hash": -441734773
+        },
+        "SubTitleName": {
+            "hash": 1184383001
+        },
+        "TitleName": {
+            "hash": -1678824967
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity09",
+        "MissionChainDisplay": "101003:101004:101005:101013;101006:101016:101008;101001:101014",
+        "bits1": 0
+    },
+    {
+        "NeedMissionNum": 15,
+        "OpenLevel": 55,
+        "Rank": 10,
+        "RankMissionGroupID": 2000010,
+        "ScheduleID": 2,
+        "KeyRewardDesc": {
+            "hash": 1212896731
+        },
+        "RankName": {
+            "hash": -1952101933
+        },
+        "RankRewardDesc": {
+            "hash": -1085975025
+        },
+        "SubTitleName": {
+            "hash": -1938832833
+        },
+        "TitleName": {
+            "hash": -503966625
+        },
+        "BGImage": "SpriteOutput/Newcomer/Bg_Activity",
+        "KeyRewardImage": "SpriteOutput/Newcomer/Avarta_Activity10",
+        "MissionChainDisplay": "101202:101203;101210:101211:101212;101213:101214:101215;101205:101218:101206;101201:101209",
+        "bits1": 0
+    }
+]

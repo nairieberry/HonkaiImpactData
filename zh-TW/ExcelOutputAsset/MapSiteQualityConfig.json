@@ -1,0 +1,47 @@
+[
+    {
+        "QualityID": 1,
+        "ChargeIMaterial": 114331,
+        "MaterialDrop": 10,
+        "MaterialID": 114330,
+        "WarningLevel": 0,
+        "QualityFrameColor": "#FFFFFFFF",
+        "QualityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_B"
+    },
+    {
+        "QualityID": 2,
+        "ChargeIMaterial": 114331,
+        "MaterialDrop": 20,
+        "MaterialID": 114330,
+        "WarningLevel": 0,
+        "QualityFrameColor": "#F398FFFF",
+        "QualityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_A"
+    },
+    {
+        "QualityID": 3,
+        "ChargeIMaterial": 114331,
+        "MaterialDrop": 30,
+        "MaterialID": 114330,
+        "WarningLevel": 2,
+        "QualityFrameColor": "#FFDD3EFF",
+        "QualityIcon": "SpriteOutput/InLevel/BattleRating/BattleRating_S"
+    },
+    {
+        "QualityID": 4,
+        "ChargeIMaterial": 114331,
+        "MaterialDrop": 45,
+        "MaterialID": 114330,
+        "WarningLevel": 4,
+        "QualityFrameColor": "#FF8080FF",
+        "QualityIcon": "SpriteOutput/OpenWorld/IconDifficultyLv15"
+    },
+    {
+        "QualityID": 5,
+        "ChargeIMaterial": 114331,
+        "MaterialDrop": 45,
+        "MaterialID": 114330,
+        "WarningLevel": 4,
+        "QualityFrameColor": "#FF8080FF",
+        "QualityIcon": "SpriteOutput/OpenWorld/IconDifficultyLv15"
+    }
+]

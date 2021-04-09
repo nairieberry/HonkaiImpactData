@@ -1,0 +1,1311 @@
+[
+    {
+        "GroupID": 10101,
+        "GroupType": 1,
+        "ID": 1,
+        "SelectOrder": 3,
+        "StageID": 20104,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10101,
+        "GroupType": 1,
+        "ID": 2,
+        "SelectOrder": 2,
+        "StageID": 20220,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10101,
+        "GroupType": 1,
+        "ID": 3,
+        "SelectOrder": 1,
+        "StageID": 20405,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10101,
+        "GroupType": 1,
+        "ID": 4,
+        "SelectOrder": 3,
+        "StageID": 30310,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10102,
+        "GroupType": 1,
+        "ID": 11,
+        "SelectOrder": 2,
+        "StageID": 20117,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10102,
+        "GroupType": 1,
+        "ID": 12,
+        "SelectOrder": 1,
+        "StageID": 20305,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10102,
+        "GroupType": 1,
+        "ID": 13,
+        "SelectOrder": 3,
+        "StageID": 20421,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10104,
+        "GroupType": 1,
+        "ID": 21,
+        "SelectOrder": 1,
+        "StageID": 20205,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10104,
+        "GroupType": 1,
+        "ID": 22,
+        "SelectOrder": 2,
+        "StageID": 30115,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10104,
+        "GroupType": 1,
+        "ID": 23,
+        "SelectOrder": 3,
+        "StageID": 30420,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10201,
+        "GroupType": 1,
+        "ID": 31,
+        "SelectOrder": 3,
+        "StageID": 20110,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10201,
+        "GroupType": 1,
+        "ID": 32,
+        "SelectOrder": 2,
+        "StageID": 20226,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10201,
+        "GroupType": 1,
+        "ID": 33,
+        "SelectOrder": 1,
+        "StageID": 20416,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10201,
+        "GroupType": 1,
+        "ID": 34,
+        "SelectOrder": 4,
+        "StageID": 30315,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10202,
+        "GroupType": 1,
+        "ID": 41,
+        "SelectOrder": 2,
+        "StageID": 20210,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10202,
+        "GroupType": 1,
+        "ID": 42,
+        "SelectOrder": 1,
+        "StageID": 20427,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10202,
+        "GroupType": 1,
+        "ID": 43,
+        "SelectOrder": 3,
+        "StageID": 30131,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10202,
+        "GroupType": 1,
+        "ID": 44,
+        "SelectOrder": 4,
+        "StageID": 30502,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10203,
+        "GroupType": 1,
+        "ID": 51,
+        "SelectOrder": 2,
+        "StageID": 20125,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10203,
+        "GroupType": 1,
+        "ID": 52,
+        "SelectOrder": 1,
+        "StageID": 20315,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10203,
+        "GroupType": 1,
+        "ID": 53,
+        "SelectOrder": 4,
+        "StageID": 30423,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10203,
+        "GroupType": 1,
+        "ID": 54,
+        "SelectOrder": 3,
+        "StageID": 30606,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10301,
+        "GroupType": 1,
+        "ID": 61,
+        "SelectOrder": 2,
+        "StageID": 20115,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10301,
+        "GroupType": 1,
+        "ID": 62,
+        "SelectOrder": 1,
+        "StageID": 20232,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10301,
+        "GroupType": 1,
+        "ID": 63,
+        "SelectOrder": 4,
+        "StageID": 20428,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10301,
+        "GroupType": 1,
+        "ID": 64,
+        "SelectOrder": 3,
+        "StageID": 30321,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10302,
+        "GroupType": 1,
+        "ID": 71,
+        "SelectOrder": 2,
+        "StageID": 20131,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10302,
+        "GroupType": 1,
+        "ID": 72,
+        "SelectOrder": 1,
+        "StageID": 20327,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10302,
+        "GroupType": 1,
+        "ID": 73,
+        "SelectOrder": 4,
+        "StageID": 30430,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10302,
+        "GroupType": 1,
+        "ID": 74,
+        "SelectOrder": 3,
+        "StageID": 30604,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10303,
+        "GroupType": 1,
+        "ID": 81,
+        "SelectOrder": 2,
+        "StageID": 20215,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10303,
+        "GroupType": 1,
+        "ID": 82,
+        "SelectOrder": 1,
+        "StageID": 30215,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10303,
+        "GroupType": 1,
+        "ID": 83,
+        "SelectOrder": 4,
+        "StageID": 30319,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10303,
+        "GroupType": 1,
+        "ID": 84,
+        "SelectOrder": 3,
+        "StageID": 30602,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10311,
+        "GroupType": 1,
+        "ID": 91,
+        "SelectOrder": 2,
+        "StageID": 20602,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10311,
+        "GroupType": 1,
+        "ID": 92,
+        "SelectOrder": 1,
+        "StageID": 30301,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10311,
+        "GroupType": 1,
+        "ID": 93,
+        "SelectOrder": 3,
+        "StageID": 30608,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10401,
+        "GroupType": 1,
+        "ID": 101,
+        "SelectOrder": 2,
+        "StageID": 20404,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10401,
+        "GroupType": 1,
+        "ID": 102,
+        "SelectOrder": 1,
+        "StageID": 20434,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10401,
+        "GroupType": 1,
+        "ID": 103,
+        "SelectOrder": 4,
+        "StageID": 20702,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10401,
+        "GroupType": 1,
+        "ID": 104,
+        "SelectOrder": 3,
+        "StageID": 30434,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10402,
+        "GroupType": 1,
+        "ID": 111,
+        "SelectOrder": 1,
+        "StageID": 20409,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10402,
+        "GroupType": 1,
+        "ID": 112,
+        "SelectOrder": 4,
+        "StageID": 30232,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10402,
+        "GroupType": 1,
+        "ID": 113,
+        "SelectOrder": 3,
+        "StageID": 30415,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10402,
+        "GroupType": 1,
+        "ID": 114,
+        "SelectOrder": 2,
+        "StageID": 30506,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10403,
+        "GroupType": 1,
+        "ID": 121,
+        "SelectOrder": 2,
+        "StageID": 20308,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10403,
+        "GroupType": 1,
+        "ID": 122,
+        "SelectOrder": 1,
+        "StageID": 20320,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10403,
+        "GroupType": 1,
+        "ID": 123,
+        "SelectOrder": 4,
+        "StageID": 20422,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10403,
+        "GroupType": 1,
+        "ID": 124,
+        "SelectOrder": 3,
+        "StageID": 30325,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10501,
+        "GroupType": 1,
+        "ID": 131,
+        "SelectOrder": 2,
+        "StageID": 20415,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10501,
+        "GroupType": 1,
+        "ID": 132,
+        "SelectOrder": 1,
+        "StageID": 20505,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10501,
+        "GroupType": 1,
+        "ID": 133,
+        "SelectOrder": 4,
+        "StageID": 30330,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10501,
+        "GroupType": 1,
+        "ID": 134,
+        "SelectOrder": 3,
+        "StageID": 30504,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10503,
+        "GroupType": 1,
+        "ID": 141,
+        "SelectOrder": 2,
+        "StageID": 20508,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10503,
+        "GroupType": 1,
+        "ID": 142,
+        "SelectOrder": 1,
+        "StageID": 20606,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10503,
+        "GroupType": 1,
+        "ID": 143,
+        "SelectOrder": 3,
+        "StageID": 30508,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10601,
+        "GroupType": 1,
+        "ID": 151,
+        "SelectOrder": 1,
+        "StageID": 20122,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10601,
+        "GroupType": 1,
+        "ID": 152,
+        "SelectOrder": 3,
+        "StageID": 20333,
+        "TimeCost": 4200,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10601,
+        "GroupType": 1,
+        "ID": 153,
+        "SelectOrder": 2,
+        "StageID": 30203,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10601,
+        "GroupType": 1,
+        "ID": 154,
+        "SelectOrder": 2,
+        "StageID": 30702,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10603,
+        "GroupType": 1,
+        "ID": 161,
+        "SelectOrder": 1,
+        "StageID": 20127,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10603,
+        "GroupType": 1,
+        "ID": 162,
+        "SelectOrder": 3,
+        "StageID": 20804,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10603,
+        "GroupType": 1,
+        "ID": 163,
+        "SelectOrder": 2,
+        "StageID": 30112,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10603,
+        "GroupType": 1,
+        "ID": 164,
+        "SelectOrder": 2,
+        "StageID": 30802,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10703,
+        "GroupType": 1,
+        "ID": 171,
+        "SelectOrder": 1,
+        "StageID": 20217,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10703,
+        "GroupType": 1,
+        "ID": 172,
+        "SelectOrder": 2,
+        "StageID": 30306,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10703,
+        "GroupType": 1,
+        "ID": 173,
+        "SelectOrder": 3,
+        "StageID": 20910,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10703,
+        "GroupType": 1,
+        "ID": 174,
+        "SelectOrder": 4,
+        "StageID": 30904,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10702,
+        "GroupType": 1,
+        "ID": 181,
+        "SelectOrder": 1,
+        "StageID": 20311,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10702,
+        "GroupType": 1,
+        "ID": 182,
+        "SelectOrder": 2,
+        "StageID": 30407,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10702,
+        "GroupType": 1,
+        "ID": 183,
+        "SelectOrder": 3,
+        "StageID": 21002,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10702,
+        "GroupType": 1,
+        "ID": 184,
+        "SelectOrder": 4,
+        "StageID": 31004,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 25,
+        "GroupType": 4,
+        "ID": 251,
+        "SelectOrder": 3,
+        "StageID": 20321,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 25,
+        "GroupType": 4,
+        "ID": 252,
+        "SelectOrder": 1,
+        "StageID": 20406,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 25,
+        "GroupType": 4,
+        "ID": 253,
+        "SelectOrder": 2,
+        "StageID": 20502,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 25,
+        "GroupType": 4,
+        "ID": 261,
+        "SelectOrder": 3,
+        "StageID": 30104,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 25,
+        "GroupType": 4,
+        "ID": 262,
+        "SelectOrder": 3,
+        "StageID": 30120,
+        "TimeCost": 5400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 27,
+        "GroupType": 4,
+        "ID": 281,
+        "SelectOrder": 3,
+        "StageID": 20331,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 27,
+        "GroupType": 4,
+        "ID": 282,
+        "SelectOrder": 1,
+        "StageID": 20504,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 27,
+        "GroupType": 4,
+        "ID": 283,
+        "SelectOrder": 2,
+        "StageID": 20506,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 27,
+        "GroupType": 4,
+        "ID": 291,
+        "SelectOrder": 3,
+        "StageID": 30110,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 27,
+        "GroupType": 4,
+        "ID": 292,
+        "SelectOrder": 3,
+        "StageID": 30125,
+        "TimeCost": 5400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 101,
+        "GroupType": 4,
+        "ID": 311,
+        "SelectOrder": 1,
+        "StageID": 30311,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 101,
+        "GroupType": 4,
+        "ID": 312,
+        "SelectOrder": 2,
+        "StageID": 21204,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 201,
+        "GroupType": 4,
+        "ID": 321,
+        "SelectOrder": 1,
+        "StageID": 20429,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 201,
+        "GroupType": 4,
+        "ID": 322,
+        "SelectOrder": 1,
+        "StageID": 30401,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 201,
+        "GroupType": 4,
+        "ID": 323,
+        "SelectOrder": 1,
+        "StageID": 20901,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 202,
+        "GroupType": 4,
+        "ID": 331,
+        "SelectOrder": 1,
+        "StageID": 20501,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 202,
+        "GroupType": 4,
+        "ID": 332,
+        "SelectOrder": 1,
+        "StageID": 20607,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 202,
+        "GroupType": 4,
+        "ID": 333,
+        "SelectOrder": 1,
+        "StageID": 21001,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 203,
+        "GroupType": 4,
+        "ID": 341,
+        "SelectOrder": 1,
+        "StageID": 20203,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 203,
+        "GroupType": 4,
+        "ID": 342,
+        "SelectOrder": 1,
+        "StageID": 20208,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 203,
+        "GroupType": 4,
+        "ID": 343,
+        "SelectOrder": 1,
+        "StageID": 20211,
+        "TimeCost": 4800,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 204,
+        "GroupType": 4,
+        "ID": 351,
+        "SelectOrder": 1,
+        "StageID": 30216,
+        "TimeCost": 3600,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 204,
+        "GroupType": 4,
+        "ID": 352,
+        "SelectOrder": 2,
+        "StageID": 21202,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 370102,
+        "GroupType": 5,
+        "ID": 361,
+        "SelectOrder": 1,
+        "StageID": 20503,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 370102,
+        "GroupType": 5,
+        "ID": 362,
+        "SelectOrder": 1,
+        "StageID": 20605,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 370102,
+        "GroupType": 5,
+        "ID": 363,
+        "SelectOrder": 1,
+        "StageID": 20908,
+        "TimeCost": 4200,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 206,
+        "GroupType": 4,
+        "ID": 371,
+        "SelectOrder": 3,
+        "StageID": 20101,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 206,
+        "GroupType": 4,
+        "ID": 372,
+        "SelectOrder": 2,
+        "StageID": 20309,
+        "TimeCost": 2400,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 206,
+        "GroupType": 4,
+        "ID": 373,
+        "SelectOrder": 1,
+        "StageID": 20507,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10421,
+        "GroupType": 1,
+        "ID": 381,
+        "SelectOrder": 1,
+        "StageID": 20701,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10421,
+        "GroupType": 1,
+        "ID": 382,
+        "SelectOrder": 2,
+        "StageID": 21305,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10421,
+        "GroupType": 1,
+        "ID": 383,
+        "SelectOrder": 1,
+        "StageID": 30227,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10421,
+        "GroupType": 1,
+        "ID": 384,
+        "SelectOrder": 3,
+        "StageID": 31307,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10711,
+        "GroupType": 1,
+        "ID": 391,
+        "SelectOrder": 1,
+        "StageID": 20417,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10711,
+        "GroupType": 1,
+        "ID": 392,
+        "SelectOrder": 1,
+        "StageID": 21402,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10711,
+        "GroupType": 1,
+        "ID": 393,
+        "SelectOrder": 2,
+        "StageID": 30605,
+        "TimeCost": 3000,
+        "RestrictList": [
+            1
+        ]
+    },
+    {
+        "GroupID": 10711,
+        "GroupType": 1,
+        "ID": 394,
+        "SelectOrder": 2,
+        "StageID": 31401,
+        "TimeCost": 3000,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 207,
+        "GroupType": 4,
+        "ID": 401,
+        "SelectOrder": 1,
+        "StageID": 20603,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 207,
+        "GroupType": 4,
+        "ID": 402,
+        "SelectOrder": 2,
+        "StageID": 31514,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 209,
+        "GroupType": 4,
+        "ID": 411,
+        "SelectOrder": 1,
+        "StageID": 20801,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 209,
+        "GroupType": 4,
+        "ID": 412,
+        "SelectOrder": 2,
+        "StageID": 31702,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10801,
+        "GroupType": 1,
+        "ID": 421,
+        "SelectOrder": 1,
+        "StageID": 20601,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10801,
+        "GroupType": 1,
+        "ID": 422,
+        "SelectOrder": 1,
+        "StageID": 21304,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10801,
+        "GroupType": 1,
+        "ID": 423,
+        "SelectOrder": 2,
+        "StageID": 30803,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 10801,
+        "GroupType": 1,
+        "ID": 424,
+        "SelectOrder": 2,
+        "StageID": 31704,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 210,
+        "GroupType": 4,
+        "ID": 431,
+        "SelectOrder": 1,
+        "StageID": 21206,
+        "TimeCost": 3600,
+        "RestrictList": [
+            2
+        ]
+    },
+    {
+        "GroupID": 210,
+        "GroupType": 4,
+        "ID": 432,
+        "SelectOrder": 2,
+        "StageID": 30402,
+        "TimeCost": 4800,
+        "RestrictList": [
+            2
+        ]
+    }
+]

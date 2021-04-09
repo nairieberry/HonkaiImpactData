@@ -1,0 +1,852 @@
+[
+    {
+        "avatarLevelLimit": 15,
+        "exp": 23,
+        "level": 1,
+        "numFriends": 20,
+        "OffLineExpLimit": 150,
+        "stamina": 80,
+        "staminaBonus": 0,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 28,
+        "level": 2,
+        "numFriends": 21,
+        "OffLineExpLimit": 0,
+        "stamina": 81,
+        "staminaBonus": 10,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 33,
+        "level": 3,
+        "numFriends": 22,
+        "OffLineExpLimit": 0,
+        "stamina": 82,
+        "staminaBonus": 12,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 39,
+        "level": 4,
+        "numFriends": 23,
+        "OffLineExpLimit": 0,
+        "stamina": 83,
+        "staminaBonus": 14,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 43,
+        "level": 5,
+        "numFriends": 24,
+        "OffLineExpLimit": 0,
+        "stamina": 84,
+        "staminaBonus": 16,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 47,
+        "level": 6,
+        "numFriends": 25,
+        "OffLineExpLimit": 0,
+        "stamina": 85,
+        "staminaBonus": 18,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 51,
+        "level": 7,
+        "numFriends": 26,
+        "OffLineExpLimit": 0,
+        "stamina": 86,
+        "staminaBonus": 20,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 60,
+        "level": 8,
+        "numFriends": 27,
+        "OffLineExpLimit": 0,
+        "stamina": 87,
+        "staminaBonus": 22,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 69,
+        "level": 9,
+        "numFriends": 28,
+        "OffLineExpLimit": 0,
+        "stamina": 88,
+        "staminaBonus": 24,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 79,
+        "level": 10,
+        "numFriends": 29,
+        "OffLineExpLimit": 0,
+        "stamina": 90,
+        "staminaBonus": 26,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 83,
+        "level": 11,
+        "numFriends": 30,
+        "OffLineExpLimit": 0,
+        "stamina": 91,
+        "staminaBonus": 28,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 87,
+        "level": 12,
+        "numFriends": 31,
+        "OffLineExpLimit": 0,
+        "stamina": 92,
+        "staminaBonus": 30,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 105,
+        "level": 13,
+        "numFriends": 32,
+        "OffLineExpLimit": 0,
+        "stamina": 93,
+        "staminaBonus": 32,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 123,
+        "level": 14,
+        "numFriends": 33,
+        "OffLineExpLimit": 0,
+        "stamina": 94,
+        "staminaBonus": 34,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 15,
+        "exp": 166,
+        "level": 15,
+        "numFriends": 34,
+        "OffLineExpLimit": 0,
+        "stamina": 95,
+        "staminaBonus": 36,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 16,
+        "exp": 181,
+        "level": 16,
+        "numFriends": 35,
+        "OffLineExpLimit": 0,
+        "stamina": 96,
+        "staminaBonus": 38,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 17,
+        "exp": 197,
+        "level": 17,
+        "numFriends": 36,
+        "OffLineExpLimit": 0,
+        "stamina": 97,
+        "staminaBonus": 40,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 18,
+        "exp": 234,
+        "level": 18,
+        "numFriends": 37,
+        "OffLineExpLimit": 0,
+        "stamina": 98,
+        "staminaBonus": 42,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 19,
+        "exp": 271,
+        "level": 19,
+        "numFriends": 38,
+        "OffLineExpLimit": 0,
+        "stamina": 99,
+        "staminaBonus": 44,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 20,
+        "exp": 306,
+        "level": 20,
+        "numFriends": 39,
+        "OffLineExpLimit": 0,
+        "stamina": 100,
+        "staminaBonus": 46,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 21,
+        "exp": 328,
+        "level": 21,
+        "numFriends": 40,
+        "OffLineExpLimit": 0,
+        "stamina": 101,
+        "staminaBonus": 48,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 22,
+        "exp": 350,
+        "level": 22,
+        "numFriends": 41,
+        "OffLineExpLimit": 0,
+        "stamina": 102,
+        "staminaBonus": 50,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 23,
+        "exp": 393,
+        "level": 23,
+        "numFriends": 42,
+        "OffLineExpLimit": 0,
+        "stamina": 103,
+        "staminaBonus": 52,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 24,
+        "exp": 436,
+        "level": 24,
+        "numFriends": 43,
+        "OffLineExpLimit": 0,
+        "stamina": 104,
+        "staminaBonus": 54,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 25,
+        "exp": 518,
+        "level": 25,
+        "numFriends": 44,
+        "OffLineExpLimit": 0,
+        "stamina": 105,
+        "staminaBonus": 56,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 26,
+        "exp": 541,
+        "level": 26,
+        "numFriends": 45,
+        "OffLineExpLimit": 0,
+        "stamina": 106,
+        "staminaBonus": 58,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 27,
+        "exp": 564,
+        "level": 27,
+        "numFriends": 46,
+        "OffLineExpLimit": 0,
+        "stamina": 107,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 28,
+        "exp": 612,
+        "level": 28,
+        "numFriends": 47,
+        "OffLineExpLimit": 0,
+        "stamina": 108,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 29,
+        "exp": 660,
+        "level": 29,
+        "numFriends": 48,
+        "OffLineExpLimit": 0,
+        "stamina": 109,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 30,
+        "exp": 715,
+        "level": 30,
+        "numFriends": 49,
+        "OffLineExpLimit": 0,
+        "stamina": 110,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 70
+    },
+    {
+        "avatarLevelLimit": 31,
+        "exp": 739,
+        "level": 31,
+        "numFriends": 50,
+        "OffLineExpLimit": 0,
+        "stamina": 111,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 32,
+        "exp": 762,
+        "level": 32,
+        "numFriends": 51,
+        "OffLineExpLimit": 0,
+        "stamina": 112,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 33,
+        "exp": 811,
+        "level": 33,
+        "numFriends": 52,
+        "OffLineExpLimit": 0,
+        "stamina": 113,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 34,
+        "exp": 859,
+        "level": 34,
+        "numFriends": 53,
+        "OffLineExpLimit": 0,
+        "stamina": 114,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 35,
+        "exp": 980,
+        "level": 35,
+        "numFriends": 54,
+        "OffLineExpLimit": 0,
+        "stamina": 115,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 36,
+        "exp": 1005,
+        "level": 36,
+        "numFriends": 55,
+        "OffLineExpLimit": 0,
+        "stamina": 116,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 37,
+        "exp": 1030,
+        "level": 37,
+        "numFriends": 56,
+        "OffLineExpLimit": 0,
+        "stamina": 117,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 38,
+        "exp": 1082,
+        "level": 38,
+        "numFriends": 57,
+        "OffLineExpLimit": 0,
+        "stamina": 118,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 39,
+        "exp": 1135,
+        "level": 39,
+        "numFriends": 58,
+        "OffLineExpLimit": 0,
+        "stamina": 119,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 80
+    },
+    {
+        "avatarLevelLimit": 40,
+        "exp": 1159,
+        "level": 40,
+        "numFriends": 59,
+        "OffLineExpLimit": 0,
+        "stamina": 120,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 41,
+        "exp": 1182,
+        "level": 41,
+        "numFriends": 60,
+        "OffLineExpLimit": 0,
+        "stamina": 121,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 42,
+        "exp": 1206,
+        "level": 42,
+        "numFriends": 61,
+        "OffLineExpLimit": 0,
+        "stamina": 122,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 43,
+        "exp": 1271,
+        "level": 43,
+        "numFriends": 62,
+        "OffLineExpLimit": 0,
+        "stamina": 123,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 44,
+        "exp": 1335,
+        "level": 44,
+        "numFriends": 63,
+        "OffLineExpLimit": 0,
+        "stamina": 124,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 45,
+        "exp": 1372,
+        "level": 45,
+        "numFriends": 64,
+        "OffLineExpLimit": 0,
+        "stamina": 125,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 46,
+        "exp": 1407,
+        "level": 46,
+        "numFriends": 65,
+        "OffLineExpLimit": 0,
+        "stamina": 126,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 47,
+        "exp": 1443,
+        "level": 47,
+        "numFriends": 66,
+        "OffLineExpLimit": 0,
+        "stamina": 127,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 48,
+        "exp": 1520,
+        "level": 48,
+        "numFriends": 67,
+        "OffLineExpLimit": 0,
+        "stamina": 128,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 49,
+        "exp": 1595,
+        "level": 49,
+        "numFriends": 68,
+        "OffLineExpLimit": 0,
+        "stamina": 129,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 90
+    },
+    {
+        "avatarLevelLimit": 50,
+        "exp": 1630,
+        "level": 50,
+        "numFriends": 69,
+        "OffLineExpLimit": 2450,
+        "stamina": 130,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 51,
+        "exp": 1664,
+        "level": 51,
+        "numFriends": 70,
+        "OffLineExpLimit": 2500,
+        "stamina": 131,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 52,
+        "exp": 1698,
+        "level": 52,
+        "numFriends": 71,
+        "OffLineExpLimit": 2550,
+        "stamina": 132,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 53,
+        "exp": 1772,
+        "level": 53,
+        "numFriends": 72,
+        "OffLineExpLimit": 2660,
+        "stamina": 133,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 54,
+        "exp": 1845,
+        "level": 54,
+        "numFriends": 73,
+        "OffLineExpLimit": 2770,
+        "stamina": 134,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 55,
+        "exp": 1878,
+        "level": 55,
+        "numFriends": 74,
+        "OffLineExpLimit": 2820,
+        "stamina": 135,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 56,
+        "exp": 1910,
+        "level": 56,
+        "numFriends": 75,
+        "OffLineExpLimit": 2870,
+        "stamina": 136,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 57,
+        "exp": 1943,
+        "level": 57,
+        "numFriends": 76,
+        "OffLineExpLimit": 2920,
+        "stamina": 137,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 58,
+        "exp": 2315,
+        "level": 58,
+        "numFriends": 77,
+        "OffLineExpLimit": 3480,
+        "stamina": 138,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 59,
+        "exp": 2684,
+        "level": 59,
+        "numFriends": 78,
+        "OffLineExpLimit": 4030,
+        "stamina": 139,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 100
+    },
+    {
+        "avatarLevelLimit": 60,
+        "exp": 3011,
+        "level": 60,
+        "numFriends": 79,
+        "OffLineExpLimit": 4520,
+        "stamina": 140,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 61,
+        "exp": 3336,
+        "level": 61,
+        "numFriends": 80,
+        "OffLineExpLimit": 5010,
+        "stamina": 141,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 62,
+        "exp": 3658,
+        "level": 62,
+        "numFriends": 81,
+        "OffLineExpLimit": 5490,
+        "stamina": 142,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 63,
+        "exp": 4312,
+        "level": 63,
+        "numFriends": 82,
+        "OffLineExpLimit": 6470,
+        "stamina": 143,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 64,
+        "exp": 4960,
+        "level": 64,
+        "numFriends": 83,
+        "OffLineExpLimit": 7440,
+        "stamina": 144,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 65,
+        "exp": 5272,
+        "level": 65,
+        "numFriends": 84,
+        "OffLineExpLimit": 7910,
+        "stamina": 145,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 66,
+        "exp": 5582,
+        "level": 66,
+        "numFriends": 85,
+        "OffLineExpLimit": 8380,
+        "stamina": 146,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 67,
+        "exp": 5889,
+        "level": 67,
+        "numFriends": 86,
+        "OffLineExpLimit": 8840,
+        "stamina": 147,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 68,
+        "exp": 6646,
+        "level": 68,
+        "numFriends": 87,
+        "OffLineExpLimit": 9970,
+        "stamina": 148,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 69,
+        "exp": 7398,
+        "level": 69,
+        "numFriends": 88,
+        "OffLineExpLimit": 11100,
+        "stamina": 149,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 120
+    },
+    {
+        "avatarLevelLimit": 70,
+        "exp": 7819,
+        "level": 70,
+        "numFriends": 89,
+        "OffLineExpLimit": 11730,
+        "stamina": 150,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 71,
+        "exp": 8236,
+        "level": 71,
+        "numFriends": 90,
+        "OffLineExpLimit": 12360,
+        "stamina": 151,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 72,
+        "exp": 8649,
+        "level": 72,
+        "numFriends": 91,
+        "OffLineExpLimit": 12980,
+        "stamina": 152,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 73,
+        "exp": 9627,
+        "level": 73,
+        "numFriends": 92,
+        "OffLineExpLimit": 14450,
+        "stamina": 153,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 74,
+        "exp": 10597,
+        "level": 74,
+        "numFriends": 93,
+        "OffLineExpLimit": 15900,
+        "stamina": 154,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 75,
+        "exp": 11118,
+        "level": 75,
+        "numFriends": 94,
+        "OffLineExpLimit": 16680,
+        "stamina": 155,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 76,
+        "exp": 11635,
+        "level": 76,
+        "numFriends": 95,
+        "OffLineExpLimit": 17460,
+        "stamina": 156,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 77,
+        "exp": 12147,
+        "level": 77,
+        "numFriends": 96,
+        "OffLineExpLimit": 18230,
+        "stamina": 157,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 78,
+        "exp": 13332,
+        "level": 78,
+        "numFriends": 97,
+        "OffLineExpLimit": 20000,
+        "stamina": 158,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 79,
+        "exp": 14507,
+        "level": 79,
+        "numFriends": 98,
+        "OffLineExpLimit": 21770,
+        "stamina": 159,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 18840,
+        "level": 80,
+        "numFriends": 99,
+        "OffLineExpLimit": 28260,
+        "stamina": 160,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 140
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 20050,
+        "level": 81,
+        "numFriends": 99,
+        "OffLineExpLimit": 30075,
+        "stamina": 161,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 150
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 22100,
+        "level": 82,
+        "numFriends": 99,
+        "OffLineExpLimit": 33150,
+        "stamina": 162,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 150
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 24150,
+        "level": 83,
+        "numFriends": 99,
+        "OffLineExpLimit": 36225,
+        "stamina": 163,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 150
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 26200,
+        "level": 84,
+        "numFriends": 99,
+        "OffLineExpLimit": 39300,
+        "stamina": 164,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 150
+    },
+    {
+        "avatarLevelLimit": 80,
+        "exp": 1000,
+        "level": 85,
+        "numFriends": 99,
+        "OffLineExpLimit": 42375,
+        "stamina": 165,
+        "staminaBonus": 60,
+        "sweepStaminaLimit": 160
+    }
+]

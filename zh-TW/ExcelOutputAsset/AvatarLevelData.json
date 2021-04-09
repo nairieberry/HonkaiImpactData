@@ -1,0 +1,562 @@
+[
+    {
+        "cost": 999,
+        "exp": 15,
+        "level": 1,
+        "subSkillScoin": 100,
+        "avatarAssistConf": 1.0
+    },
+    {
+        "cost": 999,
+        "exp": 25,
+        "level": 2,
+        "subSkillScoin": 100,
+        "avatarAssistConf": 1.05
+    },
+    {
+        "cost": 999,
+        "exp": 35,
+        "level": 3,
+        "subSkillScoin": 100,
+        "avatarAssistConf": 1.1
+    },
+    {
+        "cost": 999,
+        "exp": 45,
+        "level": 4,
+        "subSkillScoin": 130,
+        "avatarAssistConf": 1.24
+    },
+    {
+        "cost": 999,
+        "exp": 55,
+        "level": 5,
+        "subSkillScoin": 160,
+        "avatarAssistConf": 1.38
+    },
+    {
+        "cost": 999,
+        "exp": 65,
+        "level": 6,
+        "subSkillScoin": 190,
+        "avatarAssistConf": 1.53
+    },
+    {
+        "cost": 999,
+        "exp": 75,
+        "level": 7,
+        "subSkillScoin": 220,
+        "avatarAssistConf": 1.6
+    },
+    {
+        "cost": 999,
+        "exp": 85,
+        "level": 8,
+        "subSkillScoin": 250,
+        "avatarAssistConf": 1.66
+    },
+    {
+        "cost": 999,
+        "exp": 100,
+        "level": 9,
+        "subSkillScoin": 290,
+        "avatarAssistConf": 1.72
+    },
+    {
+        "cost": 999,
+        "exp": 115,
+        "level": 10,
+        "subSkillScoin": 330,
+        "avatarAssistConf": 1.83
+    },
+    {
+        "cost": 999,
+        "exp": 130,
+        "level": 11,
+        "subSkillScoin": 370,
+        "avatarAssistConf": 1.95
+    },
+    {
+        "cost": 999,
+        "exp": 145,
+        "level": 12,
+        "subSkillScoin": 410,
+        "avatarAssistConf": 2.07
+    },
+    {
+        "cost": 999,
+        "exp": 160,
+        "level": 13,
+        "subSkillScoin": 450,
+        "avatarAssistConf": 2.14
+    },
+    {
+        "cost": 999,
+        "exp": 250,
+        "level": 14,
+        "subSkillScoin": 500,
+        "avatarAssistConf": 2.26
+    },
+    {
+        "cost": 999,
+        "exp": 340,
+        "level": 15,
+        "subSkillScoin": 550,
+        "avatarAssistConf": 2.53
+    },
+    {
+        "cost": 999,
+        "exp": 430,
+        "level": 16,
+        "subSkillScoin": 600,
+        "avatarAssistConf": 2.8
+    },
+    {
+        "cost": 999,
+        "exp": 520,
+        "level": 17,
+        "subSkillScoin": 650,
+        "avatarAssistConf": 3.04
+    },
+    {
+        "cost": 999,
+        "exp": 610,
+        "level": 18,
+        "subSkillScoin": 700,
+        "avatarAssistConf": 3.14
+    },
+    {
+        "cost": 999,
+        "exp": 730,
+        "level": 19,
+        "subSkillScoin": 760,
+        "avatarAssistConf": 3.25
+    },
+    {
+        "cost": 999,
+        "exp": 850,
+        "level": 20,
+        "subSkillScoin": 820,
+        "avatarAssistConf": 3.42
+    },
+    {
+        "cost": 999,
+        "exp": 970,
+        "level": 21,
+        "subSkillScoin": 880,
+        "avatarAssistConf": 3.6
+    },
+    {
+        "cost": 999,
+        "exp": 1090,
+        "level": 22,
+        "subSkillScoin": 940,
+        "avatarAssistConf": 3.78
+    },
+    {
+        "cost": 999,
+        "exp": 1210,
+        "level": 23,
+        "subSkillScoin": 1000,
+        "avatarAssistConf": 3.9
+    },
+    {
+        "cost": 999,
+        "exp": 1360,
+        "level": 24,
+        "subSkillScoin": 1070,
+        "avatarAssistConf": 4.01
+    },
+    {
+        "cost": 999,
+        "exp": 1510,
+        "level": 25,
+        "subSkillScoin": 1140,
+        "avatarAssistConf": 4.16
+    },
+    {
+        "cost": 999,
+        "exp": 1660,
+        "level": 26,
+        "subSkillScoin": 1210,
+        "avatarAssistConf": 4.3
+    },
+    {
+        "cost": 999,
+        "exp": 1810,
+        "level": 27,
+        "subSkillScoin": 1280,
+        "avatarAssistConf": 4.45
+    },
+    {
+        "cost": 999,
+        "exp": 1960,
+        "level": 28,
+        "subSkillScoin": 1350,
+        "avatarAssistConf": 4.57
+    },
+    {
+        "cost": 999,
+        "exp": 2160,
+        "level": 29,
+        "subSkillScoin": 1450,
+        "avatarAssistConf": 4.7
+    },
+    {
+        "cost": 999,
+        "exp": 2360,
+        "level": 30,
+        "subSkillScoin": 1550,
+        "avatarAssistConf": 5.04
+    },
+    {
+        "cost": 999,
+        "exp": 2560,
+        "level": 31,
+        "subSkillScoin": 1650,
+        "avatarAssistConf": 5.39
+    },
+    {
+        "cost": 999,
+        "exp": 2760,
+        "level": 32,
+        "subSkillScoin": 1750,
+        "avatarAssistConf": 5.75
+    },
+    {
+        "cost": 999,
+        "exp": 2960,
+        "level": 33,
+        "subSkillScoin": 1850,
+        "avatarAssistConf": 5.89
+    },
+    {
+        "cost": 999,
+        "exp": 3260,
+        "level": 34,
+        "subSkillScoin": 2050,
+        "avatarAssistConf": 6.04
+    },
+    {
+        "cost": 999,
+        "exp": 3560,
+        "level": 35,
+        "subSkillScoin": 2250,
+        "avatarAssistConf": 6.26
+    },
+    {
+        "cost": 999,
+        "exp": 3860,
+        "level": 36,
+        "subSkillScoin": 2450,
+        "avatarAssistConf": 6.48
+    },
+    {
+        "cost": 999,
+        "exp": 4160,
+        "level": 37,
+        "subSkillScoin": 2650,
+        "avatarAssistConf": 6.71
+    },
+    {
+        "cost": 999,
+        "exp": 4460,
+        "level": 38,
+        "subSkillScoin": 2850,
+        "avatarAssistConf": 6.87
+    },
+    {
+        "cost": 999,
+        "exp": 4840,
+        "level": 39,
+        "subSkillScoin": 3150,
+        "avatarAssistConf": 7.03
+    },
+    {
+        "cost": 999,
+        "exp": 5220,
+        "level": 40,
+        "subSkillScoin": 3450,
+        "avatarAssistConf": 7.26
+    },
+    {
+        "cost": 999,
+        "exp": 5600,
+        "level": 41,
+        "subSkillScoin": 3750,
+        "avatarAssistConf": 7.49
+    },
+    {
+        "cost": 999,
+        "exp": 5980,
+        "level": 42,
+        "subSkillScoin": 4050,
+        "avatarAssistConf": 7.72
+    },
+    {
+        "cost": 999,
+        "exp": 6360,
+        "level": 43,
+        "subSkillScoin": 4350,
+        "avatarAssistConf": 7.93
+    },
+    {
+        "cost": 999,
+        "exp": 6860,
+        "level": 44,
+        "subSkillScoin": 4750,
+        "avatarAssistConf": 8.15
+    },
+    {
+        "cost": 999,
+        "exp": 7360,
+        "level": 45,
+        "subSkillScoin": 5150,
+        "avatarAssistConf": 8.64
+    },
+    {
+        "cost": 999,
+        "exp": 7860,
+        "level": 46,
+        "subSkillScoin": 5550,
+        "avatarAssistConf": 9.11
+    },
+    {
+        "cost": 999,
+        "exp": 8360,
+        "level": 47,
+        "subSkillScoin": 5950,
+        "avatarAssistConf": 9.58
+    },
+    {
+        "cost": 999,
+        "exp": 8860,
+        "level": 48,
+        "subSkillScoin": 6350,
+        "avatarAssistConf": 9.78
+    },
+    {
+        "cost": 999,
+        "exp": 9460,
+        "level": 49,
+        "subSkillScoin": 6850,
+        "avatarAssistConf": 9.98
+    },
+    {
+        "cost": 999,
+        "exp": 10060,
+        "level": 50,
+        "subSkillScoin": 7350,
+        "avatarAssistConf": 10.32
+    },
+    {
+        "cost": 999,
+        "exp": 10660,
+        "level": 51,
+        "subSkillScoin": 7850,
+        "avatarAssistConf": 10.66
+    },
+    {
+        "cost": 999,
+        "exp": 11260,
+        "level": 52,
+        "subSkillScoin": 8350,
+        "avatarAssistConf": 11.0
+    },
+    {
+        "cost": 999,
+        "exp": 11860,
+        "level": 53,
+        "subSkillScoin": 8850,
+        "avatarAssistConf": 11.21
+    },
+    {
+        "cost": 999,
+        "exp": 12660,
+        "level": 54,
+        "subSkillScoin": 9450,
+        "avatarAssistConf": 11.43
+    },
+    {
+        "cost": 999,
+        "exp": 13460,
+        "level": 55,
+        "subSkillScoin": 10050,
+        "avatarAssistConf": 11.68
+    },
+    {
+        "cost": 999,
+        "exp": 14260,
+        "level": 56,
+        "subSkillScoin": 10650,
+        "avatarAssistConf": 11.94
+    },
+    {
+        "cost": 999,
+        "exp": 15060,
+        "level": 57,
+        "subSkillScoin": 11250,
+        "avatarAssistConf": 12.21
+    },
+    {
+        "cost": 999,
+        "exp": 15860,
+        "level": 58,
+        "subSkillScoin": 11850,
+        "avatarAssistConf": 12.49
+    },
+    {
+        "cost": 999,
+        "exp": 16660,
+        "level": 59,
+        "subSkillScoin": 12550,
+        "avatarAssistConf": 12.77
+    },
+    {
+        "cost": 999,
+        "exp": 17460,
+        "level": 60,
+        "subSkillScoin": 13250,
+        "avatarAssistConf": 13.52
+    },
+    {
+        "cost": 999,
+        "exp": 18260,
+        "level": 61,
+        "subSkillScoin": 13950,
+        "avatarAssistConf": 14.22
+    },
+    {
+        "cost": 999,
+        "exp": 19060,
+        "level": 62,
+        "subSkillScoin": 14650,
+        "avatarAssistConf": 14.92
+    },
+    {
+        "cost": 999,
+        "exp": 19860,
+        "level": 63,
+        "subSkillScoin": 15350,
+        "avatarAssistConf": 15.18
+    },
+    {
+        "cost": 999,
+        "exp": 20860,
+        "level": 64,
+        "subSkillScoin": 16150,
+        "avatarAssistConf": 15.44
+    },
+    {
+        "cost": 999,
+        "exp": 21860,
+        "level": 65,
+        "subSkillScoin": 16950,
+        "avatarAssistConf": 15.98
+    },
+    {
+        "cost": 999,
+        "exp": 22860,
+        "level": 66,
+        "subSkillScoin": 17750,
+        "avatarAssistConf": 16.52
+    },
+    {
+        "cost": 999,
+        "exp": 23860,
+        "level": 67,
+        "subSkillScoin": 18550,
+        "avatarAssistConf": 17.07
+    },
+    {
+        "cost": 999,
+        "exp": 24860,
+        "level": 68,
+        "subSkillScoin": 19350,
+        "avatarAssistConf": 17.35
+    },
+    {
+        "cost": 999,
+        "exp": 26460,
+        "level": 69,
+        "subSkillScoin": 20250,
+        "avatarAssistConf": 17.63
+    },
+    {
+        "cost": 999,
+        "exp": 28060,
+        "level": 70,
+        "subSkillScoin": 21150,
+        "avatarAssistConf": 18.01
+    },
+    {
+        "cost": 999,
+        "exp": 29660,
+        "level": 71,
+        "subSkillScoin": 22050,
+        "avatarAssistConf": 18.4
+    },
+    {
+        "cost": 999,
+        "exp": 31260,
+        "level": 72,
+        "subSkillScoin": 22950,
+        "avatarAssistConf": 18.78
+    },
+    {
+        "cost": 999,
+        "exp": 32860,
+        "level": 73,
+        "subSkillScoin": 23850,
+        "avatarAssistConf": 19.08
+    },
+    {
+        "cost": 999,
+        "exp": 34660,
+        "level": 74,
+        "subSkillScoin": 24850,
+        "avatarAssistConf": 19.37
+    },
+    {
+        "cost": 999,
+        "exp": 36460,
+        "level": 75,
+        "subSkillScoin": 25850,
+        "avatarAssistConf": 19.72
+    },
+    {
+        "cost": 999,
+        "exp": 38260,
+        "level": 76,
+        "subSkillScoin": 26850,
+        "avatarAssistConf": 20.07
+    },
+    {
+        "cost": 999,
+        "exp": 40060,
+        "level": 77,
+        "subSkillScoin": 27850,
+        "avatarAssistConf": 20.42
+    },
+    {
+        "cost": 999,
+        "exp": 41860,
+        "level": 78,
+        "subSkillScoin": 28850,
+        "avatarAssistConf": 20.72
+    },
+    {
+        "cost": 999,
+        "exp": 43860,
+        "level": 79,
+        "subSkillScoin": 29950,
+        "avatarAssistConf": 21.02
+    },
+    {
+        "cost": 999,
+        "exp": 45860,
+        "level": 80,
+        "subSkillScoin": 31050,
+        "avatarAssistConf": 21.33
+    }
+]

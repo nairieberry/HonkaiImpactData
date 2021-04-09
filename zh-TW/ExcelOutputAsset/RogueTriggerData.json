@@ -1,0 +1,122 @@
+[
+    {
+        "TriggerID": 1,
+        "TriggerType": 1,
+        "Param": 1.0,
+        "Text": {
+            "hash": -1535595804
+        },
+        "DropType": "SPMedic",
+        "TriggerAbility": ""
+    },
+    {
+        "TriggerID": 2,
+        "TriggerType": 1,
+        "Param": 1.0,
+        "Text": {
+            "hash": -1535595803
+        },
+        "DropType": "HPMedic",
+        "TriggerAbility": ""
+    },
+    {
+        "TriggerID": 3,
+        "TriggerType": 1,
+        "Param": 2.0,
+        "Text": {
+            "hash": -1535595802
+        },
+        "DropType": "SPMedic",
+        "TriggerAbility": ""
+    },
+    {
+        "TriggerID": 4,
+        "TriggerType": 1,
+        "Param": 2.0,
+        "Text": {
+            "hash": -1535595801
+        },
+        "DropType": "HPMedic",
+        "TriggerAbility": ""
+    },
+    {
+        "TriggerID": 1001,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -1535595800
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Trigger_Max_HP"
+    },
+    {
+        "TriggerID": 1002,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -1535595799
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Trigger_Max_SP"
+    },
+    {
+        "TriggerID": 1003,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -1535595798
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Trigger_Max_HP_Large"
+    },
+    {
+        "TriggerID": 1004,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -1535595797
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Trigger_Max_SP_Large"
+    },
+    {
+        "TriggerID": 1005,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -1535595796
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Heal_All_HP"
+    },
+    {
+        "TriggerID": 1006,
+        "TriggerType": 3,
+        "Param": 0.0,
+        "Text": {
+            "hash": -358829620
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Heal_All_SP"
+    },
+    {
+        "TriggerID": 2001,
+        "TriggerType": 2,
+        "Param": 0.0,
+        "Text": {
+            "hash": -358829619
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Lua_AntiEntropy"
+    },
+    {
+        "TriggerID": 2002,
+        "TriggerType": 2,
+        "Param": 0.0,
+        "Text": {
+            "hash": -358829618
+        },
+        "DropType": "",
+        "TriggerAbility": "Rogue_Lua_CrazyMonster"
+    }
+]

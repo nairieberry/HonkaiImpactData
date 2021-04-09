@@ -1,0 +1,53 @@
+[
+    {
+        "ActivityBuffID": 100001,
+        "BuffChargeList": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+        ],
+        "DisplayBuffList": [
+            45,
+            46,
+            47
+        ]
+    },
+    {
+        "ActivityBuffID": 100002,
+        "BuffChargeList": [
+            4,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "DisplayBuffList": [
+            48,
+            49,
+            50
+        ]
+    },
+    {
+        "ActivityBuffID": 100003,
+        "BuffChargeList": [
+            5,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "DisplayBuffList": [
+            51,
+            52,
+            53
+        ]
+    }
+]

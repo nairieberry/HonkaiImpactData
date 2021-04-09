@@ -1,0 +1,50 @@
+[
+    {
+        "GroupID": 1,
+        "DownloadPriority": 99.0,
+        "GroupDesc": "PakDesc30000",
+        "GroupName": "PakName30000"
+    },
+    {
+        "GroupID": 2,
+        "DownloadPriority": 10.0,
+        "GroupDesc": "PakDesc11004",
+        "GroupName": "PakName11004"
+    },
+    {
+        "GroupID": 3,
+        "DownloadPriority": 50.0,
+        "GroupDesc": "PakDesc20001",
+        "GroupName": "PakName20001"
+    },
+    {
+        "GroupID": 101,
+        "DownloadPriority": 0.0,
+        "GroupDesc": "PakDesc10001",
+        "GroupName": "PakName12001"
+    },
+    {
+        "GroupID": 102,
+        "DownloadPriority": 0.0,
+        "GroupDesc": "PakDesc10001",
+        "GroupName": "PakName12002"
+    },
+    {
+        "GroupID": 103,
+        "DownloadPriority": 0.0,
+        "GroupDesc": "PakDesc10001",
+        "GroupName": "PakName12003"
+    },
+    {
+        "GroupID": 104,
+        "DownloadPriority": 0.0,
+        "GroupDesc": "PakDesc10001",
+        "GroupName": "PakName12004"
+    },
+    {
+        "GroupID": 105,
+        "DownloadPriority": 0.0,
+        "GroupDesc": "PakDesc10001",
+        "GroupName": "PakName12005"
+    }
+]

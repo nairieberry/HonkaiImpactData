@@ -1,0 +1,152 @@
+[
+    {
+        "ExamID": 1,
+        "idRewardMentor": 1301021,
+        "idRewardStudent": 1301011,
+        "nextExamID": 2,
+        "refLevel": 10,
+        "nameExam": {
+            "hash": 1804199036
+        },
+        "idExamMissionList": [
+            65001,
+            65002,
+            65003
+        ]
+    },
+    {
+        "ExamID": 2,
+        "idRewardMentor": 1301022,
+        "idRewardStudent": 1301012,
+        "nextExamID": 3,
+        "refLevel": 20,
+        "nameExam": {
+            "hash": 1804199037
+        },
+        "idExamMissionList": [
+            65004,
+            65005,
+            65006
+        ]
+    },
+    {
+        "ExamID": 3,
+        "idRewardMentor": 1301023,
+        "idRewardStudent": 1301013,
+        "nextExamID": 4,
+        "refLevel": 30,
+        "nameExam": {
+            "hash": 1804199038
+        },
+        "idExamMissionList": [
+            65007,
+            65008,
+            65009
+        ]
+    },
+    {
+        "ExamID": 4,
+        "idRewardMentor": 1301024,
+        "idRewardStudent": 1301014,
+        "nextExamID": 5,
+        "refLevel": 35,
+        "nameExam": {
+            "hash": 1804199039
+        },
+        "idExamMissionList": [
+            65010,
+            65011,
+            65012
+        ]
+    },
+    {
+        "ExamID": 5,
+        "idRewardMentor": 1301025,
+        "idRewardStudent": 1301015,
+        "nextExamID": 6,
+        "refLevel": 40,
+        "nameExam": {
+            "hash": 1804199040
+        },
+        "idExamMissionList": [
+            65013,
+            65014,
+            65015
+        ]
+    },
+    {
+        "ExamID": 6,
+        "idRewardMentor": 1301026,
+        "idRewardStudent": 1301016,
+        "nextExamID": 7,
+        "refLevel": 45,
+        "nameExam": {
+            "hash": 1804199041
+        },
+        "idExamMissionList": [
+            65016,
+            65017,
+            65018
+        ]
+    },
+    {
+        "ExamID": 7,
+        "idRewardMentor": 1301027,
+        "idRewardStudent": 1301017,
+        "nextExamID": 8,
+        "refLevel": 50,
+        "nameExam": {
+            "hash": 1804199042
+        },
+        "idExamMissionList": [
+            65019,
+            65020,
+            65021
+        ]
+    },
+    {
+        "ExamID": 8,
+        "idRewardMentor": 1301028,
+        "idRewardStudent": 1301018,
+        "nextExamID": 9,
+        "refLevel": 55,
+        "nameExam": {
+            "hash": 1804199043
+        },
+        "idExamMissionList": [
+            65022,
+            65023,
+            65024
+        ]
+    },
+    {
+        "ExamID": 9,
+        "idRewardMentor": 1301051,
+        "idRewardStudent": 1301019,
+        "nextExamID": 10,
+        "refLevel": 60,
+        "nameExam": {
+            "hash": 1804199044
+        },
+        "idExamMissionList": [
+            65025,
+            65026,
+            65027
+        ]
+    },
+    {
+        "ExamID": 10,
+        "idRewardMentor": 1301052,
+        "idRewardStudent": 1301020,
+        "nextExamID": 0,
+        "refLevel": 70,
+        "nameExam": {
+            "hash": 95595316
+        },
+        "idExamMissionList": [
+            65028,
+            65029,
+            65030
+        ]
+    }
+]

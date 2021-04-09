@@ -1,0 +1,751 @@
+[
+    {
+        "ItemID": 1102,
+        "ShowID": 1,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 5,
+        "ShowID": 2,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 9004,
+        "ShowID": 3,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 9003,
+        "ShowID": 4,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 7156,
+        "ShowID": 5,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 4,
+        "ShowID": 6,
+        "ShowRarity": 0,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 1102,
+        "ShowID": 7,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2002;21201\" text=\"Obtain_Source_Activity1\"/>"
+        ]
+    },
+    {
+        "ItemID": 5,
+        "ShowID": 8,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2002;21601\" text=\"Obtain_Source_Activity2\"/>",
+            "<type=\"81|2002;21201\" text=\"Obtain_Source_Activity1\"/>"
+        ]
+    },
+    {
+        "ItemID": 9004,
+        "ShowID": 9,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2002;21201\" text=\"Obtain_Source_Activity1\"/>"
+        ]
+    },
+    {
+        "ItemID": 9003,
+        "ShowID": 10,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2002;21201\" text=\"Obtain_Source_Activity1\"/>"
+        ]
+    },
+    {
+        "ItemID": 6002,
+        "ShowID": 11,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;649341\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 10506,
+        "ShowID": 12,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;649351\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 1112,
+        "ShowID": 13,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;649381\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 2008,
+        "ShowID": 15,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;649391\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 50110,
+        "ShowID": 16,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661111\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 33061,
+        "ShowID": 17,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661121\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 6002,
+        "ShowID": 18,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661131\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 5,
+        "ShowID": 19,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661141\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 2008,
+        "ShowID": 20,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661151\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 4004,
+        "ShowID": 21,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|3;661161\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 0,
+        "ShowID": 22,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|1200\" text=\"Obtain_Source_Activity11\"/>"
+        ]
+    },
+    {
+        "ItemID": 50118,
+        "ShowID": 23,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|305;714861\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9139,
+        "ShowID": 24,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|305;714862\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 3101,
+        "ShowID": 25,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|305;714863\" text=\"EquipObtain_Source_Desc_Common_28\"/>",
+            "<type=\"81|2010;23101\" text=\"Rita_C5_Reward_Show_FromDaily\"/>"
+        ]
+    },
+    {
+        "ItemID": 1102,
+        "ShowID": 26,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2010;23305\" text=\"Rita_C5_Reward_Show_FromChallenge\"/>"
+        ]
+    },
+    {
+        "ItemID": 5,
+        "ShowID": 27,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2010;23305\" text=\"Rita_C5_Reward_Show_FromChallenge\"/>"
+        ]
+    },
+    {
+        "ItemID": 9004,
+        "ShowID": 28,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2010;23305\" text=\"Rita_C5_Reward_Show_FromChallenge\"/>"
+        ]
+    },
+    {
+        "ItemID": 9003,
+        "ShowID": 29,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|2010;23305\" text=\"Rita_C5_Reward_Show_FromChallenge\"/>"
+        ]
+    },
+    {
+        "ItemID": 913,
+        "ShowID": 30,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|305;714922\" text=\"EquipObtain_Source_Desc_Common_28\"/>",
+            "<type=\"81|2010;23101\" text=\"Rita_C5_Reward_Show_FromDaily\"/>"
+        ]
+    },
+    {
+        "ItemID": 114598,
+        "ShowID": 31,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"81|4010;31001\" text=\"Rita_C5_Reward_Show_FromDaily\"/>"
+        ]
+    },
+    {
+        "ItemID": 50125,
+        "ShowID": 32,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662894\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 110089,
+        "ShowID": 33,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662895\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 4004,
+        "ShowID": 34,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662898\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 2008,
+        "ShowID": 35,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662899\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9004,
+        "ShowID": 36,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662900\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9003,
+        "ShowID": 37,
+        "ShowRarity": 0,
+        "ComeFromList": [
+            "<type=\"17|302;662901\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9128,
+        "ShowID": 38,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10711,
+        "ShowID": 39,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10603,
+        "ShowID": 40,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10213,
+        "ShowID": 41,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 9115,
+        "ShowID": 42,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10302,
+        "ShowID": 43,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10603,
+        "ShowID": 44,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10213,
+        "ShowID": 45,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 9113,
+        "ShowID": 46,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10104,
+        "ShowID": 47,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10603,
+        "ShowID": 48,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10214,
+        "ShowID": 49,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 6002,
+        "ShowID": 50,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;663131\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 3101,
+        "ShowID": 51,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;663132\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 3101,
+        "ShowID": 52,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;663133\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 3101,
+        "ShowID": 53,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;663134\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9004,
+        "ShowID": 54,
+        "ShowRarity": 2,
+        "ComeFromList": [
+            "<type=\"17|304;663135\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9003,
+        "ShowID": 55,
+        "ShowRarity": 2,
+        "ComeFromList": [
+            "<type=\"17|304;663136\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 0,
+        "ShowID": 56,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"64|4788\" text=\"EquipObtain_Source_Desc_4.4pata\"/>"
+        ]
+    },
+    {
+        "ItemID": 9129,
+        "ShowID": 57,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 8213,
+        "ShowID": 58,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10711,
+        "ShowID": 59,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10214,
+        "ShowID": 60,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 61,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 62,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 63,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 64,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30025,
+        "ShowID": 65,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30078,
+        "ShowID": 66,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30131,
+        "ShowID": 67,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30019,
+        "ShowID": 68,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30072,
+        "ShowID": 69,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30125,
+        "ShowID": 70,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30518,
+        "ShowID": 71,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30521,
+        "ShowID": 72,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30524,
+        "ShowID": 73,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 31981,
+        "ShowID": 74,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 31991,
+        "ShowID": 75,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 32001,
+        "ShowID": 76,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 8309,
+        "ShowID": 77,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35611\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 20871,
+        "ShowID": 78,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35582\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 9505,
+        "ShowID": 79,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35583\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 50129,
+        "ShowID": 80,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35594\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 33591,
+        "ShowID": 81,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35603\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 6002,
+        "ShowID": 82,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35584\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 83,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35585\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 84,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 85,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 86,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 110086,
+        "ShowID": 87,
+        "ShowRarity": 3,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30025,
+        "ShowID": 88,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30078,
+        "ShowID": 89,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30131,
+        "ShowID": 90,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30019,
+        "ShowID": 91,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30072,
+        "ShowID": 92,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30125,
+        "ShowID": 93,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30518,
+        "ShowID": 94,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30521,
+        "ShowID": 95,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 30524,
+        "ShowID": 96,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 31981,
+        "ShowID": 97,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 31991,
+        "ShowID": 98,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 32001,
+        "ShowID": 99,
+        "ShowRarity": 2,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10711,
+        "ShowID": 100,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 8213,
+        "ShowID": 101,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10302,
+        "ShowID": 102,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 8213,
+        "ShowID": 103,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10104,
+        "ShowID": 104,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 8213,
+        "ShowID": 105,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10214,
+        "ShowID": 106,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10711,
+        "ShowID": 107,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 10213,
+        "ShowID": 108,
+        "ShowRarity": 1,
+        "ComeFromList": []
+    },
+    {
+        "ItemID": 117502,
+        "ShowID": 109,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35596\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "ItemID": 4013,
+        "ShowID": 113,
+        "ShowRarity": 3,
+        "ComeFromList": [
+            "<type=\"17|304;35612\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    }
+]

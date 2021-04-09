@@ -1,0 +1,702 @@
+[
+    {
+        "HardLevel": 1,
+        "ATKRatio": 2.0,
+        "DEFRatio": 1.0,
+        "ElementalResistRatio": 0.05,
+        "HPRatio": 1.0
+    },
+    {
+        "HardLevel": 2,
+        "ATKRatio": 2.12,
+        "DEFRatio": 1.06,
+        "ElementalResistRatio": 0.05,
+        "HPRatio": 1.002
+    },
+    {
+        "HardLevel": 3,
+        "ATKRatio": 2.23,
+        "DEFRatio": 1.13,
+        "ElementalResistRatio": 0.05,
+        "HPRatio": 1.015
+    },
+    {
+        "HardLevel": 4,
+        "ATKRatio": 2.35,
+        "DEFRatio": 1.38,
+        "ElementalResistRatio": 0.05,
+        "HPRatio": 1.031
+    },
+    {
+        "HardLevel": 5,
+        "ATKRatio": 2.47,
+        "DEFRatio": 1.63,
+        "ElementalResistRatio": 0.06,
+        "HPRatio": 1.058
+    },
+    {
+        "HardLevel": 6,
+        "ATKRatio": 2.58,
+        "DEFRatio": 1.88,
+        "ElementalResistRatio": 0.07,
+        "HPRatio": 1.096
+    },
+    {
+        "HardLevel": 7,
+        "ATKRatio": 2.7,
+        "DEFRatio": 2.0,
+        "ElementalResistRatio": 0.07,
+        "HPRatio": 1.15
+    },
+    {
+        "HardLevel": 8,
+        "ATKRatio": 2.82,
+        "DEFRatio": 2.13,
+        "ElementalResistRatio": 0.07,
+        "HPRatio": 1.213
+    },
+    {
+        "HardLevel": 9,
+        "ATKRatio": 2.93,
+        "DEFRatio": 2.44,
+        "ElementalResistRatio": 0.08,
+        "HPRatio": 1.28
+    },
+    {
+        "HardLevel": 10,
+        "ATKRatio": 3.05,
+        "DEFRatio": 2.81,
+        "ElementalResistRatio": 0.08,
+        "HPRatio": 1.353
+    },
+    {
+        "HardLevel": 11,
+        "ATKRatio": 3.17,
+        "DEFRatio": 3.19,
+        "ElementalResistRatio": 0.09,
+        "HPRatio": 1.436
+    },
+    {
+        "HardLevel": 12,
+        "ATKRatio": 3.28,
+        "DEFRatio": 3.38,
+        "ElementalResistRatio": 0.09,
+        "HPRatio": 1.535
+    },
+    {
+        "HardLevel": 13,
+        "ATKRatio": 3.4,
+        "DEFRatio": 3.5,
+        "ElementalResistRatio": 0.09,
+        "HPRatio": 1.647
+    },
+    {
+        "HardLevel": 14,
+        "ATKRatio": 3.52,
+        "DEFRatio": 3.88,
+        "ElementalResistRatio": 0.1,
+        "HPRatio": 1.757
+    },
+    {
+        "HardLevel": 15,
+        "ATKRatio": 3.55,
+        "DEFRatio": 4.56,
+        "ElementalResistRatio": 0.11,
+        "HPRatio": 1.861
+    },
+    {
+        "HardLevel": 16,
+        "ATKRatio": 3.65,
+        "DEFRatio": 5.31,
+        "ElementalResistRatio": 0.12,
+        "HPRatio": 1.971
+    },
+    {
+        "HardLevel": 17,
+        "ATKRatio": 3.75,
+        "DEFRatio": 5.75,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.102
+    },
+    {
+        "HardLevel": 18,
+        "ATKRatio": 3.85,
+        "DEFRatio": 5.94,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.253
+    },
+    {
+        "HardLevel": 19,
+        "ATKRatio": 3.88,
+        "DEFRatio": 6.13,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.412
+    },
+    {
+        "HardLevel": 20,
+        "ATKRatio": 3.9,
+        "DEFRatio": 6.5,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.571
+    },
+    {
+        "HardLevel": 21,
+        "ATKRatio": 4.33,
+        "DEFRatio": 6.81,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.74
+    },
+    {
+        "HardLevel": 22,
+        "ATKRatio": 4.45,
+        "DEFRatio": 7.19,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 2.913
+    },
+    {
+        "HardLevel": 23,
+        "ATKRatio": 4.57,
+        "DEFRatio": 7.44,
+        "ElementalResistRatio": 0.13,
+        "HPRatio": 3.101
+    },
+    {
+        "HardLevel": 24,
+        "ATKRatio": 4.68,
+        "DEFRatio": 7.63,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 3.3
+    },
+    {
+        "HardLevel": 25,
+        "ATKRatio": 4.8,
+        "DEFRatio": 8.0,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 3.496
+    },
+    {
+        "HardLevel": 26,
+        "ATKRatio": 4.92,
+        "DEFRatio": 8.38,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 3.699
+    },
+    {
+        "HardLevel": 27,
+        "ATKRatio": 5.03,
+        "DEFRatio": 8.81,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 3.905
+    },
+    {
+        "HardLevel": 28,
+        "ATKRatio": 5.15,
+        "DEFRatio": 9.06,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 4.13
+    },
+    {
+        "HardLevel": 29,
+        "ATKRatio": 5.27,
+        "DEFRatio": 9.25,
+        "ElementalResistRatio": 0.14,
+        "HPRatio": 4.366
+    },
+    {
+        "HardLevel": 30,
+        "ATKRatio": 5.38,
+        "DEFRatio": 9.94,
+        "ElementalResistRatio": 0.15,
+        "HPRatio": 4.575
+    },
+    {
+        "HardLevel": 31,
+        "ATKRatio": 5.5,
+        "DEFRatio": 10.63,
+        "ElementalResistRatio": 0.16,
+        "HPRatio": 4.789
+    },
+    {
+        "HardLevel": 32,
+        "ATKRatio": 5.76,
+        "DEFRatio": 11.25,
+        "ElementalResistRatio": 0.16,
+        "HPRatio": 5.014
+    },
+    {
+        "HardLevel": 33,
+        "ATKRatio": 6.03,
+        "DEFRatio": 11.56,
+        "ElementalResistRatio": 0.16,
+        "HPRatio": 5.267
+    },
+    {
+        "HardLevel": 34,
+        "ATKRatio": 6.31,
+        "DEFRatio": 11.81,
+        "ElementalResistRatio": 0.16,
+        "HPRatio": 5.531
+    },
+    {
+        "HardLevel": 35,
+        "ATKRatio": 6.6,
+        "DEFRatio": 12.25,
+        "ElementalResistRatio": 0.16,
+        "HPRatio": 5.787
+    },
+    {
+        "HardLevel": 36,
+        "ATKRatio": 6.9,
+        "DEFRatio": 12.69,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 6.048
+    },
+    {
+        "HardLevel": 37,
+        "ATKRatio": 7.21,
+        "DEFRatio": 13.19,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 6.311
+    },
+    {
+        "HardLevel": 38,
+        "ATKRatio": 7.53,
+        "DEFRatio": 13.56,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 6.59
+    },
+    {
+        "HardLevel": 39,
+        "ATKRatio": 7.87,
+        "DEFRatio": 13.94,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 6.874
+    },
+    {
+        "HardLevel": 40,
+        "ATKRatio": 8.21,
+        "DEFRatio": 14.31,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 7.164
+    },
+    {
+        "HardLevel": 41,
+        "ATKRatio": 8.58,
+        "DEFRatio": 14.69,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 7.459
+    },
+    {
+        "HardLevel": 42,
+        "ATKRatio": 8.95,
+        "DEFRatio": 15.06,
+        "ElementalResistRatio": 0.17,
+        "HPRatio": 7.761
+    },
+    {
+        "HardLevel": 43,
+        "ATKRatio": 9.34,
+        "DEFRatio": 15.38,
+        "ElementalResistRatio": 0.18,
+        "HPRatio": 8.072
+    },
+    {
+        "HardLevel": 44,
+        "ATKRatio": 9.74,
+        "DEFRatio": 15.81,
+        "ElementalResistRatio": 0.18,
+        "HPRatio": 8.379
+    },
+    {
+        "HardLevel": 45,
+        "ATKRatio": 10.16,
+        "DEFRatio": 16.81,
+        "ElementalResistRatio": 0.18,
+        "HPRatio": 8.637
+    },
+    {
+        "HardLevel": 46,
+        "ATKRatio": 10.59,
+        "DEFRatio": 17.88,
+        "ElementalResistRatio": 0.19,
+        "HPRatio": 8.892
+    },
+    {
+        "HardLevel": 47,
+        "ATKRatio": 11.04,
+        "DEFRatio": 18.88,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 9.157
+    },
+    {
+        "HardLevel": 48,
+        "ATKRatio": 11.5,
+        "DEFRatio": 19.19,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 9.493
+    },
+    {
+        "HardLevel": 49,
+        "ATKRatio": 11.98,
+        "DEFRatio": 19.56,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 9.827
+    },
+    {
+        "HardLevel": 50,
+        "ATKRatio": 12.48,
+        "DEFRatio": 20.06,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 10.153
+    },
+    {
+        "HardLevel": 51,
+        "ATKRatio": 12.69,
+        "DEFRatio": 20.5,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 10.49
+    },
+    {
+        "HardLevel": 52,
+        "ATKRatio": 12.9,
+        "DEFRatio": 21.06,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 10.819
+    },
+    {
+        "HardLevel": 53,
+        "ATKRatio": 13.12,
+        "DEFRatio": 21.56,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 11.158
+    },
+    {
+        "HardLevel": 54,
+        "ATKRatio": 13.33,
+        "DEFRatio": 22.06,
+        "ElementalResistRatio": 0.2,
+        "HPRatio": 11.501
+    },
+    {
+        "HardLevel": 55,
+        "ATKRatio": 13.54,
+        "DEFRatio": 22.69,
+        "ElementalResistRatio": 0.21,
+        "HPRatio": 11.834
+    },
+    {
+        "HardLevel": 56,
+        "ATKRatio": 13.76,
+        "DEFRatio": 23.25,
+        "ElementalResistRatio": 0.21,
+        "HPRatio": 12.178
+    },
+    {
+        "HardLevel": 57,
+        "ATKRatio": 13.98,
+        "DEFRatio": 23.81,
+        "ElementalResistRatio": 0.21,
+        "HPRatio": 12.526
+    },
+    {
+        "HardLevel": 58,
+        "ATKRatio": 14.19,
+        "DEFRatio": 24.25,
+        "ElementalResistRatio": 0.21,
+        "HPRatio": 12.891
+    },
+    {
+        "HardLevel": 59,
+        "ATKRatio": 14.41,
+        "DEFRatio": 24.75,
+        "ElementalResistRatio": 0.21,
+        "HPRatio": 13.253
+    },
+    {
+        "HardLevel": 60,
+        "ATKRatio": 14.63,
+        "DEFRatio": 26.06,
+        "ElementalResistRatio": 0.22,
+        "HPRatio": 13.527
+    },
+    {
+        "HardLevel": 61,
+        "ATKRatio": 14.85,
+        "DEFRatio": 27.38,
+        "ElementalResistRatio": 0.22,
+        "HPRatio": 13.801
+    },
+    {
+        "HardLevel": 62,
+        "ATKRatio": 15.07,
+        "DEFRatio": 28.63,
+        "ElementalResistRatio": 0.23,
+        "HPRatio": 14.087
+    },
+    {
+        "HardLevel": 63,
+        "ATKRatio": 15.3,
+        "DEFRatio": 29.06,
+        "ElementalResistRatio": 0.23,
+        "HPRatio": 14.467
+    },
+    {
+        "HardLevel": 64,
+        "ATKRatio": 15.52,
+        "DEFRatio": 29.5,
+        "ElementalResistRatio": 0.23,
+        "HPRatio": 14.85
+    },
+    {
+        "HardLevel": 65,
+        "ATKRatio": 15.74,
+        "DEFRatio": 30.19,
+        "ElementalResistRatio": 0.23,
+        "HPRatio": 15.208
+    },
+    {
+        "HardLevel": 66,
+        "ATKRatio": 15.97,
+        "DEFRatio": 30.88,
+        "ElementalResistRatio": 0.23,
+        "HPRatio": 15.567
+    },
+    {
+        "HardLevel": 67,
+        "ATKRatio": 16.19,
+        "DEFRatio": 32.06,
+        "ElementalResistRatio": 0.24,
+        "HPRatio": 15.872
+    },
+    {
+        "HardLevel": 68,
+        "ATKRatio": 16.42,
+        "DEFRatio": 33.06,
+        "ElementalResistRatio": 0.24,
+        "HPRatio": 16.2
+    },
+    {
+        "HardLevel": 69,
+        "ATKRatio": 16.65,
+        "DEFRatio": 34.06,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 16.529
+    },
+    {
+        "HardLevel": 70,
+        "ATKRatio": 16.88,
+        "DEFRatio": 34.69,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 16.905
+    },
+    {
+        "HardLevel": 71,
+        "ATKRatio": 17.11,
+        "DEFRatio": 35.31,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 17.285
+    },
+    {
+        "HardLevel": 72,
+        "ATKRatio": 17.34,
+        "DEFRatio": 35.94,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 17.666
+    },
+    {
+        "HardLevel": 73,
+        "ATKRatio": 17.57,
+        "DEFRatio": 36.44,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 18.065
+    },
+    {
+        "HardLevel": 74,
+        "ATKRatio": 17.8,
+        "DEFRatio": 36.94,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 18.467
+    },
+    {
+        "HardLevel": 75,
+        "ATKRatio": 18.03,
+        "DEFRatio": 37.69,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 18.84
+    },
+    {
+        "HardLevel": 76,
+        "ATKRatio": 18.27,
+        "DEFRatio": 38.44,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 19.215
+    },
+    {
+        "HardLevel": 77,
+        "ATKRatio": 18.5,
+        "DEFRatio": 39.25,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 19.584
+    },
+    {
+        "HardLevel": 78,
+        "ATKRatio": 18.74,
+        "DEFRatio": 39.75,
+        "ElementalResistRatio": 0.25,
+        "HPRatio": 19.994
+    },
+    {
+        "HardLevel": 79,
+        "ATKRatio": 18.97,
+        "DEFRatio": 40.31,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 20.398
+    },
+    {
+        "HardLevel": 80,
+        "ATKRatio": 19.21,
+        "DEFRatio": 40.81,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 20.813
+    },
+    {
+        "HardLevel": 81,
+        "ATKRatio": 19.45,
+        "DEFRatio": 41.44,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 21.155
+    },
+    {
+        "HardLevel": 82,
+        "ATKRatio": 19.69,
+        "DEFRatio": 42.0,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 21.506
+    },
+    {
+        "HardLevel": 83,
+        "ATKRatio": 19.93,
+        "DEFRatio": 42.56,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 21.856
+    },
+    {
+        "HardLevel": 84,
+        "ATKRatio": 20.17,
+        "DEFRatio": 43.13,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 22.204
+    },
+    {
+        "HardLevel": 85,
+        "ATKRatio": 20.41,
+        "DEFRatio": 43.69,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 22.554
+    },
+    {
+        "HardLevel": 86,
+        "ATKRatio": 20.66,
+        "DEFRatio": 44.25,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 22.902
+    },
+    {
+        "HardLevel": 87,
+        "ATKRatio": 20.9,
+        "DEFRatio": 44.81,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 23.25
+    },
+    {
+        "HardLevel": 88,
+        "ATKRatio": 21.14,
+        "DEFRatio": 45.38,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 23.596
+    },
+    {
+        "HardLevel": 89,
+        "ATKRatio": 21.39,
+        "DEFRatio": 45.94,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 23.942
+    },
+    {
+        "HardLevel": 90,
+        "ATKRatio": 21.64,
+        "DEFRatio": 46.5,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 24.287
+    },
+    {
+        "HardLevel": 91,
+        "ATKRatio": 21.88,
+        "DEFRatio": 47.06,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 24.631
+    },
+    {
+        "HardLevel": 92,
+        "ATKRatio": 22.13,
+        "DEFRatio": 47.63,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 24.972
+    },
+    {
+        "HardLevel": 93,
+        "ATKRatio": 22.38,
+        "DEFRatio": 48.19,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 25.314
+    },
+    {
+        "HardLevel": 94,
+        "ATKRatio": 22.63,
+        "DEFRatio": 48.75,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 25.655
+    },
+    {
+        "HardLevel": 95,
+        "ATKRatio": 22.88,
+        "DEFRatio": 49.31,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 25.994
+    },
+    {
+        "HardLevel": 96,
+        "ATKRatio": 23.14,
+        "DEFRatio": 49.88,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 26.33
+    },
+    {
+        "HardLevel": 97,
+        "ATKRatio": 23.39,
+        "DEFRatio": 50.44,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 26.667
+    },
+    {
+        "HardLevel": 98,
+        "ATKRatio": 23.64,
+        "DEFRatio": 51.0,
+        "ElementalResistRatio": 0.26,
+        "HPRatio": 27.002
+    },
+    {
+        "HardLevel": 99,
+        "ATKRatio": 23.9,
+        "DEFRatio": 51.56,
+        "ElementalResistRatio": 0.27,
+        "HPRatio": 27.335
+    },
+    {
+        "HardLevel": 100,
+        "ATKRatio": 24.15,
+        "DEFRatio": 52.13,
+        "ElementalResistRatio": 0.28,
+        "HPRatio": 27.665
+    }
+]

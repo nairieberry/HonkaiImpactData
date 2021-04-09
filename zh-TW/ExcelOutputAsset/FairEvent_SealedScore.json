@@ -1,0 +1,56 @@
+[
+    {
+        "ID": 1,
+        "ScoreMax": 300,
+        "ScoreMin": 201,
+        "SealedType": 1
+    },
+    {
+        "ID": 2,
+        "ScoreMax": 200,
+        "ScoreMin": 101,
+        "SealedType": 1
+    },
+    {
+        "ID": 3,
+        "ScoreMax": 100,
+        "ScoreMin": 1,
+        "SealedType": 1
+    },
+    {
+        "ID": 11,
+        "ScoreMax": 1000,
+        "ScoreMin": 601,
+        "SealedType": 2
+    },
+    {
+        "ID": 12,
+        "ScoreMax": 600,
+        "ScoreMin": 301,
+        "SealedType": 2
+    },
+    {
+        "ID": 13,
+        "ScoreMax": 300,
+        "ScoreMin": 1,
+        "SealedType": 2
+    },
+    {
+        "ID": 21,
+        "ScoreMax": 1000,
+        "ScoreMin": 601,
+        "SealedType": 3
+    },
+    {
+        "ID": 22,
+        "ScoreMax": 600,
+        "ScoreMin": 301,
+        "SealedType": 3
+    },
+    {
+        "ID": 23,
+        "ScoreMax": 300,
+        "ScoreMin": 1,
+        "SealedType": 3
+    }
+]

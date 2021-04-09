@@ -1,0 +1,1462 @@
+[
+    {
+        "EliteAbilityDesc": {
+            "hash": 324464028
+        },
+        "EliteAbilityText": {
+            "hash": 324757910
+        },
+        "AbilityName": "Ability_CrabWeakState",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Shock"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1467685324
+        },
+        "EliteAbilityText": {
+            "hash": -491355690
+        },
+        "AbilityName": "Ability_DamageReduce_State",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_PhyImmu"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1953284477
+        },
+        "EliteAbilityText": {
+            "hash": -1592701907
+        },
+        "AbilityName": "Ability_DefenceReduce_State",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Adaptation"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 277242766
+        },
+        "EliteAbilityText": {
+            "hash": 277536648
+        },
+        "AbilityName": "Ability_LevelEU_DieSpawnFireSeed",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 129438168
+        },
+        "EliteAbilityText": {
+            "hash": 129732050
+        },
+        "AbilityName": "Ability_LevelEU_InvincibleIcon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1995536367
+        },
+        "EliteAbilityText": {
+            "hash": -1995242485
+        },
+        "AbilityName": "Ability_LevelEU_MechShieldIcon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_AbsorptionShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -902794555
+        },
+        "EliteAbilityText": {
+            "hash": -902500673
+        },
+        "AbilityName": "BOSS_120_G_DeadCore_Shield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Boss_DeadCore"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1163401401
+        },
+        "EliteAbilityText": {
+            "hash": -1163107519
+        },
+        "AbilityName": "Boss_120_G_MasterTime",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Boss_SpaceCore"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1210626809
+        },
+        "EliteAbilityText": {
+            "hash": -1210332927
+        },
+        "AbilityName": "BOSS_120_G_ThunderCore",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -622168287
+        },
+        "EliteAbilityText": {
+            "hash": -621874405
+        },
+        "AbilityName": "Boss_Rita_C3_Shield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RoseShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1475212656
+        },
+        "EliteAbilityText": {
+            "hash": 1475506538
+        },
+        "AbilityName": "BossHunter_Crazy_BeforeEscape",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -685651607
+        },
+        "EliteAbilityText": {
+            "hash": -685357725
+        },
+        "AbilityName": "C11EX_Unique_Immune_ElementalAttack",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 570436539
+        },
+        "EliteAbilityText": {
+            "hash": 570730421
+        },
+        "AbilityName": "C11EX_Unique_Immune_PhysicalAttack",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_PhyImmu"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1639055203
+        },
+        "EliteAbilityText": {
+            "hash": -1638761321
+        },
+        "AbilityName": "CampWarThree_ArcherBomb",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1796773332
+        },
+        "EliteAbilityText": {
+            "hash": -1796479450
+        },
+        "AbilityName": "DLC_Monster_ArmorShieldIcon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_CrabArmor"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -756910571
+        },
+        "EliteAbilityText": {
+            "hash": 1544885743
+        },
+        "AbilityName": "DLC_Monster_LightShieldIcon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_EnergyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -368685815
+        },
+        "EliteAbilityText": {
+            "hash": -368391933
+        },
+        "AbilityName": "DLC_Monster_StunShieldIcon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1045089582
+        },
+        "EliteAbilityText": {
+            "hash": -1044795700
+        },
+        "AbilityName": "Durandal_EliteShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 224693889
+        },
+        "EliteAbilityText": {
+            "hash": 224987771
+        },
+        "AbilityName": "Elite_AbsorbFire",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FireShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1299119202
+        },
+        "EliteAbilityText": {
+            "hash": -1298825320
+        },
+        "AbilityName": "Elite_AbsorbIce",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_IceShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1628833893
+        },
+        "EliteAbilityText": {
+            "hash": 1629127775
+        },
+        "AbilityName": "Elite_AbsorbThunder",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ThunderShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1578116209
+        },
+        "EliteAbilityText": {
+            "hash": 1578410091
+        },
+        "AbilityName": "Elite_Adaptation",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Adaptation"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1123394942
+        },
+        "EliteAbilityText": {
+            "hash": 1123688824
+        },
+        "AbilityName": "Elite_BlackCore",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -959011615
+        },
+        "EliteAbilityText": {
+            "hash": -958717733
+        },
+        "AbilityName": "Elite_Bless",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 959254685
+        },
+        "EliteAbilityText": {
+            "hash": 959548567
+        },
+        "AbilityName": "Elite_Blur",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Blur"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1610620419
+        },
+        "EliteAbilityText": {
+            "hash": -1610326537
+        },
+        "AbilityName": "Elite_Bramble",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1440608241
+        },
+        "EliteAbilityText": {
+            "hash": -1440314359
+        },
+        "AbilityName": "Elite_Corrupt",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 538143658
+        },
+        "EliteAbilityText": {
+            "hash": 538437540
+        },
+        "AbilityName": "Elite_Curse",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1205750138
+        },
+        "EliteAbilityText": {
+            "hash": -1205456256
+        },
+        "AbilityName": "Elite_DeathReap",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1629093580
+        },
+        "EliteAbilityText": {
+            "hash": -1628799698
+        },
+        "AbilityName": "Elite_DrySkin",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1342195028
+        },
+        "EliteAbilityText": {
+            "hash": -1341901146
+        },
+        "AbilityName": "Elite_Duel",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Duel"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1455762184
+        },
+        "EliteAbilityText": {
+            "hash": 1456056066
+        },
+        "AbilityName": "Elite_Eternity",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1331254618
+        },
+        "EliteAbilityText": {
+            "hash": 1331548500
+        },
+        "AbilityName": "Elite_Excite",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1389422136
+        },
+        "EliteAbilityText": {
+            "hash": -1389128254
+        },
+        "AbilityName": "Elite_Fast",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Fast"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1983560456
+        },
+        "EliteAbilityText": {
+            "hash": -1983266574
+        },
+        "AbilityName": "Elite_Fever",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_02g"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2064668450
+        },
+        "EliteAbilityText": {
+            "hash": -2064374568
+        },
+        "AbilityName": "Elite_FireRing",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -653400123
+        },
+        "EliteAbilityText": {
+            "hash": -653106241
+        },
+        "AbilityName": "Elite_FireShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FireShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 743620682
+        },
+        "EliteAbilityText": {
+            "hash": 743914564
+        },
+        "AbilityName": "Elite_FrontShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FrontShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -992266719
+        },
+        "EliteAbilityText": {
+            "hash": -991972837
+        },
+        "AbilityName": "Elite_GatherEnergy",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1270134733
+        },
+        "EliteAbilityText": {
+            "hash": 1270428615
+        },
+        "AbilityName": "Elite_Ghost",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Hide"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -167025361
+        },
+        "EliteAbilityText": {
+            "hash": -166731479
+        },
+        "AbilityName": "Elite_HealArea",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_TM_01"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -654983976
+        },
+        "EliteAbilityText": {
+            "hash": -654690094
+        },
+        "AbilityName": "Elite_HeavyHit",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -508873566
+        },
+        "EliteAbilityText": {
+            "hash": -508579684
+        },
+        "AbilityName": "Elite_Hide",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Hide"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 440731728
+        },
+        "EliteAbilityText": {
+            "hash": 441025610
+        },
+        "AbilityName": "Elite_Holy",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Holy"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -193513532
+        },
+        "EliteAbilityText": {
+            "hash": -193219650
+        },
+        "AbilityName": "Elite_HumidSkin",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -657044392
+        },
+        "EliteAbilityText": {
+            "hash": -656750510
+        },
+        "AbilityName": "Elite_IceWave",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_02"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -186073011
+        },
+        "EliteAbilityText": {
+            "hash": -185779129
+        },
+        "AbilityName": "Elite_ImmuneDebuff",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -685651607
+        },
+        "EliteAbilityText": {
+            "hash": -685357725
+        },
+        "AbilityName": "Elite_ImmuneElementalDamage",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -301141631
+        },
+        "EliteAbilityText": {
+            "hash": -300847749
+        },
+        "AbilityName": "Elite_ImmuneFrozen",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1591396983
+        },
+        "EliteAbilityText": {
+            "hash": -1591103101
+        },
+        "AbilityName": "Elite_ImmuneParalyze",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 570436539
+        },
+        "EliteAbilityText": {
+            "hash": 570730421
+        },
+        "AbilityName": "Elite_ImmunePhysicalDamage",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_HolyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1566419943
+        },
+        "EliteAbilityText": {
+            "hash": 1566713825
+        },
+        "AbilityName": "Elite_ImmuneStun",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneDebuff"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -340439381
+        },
+        "EliteAbilityText": {
+            "hash": -340145499
+        },
+        "AbilityName": "Elite_ImmuneWitchTime",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1927949361
+        },
+        "EliteAbilityText": {
+            "hash": -1927655479
+        },
+        "AbilityName": "Elite_Integrity",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Integrity"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 605941602
+        },
+        "EliteAbilityText": {
+            "hash": 606235484
+        },
+        "AbilityName": "Elite_IntervalBramble",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_IntervalBramble"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1955855525
+        },
+        "EliteAbilityText": {
+            "hash": -1955561643
+        },
+        "AbilityName": "Elite_InverseTimeSpace",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_InverseTimeSpace"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1492729027
+        },
+        "EliteAbilityText": {
+            "hash": -1492435145
+        },
+        "AbilityName": "Elite_LightShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 2016864392
+        },
+        "EliteAbilityText": {
+            "hash": 2017158274
+        },
+        "AbilityName": "Elite_LockMove",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LockMove"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -661465532
+        },
+        "EliteAbilityText": {
+            "hash": -661171650
+        },
+        "AbilityName": "Elite_LockSkillButton",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_LockSkillButton"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2065276209
+        },
+        "EliteAbilityText": {
+            "hash": -2064982327
+        },
+        "AbilityName": "Elite_Lord",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1713870624
+        },
+        "EliteAbilityText": {
+            "hash": 1714164506
+        },
+        "AbilityName": "Elite_Magnetic",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Magnetic"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 324348930
+        },
+        "EliteAbilityText": {
+            "hash": 324642812
+        },
+        "AbilityName": "Elite_Miasma",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Miasma"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1711609143
+        },
+        "EliteAbilityText": {
+            "hash": 1711903025
+        },
+        "AbilityName": "Elite_MixShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 151866340
+        },
+        "EliteAbilityText": {
+            "hash": 152160222
+        },
+        "AbilityName": "Elite_Night",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Blur"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1708254398
+        },
+        "EliteAbilityText": {
+            "hash": 1708548280
+        },
+        "AbilityName": "Elite_OneShotKill",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1100395381
+        },
+        "EliteAbilityText": {
+            "hash": -1100101499
+        },
+        "AbilityName": "Elite_OW_Destiny_BombSpilit",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 726390146
+        },
+        "EliteAbilityText": {
+            "hash": 726684028
+        },
+        "AbilityName": "Elite_OW_Destiny_Capture",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_Capture"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1959728752
+        },
+        "EliteAbilityText": {
+            "hash": -1959434870
+        },
+        "AbilityName": "Elite_OW_Destiny_Energy",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_Energy"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1964621011
+        },
+        "EliteAbilityText": {
+            "hash": -1964327129
+        },
+        "AbilityName": "Elite_OW_Destiny_Fort",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_Fort"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 45452162
+        },
+        "EliteAbilityText": {
+            "hash": 45746044
+        },
+        "AbilityName": "Elite_OW_Destiny_Fury",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_Fury"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1510865957
+        },
+        "EliteAbilityText": {
+            "hash": -1510572075
+        },
+        "AbilityName": "Elite_OW_Destiny_HolyShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_HolyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1386272576
+        },
+        "EliteAbilityText": {
+            "hash": -1385978694
+        },
+        "AbilityName": "Elite_OW_Destiny_Leader_Enhance",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 13154210
+        },
+        "EliteAbilityText": {
+            "hash": 13448092
+        },
+        "AbilityName": "Elite_OW_Destiny_LeaderArea",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Phantom"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 105927341
+        },
+        "EliteAbilityText": {
+            "hash": 106221223
+        },
+        "AbilityName": "Elite_OW_Destiny_LeaderBomb",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1180467968
+        },
+        "EliteAbilityText": {
+            "hash": -1180174086
+        },
+        "AbilityName": "Elite_OW_Destiny_LeaderCrazy",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FrontShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1774953766
+        },
+        "EliteAbilityText": {
+            "hash": -1774659884
+        },
+        "AbilityName": "Elite_OW_Destiny_Skill_SacrificeAdd",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -747031705
+        },
+        "EliteAbilityText": {
+            "hash": -746737823
+        },
+        "AbilityName": "Elite_OW_Destiny_Skill_SacrificeAddEx",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FireShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -955817132
+        },
+        "EliteAbilityText": {
+            "hash": -955523250
+        },
+        "AbilityName": "Elite_OW_Destiny_Skill_SacrificeFollow",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 464258401
+        },
+        "EliteAbilityText": {
+            "hash": 464552283
+        },
+        "AbilityName": "Elite_OW_Destiny_Skill_SacrificeFollowEx",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FireShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 250308571
+        },
+        "EliteAbilityText": {
+            "hash": 250602453
+        },
+        "AbilityName": "Elite_OW_Destiny_Skill_TimeBomb",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Nether"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -262670916
+        },
+        "EliteAbilityText": {
+            "hash": -262377034
+        },
+        "AbilityName": "Elite_Ow_Member_Enhance",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 365621178
+        },
+        "EliteAbilityText": {
+            "hash": -1550350893
+        },
+        "AbilityName": "Elite_Ow_Member_Seal",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FrontShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1194406679
+        },
+        "EliteAbilityText": {
+            "hash": 1194700561
+        },
+        "AbilityName": "Elite_Power",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2089867512
+        },
+        "EliteAbilityText": {
+            "hash": -2089573630
+        },
+        "AbilityName": "Elite_QuantumEndure",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_FrontShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1128970264
+        },
+        "EliteAbilityText": {
+            "hash": -1128676382
+        },
+        "AbilityName": "Elite_QuantumSoulLink",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -137847185
+        },
+        "EliteAbilityText": {
+            "hash": -137553303
+        },
+        "AbilityName": "Elite_Rampage",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 665173518
+        },
+        "EliteAbilityText": {
+            "hash": 665467400
+        },
+        "AbilityName": "Elite_RangeAttackShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 835456351
+        },
+        "EliteAbilityText": {
+            "hash": 835750233
+        },
+        "AbilityName": "Elite_Reflect",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Reflect"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1497607773
+        },
+        "EliteAbilityText": {
+            "hash": -1497313891
+        },
+        "AbilityName": "Elite_ReflectEle",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_IntervalBramble"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1311389077
+        },
+        "EliteAbilityText": {
+            "hash": -1311095195
+        },
+        "AbilityName": "Elite_ReflectPsy",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_IntervalBramble"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -457503134
+        },
+        "EliteAbilityText": {
+            "hash": -457209252
+        },
+        "AbilityName": "Elite_Requiem",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1479388090
+        },
+        "EliteAbilityText": {
+            "hash": 1479681972
+        },
+        "AbilityName": "Elite_ResistFrozen",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Resistance"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 100681090
+        },
+        "EliteAbilityText": {
+            "hash": 100974972
+        },
+        "AbilityName": "Elite_ResistParalyze",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Resistance"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -357982112
+        },
+        "EliteAbilityText": {
+            "hash": -357688230
+        },
+        "AbilityName": "Elite_ResistStun",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Resistance"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -915479086
+        },
+        "EliteAbilityText": {
+            "hash": -915185204
+        },
+        "AbilityName": "Elite_Revenge",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1924240617
+        },
+        "EliteAbilityText": {
+            "hash": 1924534499
+        },
+        "AbilityName": "Elite_RO_043_Summon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2139701193
+        },
+        "EliteAbilityText": {
+            "hash": -2139407311
+        },
+        "AbilityName": "Elite_Shelter",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Shelter"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1634120602
+        },
+        "EliteAbilityText": {
+            "hash": 1634414484
+        },
+        "AbilityName": "Elite_Shock",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Shock"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1179031442
+        },
+        "EliteAbilityText": {
+            "hash": 1179325324
+        },
+        "AbilityName": "Elite_SonOfMoon",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1541753343
+        },
+        "EliteAbilityText": {
+            "hash": -1541459461
+        },
+        "AbilityName": "Elite_SonOfSun",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -911616457
+        },
+        "EliteAbilityText": {
+            "hash": -911322575
+        },
+        "AbilityName": "Elite_SoulLink",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -911616457
+        },
+        "EliteAbilityText": {
+            "hash": -911322575
+        },
+        "AbilityName": "Elite_SoulLink_OW",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -504925221
+        },
+        "EliteAbilityText": {
+            "hash": -504631339
+        },
+        "AbilityName": "Elite_SoulOfSteel",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SoulOfSteel"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1347657352
+        },
+        "EliteAbilityText": {
+            "hash": -1347363470
+        },
+        "AbilityName": "Elite_SPBurn",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1130969875
+        },
+        "EliteAbilityText": {
+            "hash": 1131263757
+        },
+        "AbilityName": "Elite_SpeedDown",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 506234808
+        },
+        "EliteAbilityText": {
+            "hash": 506528690
+        },
+        "AbilityName": "Elite_SuperShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1391773095
+        },
+        "EliteAbilityText": {
+            "hash": -1391479213
+        },
+        "AbilityName": "Elite_Teleport",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Teleport"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -895298538
+        },
+        "EliteAbilityText": {
+            "hash": -895004656
+        },
+        "AbilityName": "Elite_ThunderDown",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -962931119
+        },
+        "EliteAbilityText": {
+            "hash": -962637237
+        },
+        "AbilityName": "Elite_TrashIce",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -808983976
+        },
+        "EliteAbilityText": {
+            "hash": -808690094
+        },
+        "AbilityName": "Elite_Tsundere",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NW_02"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1835072214
+        },
+        "EliteAbilityText": {
+            "hash": -1834778332
+        },
+        "AbilityName": "Elite_TvT",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_02"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 515606809
+        },
+        "EliteAbilityText": {
+            "hash": 515900691
+        },
+        "AbilityName": "Elite_Wizard",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Wizard"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 337748066
+        },
+        "EliteAbilityText": {
+            "hash": 338041948
+        },
+        "AbilityName": "Elite_Yandere",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NW_01"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 2004952030
+        },
+        "EliteAbilityText": {
+            "hash": 2005245912
+        },
+        "AbilityName": "Fire_Area_Shield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SPBurn"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2041139020
+        },
+        "EliteAbilityText": {
+            "hash": -2040845138
+        },
+        "AbilityName": "Frozen_Area_Shield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -484274646
+        },
+        "EliteAbilityText": {
+            "hash": -483980764
+        },
+        "AbilityName": "Level_ME_DieBleed",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -514687735
+        },
+        "EliteAbilityText": {
+            "hash": -514393853
+        },
+        "AbilityName": "Level_ME_DieBless",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1030143116
+        },
+        "EliteAbilityText": {
+            "hash": -1029849234
+        },
+        "AbilityName": "LevelDungeons_MeleeResist",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_OW_Destiny_HolyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -490142403
+        },
+        "EliteAbilityText": {
+            "hash": -489848521
+        },
+        "AbilityName": "LevelDungeons_RangedResist",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_RangeAttackShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1719145456
+        },
+        "EliteAbilityText": {
+            "hash": 1719439338
+        },
+        "AbilityName": "MP_DeepSea_DieBlackWater",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1382688086
+        },
+        "EliteAbilityText": {
+            "hash": -1382394204
+        },
+        "AbilityName": "MP_Level_IceFlower",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1065306817
+        },
+        "EliteAbilityText": {
+            "hash": -1065012935
+        },
+        "AbilityName": "MP_TeamLevel_BossSkill01",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_IceShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1036677666
+        },
+        "EliteAbilityText": {
+            "hash": -1036383784
+        },
+        "AbilityName": "MP_TeamLevel_BossSkill02",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Revenge"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1008048515
+        },
+        "EliteAbilityText": {
+            "hash": -1007754633
+        },
+        "AbilityName": "MP_TeamLevel_BossSkill03",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_YS_01"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -740608215
+        },
+        "EliteAbilityText": {
+            "hash": -740314333
+        },
+        "AbilityName": "MPCampaign_CarryLight",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ThunderShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -647242368
+        },
+        "EliteAbilityText": {
+            "hash": -646948486
+        },
+        "AbilityName": "MPCampaign_CarryLight_Weak",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Magnetic"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -375905387
+        },
+        "EliteAbilityText": {
+            "hash": -375611505
+        },
+        "AbilityName": "MPCampaign_VoltageShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Magnetic"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1610426052
+        },
+        "EliteAbilityText": {
+            "hash": -1610132170
+        },
+        "AbilityName": "MPLevel_MeleeShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1035492212
+        },
+        "EliteAbilityText": {
+            "hash": 1035786094
+        },
+        "AbilityName": "MPLevel_RangeShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_EnergyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1466968823
+        },
+        "EliteAbilityText": {
+            "hash": -1466674941
+        },
+        "AbilityName": "OptionalBuff_3_OnMonster",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1438339672
+        },
+        "EliteAbilityText": {
+            "hash": -1438045790
+        },
+        "AbilityName": "OptionalBuff_4_OnMonster_Ratio4",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 963046774
+        },
+        "EliteAbilityText": {
+            "hash": 963340656
+        },
+        "AbilityName": "OW_SwitchBattle_Monster_HitForbidSwitch",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ImmuneWitchTime"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -84931542
+        },
+        "EliteAbilityText": {
+            "hash": -84637660
+        },
+        "AbilityName": "OW_SwitchBattle_Monster_HitSwitch",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_InverseTimeSpace"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1778752025
+        },
+        "EliteAbilityText": {
+            "hash": -1778458143
+        },
+        "AbilityName": "OW_SwitchBattle_SoulLink",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 709073244
+        },
+        "EliteAbilityText": {
+            "hash": 709367126
+        },
+        "AbilityName": "OWEndless_BossEnhancedAbility",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Boss2"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1025262107
+        },
+        "EliteAbilityText": {
+            "hash": -1024968225
+        },
+        "AbilityName": "QT_040_Split",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Split"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -765935058
+        },
+        "EliteAbilityText": {
+            "hash": -765641176
+        },
+        "AbilityName": "RO_028_SpecialShield_Ability",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_AbsorptionShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -2065756859
+        },
+        "EliteAbilityText": {
+            "hash": -2065462977
+        },
+        "AbilityName": "RO_070_DefenceBackAbility",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_EnergyShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -909880072
+        },
+        "EliteAbilityText": {
+            "hash": -909586190
+        },
+        "AbilityName": "RO_070_DurandalShieldBreakAbility",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_SuperShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1240077910
+        },
+        "EliteAbilityText": {
+            "hash": 1240371792
+        },
+        "AbilityName": "SelfTower_EliteShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1128970264
+        },
+        "EliteAbilityText": {
+            "hash": -1128676382
+        },
+        "AbilityName": "SingleRaid_SoulLink",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/BuffIcon/Buff_NS_03"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -7626896
+        },
+        "EliteAbilityText": {
+            "hash": -7333014
+        },
+        "AbilityName": "Stage13_EX_ElementalFitShield",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ElementFit"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 2007617163
+        },
+        "EliteAbilityText": {
+            "hash": 2007911045
+        },
+        "AbilityName": "SummerSolo_PhysicZero",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_ComboShield"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -1325524884
+        },
+        "EliteAbilityText": {
+            "hash": -1325231002
+        },
+        "AbilityName": "UL_090_BeamShoot_Hit",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_DizzyEye"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": -575868087
+        },
+        "EliteAbilityText": {
+            "hash": -575574205
+        },
+        "AbilityName": "UL_090_MoveDefend",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_DefendClaw"
+    },
+    {
+        "EliteAbilityDesc": {
+            "hash": 1855407057
+        },
+        "EliteAbilityText": {
+            "hash": 1855700939
+        },
+        "AbilityName": "UL_090_State_Manager",
+        "EliteAbilityIcon": "SpriteOutput/InLevel/EliteIcon/Elite_CrabArmor"
+    }
+]

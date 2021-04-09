@@ -1,0 +1,148 @@
+[
+    {
+        "BulletNum": 36,
+        "BulletWarningNum": 8,
+        "SkillID": 104,
+        "Type": 1,
+        "WeaponID": 1,
+        "AimDistance": 8.0,
+        "BulletRecoverRate": 1.0,
+        "ReloadTime": 3.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_MachineGun/QAvatar_Weapon_MachineGun",
+        "WeaponAttachRoot": "RightHand",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType05_white",
+        "WeaponAttachPosition": [
+            -0.0384,
+            0.0164,
+            0.0015
+        ],
+        "WeaponAttachRotation": [
+            13.436,
+            -50.262,
+            -108.352
+        ],
+        "WeaponAnimationPartsAssetPath": []
+    },
+    {
+        "BulletNum": 20,
+        "BulletWarningNum": 8,
+        "SkillID": 105,
+        "Type": 2,
+        "WeaponID": 2,
+        "AimDistance": 4.0,
+        "BulletRecoverRate": 0.5,
+        "ReloadTime": 5.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_Shotgun/QAvatar_Weapon_Shotgun",
+        "WeaponAttachRoot": "RightHand",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType02_white",
+        "WeaponAttachPosition": [
+            -0.0443,
+            0.0087,
+            0.0064
+        ],
+        "WeaponAttachRotation": [
+            9.736,
+            -47.06,
+            -106.3
+        ],
+        "WeaponAnimationPartsAssetPath": []
+    },
+    {
+        "BulletNum": 3,
+        "BulletWarningNum": 1,
+        "SkillID": 106,
+        "Type": 3,
+        "WeaponID": 3,
+        "AimDistance": 10.0,
+        "BulletRecoverRate": 0.25,
+        "ReloadTime": 6.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_Bazooka/QAvatar_Weapon_Bazooka2",
+        "WeaponAttachRoot": "RightHand",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType01_white",
+        "WeaponAttachPosition": [
+            -0.12,
+            0.09,
+            0.042
+        ],
+        "WeaponAttachRotation": [
+            -10.657,
+            -17.586,
+            -131.372
+        ],
+        "WeaponAnimationPartsAssetPath": [
+            "ChatLobby/Weapon/QAvatar_Bazooka/QAvatar_Weapon_Bazooka1"
+        ]
+    },
+    {
+        "BulletNum": 20,
+        "BulletWarningNum": 8,
+        "SkillID": 107,
+        "Type": 4,
+        "WeaponID": 4,
+        "AimDistance": 8.0,
+        "BulletRecoverRate": 0.5,
+        "ReloadTime": 5.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_Lasergun/QAvatar_Weapon_Lasergun",
+        "WeaponAttachRoot": "RightForearm",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType03_white",
+        "WeaponAttachPosition": [
+            -0.0855,
+            -0.00015,
+            0.0036
+        ],
+        "WeaponAttachRotation": [
+            7.565,
+            -90.231,
+            -159.091
+        ],
+        "WeaponAnimationPartsAssetPath": []
+    },
+    {
+        "BulletNum": 20,
+        "BulletWarningNum": 8,
+        "SkillID": 108,
+        "Type": 5,
+        "WeaponID": 5,
+        "AimDistance": 6.0,
+        "BulletRecoverRate": 0.5,
+        "ReloadTime": 5.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_Flamethrower/QAvatar_Weapon_Flamethrower",
+        "WeaponAttachRoot": "RightHand",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType04_white",
+        "WeaponAttachPosition": [
+            -0.121,
+            0.098,
+            0.069
+        ],
+        "WeaponAttachRotation": [
+            -13.784,
+            -21.088,
+            -130.377
+        ],
+        "WeaponAnimationPartsAssetPath": []
+    },
+    {
+        "BulletNum": 5,
+        "BulletWarningNum": 2,
+        "SkillID": 109,
+        "Type": 6,
+        "WeaponID": 6,
+        "AimDistance": 12.0,
+        "BulletRecoverRate": 0.25,
+        "ReloadTime": 5.0,
+        "WeaponAssetPath": "ChatLobby/Weapon/QAvatar_Snipergun/QAvatar_Weapon_Snipergun",
+        "WeaponAttachRoot": "RightHand",
+        "WeaponTypeIcon": "SpriteOutput/RpgSurvival/WeaponType/WeaponType03_white",
+        "WeaponAttachPosition": [
+            -0.0565,
+            0.0236,
+            -0.005
+        ],
+        "WeaponAttachRotation": [
+            -13.491,
+            -92.651,
+            -98.4
+        ],
+        "WeaponAnimationPartsAssetPath": []
+    }
+]

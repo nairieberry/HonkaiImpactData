@@ -1,0 +1,327 @@
+[
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 4,
+        "MaxFirstRewardNum": 10000,
+        "RaffleId": 1,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114360
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 10,
+        "MaxFirstRewardNum": 10000,
+        "RaffleId": 2,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114360
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 1,
+        "MaxFirstRewardNum": 20000,
+        "RaffleId": 3,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [],
+        "FirstRewardNumberList": [
+            18,
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 1,
+        "MaxFirstRewardNum": 20000,
+        "RaffleId": 4,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [],
+        "FirstRewardNumberList": [
+            18,
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 4,
+        "MaxFirstRewardNum": 5,
+        "RaffleId": 33,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114359
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 10,
+        "MaxFirstRewardNum": 10,
+        "RaffleId": 34,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114359
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 4,
+        "MaxFirstRewardNum": 5,
+        "RaffleId": 35,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114361
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114362
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114363
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114364
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114360
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 10,
+        "MaxFirstRewardNum": 10,
+        "RaffleId": 36,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 114361
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114362
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114363
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114364
+            },
+            {
+                "Count": 1,
+                "MaterialID": 114360
+            }
+        ],
+        "FirstRewardNumberList": [
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 1,
+        "MaxFirstRewardNum": 5,
+        "RaffleId": 37,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [],
+        "FirstRewardNumberList": [
+            18,
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 0,
+        "MaxDrawTimes": 1,
+        "MaxFirstRewardNum": 10,
+        "RaffleId": 38,
+        "TextmapRule": {
+            "hash": 0
+        },
+        "CostMaterialList": [],
+        "FirstRewardNumberList": [
+            18,
+            19
+        ],
+        "SecondRewardNumberList": [
+            5
+        ]
+    },
+    {
+        "RaffleGroup": 6,
+        "MaxDrawTimes": 0,
+        "MaxFirstRewardNum": 10,
+        "RaffleId": 43,
+        "TextmapRule": {
+            "hash": -1870750514
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 1061050
+            }
+        ],
+        "FirstRewardNumberList": [
+            999
+        ],
+        "SecondRewardNumberList": []
+    },
+    {
+        "RaffleGroup": 6,
+        "MaxDrawTimes": 0,
+        "MaxFirstRewardNum": 15,
+        "RaffleId": 44,
+        "TextmapRule": {
+            "hash": -1870750514
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 1061050
+            }
+        ],
+        "FirstRewardNumberList": [
+            999
+        ],
+        "SecondRewardNumberList": []
+    },
+    {
+        "RaffleGroup": 6,
+        "MaxDrawTimes": 0,
+        "MaxFirstRewardNum": 80,
+        "RaffleId": 45,
+        "TextmapRule": {
+            "hash": -1870750514
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 1061050
+            }
+        ],
+        "FirstRewardNumberList": [
+            991,
+            992,
+            993
+        ],
+        "SecondRewardNumberList": []
+    },
+    {
+        "RaffleGroup": 6,
+        "MaxDrawTimes": 0,
+        "MaxFirstRewardNum": 600,
+        "RaffleId": 46,
+        "TextmapRule": {
+            "hash": -1870750514
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 1061050
+            }
+        ],
+        "FirstRewardNumberList": [
+            99
+        ],
+        "SecondRewardNumberList": []
+    },
+    {
+        "RaffleGroup": 6,
+        "MaxDrawTimes": 0,
+        "MaxFirstRewardNum": 5500,
+        "RaffleId": 47,
+        "TextmapRule": {
+            "hash": -1870750514
+        },
+        "CostMaterialList": [
+            {
+                "Count": 1,
+                "MaterialID": 1061050
+            }
+        ],
+        "FirstRewardNumberList": [
+            6,
+            7,
+            8
+        ],
+        "SecondRewardNumberList": []
+    }
+]

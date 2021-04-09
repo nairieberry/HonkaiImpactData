@@ -1,0 +1,533 @@
+[
+    {
+        "id": 10001,
+        "thread": 4,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesWarrior"
+    },
+    {
+        "id": 10002,
+        "thread": 2,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesFast"
+    },
+    {
+        "id": 10003,
+        "thread": 4,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesDefend"
+    },
+    {
+        "id": 10004,
+        "thread": 6,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesThrow"
+    },
+    {
+        "id": 10005,
+        "thread": 2,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 10006,
+        "thread": 2,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "DeadArcher"
+    },
+    {
+        "id": 10007,
+        "thread": 5,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "DeadKiller"
+    },
+    {
+        "id": 10008,
+        "thread": 7,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "DeadWitch"
+    },
+    {
+        "id": 10009,
+        "thread": 4,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 10010,
+        "thread": 7,
+        "type": 1,
+        "uniqueID": 0,
+        "configType": "Default",
+        "groupLevelRange": "1,7",
+        "name": "RobotLauncher"
+    },
+    {
+        "id": 21101,
+        "thread": 15,
+        "type": 2,
+        "uniqueID": 401,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,3",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 21102,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 402,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 21103,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 403,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 21104,
+        "thread": 15,
+        "type": 2,
+        "uniqueID": 404,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 21105,
+        "thread": 15,
+        "type": 2,
+        "uniqueID": 405,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadArcher"
+    },
+    {
+        "id": 21106,
+        "thread": 30,
+        "type": 2,
+        "uniqueID": 406,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesWarrior"
+    },
+    {
+        "id": 21107,
+        "thread": 35,
+        "type": 2,
+        "uniqueID": 407,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesRider"
+    },
+    {
+        "id": 21108,
+        "thread": 35,
+        "type": 2,
+        "uniqueID": 408,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadKiller"
+    },
+    {
+        "id": 21109,
+        "thread": 35,
+        "type": 2,
+        "uniqueID": 409,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 21110,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 410,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesDefend"
+    },
+    {
+        "id": 21111,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 411,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWitch"
+    },
+    {
+        "id": 21112,
+        "thread": 20,
+        "type": 2,
+        "uniqueID": 412,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadArcher"
+    },
+    {
+        "id": 21113,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 413,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWitch"
+    },
+    {
+        "id": 21114,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 414,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 21115,
+        "thread": 15,
+        "type": 2,
+        "uniqueID": 415,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 21116,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 416,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesDefend"
+    },
+    {
+        "id": 21117,
+        "thread": 40,
+        "type": 2,
+        "uniqueID": 417,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "4,7",
+        "name": "RobotLauncher"
+    },
+    {
+        "id": 21118,
+        "thread": 35,
+        "type": 2,
+        "uniqueID": 418,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "5,7",
+        "name": "DeadKiller"
+    },
+    {
+        "id": 31101,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 401,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,1",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 31102,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 402,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 31103,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 403,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 31104,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 404,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 31105,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 405,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "DeadArcher"
+    },
+    {
+        "id": 31106,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 406,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "UlyssesWarrior"
+    },
+    {
+        "id": 31107,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 407,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "UlyssesRider"
+    },
+    {
+        "id": 31108,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 408,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "DeadKiller"
+    },
+    {
+        "id": 31109,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 409,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 31110,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 410,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesDefend"
+    },
+    {
+        "id": 31111,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 411,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,2",
+        "name": "DeadWitch"
+    },
+    {
+        "id": 31112,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 412,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadArcher"
+    },
+    {
+        "id": 31113,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 413,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWitch"
+    },
+    {
+        "id": 31114,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 414,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 31115,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 415,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 31116,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 416,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "UlyssesDefend"
+    },
+    {
+        "id": 31117,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 417,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "2,4",
+        "name": "RobotLauncher"
+    },
+    {
+        "id": 31118,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 418,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "3,4",
+        "name": "DeadWalker"
+    },
+    {
+        "id": 31119,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 419,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "5,7",
+        "name": "RobotLauncher"
+    },
+    {
+        "id": 31120,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 420,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "5,7",
+        "name": "RobotTitan"
+    },
+    {
+        "id": 31121,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 421,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "3,7",
+        "name": "RobotLauncher"
+    },
+    {
+        "id": 31122,
+        "thread": 10,
+        "type": 3,
+        "uniqueID": 422,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "3,7",
+        "name": "DeadGhost"
+    },
+    {
+        "id": 41101,
+        "thread": 40,
+        "type": 4,
+        "uniqueID": 423,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DAKiana"
+    },
+    {
+        "id": 41102,
+        "thread": 40,
+        "type": 4,
+        "uniqueID": 424,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DAKiana"
+    },
+    {
+        "id": 41103,
+        "thread": 40,
+        "type": 4,
+        "uniqueID": 425,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DAMei"
+    },
+    {
+        "id": 41104,
+        "thread": 40,
+        "type": 4,
+        "uniqueID": 426,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "DAMei"
+    },
+    {
+        "id": 51101,
+        "thread": 0,
+        "type": 5,
+        "uniqueID": 427,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "BossUlysses"
+    },
+    {
+        "id": 51102,
+        "thread": 0,
+        "type": 5,
+        "uniqueID": 428,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "BossBronya"
+    },
+    {
+        "id": 51103,
+        "thread": 0,
+        "type": 5,
+        "uniqueID": 429,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,7",
+        "name": "BossWendy"
+    },
+    {
+        "id": 61101,
+        "thread": 0,
+        "type": 6,
+        "uniqueID": 430,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "1,3",
+        "name": "RobotTNinja"
+    },
+    {
+        "id": 61102,
+        "thread": 0,
+        "type": 6,
+        "uniqueID": 431,
+        "configType": "UniqueMonster",
+        "groupLevelRange": "4,7",
+        "name": "RobotTNinja"
+    }
+]

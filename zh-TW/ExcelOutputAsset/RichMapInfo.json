@@ -1,0 +1,478 @@
+[
+    {
+        "ID": 1,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid05",
+        "InfoText": "Rich_Info_Text_1",
+        "InfoTitle": "Rich_Info_Title_1"
+    },
+    {
+        "ID": 3,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_thunder01",
+        "InfoText": "Rich_Info_Text_3",
+        "InfoTitle": "Rich_Info_Title_3"
+    },
+    {
+        "ID": 4,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_thunder02",
+        "InfoText": "Rich_Info_Text_4",
+        "InfoTitle": "Rich_Info_Title_4"
+    },
+    {
+        "ID": 6,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Query",
+        "InfoText": "Rich_Info_Text_6",
+        "InfoTitle": "Rich_Info_Title_6"
+    },
+    {
+        "ID": 7,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Random",
+        "InfoText": "Rich_Info_Text_7",
+        "InfoTitle": "Rich_Info_Title_7"
+    },
+    {
+        "ID": 8,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_RedEnvelope",
+        "InfoText": "Rich_Info_Text_8",
+        "InfoTitle": "Rich_Info_Title_8"
+    },
+    {
+        "ID": 9,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Block_1",
+        "InfoText": "Rich_Info_Text_9",
+        "InfoTitle": "Rich_Info_Title_9"
+    },
+    {
+        "ID": 10,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game1_LV1",
+        "InfoText": "Rich_Info_Text_10",
+        "InfoTitle": "Rich_Info_Title_10"
+    },
+    {
+        "ID": 12,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+        "InfoText": "Rich_Info_Text_12",
+        "InfoTitle": "Rich_Info_Title_12"
+    },
+    {
+        "ID": 13,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+        "InfoText": "Rich_Info_Text_13",
+        "InfoTitle": "Rich_Info_Title_13"
+    },
+    {
+        "ID": 14,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_palsy",
+        "InfoText": "Rich_Info_Text_14",
+        "InfoTitle": "Rich_Info_Title_14"
+    },
+    {
+        "ID": 15,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+        "InfoText": "Rich_Info_Text_15",
+        "InfoTitle": "Rich_Info_Title_15"
+    },
+    {
+        "ID": 16,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_BuildingTag_Model",
+        "InfoText": "Rich_Info_Text_16",
+        "InfoTitle": "Rich_Info_Title_16"
+    },
+    {
+        "ID": 17,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Shop_LV2",
+        "InfoText": "Rich_Info_Text_17",
+        "InfoTitle": "Rich_Info_Title_17"
+    },
+    {
+        "ID": 18,
+        "RichAreaID": 1,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Stage_Box",
+        "InfoText": "Rich_Info_Text_18",
+        "InfoTitle": "Rich_Info_Title_18"
+    },
+    {
+        "ID": 19,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid05",
+        "InfoText": "Rich_Info_Text_19",
+        "InfoTitle": "Rich_Info_Title_19"
+    },
+    {
+        "ID": 21,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_fire01",
+        "InfoText": "Rich_Info_Text_21",
+        "InfoTitle": "Rich_Info_Title_21"
+    },
+    {
+        "ID": 22,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_fire02",
+        "InfoText": "Rich_Info_Text_22",
+        "InfoTitle": "Rich_Info_Title_22"
+    },
+    {
+        "ID": 24,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Query",
+        "InfoText": "Rich_Info_Text_24",
+        "InfoTitle": "Rich_Info_Title_24"
+    },
+    {
+        "ID": 25,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Random",
+        "InfoText": "Rich_Info_Text_25",
+        "InfoTitle": "Rich_Info_Title_25"
+    },
+    {
+        "ID": 26,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_RedEnvelope",
+        "InfoText": "Rich_Info_Text_26",
+        "InfoTitle": "Rich_Info_Title_26"
+    },
+    {
+        "ID": 27,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Block_1",
+        "InfoText": "Rich_Info_Text_27",
+        "InfoTitle": "Rich_Info_Title_27"
+    },
+    {
+        "ID": 29,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_kindle",
+        "InfoText": "Rich_Info_Text_29",
+        "InfoTitle": "Rich_Info_Title_29"
+    },
+    {
+        "ID": 30,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_kindle",
+        "InfoText": "Rich_Info_Text_30",
+        "InfoTitle": "Rich_Info_Title_30"
+    },
+    {
+        "ID": 31,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game3_LV1",
+        "InfoText": "Rich_Info_Text_31",
+        "InfoTitle": "Rich_Info_Title_31"
+    },
+    {
+        "ID": 32,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_kindle",
+        "InfoText": "Rich_Info_Text_32",
+        "InfoTitle": "Rich_Info_Title_32"
+    },
+    {
+        "ID": 33,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+        "InfoText": "Rich_Info_Text_33",
+        "InfoTitle": "Rich_Info_Title_33"
+    },
+    {
+        "ID": 34,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_BuildingTag_Model",
+        "InfoText": "Rich_Info_Text_34",
+        "InfoTitle": "Rich_Info_Title_34"
+    },
+    {
+        "ID": 35,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Shop_LV2",
+        "InfoText": "Rich_Info_Text_35",
+        "InfoTitle": "Rich_Info_Title_35"
+    },
+    {
+        "ID": 36,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Stage_Box",
+        "InfoText": "Rich_Info_Text_36",
+        "InfoTitle": "Rich_Info_Title_36"
+    },
+    {
+        "ID": 37,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid05",
+        "InfoText": "Rich_Info_Text_37",
+        "InfoTitle": "Rich_Info_Title_37"
+    },
+    {
+        "ID": 40,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_ice01",
+        "InfoText": "Rich_Info_Text_40",
+        "InfoTitle": "Rich_Info_Title_40"
+    },
+    {
+        "ID": 41,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Boss",
+        "InfoText": "Rich_Info_Text_41",
+        "InfoTitle": "Rich_Info_Title_41"
+    },
+    {
+        "ID": 42,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Query",
+        "InfoText": "Rich_Info_Text_42",
+        "InfoTitle": "Rich_Info_Title_42"
+    },
+    {
+        "ID": 43,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Random",
+        "InfoText": "Rich_Info_Text_43",
+        "InfoTitle": "Rich_Info_Title_43"
+    },
+    {
+        "ID": 44,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_RedEnvelope",
+        "InfoText": "Rich_Info_Text_44",
+        "InfoTitle": "Rich_Info_Title_44"
+    },
+    {
+        "ID": 45,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Block_1",
+        "InfoText": "Rich_Info_Text_45",
+        "InfoTitle": "Rich_Info_Title_45"
+    },
+    {
+        "ID": 47,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_frozen",
+        "InfoText": "Rich_Info_Text_47",
+        "InfoTitle": "Rich_Info_Title_47"
+    },
+    {
+        "ID": 48,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV2_frozen",
+        "InfoText": "Rich_Info_Text_48",
+        "InfoTitle": "Rich_Info_Title_48"
+    },
+    {
+        "ID": 49,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_frozen",
+        "InfoText": "Rich_Info_Text_49",
+        "InfoTitle": "Rich_Info_Title_49"
+    },
+    {
+        "ID": 50,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game4_LV1",
+        "InfoText": "Rich_Info_Text_50",
+        "InfoTitle": "Rich_Info_Title_50"
+    },
+    {
+        "ID": 51,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+        "InfoText": "Rich_Info_Text_51",
+        "InfoTitle": "Rich_Info_Title_51"
+    },
+    {
+        "ID": 52,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_BuildingTag_Model",
+        "InfoText": "Rich_Info_Text_52",
+        "InfoTitle": "Rich_Info_Title_52"
+    },
+    {
+        "ID": 53,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Shop_LV3",
+        "InfoText": "Rich_Info_Text_53",
+        "InfoTitle": "Rich_Info_Title_53"
+    },
+    {
+        "ID": 54,
+        "RichAreaID": 3,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Stage_Box",
+        "InfoText": "Rich_Info_Text_54",
+        "InfoTitle": "Rich_Info_Title_54"
+    },
+    {
+        "ID": 55,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid05",
+        "InfoText": "Rich_Info_Text_55",
+        "InfoTitle": "Rich_Info_Title_55"
+    },
+    {
+        "ID": 57,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_thunder01",
+        "InfoText": "Rich_Info_Text_57",
+        "InfoTitle": "Rich_Info_Title_57"
+    },
+    {
+        "ID": 58,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_thunder02",
+        "InfoText": "Rich_Info_Text_58",
+        "InfoTitle": "Rich_Info_Title_58"
+    },
+    {
+        "ID": 59,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Boss_2",
+        "InfoText": "Rich_Info_Text_59",
+        "InfoTitle": "Rich_Info_Title_59"
+    },
+    {
+        "ID": 60,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Query",
+        "InfoText": "Rich_Info_Text_60",
+        "InfoTitle": "Rich_Info_Title_60"
+    },
+    {
+        "ID": 61,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Random",
+        "InfoText": "Rich_Info_Text_61",
+        "InfoTitle": "Rich_Info_Title_61"
+    },
+    {
+        "ID": 62,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_RedEnvelope",
+        "InfoText": "Rich_Info_Text_62",
+        "InfoTitle": "Rich_Info_Title_62"
+    },
+    {
+        "ID": 63,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Block_1",
+        "InfoText": "Rich_Info_Text_63",
+        "InfoTitle": "Rich_Info_Title_63"
+    },
+    {
+        "ID": 65,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Attribute_LV1_palsy",
+        "InfoText": "Rich_Info_Text_65",
+        "InfoTitle": "Rich_Info_Title_65"
+    },
+    {
+        "ID": 66,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Element_LV1_palsy",
+        "InfoText": "Rich_Info_Text_66",
+        "InfoTitle": "Rich_Info_Title_66"
+    },
+    {
+        "ID": 67,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Game2_LV1_palsy",
+        "InfoText": "Rich_Info_Text_67",
+        "InfoTitle": "Rich_Info_Title_67"
+    },
+    {
+        "ID": 69,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Building_Money_LV1",
+        "InfoText": "Rich_Info_Text_69",
+        "InfoTitle": "Rich_Info_Title_69"
+    },
+    {
+        "ID": 70,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_BuildingTag_Model",
+        "InfoText": "Rich_Info_Text_70",
+        "InfoTitle": "Rich_Info_Title_70"
+    },
+    {
+        "ID": 71,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Shop_LV2",
+        "InfoText": "Rich_Info_Text_71",
+        "InfoTitle": "Rich_Info_Title_71"
+    },
+    {
+        "ID": 72,
+        "RichAreaID": 4,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_Stage_Box",
+        "InfoText": "Rich_Info_Text_72",
+        "InfoTitle": "Rich_Info_Title_72"
+    },
+    {
+        "ID": 73,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/SummerTreasure_UI3D_IceBlock1",
+        "InfoText": "Rich_Info_Text_73",
+        "InfoTitle": "Rich_Info_Title_73"
+    },
+    {
+        "ID": 74,
+        "RichAreaID": 2,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/LevelMatrix_Effect_Richman_Transport_BlackRed",
+        "InfoText": "Rich_Info_Text_74",
+        "InfoTitle": "Rich_Info_Title_74"
+    },
+    {
+        "ID": 75,
+        "RichAreaID": 5,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid05",
+        "InfoText": "Rich_Info_Text_1",
+        "InfoTitle": "Rich_Info_Title_1"
+    },
+    {
+        "ID": 76,
+        "RichAreaID": 6,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid06",
+        "InfoText": "Rich_Info_Text_76",
+        "InfoTitle": "Rich_Info_Title_76"
+    },
+    {
+        "ID": 77,
+        "RichAreaID": 6,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Ahead1",
+        "InfoText": "Rich_Info_Text_77",
+        "InfoTitle": "Rich_Info_Title_77"
+    },
+    {
+        "ID": 78,
+        "RichAreaID": 6,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_Homo",
+        "InfoText": "Rich_Info_Text_78",
+        "InfoTitle": "Rich_Info_Title_78"
+    },
+    {
+        "ID": 79,
+        "RichAreaID": 7,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid07",
+        "InfoText": "Rich_Info_Text_79",
+        "InfoTitle": "Rich_Info_Title_79"
+    },
+    {
+        "ID": 80,
+        "RichAreaID": 8,
+        "InfoIconPath": "SpriteOutput/SummerTreasureHunt/Floor/Richman_grid08",
+        "InfoText": "Rich_Info_Text_80",
+        "InfoTitle": "Rich_Info_Title_80"
+    }
+]

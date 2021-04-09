@@ -1,0 +1,842 @@
+[
+    {
+        "actionGroup": 201,
+        "actionSubType": 20,
+        "actionType": 1,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_AnyButton",
+        "actionName": "AnyButton",
+        "defaultKey": "None",
+        "defaultInControlType": [
+            "None"
+        ]
+    },
+    {
+        "actionGroup": 202,
+        "actionSubType": 20,
+        "actionType": 1,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_AnyCommandButton",
+        "actionName": "AnyCommandButton",
+        "defaultKey": "None",
+        "defaultInControlType": [
+            "None"
+        ]
+    },
+    {
+        "actionGroup": 11,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_ATK",
+        "actionName": "ATK",
+        "defaultKey": "J",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 220,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_DLC_ATK",
+        "actionName": "DLC_ATK",
+        "defaultKey": "J",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 224,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_DLC_KeySwapAvatar1",
+        "actionName": "DLC_KeySwapAvatar1",
+        "defaultKey": "Key1",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 225,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_DLC_KeySwapAvatar2",
+        "actionName": "DLC_KeySwapAvatar2",
+        "defaultKey": "Key2",
+        "defaultInControlType": [
+            "RightTrigger"
+        ]
+    },
+    {
+        "actionGroup": 222,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_DLC_SKL_WEAPON",
+        "actionName": "DLC_SKL_WEAPON",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 221,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_DLC_SKL01",
+        "actionName": "DLC_SKL01",
+        "defaultKey": "K",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 231,
+        "actionSubType": 22,
+        "actionType": 5,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_EVA_TPS_WEAPON",
+        "actionName": "EVA_TPS_WEAPON",
+        "defaultKey": "Key1",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 112,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_EventDialog_DialogueClick",
+        "actionName": "EventDialog_DialogueClick",
+        "defaultKey": "Return",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 102,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_EventDialog_HideShowBtn",
+        "actionName": "EventDialog_HideShowBtn",
+        "defaultKey": "I",
+        "defaultInControlType": [
+            "Action4"
+        ]
+    },
+    {
+        "actionGroup": 112,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_EventDialog_NarrationClick",
+        "actionName": "EventDialog_NarrationClick",
+        "defaultKey": "Return",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 101,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_EventDialog_SkipBtn",
+        "actionName": "EventDialog_SkipBtn",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 111,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 4,
+        "actionGroupString": "InControlActionGroupString_Exit_Game",
+        "actionName": "Exit_Game",
+        "defaultKey": "Escape",
+        "defaultInControlType": [
+            "Home",
+            "Options",
+            "Menu",
+            "Start"
+        ]
+    },
+    {
+        "actionGroup": 113,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_General_Back",
+        "actionName": "General_Back",
+        "defaultKey": "Backquote",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 203,
+        "actionSubType": 20,
+        "actionType": 1,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_General_Cancel",
+        "actionName": "General_Cancel",
+        "defaultKey": "Escape",
+        "defaultInControlType": [
+            "Capture",
+            "Share",
+            "View",
+            "Back"
+        ]
+    },
+    {
+        "actionGroup": 112,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_General_Ensure",
+        "actionName": "General_Ensure",
+        "defaultKey": "Return",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 17,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_InLevelMainPage_SkillTutorial",
+        "actionName": "InLevelMainPage_SkillTutorial",
+        "defaultKey": "O",
+        "defaultInControlType": [
+            "DPadUp"
+        ]
+    },
+    {
+        "actionGroup": 223,
+        "actionSubType": 22,
+        "actionType": 3,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_JUMP",
+        "actionName": "JUMP",
+        "defaultKey": "SPACE",
+        "defaultInControlType": [
+            "Action4"
+        ]
+    },
+    {
+        "actionGroup": 15,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_KeySwapAvatar1",
+        "actionName": "KeySwapAvatar1",
+        "defaultKey": "Key1",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 16,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_KeySwapAvatar2",
+        "actionName": "KeySwapAvatar2",
+        "defaultKey": "Key2",
+        "defaultInControlType": [
+            "RightTrigger"
+        ]
+    },
+    {
+        "actionGroup": 114,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 4,
+        "actionGroupString": "InControlActionGroupString_MainMenu",
+        "actionName": "MainMenu",
+        "defaultKey": "Home",
+        "defaultInControlType": [
+            "Capture",
+            "Share",
+            "View",
+            "Back"
+        ]
+    },
+    {
+        "actionGroup": 116,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseDown",
+        "actionName": "MouseDown",
+        "defaultKey": "S",
+        "defaultInControlType": [
+            "LeftStickDown"
+        ]
+    },
+    {
+        "actionGroup": 117,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseLeft",
+        "actionName": "MouseLeft",
+        "defaultKey": "A",
+        "defaultInControlType": [
+            "LeftStickLeft"
+        ]
+    },
+    {
+        "actionGroup": 118,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseRight",
+        "actionName": "MouseRight",
+        "defaultKey": "D",
+        "defaultInControlType": [
+            "LeftStickRight"
+        ]
+    },
+    {
+        "actionGroup": 115,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseUp",
+        "actionName": "MouseUp",
+        "defaultKey": "W",
+        "defaultInControlType": [
+            "LeftStickUp"
+        ]
+    },
+    {
+        "actionGroup": 120,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseWhellDown",
+        "actionName": "MouseWhellDown",
+        "defaultKey": "DownArrow",
+        "defaultInControlType": [
+            "RightStickDown"
+        ]
+    },
+    {
+        "actionGroup": 121,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseWhellLeft",
+        "actionName": "MouseWhellLeft",
+        "defaultKey": "LeftArrow",
+        "defaultInControlType": [
+            "RightStickLeft"
+        ]
+    },
+    {
+        "actionGroup": 122,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseWhellRight",
+        "actionName": "MouseWhellRight",
+        "defaultKey": "RightArrow",
+        "defaultInControlType": [
+            "RightStickRight"
+        ]
+    },
+    {
+        "actionGroup": 119,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MouseWhellUp",
+        "actionName": "MouseWhellUp",
+        "defaultKey": "UpArrow",
+        "defaultInControlType": [
+            "RightStickUp"
+        ]
+    },
+    {
+        "actionGroup": 32,
+        "actionSubType": 3,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MoveDown",
+        "actionName": "MoveDown",
+        "defaultKey": "S",
+        "defaultInControlType": [
+            "LeftStickDown"
+        ]
+    },
+    {
+        "actionGroup": 33,
+        "actionSubType": 3,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MoveLeft",
+        "actionName": "MoveLeft",
+        "defaultKey": "A",
+        "defaultInControlType": [
+            "LeftStickLeft"
+        ]
+    },
+    {
+        "actionGroup": 34,
+        "actionSubType": 3,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MoveRight",
+        "actionName": "MoveRight",
+        "defaultKey": "D",
+        "defaultInControlType": [
+            "LeftStickRight"
+        ]
+    },
+    {
+        "actionGroup": 31,
+        "actionSubType": 3,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_MoveUp",
+        "actionName": "MoveUp",
+        "defaultKey": "W",
+        "defaultInControlType": [
+            "LeftStickUp"
+        ]
+    },
+    {
+        "actionGroup": 18,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_MP_BreakOut",
+        "actionName": "MP_BreakOut",
+        "defaultKey": "P",
+        "defaultInControlType": [
+            "DPadDown"
+        ]
+    },
+    {
+        "actionGroup": 111,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 4,
+        "actionGroupString": "InControlActionGroupString_PauseBtn",
+        "actionName": "PauseBtn",
+        "defaultKey": "Escape",
+        "defaultInControlType": [
+            "Home",
+            "Options",
+            "Menu",
+            "Start"
+        ]
+    },
+    {
+        "actionGroup": 112,
+        "actionSubType": 11,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_Plot_Click_BG",
+        "actionName": "Plot_Click_BG",
+        "defaultKey": "Return",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 101,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_Plot_Click_Skip",
+        "actionName": "Plot_Click_Skip",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 226,
+        "actionSubType": 23,
+        "actionType": 4,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_PWB_ATK",
+        "actionName": "PWB_ATK",
+        "defaultKey": "J",
+        "defaultInControlType": [
+            "Action2"
+        ]
+    },
+    {
+        "actionGroup": 227,
+        "actionSubType": 23,
+        "actionType": 4,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_PWB_SKL01",
+        "actionName": "PWB_SKL01",
+        "defaultKey": "K",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 228,
+        "actionSubType": 23,
+        "actionType": 4,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_PWB_SKL02",
+        "actionName": "PWB_SKL02",
+        "defaultKey": "I",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 211,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_ATK",
+        "actionName": "Q_ATK",
+        "defaultKey": "J",
+        "defaultInControlType": [
+            "RightBumper"
+        ]
+    },
+    {
+        "actionGroup": 216,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateDown",
+        "actionName": "Q_RotateDown",
+        "defaultKey": "DownArrow",
+        "defaultInControlType": [
+            "RightStickDown"
+        ]
+    },
+    {
+        "actionGroup": 217,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateLeft",
+        "actionName": "Q_RotateLeft",
+        "defaultKey": "LeftArrow",
+        "defaultInControlType": [
+            "RightStickLeft"
+        ]
+    },
+    {
+        "actionGroup": 218,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateRight",
+        "actionName": "Q_RotateRight",
+        "defaultKey": "RightArrow",
+        "defaultInControlType": [
+            "RightStickRight"
+        ]
+    },
+    {
+        "actionGroup": 215,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateUp",
+        "actionName": "Q_RotateUp",
+        "defaultKey": "UpArrow",
+        "defaultInControlType": [
+            "RightStickUp"
+        ]
+    },
+    {
+        "actionGroup": 212,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL01",
+        "actionName": "Q_SKL01",
+        "defaultKey": "K",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 213,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL02",
+        "actionName": "Q_SKL02",
+        "defaultKey": "I",
+        "defaultInControlType": [
+            "LeftBumper"
+        ]
+    },
+    {
+        "actionGroup": 214,
+        "actionSubType": 21,
+        "actionType": 2,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_SKL03",
+        "actionName": "Q_SKL03",
+        "defaultKey": "H",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 43,
+        "actionSubType": 4,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateDown",
+        "actionName": "RotateDown",
+        "defaultKey": "M",
+        "defaultInControlType": [
+            "RightStickDown"
+        ]
+    },
+    {
+        "actionGroup": 44,
+        "actionSubType": 4,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateLeft",
+        "actionName": "RotateLeft",
+        "defaultKey": "Q",
+        "defaultInControlType": [
+            "RightStickLeft"
+        ]
+    },
+    {
+        "actionGroup": 45,
+        "actionSubType": 4,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateRight",
+        "actionName": "RotateRight",
+        "defaultKey": "E",
+        "defaultInControlType": [
+            "RightStickRight"
+        ]
+    },
+    {
+        "actionGroup": 42,
+        "actionSubType": 4,
+        "actionType": 0,
+        "bindingSettingsType": 3,
+        "actionGroupString": "InControlActionGroupString_RotateUp",
+        "actionName": "RotateUp",
+        "defaultKey": "N",
+        "defaultInControlType": [
+            "RightStickUp"
+        ]
+    },
+    {
+        "actionGroup": 41,
+        "actionSubType": 4,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SetRotateToFaceDirection",
+        "actionName": "SetRotateToFaceDirection",
+        "defaultKey": "F2",
+        "defaultInControlType": [
+            "RightStickButton"
+        ]
+    },
+    {
+        "actionGroup": 14,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_CARD",
+        "actionName": "SKL_CARD",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 21,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_CUSTOM",
+        "actionName": "SKL_CUSTOM",
+        "defaultKey": "F",
+        "defaultInControlType": [
+            "DPadLeft"
+        ]
+    },
+    {
+        "actionGroup": 15,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_CUSTOM2",
+        "actionName": "SKL_CUSTOM2",
+        "defaultKey": "Key1",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 16,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_CUSTOM3",
+        "actionName": "SKL_CUSTOM3",
+        "defaultKey": "Key2",
+        "defaultInControlType": [
+            "RightTrigger"
+        ]
+    },
+    {
+        "actionGroup": 12,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_FUNC",
+        "actionName": "SKL_FUNC",
+        "defaultKey": "K",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 16,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_MP_SUBTEAMSKILL",
+        "actionName": "SKL_MP_SUBTEAMSKILL",
+        "defaultKey": "Key2",
+        "defaultInControlType": [
+            "RightTrigger"
+        ]
+    },
+    {
+        "actionGroup": 15,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_MP_TEAMSKILL",
+        "actionName": "SKL_MP_TEAMSKILL",
+        "defaultKey": "Key1",
+        "defaultInControlType": [
+            "LeftTrigger"
+        ]
+    },
+    {
+        "actionGroup": 22,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_PET",
+        "actionName": "SKL_PET",
+        "defaultKey": "L",
+        "defaultInControlType": [
+            "DPadRight"
+        ]
+    },
+    {
+        "actionGroup": 46,
+        "actionSubType": 2,
+        "actionType": 0,
+        "bindingSettingsType": 0,
+        "actionGroupString": "InControlActionGroupString_SKL_TEAMULTRA",
+        "actionName": "SKL_TEAMULTRA",
+        "defaultKey": "H",
+        "defaultInControlType": [
+            "DPadLeft"
+        ]
+    },
+    {
+        "actionGroup": 14,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL_WEAPON",
+        "actionName": "SKL_WEAPON",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 12,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL01",
+        "actionName": "SKL01",
+        "defaultKey": "K",
+        "defaultInControlType": [
+            "Action1"
+        ]
+    },
+    {
+        "actionGroup": 13,
+        "actionSubType": 1,
+        "actionType": 0,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_SKL02",
+        "actionName": "SKL02",
+        "defaultKey": "I",
+        "defaultInControlType": [
+            "Action4"
+        ]
+    },
+    {
+        "actionGroup": 102,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_VideoDisplay_BG",
+        "actionName": "VideoDisplay_BG",
+        "defaultKey": "I",
+        "defaultInControlType": [
+            "Action4"
+        ]
+    },
+    {
+        "actionGroup": 101,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_VideoDisplay_Skip",
+        "actionName": "VideoDisplay_Skip",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    },
+    {
+        "actionGroup": 101,
+        "actionSubType": 10,
+        "actionType": 1,
+        "bindingSettingsType": 1,
+        "actionGroupString": "InControlActionGroupString_VideoTutorial_Skip",
+        "actionName": "VideoTutorial_Skip",
+        "defaultKey": "U",
+        "defaultInControlType": [
+            "Action3"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "MapID": 1,
+        "specialTimes": 3,
+        "bodyStateName": "Gal_Fox_A_2_1",
+        "faceEffectName": "",
+        "specialBodyStateName": "Gal_Fox_A_2_2",
+        "specialFaceEffectName": "",
+        "faceStateNameList": [
+            "smile"
+        ],
+        "specialFaceStateNameList": [
+            "smile"
+        ]
+    },
+    {
+        "id": 2,
+        "MapID": 2,
+        "specialTimes": 3,
+        "bodyStateName": "Gal_AI_A_2_1",
+        "faceEffectName": "",
+        "specialBodyStateName": "Gal_AI_A_2_2",
+        "specialFaceEffectName": "",
+        "faceStateNameList": [],
+        "specialFaceStateNameList": []
+    },
+    {
+        "id": 4,
+        "MapID": 1,
+        "specialTimes": 0,
+        "bodyStateName": "Gal_Fox_A_4_1",
+        "faceEffectName": "",
+        "specialBodyStateName": "",
+        "specialFaceEffectName": "",
+        "faceStateNameList": [
+            "smile"
+        ],
+        "specialFaceStateNameList": []
+    },
+    {
+        "id": 4,
+        "MapID": 2,
+        "specialTimes": 0,
+        "bodyStateName": "Gal_AI_A_4_1",
+        "faceEffectName": "",
+        "specialBodyStateName": "",
+        "specialFaceEffectName": "",
+        "faceStateNameList": [],
+        "specialFaceStateNameList": []
+    }
+]
