@@ -1,0 +1,158 @@
+[
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "BackBtn",
+        "contextName": "DormitoryBarWidgetContext",
+        "playerActionName": "General_Back"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "Anim_DormMainPage/Control/Btn_1/ControlBtn",
+        "contextName": "DormitoryMainPageContext",
+        "playerActionName": "General_Ensure"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "InputController/Jump/Button",
+        "contextName": "DormitoryOperationPageContext",
+        "playerActionName": "ATK"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "InputController/Interactive/Button",
+        "contextName": "DormitoryOperationPageContext",
+        "playerActionName": "SKL_WEAPON"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Panel/HideShowBtn",
+        "contextName": "EventDialogContext",
+        "playerActionName": "EventDialog_HideShowBtn"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Panel/SkipBtn",
+        "contextName": "EventDialogContext",
+        "playerActionName": "EventDialog_SkipBtn"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Panel/HideShowBtn",
+        "contextName": "InLevelEventDialogContext",
+        "playerActionName": "EventDialog_HideShowBtn"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Panel/SkipBtn",
+        "contextName": "InLevelEventDialogContext",
+        "playerActionName": "EventDialog_SkipBtn"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "SkillTutorialBtn",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "InLevelMainPage_SkillTutorial"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "TeamContainer/MPButtons/BreakOutButton/Button",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "MP_BreakOut"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "FuncBtns/PauseBtn",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "PauseBtn"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "FuncBtns/ScreenshotBtn",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "Screenshot"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "ViewPointTouch/TouchPanel",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "SetRotateToFaceDirection"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "TVTContainer/TVTContainer/TVTButtons/SkillButton_TVTCard",
+        "contextName": "InLevelMainPageContext",
+        "playerActionName": "SKL_CUSTOM"
+    },
+    {
+        "KeyTipsType": 2,
+        "buttonPath": "Dialog/CloseBtn",
+        "contextName": "InLevelPauseDialogContext",
+        "playerActionName": "General_Back"
+    },
+    {
+        "KeyTipsType": 2,
+        "buttonPath": "Dialog/CloseBtn",
+        "contextName": "InLevelPauseOpenWorldDialogContext",
+        "playerActionName": "General_Back"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "PlotDialog/Button",
+        "contextName": "InLevelPlotPageContext",
+        "playerActionName": "Plot_Click_Skip"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Skip",
+        "contextName": "InLevelVideoTutorialDialogContext",
+        "playerActionName": "VideoTutorial_Skip"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Mask",
+        "contextName": "NewbieDialogContext",
+        "playerActionName": "AnyButton"
+    },
+    {
+        "KeyTipsType": 2,
+        "buttonPath": "Dialog/CloseBtn",
+        "contextName": "OpenWorldMissionDetailDialogContext",
+        "playerActionName": "General_Back"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "Btn",
+        "contextName": "OWEndlessFinishMonsterGroupDialogContext",
+        "playerActionName": "ATK"
+    },
+    {
+        "KeyTipsType": 2,
+        "buttonPath": "ActionBtns/BackBtn",
+        "contextName": "PlayerStatusWidgetContext",
+        "playerActionName": "General_Back"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "ActionBtns/MainMenuBtn",
+        "contextName": "PlayerStatusWidgetContext",
+        "playerActionName": "MainMenu"
+    },
+    {
+        "KeyTipsType": 1,
+        "buttonPath": "OperationTab/Content/TipsPanel/Content/CloseBtn",
+        "contextName": "SettingPageContext",
+        "playerActionName": "General_Cancel"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "",
+        "contextName": "VideoDisplayDialogContext",
+        "playerActionName": "VideoDisplay_BG"
+    },
+    {
+        "KeyTipsType": 0,
+        "buttonPath": "SkipBtn",
+        "contextName": "VideoDisplayDialogContext",
+        "playerActionName": "VideoDisplay_Skip"
+    }
+]

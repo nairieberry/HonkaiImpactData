@@ -1,0 +1,36 @@
+[
+    {
+        "CGEventID": 0,
+        "ScheduleID": 3,
+        "BeginTime": "2020-05-14 12:00:00",
+        "DisplayTextMap": "3.9PaymentActivityPanelNameTest3_title",
+        "EndTime": "2020-05-29 11:59:59",
+        "IconImgPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconShoppingFestival",
+        "PopupDisplayTextMap": "Pay_ActivityPanel_Popup_Text3",
+        "DisplayImgPathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysSmallBanner01"
+        ]
+    },
+    {
+        "CGEventID": 0,
+        "ScheduleID": 4,
+        "BeginTime": "2020-05-29 12:00:00",
+        "DisplayTextMap": "3.9PaymentActivityPanelNameTest3_title",
+        "EndTime": "2020-06-12 11:59:59",
+        "IconImgPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconShoppingFestival",
+        "PopupDisplayTextMap": "Pay_ActivityPanel_Popup_Text4",
+        "DisplayImgPathList": [
+            "event/Immediately/ActivityPage/3.9ShoppingDaysSmallBanner01"
+        ]
+    },
+    {
+        "CGEventID": 0,
+        "ScheduleID": 6,
+        "BeginTime": "2020-08-06 12:00:00",
+        "DisplayTextMap": "3.9PaymentActivityPanelNameTest3_title",
+        "EndTime": "2020-08-28 11:59:59",
+        "IconImgPath": "SpriteOutput/MallTabIcon/MainPageIcon/IconShoppingFestival",
+        "PopupDisplayTextMap": "Pay_ActivityPanel_Popup_Text4",
+        "DisplayImgPathList": []
+    }
+]

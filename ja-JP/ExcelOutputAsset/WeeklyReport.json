@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 0,
+        "levelmax": 85,
+        "levelmin": 70,
+        "priority": 1,
+        "beginTime": "2021-03-15 10:00:00",
+        "tabName": "weeklyreport_maintab_CompetitionSeason_summary"
+    },
+    {
+        "ID": 1,
+        "levelmax": 85,
+        "levelmin": 40,
+        "priority": 2,
+        "beginTime": "2029-06-01 19:00:00",
+        "tabName": "weeklyreport_maintab_self_summary"
+    },
+    {
+        "ID": 2,
+        "levelmax": 85,
+        "levelmin": 30,
+        "priority": 3,
+        "beginTime": "2020-06-29 10:00:00",
+        "tabName": "weeklyreport_maintab_self_exam"
+    },
+    {
+        "ID": 3,
+        "levelmax": 85,
+        "levelmin": 40,
+        "priority": 4,
+        "beginTime": "2029-06-01 19:00:00",
+        "tabName": "weeklyreport_maintab_recomm_avatar"
+    },
+    {
+        "ID": 4,
+        "levelmax": 85,
+        "levelmin": 40,
+        "priority": 5,
+        "beginTime": "2029-06-01 19:00:00",
+        "tabName": "weeklyreport_maintab_recomm_player"
+    }
+]

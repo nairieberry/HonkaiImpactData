@@ -1,0 +1,5846 @@
+[
+    {
+        "TraitID": 1001,
+        "TitleText": {
+            "hash": 1866642205
+        },
+        "TraitText": {
+            "hash": -257838335
+        },
+        "AbilityName": "QShoot_Melee_SKL02_Whirl",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/506_04_02",
+        "PVPSkillName": "Melee_SKL02_WhirlSlash"
+    },
+    {
+        "TraitID": 1002,
+        "TitleText": {
+            "hash": 1866642206
+        },
+        "TraitText": {
+            "hash": -257838334
+        },
+        "AbilityName": "QShoot_Melee_SKL02_Fly",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/501",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 1003,
+        "TitleText": {
+            "hash": 1866642207
+        },
+        "TraitText": {
+            "hash": -257838333
+        },
+        "AbilityName": "QShoot_Melee_SKL02_Charge",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/501_04_01",
+        "PVPSkillName": "Melee_SKL02_ChargeATK"
+    },
+    {
+        "TraitID": 2001,
+        "TitleText": {
+            "hash": 1866671996
+        },
+        "TraitText": {
+            "hash": -257808544
+        },
+        "AbilityName": "QShoot_MachineGun_SKL02_Gatling",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/104_04_02",
+        "PVPSkillName": "MachineGun_SKL02_GatlingMode"
+    },
+    {
+        "TraitID": 2002,
+        "TitleText": {
+            "hash": 1866671997
+        },
+        "TraitText": {
+            "hash": -257808543
+        },
+        "AbilityName": "QShoot_MachineGun_SKL02_Rotate",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/113_04_01",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 2003,
+        "TitleText": {
+            "hash": 1866671998
+        },
+        "TraitText": {
+            "hash": -257808542
+        },
+        "AbilityName": "QShoot_MachineGun_SKL02_Auto",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/103_04_01",
+        "PVPSkillName": "MachineGun_SKL02_LockShoot"
+    },
+    {
+        "TraitID": 3001,
+        "TitleText": {
+            "hash": 1866701787
+        },
+        "TraitText": {
+            "hash": -257778753
+        },
+        "AbilityName": "QShoot_Aji_SKL02_Big",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/611",
+        "PVPSkillName": "Rocket_SKL02_BigAji"
+    },
+    {
+        "TraitID": 3002,
+        "TitleText": {
+            "hash": 1866701788
+        },
+        "TraitText": {
+            "hash": -257778752
+        },
+        "AbilityName": "QShoot_Aji_SKL02_Multi",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/601_04_01",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 3003,
+        "TitleText": {
+            "hash": 1866701789
+        },
+        "TraitText": {
+            "hash": -257778751
+        },
+        "AbilityName": "QShoot_Aji_SKL02_Linear",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/603_04_01",
+        "PVPSkillName": "Rocket_SKL02_LinearAji"
+    },
+    {
+        "TraitID": 4001,
+        "TitleText": {
+            "hash": 1866731578
+        },
+        "TraitText": {
+            "hash": -257748962
+        },
+        "AbilityName": "QShoot_Grenadier_SKL02_MultiBomb",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/412_04_01",
+        "PVPSkillName": "Grenadier_SKL02_MultiGrenade"
+    },
+    {
+        "TraitID": 4002,
+        "TitleText": {
+            "hash": 1866731579
+        },
+        "TraitText": {
+            "hash": -257748961
+        },
+        "AbilityName": "QShoot_Grenadier_SKL02_Explode",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/404",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 4003,
+        "TitleText": {
+            "hash": 1866731580
+        },
+        "TraitText": {
+            "hash": -257748960
+        },
+        "AbilityName": "QShoot_Grenadier_SKL02_Mine",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/411_04_01",
+        "PVPSkillName": "Grenadier_SKL02_Mine"
+    },
+    {
+        "TraitID": 5001,
+        "TitleText": {
+            "hash": 1866761369
+        },
+        "TraitText": {
+            "hash": -257719171
+        },
+        "AbilityName": "QShoot_Shotgun_SKL02_InstantShoot",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/205_04_01",
+        "PVPSkillName": "ShotGun_SKL02_TripleLockShoot"
+    },
+    {
+        "TraitID": 5002,
+        "TitleText": {
+            "hash": 1866761370
+        },
+        "TraitText": {
+            "hash": -257719170
+        },
+        "AbilityName": "QShoot_Shotgun_SKL02_Auto",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/205",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 5003,
+        "TitleText": {
+            "hash": 1866761371
+        },
+        "TraitText": {
+            "hash": -257719169
+        },
+        "AbilityName": "QShoot_Shotgun_SKL02_BombTrigger",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/204",
+        "PVPSkillName": "ShotGun_SKL02_ElectricGrenade"
+    },
+    {
+        "TraitID": 6001,
+        "TitleText": {
+            "hash": 1866791160
+        },
+        "TraitText": {
+            "hash": -257689380
+        },
+        "AbilityName": "QShoot_Bow_SKL02_InstantShoot",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/NPC_Raven",
+        "PVPSkillName": "Bow_SKL02_MoonShoot"
+    },
+    {
+        "TraitID": 6002,
+        "TitleText": {
+            "hash": 1866791161
+        },
+        "TraitText": {
+            "hash": -257689379
+        },
+        "AbilityName": "QShoot_Bow_SKL02_MoonBlade",
+        "ItemIcon": "SpriteOutput/AvatarChibiIcons/NPC_Raven_Open",
+        "PVPSkillName": "Bow_SKL02_LinearShootMode"
+    },
+    {
+        "TraitID": 110311,
+        "TitleText": {
+            "hash": -1452243712
+        },
+        "TraitText": {
+            "hash": 1326390244
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110312,
+        "TitleText": {
+            "hash": -1452243711
+        },
+        "TraitText": {
+            "hash": 1326390245
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110313,
+        "TitleText": {
+            "hash": -1452243710
+        },
+        "TraitText": {
+            "hash": 1326390246
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110321,
+        "TitleText": {
+            "hash": -1452243681
+        },
+        "TraitText": {
+            "hash": 1326390275
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110322,
+        "TitleText": {
+            "hash": -1452243680
+        },
+        "TraitText": {
+            "hash": 1326390276
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110323,
+        "TitleText": {
+            "hash": -1452243679
+        },
+        "TraitText": {
+            "hash": 1326390277
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110331,
+        "TitleText": {
+            "hash": -1452243650
+        },
+        "TraitText": {
+            "hash": 1326390306
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110332,
+        "TitleText": {
+            "hash": -1452243649
+        },
+        "TraitText": {
+            "hash": 1326390307
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110333,
+        "TitleText": {
+            "hash": -1452243648
+        },
+        "TraitText": {
+            "hash": 1326390308
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110341,
+        "TitleText": {
+            "hash": -1452243619
+        },
+        "TraitText": {
+            "hash": 1326390337
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110342,
+        "TitleText": {
+            "hash": -1452243618
+        },
+        "TraitText": {
+            "hash": 1326390338
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110343,
+        "TitleText": {
+            "hash": -1452243617
+        },
+        "TraitText": {
+            "hash": 1326390339
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110351,
+        "TitleText": {
+            "hash": -1452243588
+        },
+        "TraitText": {
+            "hash": 1326390368
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110352,
+        "TitleText": {
+            "hash": -1452243587
+        },
+        "TraitText": {
+            "hash": 1326390369
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 110353,
+        "TitleText": {
+            "hash": -1452243586
+        },
+        "TraitText": {
+            "hash": 1326390370
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111111,
+        "TitleText": {
+            "hash": -1452215843
+        },
+        "TraitText": {
+            "hash": 1326418113
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111112,
+        "TitleText": {
+            "hash": -1452215842
+        },
+        "TraitText": {
+            "hash": 1326418114
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111113,
+        "TitleText": {
+            "hash": -1452215841
+        },
+        "TraitText": {
+            "hash": 1326418115
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111121,
+        "TitleText": {
+            "hash": -1452215812
+        },
+        "TraitText": {
+            "hash": 1326418144
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111122,
+        "TitleText": {
+            "hash": -1452215811
+        },
+        "TraitText": {
+            "hash": 1326418145
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111123,
+        "TitleText": {
+            "hash": -1452215810
+        },
+        "TraitText": {
+            "hash": 1326418146
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111131,
+        "TitleText": {
+            "hash": -1452215781
+        },
+        "TraitText": {
+            "hash": 1326418175
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111132,
+        "TitleText": {
+            "hash": -1452215780
+        },
+        "TraitText": {
+            "hash": 1326418176
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111133,
+        "TitleText": {
+            "hash": -1452215779
+        },
+        "TraitText": {
+            "hash": 1326418177
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111141,
+        "TitleText": {
+            "hash": -1452215750
+        },
+        "TraitText": {
+            "hash": 1326418206
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111142,
+        "TitleText": {
+            "hash": -1452215749
+        },
+        "TraitText": {
+            "hash": 1326418207
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111143,
+        "TitleText": {
+            "hash": -1452215748
+        },
+        "TraitText": {
+            "hash": 1326418208
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111151,
+        "TitleText": {
+            "hash": -1452215719
+        },
+        "TraitText": {
+            "hash": 1326418237
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111152,
+        "TitleText": {
+            "hash": -1452215718
+        },
+        "TraitText": {
+            "hash": 1326418238
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111153,
+        "TitleText": {
+            "hash": -1452215717
+        },
+        "TraitText": {
+            "hash": 1326418239
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111211,
+        "TitleText": {
+            "hash": -1452214882
+        },
+        "TraitText": {
+            "hash": 1326419074
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111212,
+        "TitleText": {
+            "hash": -1452214881
+        },
+        "TraitText": {
+            "hash": 1326419075
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111213,
+        "TitleText": {
+            "hash": -1452214880
+        },
+        "TraitText": {
+            "hash": 1326419076
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111221,
+        "TitleText": {
+            "hash": -1452214851
+        },
+        "TraitText": {
+            "hash": 1326419105
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111222,
+        "TitleText": {
+            "hash": -1452214850
+        },
+        "TraitText": {
+            "hash": 1326419106
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111223,
+        "TitleText": {
+            "hash": -1452214849
+        },
+        "TraitText": {
+            "hash": 1326419107
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111231,
+        "TitleText": {
+            "hash": -1452214820
+        },
+        "TraitText": {
+            "hash": 1326419136
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111232,
+        "TitleText": {
+            "hash": -1452214819
+        },
+        "TraitText": {
+            "hash": 1326419137
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111233,
+        "TitleText": {
+            "hash": -1452214818
+        },
+        "TraitText": {
+            "hash": 1326419138
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111241,
+        "TitleText": {
+            "hash": -1452214789
+        },
+        "TraitText": {
+            "hash": 1326419167
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111242,
+        "TitleText": {
+            "hash": -1452214788
+        },
+        "TraitText": {
+            "hash": 1326419168
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111243,
+        "TitleText": {
+            "hash": -1452214787
+        },
+        "TraitText": {
+            "hash": 1326419169
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111251,
+        "TitleText": {
+            "hash": -1452214758
+        },
+        "TraitText": {
+            "hash": 1326419198
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111252,
+        "TitleText": {
+            "hash": -1452214757
+        },
+        "TraitText": {
+            "hash": 1326419199
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111253,
+        "TitleText": {
+            "hash": -1452214756
+        },
+        "TraitText": {
+            "hash": 1326419200
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111811,
+        "TitleText": {
+            "hash": -1452209116
+        },
+        "TraitText": {
+            "hash": 1326424840
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111812,
+        "TitleText": {
+            "hash": -1452209115
+        },
+        "TraitText": {
+            "hash": 1326424841
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111813,
+        "TitleText": {
+            "hash": -1452209114
+        },
+        "TraitText": {
+            "hash": 1326424842
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111821,
+        "TitleText": {
+            "hash": -1452209085
+        },
+        "TraitText": {
+            "hash": 1326424871
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111822,
+        "TitleText": {
+            "hash": -1452209084
+        },
+        "TraitText": {
+            "hash": 1326424872
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111823,
+        "TitleText": {
+            "hash": -1452209083
+        },
+        "TraitText": {
+            "hash": 1326424873
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111831,
+        "TitleText": {
+            "hash": -1452209054
+        },
+        "TraitText": {
+            "hash": 1326424902
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111832,
+        "TitleText": {
+            "hash": -1452209053
+        },
+        "TraitText": {
+            "hash": 1326424903
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111833,
+        "TitleText": {
+            "hash": -1452209052
+        },
+        "TraitText": {
+            "hash": 1326424904
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111841,
+        "TitleText": {
+            "hash": -1452209023
+        },
+        "TraitText": {
+            "hash": 1326424933
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111842,
+        "TitleText": {
+            "hash": -1452209022
+        },
+        "TraitText": {
+            "hash": 1326424934
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111843,
+        "TitleText": {
+            "hash": -1452209021
+        },
+        "TraitText": {
+            "hash": 1326424935
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111851,
+        "TitleText": {
+            "hash": -1452208992
+        },
+        "TraitText": {
+            "hash": 1326424964
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111852,
+        "TitleText": {
+            "hash": -1452208991
+        },
+        "TraitText": {
+            "hash": 1326424965
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 111853,
+        "TitleText": {
+            "hash": -1452208990
+        },
+        "TraitText": {
+            "hash": 1326424966
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112411,
+        "TitleText": {
+            "hash": -1452183169
+        },
+        "TraitText": {
+            "hash": 1326450787
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112412,
+        "TitleText": {
+            "hash": -1452183168
+        },
+        "TraitText": {
+            "hash": 1326450788
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112413,
+        "TitleText": {
+            "hash": -1452183167
+        },
+        "TraitText": {
+            "hash": 1326450789
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112421,
+        "TitleText": {
+            "hash": -1452183138
+        },
+        "TraitText": {
+            "hash": 1326450818
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112422,
+        "TitleText": {
+            "hash": -1452183137
+        },
+        "TraitText": {
+            "hash": 1326450819
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112423,
+        "TitleText": {
+            "hash": -1452183136
+        },
+        "TraitText": {
+            "hash": 1326450820
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112431,
+        "TitleText": {
+            "hash": -1452183107
+        },
+        "TraitText": {
+            "hash": 1326450849
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112432,
+        "TitleText": {
+            "hash": -1452183106
+        },
+        "TraitText": {
+            "hash": 1326450850
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112433,
+        "TitleText": {
+            "hash": -1452183105
+        },
+        "TraitText": {
+            "hash": 1326450851
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112441,
+        "TitleText": {
+            "hash": -1452183076
+        },
+        "TraitText": {
+            "hash": 1326450880
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112442,
+        "TitleText": {
+            "hash": -1452183075
+        },
+        "TraitText": {
+            "hash": 1326450881
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112443,
+        "TitleText": {
+            "hash": -1452183074
+        },
+        "TraitText": {
+            "hash": 1326450882
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112451,
+        "TitleText": {
+            "hash": -1452183045
+        },
+        "TraitText": {
+            "hash": 1326450911
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112452,
+        "TitleText": {
+            "hash": -1452183044
+        },
+        "TraitText": {
+            "hash": 1326450912
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 112453,
+        "TitleText": {
+            "hash": -1452183043
+        },
+        "TraitText": {
+            "hash": 1326450913
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113011,
+        "TitleText": {
+            "hash": -1452157222
+        },
+        "TraitText": {
+            "hash": 1326476734
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113012,
+        "TitleText": {
+            "hash": -1452157221
+        },
+        "TraitText": {
+            "hash": 1326476735
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113013,
+        "TitleText": {
+            "hash": -1452157220
+        },
+        "TraitText": {
+            "hash": 1326476736
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113021,
+        "TitleText": {
+            "hash": -1452157191
+        },
+        "TraitText": {
+            "hash": 1326476765
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113022,
+        "TitleText": {
+            "hash": -1452157190
+        },
+        "TraitText": {
+            "hash": 1326476766
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113023,
+        "TitleText": {
+            "hash": -1452157189
+        },
+        "TraitText": {
+            "hash": 1326476767
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113031,
+        "TitleText": {
+            "hash": -1452157160
+        },
+        "TraitText": {
+            "hash": 1326476796
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113032,
+        "TitleText": {
+            "hash": -1452157159
+        },
+        "TraitText": {
+            "hash": 1326476797
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113033,
+        "TitleText": {
+            "hash": -1452157158
+        },
+        "TraitText": {
+            "hash": 1326476798
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113041,
+        "TitleText": {
+            "hash": -1452157129
+        },
+        "TraitText": {
+            "hash": 1326476827
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113042,
+        "TitleText": {
+            "hash": -1452157128
+        },
+        "TraitText": {
+            "hash": 1326476828
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113043,
+        "TitleText": {
+            "hash": -1452157127
+        },
+        "TraitText": {
+            "hash": 1326476829
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113051,
+        "TitleText": {
+            "hash": -1452157098
+        },
+        "TraitText": {
+            "hash": 1326476858
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113052,
+        "TitleText": {
+            "hash": -1452157097
+        },
+        "TraitText": {
+            "hash": 1326476859
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113053,
+        "TitleText": {
+            "hash": -1452157096
+        },
+        "TraitText": {
+            "hash": 1326476860
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113411,
+        "TitleText": {
+            "hash": -1452153378
+        },
+        "TraitText": {
+            "hash": 1326480578
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113412,
+        "TitleText": {
+            "hash": -1452153377
+        },
+        "TraitText": {
+            "hash": 1326480579
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113413,
+        "TitleText": {
+            "hash": -1452153376
+        },
+        "TraitText": {
+            "hash": 1326480580
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113421,
+        "TitleText": {
+            "hash": -1452153347
+        },
+        "TraitText": {
+            "hash": 1326480609
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113422,
+        "TitleText": {
+            "hash": -1452153346
+        },
+        "TraitText": {
+            "hash": 1326480610
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113423,
+        "TitleText": {
+            "hash": -1452153345
+        },
+        "TraitText": {
+            "hash": 1326480611
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113431,
+        "TitleText": {
+            "hash": -1452153316
+        },
+        "TraitText": {
+            "hash": 1326480640
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113432,
+        "TitleText": {
+            "hash": -1452153315
+        },
+        "TraitText": {
+            "hash": 1326480641
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113433,
+        "TitleText": {
+            "hash": -1452153314
+        },
+        "TraitText": {
+            "hash": 1326480642
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113441,
+        "TitleText": {
+            "hash": -1452153285
+        },
+        "TraitText": {
+            "hash": 1326480671
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113442,
+        "TitleText": {
+            "hash": -1452153284
+        },
+        "TraitText": {
+            "hash": 1326480672
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113443,
+        "TitleText": {
+            "hash": -1452153283
+        },
+        "TraitText": {
+            "hash": 1326480673
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113451,
+        "TitleText": {
+            "hash": -1452153254
+        },
+        "TraitText": {
+            "hash": 1326480702
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113452,
+        "TitleText": {
+            "hash": -1452153253
+        },
+        "TraitText": {
+            "hash": 1326480703
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113453,
+        "TitleText": {
+            "hash": -1452153252
+        },
+        "TraitText": {
+            "hash": 1326480704
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113711,
+        "TitleText": {
+            "hash": -1452150495
+        },
+        "TraitText": {
+            "hash": 1326483461
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113721,
+        "TitleText": {
+            "hash": -1452150464
+        },
+        "TraitText": {
+            "hash": 1326483492
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113731,
+        "TitleText": {
+            "hash": -1452150433
+        },
+        "TraitText": {
+            "hash": 1326483523
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113741,
+        "TitleText": {
+            "hash": -1452150402
+        },
+        "TraitText": {
+            "hash": 1326483554
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113751,
+        "TitleText": {
+            "hash": -1452150371
+        },
+        "TraitText": {
+            "hash": 1326483585
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113811,
+        "TitleText": {
+            "hash": -1452149534
+        },
+        "TraitText": {
+            "hash": 1326484422
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113821,
+        "TitleText": {
+            "hash": -1452149503
+        },
+        "TraitText": {
+            "hash": 1326484453
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113831,
+        "TitleText": {
+            "hash": -1452149472
+        },
+        "TraitText": {
+            "hash": 1326484484
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113841,
+        "TitleText": {
+            "hash": -1452149441
+        },
+        "TraitText": {
+            "hash": 1326484515
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113851,
+        "TitleText": {
+            "hash": -1452149410
+        },
+        "TraitText": {
+            "hash": 1326484546
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113911,
+        "TitleText": {
+            "hash": -1452148573
+        },
+        "TraitText": {
+            "hash": 1326485383
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113912,
+        "TitleText": {
+            "hash": -1452148572
+        },
+        "TraitText": {
+            "hash": 1326485384
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113913,
+        "TitleText": {
+            "hash": -1452148571
+        },
+        "TraitText": {
+            "hash": 1326485385
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113921,
+        "TitleText": {
+            "hash": -1452148542
+        },
+        "TraitText": {
+            "hash": 1326485414
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113922,
+        "TitleText": {
+            "hash": -1452148541
+        },
+        "TraitText": {
+            "hash": 1326485415
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113923,
+        "TitleText": {
+            "hash": -1452148540
+        },
+        "TraitText": {
+            "hash": 1326485416
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113931,
+        "TitleText": {
+            "hash": -1452148511
+        },
+        "TraitText": {
+            "hash": 1326485445
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113932,
+        "TitleText": {
+            "hash": -1452148510
+        },
+        "TraitText": {
+            "hash": 1326485446
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113933,
+        "TitleText": {
+            "hash": -1452148509
+        },
+        "TraitText": {
+            "hash": 1326485447
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113941,
+        "TitleText": {
+            "hash": -1452148480
+        },
+        "TraitText": {
+            "hash": 1326485476
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113942,
+        "TitleText": {
+            "hash": -1452148479
+        },
+        "TraitText": {
+            "hash": 1326485477
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113943,
+        "TitleText": {
+            "hash": -1452148478
+        },
+        "TraitText": {
+            "hash": 1326485478
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113951,
+        "TitleText": {
+            "hash": -1452148449
+        },
+        "TraitText": {
+            "hash": 1326485507
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113952,
+        "TitleText": {
+            "hash": -1452148448
+        },
+        "TraitText": {
+            "hash": 1326485508
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 113953,
+        "TitleText": {
+            "hash": -1452148447
+        },
+        "TraitText": {
+            "hash": 1326485509
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114011,
+        "TitleText": {
+            "hash": -1452127431
+        },
+        "TraitText": {
+            "hash": 1326506525
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114021,
+        "TitleText": {
+            "hash": -1452127400
+        },
+        "TraitText": {
+            "hash": 1326506556
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114031,
+        "TitleText": {
+            "hash": -1452127369
+        },
+        "TraitText": {
+            "hash": 1326506587
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114041,
+        "TitleText": {
+            "hash": -1452127338
+        },
+        "TraitText": {
+            "hash": 1326506618
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114051,
+        "TitleText": {
+            "hash": -1452127307
+        },
+        "TraitText": {
+            "hash": 1326506649
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114111,
+        "TitleText": {
+            "hash": -1452126470
+        },
+        "TraitText": {
+            "hash": 1326507486
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114121,
+        "TitleText": {
+            "hash": -1452126439
+        },
+        "TraitText": {
+            "hash": 1326507517
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114131,
+        "TitleText": {
+            "hash": -1452126408
+        },
+        "TraitText": {
+            "hash": 1326507548
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114141,
+        "TitleText": {
+            "hash": -1452126377
+        },
+        "TraitText": {
+            "hash": 1326507579
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114151,
+        "TitleText": {
+            "hash": -1452126346
+        },
+        "TraitText": {
+            "hash": 1326507610
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114211,
+        "TitleText": {
+            "hash": -1452125509
+        },
+        "TraitText": {
+            "hash": 1326508447
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114212,
+        "TitleText": {
+            "hash": -1452125508
+        },
+        "TraitText": {
+            "hash": 1326508448
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114213,
+        "TitleText": {
+            "hash": -1452125507
+        },
+        "TraitText": {
+            "hash": 1326508449
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114221,
+        "TitleText": {
+            "hash": -1452125478
+        },
+        "TraitText": {
+            "hash": 1326508478
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114222,
+        "TitleText": {
+            "hash": -1452125477
+        },
+        "TraitText": {
+            "hash": 1326508479
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114223,
+        "TitleText": {
+            "hash": -1452125476
+        },
+        "TraitText": {
+            "hash": 1326508480
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114231,
+        "TitleText": {
+            "hash": -1452125447
+        },
+        "TraitText": {
+            "hash": 1326508509
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114232,
+        "TitleText": {
+            "hash": -1452125446
+        },
+        "TraitText": {
+            "hash": 1326508510
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114233,
+        "TitleText": {
+            "hash": -1452125445
+        },
+        "TraitText": {
+            "hash": 1326508511
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114241,
+        "TitleText": {
+            "hash": -1452125416
+        },
+        "TraitText": {
+            "hash": 1326508540
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114242,
+        "TitleText": {
+            "hash": -1452125415
+        },
+        "TraitText": {
+            "hash": 1326508541
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114243,
+        "TitleText": {
+            "hash": -1452125414
+        },
+        "TraitText": {
+            "hash": 1326508542
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114251,
+        "TitleText": {
+            "hash": -1452125385
+        },
+        "TraitText": {
+            "hash": 1326508571
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114252,
+        "TitleText": {
+            "hash": -1452125384
+        },
+        "TraitText": {
+            "hash": 1326508572
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114253,
+        "TitleText": {
+            "hash": -1452125383
+        },
+        "TraitText": {
+            "hash": 1326508573
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114311,
+        "TitleText": {
+            "hash": -1452124548
+        },
+        "TraitText": {
+            "hash": 1326509408
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114321,
+        "TitleText": {
+            "hash": -1452124517
+        },
+        "TraitText": {
+            "hash": 1326509439
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114331,
+        "TitleText": {
+            "hash": -1452124486
+        },
+        "TraitText": {
+            "hash": 1326509470
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114341,
+        "TitleText": {
+            "hash": -1452124455
+        },
+        "TraitText": {
+            "hash": 1326509501
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114351,
+        "TitleText": {
+            "hash": -1452124424
+        },
+        "TraitText": {
+            "hash": 1326509532
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114411,
+        "TitleText": {
+            "hash": -1452123587
+        },
+        "TraitText": {
+            "hash": 1326510369
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114421,
+        "TitleText": {
+            "hash": -1452123556
+        },
+        "TraitText": {
+            "hash": 1326510400
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114431,
+        "TitleText": {
+            "hash": -1452123525
+        },
+        "TraitText": {
+            "hash": 1326510431
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114441,
+        "TitleText": {
+            "hash": -1452123494
+        },
+        "TraitText": {
+            "hash": 1326510462
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114451,
+        "TitleText": {
+            "hash": -1452123463
+        },
+        "TraitText": {
+            "hash": 1326510493
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114511,
+        "TitleText": {
+            "hash": -1452122626
+        },
+        "TraitText": {
+            "hash": 1326511330
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114521,
+        "TitleText": {
+            "hash": -1452122595
+        },
+        "TraitText": {
+            "hash": 1326511361
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114531,
+        "TitleText": {
+            "hash": -1452122564
+        },
+        "TraitText": {
+            "hash": 1326511392
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114541,
+        "TitleText": {
+            "hash": -1452122533
+        },
+        "TraitText": {
+            "hash": 1326511423
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114551,
+        "TitleText": {
+            "hash": -1452122502
+        },
+        "TraitText": {
+            "hash": 1326511454
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114611,
+        "TitleText": {
+            "hash": -1452121665
+        },
+        "TraitText": {
+            "hash": 1326512291
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114621,
+        "TitleText": {
+            "hash": -1452121634
+        },
+        "TraitText": {
+            "hash": 1326512322
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114631,
+        "TitleText": {
+            "hash": -1452121603
+        },
+        "TraitText": {
+            "hash": 1326512353
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114641,
+        "TitleText": {
+            "hash": -1452121572
+        },
+        "TraitText": {
+            "hash": 1326512384
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114651,
+        "TitleText": {
+            "hash": -1452121541
+        },
+        "TraitText": {
+            "hash": 1326512415
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114711,
+        "TitleText": {
+            "hash": -1452120704
+        },
+        "TraitText": {
+            "hash": 1326513252
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114721,
+        "TitleText": {
+            "hash": -1452120673
+        },
+        "TraitText": {
+            "hash": 1326513283
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114731,
+        "TitleText": {
+            "hash": -1452120642
+        },
+        "TraitText": {
+            "hash": 1326513314
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114741,
+        "TitleText": {
+            "hash": -1452120611
+        },
+        "TraitText": {
+            "hash": 1326513345
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114751,
+        "TitleText": {
+            "hash": -1452120580
+        },
+        "TraitText": {
+            "hash": 1326513376
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114811,
+        "TitleText": {
+            "hash": -1452119743
+        },
+        "TraitText": {
+            "hash": 1326514213
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114821,
+        "TitleText": {
+            "hash": -1452119712
+        },
+        "TraitText": {
+            "hash": 1326514244
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114831,
+        "TitleText": {
+            "hash": -1452119681
+        },
+        "TraitText": {
+            "hash": 1326514275
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114841,
+        "TitleText": {
+            "hash": -1452119650
+        },
+        "TraitText": {
+            "hash": 1326514306
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114851,
+        "TitleText": {
+            "hash": -1452119619
+        },
+        "TraitText": {
+            "hash": 1326514337
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114911,
+        "TitleText": {
+            "hash": -1452118782
+        },
+        "TraitText": {
+            "hash": 1326515174
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114921,
+        "TitleText": {
+            "hash": -1452118751
+        },
+        "TraitText": {
+            "hash": 1326515205
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114931,
+        "TitleText": {
+            "hash": -1452118720
+        },
+        "TraitText": {
+            "hash": 1326515236
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114941,
+        "TitleText": {
+            "hash": -1452118689
+        },
+        "TraitText": {
+            "hash": 1326515267
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 114951,
+        "TitleText": {
+            "hash": -1452118658
+        },
+        "TraitText": {
+            "hash": 1326515298
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115011,
+        "TitleText": {
+            "hash": -1452097640
+        },
+        "TraitText": {
+            "hash": 1326536316
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115021,
+        "TitleText": {
+            "hash": -1452097609
+        },
+        "TraitText": {
+            "hash": 1326536347
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115031,
+        "TitleText": {
+            "hash": -1452097578
+        },
+        "TraitText": {
+            "hash": 1326536378
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115041,
+        "TitleText": {
+            "hash": -1452097547
+        },
+        "TraitText": {
+            "hash": 1326536409
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115051,
+        "TitleText": {
+            "hash": -1452097516
+        },
+        "TraitText": {
+            "hash": 1326536440
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115111,
+        "TitleText": {
+            "hash": -1452096679
+        },
+        "TraitText": {
+            "hash": 1326537277
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115121,
+        "TitleText": {
+            "hash": -1452096648
+        },
+        "TraitText": {
+            "hash": 1326537308
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115131,
+        "TitleText": {
+            "hash": -1452096617
+        },
+        "TraitText": {
+            "hash": 1326537339
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115141,
+        "TitleText": {
+            "hash": -1452096586
+        },
+        "TraitText": {
+            "hash": 1326537370
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115151,
+        "TitleText": {
+            "hash": -1452096555
+        },
+        "TraitText": {
+            "hash": 1326537401
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115211,
+        "TitleText": {
+            "hash": -1452095718
+        },
+        "TraitText": {
+            "hash": 1326538238
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115221,
+        "TitleText": {
+            "hash": -1452095687
+        },
+        "TraitText": {
+            "hash": 1326538269
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115231,
+        "TitleText": {
+            "hash": -1452095656
+        },
+        "TraitText": {
+            "hash": 1326538300
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115241,
+        "TitleText": {
+            "hash": -1452095625
+        },
+        "TraitText": {
+            "hash": 1326538331
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115251,
+        "TitleText": {
+            "hash": -1452095594
+        },
+        "TraitText": {
+            "hash": 1326538362
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115311,
+        "TitleText": {
+            "hash": -1452094757
+        },
+        "TraitText": {
+            "hash": 1326539199
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115321,
+        "TitleText": {
+            "hash": -1452094726
+        },
+        "TraitText": {
+            "hash": 1326539230
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115331,
+        "TitleText": {
+            "hash": -1452094695
+        },
+        "TraitText": {
+            "hash": 1326539261
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115341,
+        "TitleText": {
+            "hash": -1452094664
+        },
+        "TraitText": {
+            "hash": 1326539292
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115351,
+        "TitleText": {
+            "hash": -1452094633
+        },
+        "TraitText": {
+            "hash": 1326539323
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115411,
+        "TitleText": {
+            "hash": -1452093796
+        },
+        "TraitText": {
+            "hash": 1326540160
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115421,
+        "TitleText": {
+            "hash": -1452093765
+        },
+        "TraitText": {
+            "hash": 1326540191
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115431,
+        "TitleText": {
+            "hash": -1452093734
+        },
+        "TraitText": {
+            "hash": 1326540222
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115441,
+        "TitleText": {
+            "hash": -1452093703
+        },
+        "TraitText": {
+            "hash": 1326540253
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115451,
+        "TitleText": {
+            "hash": -1452093672
+        },
+        "TraitText": {
+            "hash": 1326540284
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115611,
+        "TitleText": {
+            "hash": -1452091874
+        },
+        "TraitText": {
+            "hash": 1326542082
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115621,
+        "TitleText": {
+            "hash": -1452091843
+        },
+        "TraitText": {
+            "hash": 1326542113
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115631,
+        "TitleText": {
+            "hash": -1452091812
+        },
+        "TraitText": {
+            "hash": 1326542144
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115641,
+        "TitleText": {
+            "hash": -1452091781
+        },
+        "TraitText": {
+            "hash": 1326542175
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 115651,
+        "TitleText": {
+            "hash": -1452091750
+        },
+        "TraitText": {
+            "hash": 1326542206
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116811,
+        "TitleText": {
+            "hash": -1452060161
+        },
+        "TraitText": {
+            "hash": 1326573795
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116812,
+        "TitleText": {
+            "hash": -1452060160
+        },
+        "TraitText": {
+            "hash": 1326573796
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116813,
+        "TitleText": {
+            "hash": -1452060159
+        },
+        "TraitText": {
+            "hash": 1326573797
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116821,
+        "TitleText": {
+            "hash": -1452060130
+        },
+        "TraitText": {
+            "hash": 1326573826
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116822,
+        "TitleText": {
+            "hash": -1452060129
+        },
+        "TraitText": {
+            "hash": 1326573827
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116823,
+        "TitleText": {
+            "hash": -1452060128
+        },
+        "TraitText": {
+            "hash": 1326573828
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116831,
+        "TitleText": {
+            "hash": -1452060099
+        },
+        "TraitText": {
+            "hash": 1326573857
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116832,
+        "TitleText": {
+            "hash": -1452060098
+        },
+        "TraitText": {
+            "hash": 1326573858
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116833,
+        "TitleText": {
+            "hash": -1452060097
+        },
+        "TraitText": {
+            "hash": 1326573859
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116841,
+        "TitleText": {
+            "hash": -1452060068
+        },
+        "TraitText": {
+            "hash": 1326573888
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116842,
+        "TitleText": {
+            "hash": -1452060067
+        },
+        "TraitText": {
+            "hash": 1326573889
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116843,
+        "TitleText": {
+            "hash": -1452060066
+        },
+        "TraitText": {
+            "hash": 1326573890
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116851,
+        "TitleText": {
+            "hash": -1452060037
+        },
+        "TraitText": {
+            "hash": 1326573919
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116852,
+        "TitleText": {
+            "hash": -1452060036
+        },
+        "TraitText": {
+            "hash": 1326573920
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116853,
+        "TitleText": {
+            "hash": -1452060035
+        },
+        "TraitText": {
+            "hash": 1326573921
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116911,
+        "TitleText": {
+            "hash": -1452059200
+        },
+        "TraitText": {
+            "hash": 1326574756
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116912,
+        "TitleText": {
+            "hash": -1452059199
+        },
+        "TraitText": {
+            "hash": 1326574757
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116913,
+        "TitleText": {
+            "hash": -1452059198
+        },
+        "TraitText": {
+            "hash": 1326574758
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116921,
+        "TitleText": {
+            "hash": -1452059169
+        },
+        "TraitText": {
+            "hash": 1326574787
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116922,
+        "TitleText": {
+            "hash": -1452059168
+        },
+        "TraitText": {
+            "hash": 1326574788
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116923,
+        "TitleText": {
+            "hash": -1452059167
+        },
+        "TraitText": {
+            "hash": 1326574789
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116931,
+        "TitleText": {
+            "hash": -1452059138
+        },
+        "TraitText": {
+            "hash": 1326574818
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116932,
+        "TitleText": {
+            "hash": -1452059137
+        },
+        "TraitText": {
+            "hash": 1326574819
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116933,
+        "TitleText": {
+            "hash": -1452059136
+        },
+        "TraitText": {
+            "hash": 1326574820
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116941,
+        "TitleText": {
+            "hash": -1452059107
+        },
+        "TraitText": {
+            "hash": 1326574849
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116942,
+        "TitleText": {
+            "hash": -1452059106
+        },
+        "TraitText": {
+            "hash": 1326574850
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116943,
+        "TitleText": {
+            "hash": -1452059105
+        },
+        "TraitText": {
+            "hash": 1326574851
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116951,
+        "TitleText": {
+            "hash": -1452059076
+        },
+        "TraitText": {
+            "hash": 1326574880
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116952,
+        "TitleText": {
+            "hash": -1452059075
+        },
+        "TraitText": {
+            "hash": 1326574881
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 116953,
+        "TitleText": {
+            "hash": -1452059074
+        },
+        "TraitText": {
+            "hash": 1326574882
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117211,
+        "TitleText": {
+            "hash": -1452036136
+        },
+        "TraitText": {
+            "hash": 1326597820
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117212,
+        "TitleText": {
+            "hash": -1452036135
+        },
+        "TraitText": {
+            "hash": 1326597821
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117213,
+        "TitleText": {
+            "hash": -1452036134
+        },
+        "TraitText": {
+            "hash": 1326597822
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117221,
+        "TitleText": {
+            "hash": -1452036105
+        },
+        "TraitText": {
+            "hash": 1326597851
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117222,
+        "TitleText": {
+            "hash": -1452036104
+        },
+        "TraitText": {
+            "hash": 1326597852
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117223,
+        "TitleText": {
+            "hash": -1452036103
+        },
+        "TraitText": {
+            "hash": 1326597853
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117231,
+        "TitleText": {
+            "hash": -1452036074
+        },
+        "TraitText": {
+            "hash": 1326597882
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117232,
+        "TitleText": {
+            "hash": -1452036073
+        },
+        "TraitText": {
+            "hash": 1326597883
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117233,
+        "TitleText": {
+            "hash": -1452036072
+        },
+        "TraitText": {
+            "hash": 1326597884
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117241,
+        "TitleText": {
+            "hash": -1452036043
+        },
+        "TraitText": {
+            "hash": 1326597913
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117242,
+        "TitleText": {
+            "hash": -1452036042
+        },
+        "TraitText": {
+            "hash": 1326597914
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117243,
+        "TitleText": {
+            "hash": -1452036041
+        },
+        "TraitText": {
+            "hash": 1326597915
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117251,
+        "TitleText": {
+            "hash": -1452036012
+        },
+        "TraitText": {
+            "hash": 1326597944
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117252,
+        "TitleText": {
+            "hash": -1452036011
+        },
+        "TraitText": {
+            "hash": 1326597945
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117253,
+        "TitleText": {
+            "hash": -1452036010
+        },
+        "TraitText": {
+            "hash": 1326597946
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117511,
+        "TitleText": {
+            "hash": -1452033253
+        },
+        "TraitText": {
+            "hash": 1326600703
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117512,
+        "TitleText": {
+            "hash": -1452033252
+        },
+        "TraitText": {
+            "hash": 1326600704
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117513,
+        "TitleText": {
+            "hash": -1452033251
+        },
+        "TraitText": {
+            "hash": 1326600705
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117521,
+        "TitleText": {
+            "hash": -1452033222
+        },
+        "TraitText": {
+            "hash": 1326600734
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117522,
+        "TitleText": {
+            "hash": -1452033221
+        },
+        "TraitText": {
+            "hash": 1326600735
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117523,
+        "TitleText": {
+            "hash": -1452033220
+        },
+        "TraitText": {
+            "hash": 1326600736
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117531,
+        "TitleText": {
+            "hash": -1452033191
+        },
+        "TraitText": {
+            "hash": 1326600765
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117532,
+        "TitleText": {
+            "hash": -1452033190
+        },
+        "TraitText": {
+            "hash": 1326600766
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117533,
+        "TitleText": {
+            "hash": -1452033189
+        },
+        "TraitText": {
+            "hash": 1326600767
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117541,
+        "TitleText": {
+            "hash": -1452033160
+        },
+        "TraitText": {
+            "hash": 1326600796
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117542,
+        "TitleText": {
+            "hash": -1452033159
+        },
+        "TraitText": {
+            "hash": 1326600797
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117543,
+        "TitleText": {
+            "hash": -1452033158
+        },
+        "TraitText": {
+            "hash": 1326600798
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117551,
+        "TitleText": {
+            "hash": -1452033129
+        },
+        "TraitText": {
+            "hash": 1326600827
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117552,
+        "TitleText": {
+            "hash": -1452033128
+        },
+        "TraitText": {
+            "hash": 1326600828
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117553,
+        "TitleText": {
+            "hash": -1452033127
+        },
+        "TraitText": {
+            "hash": 1326600829
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117811,
+        "TitleText": {
+            "hash": -1452030370
+        },
+        "TraitText": {
+            "hash": 1326603586
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117821,
+        "TitleText": {
+            "hash": -1452030339
+        },
+        "TraitText": {
+            "hash": 1326603617
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117831,
+        "TitleText": {
+            "hash": -1452030308
+        },
+        "TraitText": {
+            "hash": 1326603648
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117841,
+        "TitleText": {
+            "hash": -1452030277
+        },
+        "TraitText": {
+            "hash": 1326603679
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117851,
+        "TitleText": {
+            "hash": -1452030246
+        },
+        "TraitText": {
+            "hash": 1326603710
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117911,
+        "TitleText": {
+            "hash": -1452029409
+        },
+        "TraitText": {
+            "hash": 1326604547
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117921,
+        "TitleText": {
+            "hash": -1452029378
+        },
+        "TraitText": {
+            "hash": 1326604578
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117931,
+        "TitleText": {
+            "hash": -1452029347
+        },
+        "TraitText": {
+            "hash": 1326604609
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117941,
+        "TitleText": {
+            "hash": -1452029316
+        },
+        "TraitText": {
+            "hash": 1326604640
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 117951,
+        "TitleText": {
+            "hash": -1452029285
+        },
+        "TraitText": {
+            "hash": 1326604671
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118011,
+        "TitleText": {
+            "hash": -1452008267
+        },
+        "TraitText": {
+            "hash": 1326625689
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118021,
+        "TitleText": {
+            "hash": -1452008236
+        },
+        "TraitText": {
+            "hash": 1326625720
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118031,
+        "TitleText": {
+            "hash": -1452008205
+        },
+        "TraitText": {
+            "hash": 1326625751
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118041,
+        "TitleText": {
+            "hash": -1452008174
+        },
+        "TraitText": {
+            "hash": 1326625782
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118051,
+        "TitleText": {
+            "hash": -1452008143
+        },
+        "TraitText": {
+            "hash": 1326625813
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118111,
+        "TitleText": {
+            "hash": -1452007306
+        },
+        "TraitText": {
+            "hash": 1326626650
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118121,
+        "TitleText": {
+            "hash": -1452007275
+        },
+        "TraitText": {
+            "hash": 1326626681
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118131,
+        "TitleText": {
+            "hash": -1452007244
+        },
+        "TraitText": {
+            "hash": 1326626712
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118141,
+        "TitleText": {
+            "hash": -1452007213
+        },
+        "TraitText": {
+            "hash": 1326626743
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118151,
+        "TitleText": {
+            "hash": -1452007182
+        },
+        "TraitText": {
+            "hash": 1326626774
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118211,
+        "TitleText": {
+            "hash": -1452006345
+        },
+        "TraitText": {
+            "hash": 1326627611
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118221,
+        "TitleText": {
+            "hash": -1452006314
+        },
+        "TraitText": {
+            "hash": 1326627642
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118231,
+        "TitleText": {
+            "hash": -1452006283
+        },
+        "TraitText": {
+            "hash": 1326627673
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118241,
+        "TitleText": {
+            "hash": -1452006252
+        },
+        "TraitText": {
+            "hash": 1326627704
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118251,
+        "TitleText": {
+            "hash": -1452006221
+        },
+        "TraitText": {
+            "hash": 1326627735
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118311,
+        "TitleText": {
+            "hash": -1452005384
+        },
+        "TraitText": {
+            "hash": 1326628572
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118321,
+        "TitleText": {
+            "hash": -1452005353
+        },
+        "TraitText": {
+            "hash": 1326628603
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118331,
+        "TitleText": {
+            "hash": -1452005322
+        },
+        "TraitText": {
+            "hash": 1326628634
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118341,
+        "TitleText": {
+            "hash": -1452005291
+        },
+        "TraitText": {
+            "hash": 1326628665
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118351,
+        "TitleText": {
+            "hash": -1452005260
+        },
+        "TraitText": {
+            "hash": 1326628696
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118411,
+        "TitleText": {
+            "hash": -1452004423
+        },
+        "TraitText": {
+            "hash": 1326629533
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118421,
+        "TitleText": {
+            "hash": -1452004392
+        },
+        "TraitText": {
+            "hash": 1326629564
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118431,
+        "TitleText": {
+            "hash": -1452004361
+        },
+        "TraitText": {
+            "hash": 1326629595
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118441,
+        "TitleText": {
+            "hash": -1452004330
+        },
+        "TraitText": {
+            "hash": 1326629626
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118451,
+        "TitleText": {
+            "hash": -1452004299
+        },
+        "TraitText": {
+            "hash": 1326629657
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118511,
+        "TitleText": {
+            "hash": -1452003462
+        },
+        "TraitText": {
+            "hash": 1326630494
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118521,
+        "TitleText": {
+            "hash": -1452003431
+        },
+        "TraitText": {
+            "hash": 1326630525
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118531,
+        "TitleText": {
+            "hash": -1452003400
+        },
+        "TraitText": {
+            "hash": 1326630556
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118541,
+        "TitleText": {
+            "hash": -1452003369
+        },
+        "TraitText": {
+            "hash": 1326630587
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118551,
+        "TitleText": {
+            "hash": -1452003338
+        },
+        "TraitText": {
+            "hash": 1326630618
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118611,
+        "TitleText": {
+            "hash": -1452002501
+        },
+        "TraitText": {
+            "hash": 1326631455
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118621,
+        "TitleText": {
+            "hash": -1452002470
+        },
+        "TraitText": {
+            "hash": 1326631486
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118631,
+        "TitleText": {
+            "hash": -1452002439
+        },
+        "TraitText": {
+            "hash": 1326631517
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118641,
+        "TitleText": {
+            "hash": -1452002408
+        },
+        "TraitText": {
+            "hash": 1326631548
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118651,
+        "TitleText": {
+            "hash": -1452002377
+        },
+        "TraitText": {
+            "hash": 1326631579
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118711,
+        "TitleText": {
+            "hash": -1452001540
+        },
+        "TraitText": {
+            "hash": 1326632416
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118721,
+        "TitleText": {
+            "hash": -1452001509
+        },
+        "TraitText": {
+            "hash": 1326632447
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118731,
+        "TitleText": {
+            "hash": -1452001478
+        },
+        "TraitText": {
+            "hash": 1326632478
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118741,
+        "TitleText": {
+            "hash": -1452001447
+        },
+        "TraitText": {
+            "hash": 1326632509
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118751,
+        "TitleText": {
+            "hash": -1452001416
+        },
+        "TraitText": {
+            "hash": 1326632540
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118811,
+        "TitleText": {
+            "hash": -1452000579
+        },
+        "TraitText": {
+            "hash": 1326633377
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118821,
+        "TitleText": {
+            "hash": -1452000548
+        },
+        "TraitText": {
+            "hash": 1326633408
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118831,
+        "TitleText": {
+            "hash": -1452000517
+        },
+        "TraitText": {
+            "hash": 1326633439
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118841,
+        "TitleText": {
+            "hash": -1452000486
+        },
+        "TraitText": {
+            "hash": 1326633470
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118851,
+        "TitleText": {
+            "hash": -1452000455
+        },
+        "TraitText": {
+            "hash": 1326633501
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118911,
+        "TitleText": {
+            "hash": -1451999618
+        },
+        "TraitText": {
+            "hash": 1326634338
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118912,
+        "TitleText": {
+            "hash": -1451999617
+        },
+        "TraitText": {
+            "hash": 1326634339
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118913,
+        "TitleText": {
+            "hash": -1451999616
+        },
+        "TraitText": {
+            "hash": 1326634340
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118921,
+        "TitleText": {
+            "hash": -1451999587
+        },
+        "TraitText": {
+            "hash": 1326634369
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118922,
+        "TitleText": {
+            "hash": -1451999586
+        },
+        "TraitText": {
+            "hash": 1326634370
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118923,
+        "TitleText": {
+            "hash": -1451999585
+        },
+        "TraitText": {
+            "hash": 1326634371
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118931,
+        "TitleText": {
+            "hash": -1451999556
+        },
+        "TraitText": {
+            "hash": 1326634400
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118932,
+        "TitleText": {
+            "hash": -1451999555
+        },
+        "TraitText": {
+            "hash": 1326634401
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118933,
+        "TitleText": {
+            "hash": -1451999554
+        },
+        "TraitText": {
+            "hash": 1326634402
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118941,
+        "TitleText": {
+            "hash": -1451999525
+        },
+        "TraitText": {
+            "hash": 1326634431
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118942,
+        "TitleText": {
+            "hash": -1451999524
+        },
+        "TraitText": {
+            "hash": 1326634432
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118943,
+        "TitleText": {
+            "hash": -1451999523
+        },
+        "TraitText": {
+            "hash": 1326634433
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118951,
+        "TitleText": {
+            "hash": -1451999494
+        },
+        "TraitText": {
+            "hash": 1326634462
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118952,
+        "TitleText": {
+            "hash": -1451999493
+        },
+        "TraitText": {
+            "hash": 1326634463
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 118953,
+        "TitleText": {
+            "hash": -1451999492
+        },
+        "TraitText": {
+            "hash": 1326634464
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119011,
+        "TitleText": {
+            "hash": -1451978476
+        },
+        "TraitText": {
+            "hash": 1326655480
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119012,
+        "TitleText": {
+            "hash": -1451978475
+        },
+        "TraitText": {
+            "hash": 1326655481
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119013,
+        "TitleText": {
+            "hash": -1451978474
+        },
+        "TraitText": {
+            "hash": 1326655482
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119021,
+        "TitleText": {
+            "hash": -1451978445
+        },
+        "TraitText": {
+            "hash": 1326655511
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119022,
+        "TitleText": {
+            "hash": -1451978444
+        },
+        "TraitText": {
+            "hash": 1326655512
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119023,
+        "TitleText": {
+            "hash": -1451978443
+        },
+        "TraitText": {
+            "hash": 1326655513
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119031,
+        "TitleText": {
+            "hash": -1451978414
+        },
+        "TraitText": {
+            "hash": 1326655542
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119032,
+        "TitleText": {
+            "hash": -1451978413
+        },
+        "TraitText": {
+            "hash": 1326655543
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119033,
+        "TitleText": {
+            "hash": -1451978412
+        },
+        "TraitText": {
+            "hash": 1326655544
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119041,
+        "TitleText": {
+            "hash": -1451978383
+        },
+        "TraitText": {
+            "hash": 1326655573
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119042,
+        "TitleText": {
+            "hash": -1451978382
+        },
+        "TraitText": {
+            "hash": 1326655574
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119043,
+        "TitleText": {
+            "hash": -1451978381
+        },
+        "TraitText": {
+            "hash": 1326655575
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119051,
+        "TitleText": {
+            "hash": -1451978352
+        },
+        "TraitText": {
+            "hash": 1326655604
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119052,
+        "TitleText": {
+            "hash": -1451978351
+        },
+        "TraitText": {
+            "hash": 1326655605
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 119053,
+        "TitleText": {
+            "hash": -1451978350
+        },
+        "TraitText": {
+            "hash": 1326655606
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210511,
+        "TitleText": {
+            "hash": -1423612639
+        },
+        "TraitText": {
+            "hash": 1355021317
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210512,
+        "TitleText": {
+            "hash": -1423612638
+        },
+        "TraitText": {
+            "hash": 1355021318
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210513,
+        "TitleText": {
+            "hash": -1423612637
+        },
+        "TraitText": {
+            "hash": 1355021319
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210521,
+        "TitleText": {
+            "hash": -1423612608
+        },
+        "TraitText": {
+            "hash": 1355021348
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210522,
+        "TitleText": {
+            "hash": -1423612607
+        },
+        "TraitText": {
+            "hash": 1355021349
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210523,
+        "TitleText": {
+            "hash": -1423612606
+        },
+        "TraitText": {
+            "hash": 1355021350
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210531,
+        "TitleText": {
+            "hash": -1423612577
+        },
+        "TraitText": {
+            "hash": 1355021379
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210532,
+        "TitleText": {
+            "hash": -1423612576
+        },
+        "TraitText": {
+            "hash": 1355021380
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210533,
+        "TitleText": {
+            "hash": -1423612575
+        },
+        "TraitText": {
+            "hash": 1355021381
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210541,
+        "TitleText": {
+            "hash": -1423612546
+        },
+        "TraitText": {
+            "hash": 1355021410
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210542,
+        "TitleText": {
+            "hash": -1423612545
+        },
+        "TraitText": {
+            "hash": 1355021411
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210543,
+        "TitleText": {
+            "hash": -1423612544
+        },
+        "TraitText": {
+            "hash": 1355021412
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210551,
+        "TitleText": {
+            "hash": -1423612515
+        },
+        "TraitText": {
+            "hash": 1355021441
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombDamage",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210552,
+        "TitleText": {
+            "hash": -1423612514
+        },
+        "TraitText": {
+            "hash": 1355021442
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210553,
+        "TitleText": {
+            "hash": -1423612513
+        },
+        "TraitText": {
+            "hash": 1355021443
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210611,
+        "TitleText": {
+            "hash": -1423611678
+        },
+        "TraitText": {
+            "hash": 1355022278
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210612,
+        "TitleText": {
+            "hash": -1423611677
+        },
+        "TraitText": {
+            "hash": 1355022279
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210613,
+        "TitleText": {
+            "hash": -1423611676
+        },
+        "TraitText": {
+            "hash": 1355022280
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210621,
+        "TitleText": {
+            "hash": -1423611647
+        },
+        "TraitText": {
+            "hash": 1355022309
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210622,
+        "TitleText": {
+            "hash": -1423611646
+        },
+        "TraitText": {
+            "hash": 1355022310
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210623,
+        "TitleText": {
+            "hash": -1423611645
+        },
+        "TraitText": {
+            "hash": 1355022311
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210631,
+        "TitleText": {
+            "hash": -1423611616
+        },
+        "TraitText": {
+            "hash": 1355022340
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210632,
+        "TitleText": {
+            "hash": -1423611615
+        },
+        "TraitText": {
+            "hash": 1355022341
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210633,
+        "TitleText": {
+            "hash": -1423611614
+        },
+        "TraitText": {
+            "hash": 1355022342
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210641,
+        "TitleText": {
+            "hash": -1423611585
+        },
+        "TraitText": {
+            "hash": 1355022371
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210642,
+        "TitleText": {
+            "hash": -1423611584
+        },
+        "TraitText": {
+            "hash": 1355022372
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210643,
+        "TitleText": {
+            "hash": -1423611583
+        },
+        "TraitText": {
+            "hash": 1355022373
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210651,
+        "TitleText": {
+            "hash": -1423611554
+        },
+        "TraitText": {
+            "hash": 1355022402
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210652,
+        "TitleText": {
+            "hash": -1423611553
+        },
+        "TraitText": {
+            "hash": 1355022403
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210653,
+        "TitleText": {
+            "hash": -1423611552
+        },
+        "TraitText": {
+            "hash": 1355022404
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210711,
+        "TitleText": {
+            "hash": -1423610717
+        },
+        "TraitText": {
+            "hash": 1355023239
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210712,
+        "TitleText": {
+            "hash": -1423610716
+        },
+        "TraitText": {
+            "hash": 1355023240
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210713,
+        "TitleText": {
+            "hash": -1423610715
+        },
+        "TraitText": {
+            "hash": 1355023241
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210721,
+        "TitleText": {
+            "hash": -1423610686
+        },
+        "TraitText": {
+            "hash": 1355023270
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210722,
+        "TitleText": {
+            "hash": -1423610685
+        },
+        "TraitText": {
+            "hash": 1355023271
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210723,
+        "TitleText": {
+            "hash": -1423610684
+        },
+        "TraitText": {
+            "hash": 1355023272
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210731,
+        "TitleText": {
+            "hash": -1423610655
+        },
+        "TraitText": {
+            "hash": 1355023301
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210732,
+        "TitleText": {
+            "hash": -1423610654
+        },
+        "TraitText": {
+            "hash": 1355023302
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210733,
+        "TitleText": {
+            "hash": -1423610653
+        },
+        "TraitText": {
+            "hash": 1355023303
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210741,
+        "TitleText": {
+            "hash": -1423610624
+        },
+        "TraitText": {
+            "hash": 1355023332
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210742,
+        "TitleText": {
+            "hash": -1423610623
+        },
+        "TraitText": {
+            "hash": 1355023333
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210743,
+        "TitleText": {
+            "hash": -1423610622
+        },
+        "TraitText": {
+            "hash": 1355023334
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210751,
+        "TitleText": {
+            "hash": -1423610593
+        },
+        "TraitText": {
+            "hash": 1355023363
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210752,
+        "TitleText": {
+            "hash": -1423610592
+        },
+        "TraitText": {
+            "hash": 1355023364
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210753,
+        "TitleText": {
+            "hash": -1423610591
+        },
+        "TraitText": {
+            "hash": 1355023365
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210811,
+        "TitleText": {
+            "hash": -1423609756
+        },
+        "TraitText": {
+            "hash": 1355024200
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210812,
+        "TitleText": {
+            "hash": -1423609755
+        },
+        "TraitText": {
+            "hash": 1355024201
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210813,
+        "TitleText": {
+            "hash": -1423609754
+        },
+        "TraitText": {
+            "hash": 1355024202
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210821,
+        "TitleText": {
+            "hash": -1423609725
+        },
+        "TraitText": {
+            "hash": 1355024231
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210822,
+        "TitleText": {
+            "hash": -1423609724
+        },
+        "TraitText": {
+            "hash": 1355024232
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210823,
+        "TitleText": {
+            "hash": -1423609723
+        },
+        "TraitText": {
+            "hash": 1355024233
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210831,
+        "TitleText": {
+            "hash": -1423609694
+        },
+        "TraitText": {
+            "hash": 1355024262
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210832,
+        "TitleText": {
+            "hash": -1423609693
+        },
+        "TraitText": {
+            "hash": 1355024263
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210833,
+        "TitleText": {
+            "hash": -1423609692
+        },
+        "TraitText": {
+            "hash": 1355024264
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210841,
+        "TitleText": {
+            "hash": -1423609663
+        },
+        "TraitText": {
+            "hash": 1355024293
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210842,
+        "TitleText": {
+            "hash": -1423609662
+        },
+        "TraitText": {
+            "hash": 1355024294
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210843,
+        "TitleText": {
+            "hash": -1423609661
+        },
+        "TraitText": {
+            "hash": 1355024295
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210851,
+        "TitleText": {
+            "hash": -1423609632
+        },
+        "TraitText": {
+            "hash": 1355024324
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210852,
+        "TitleText": {
+            "hash": -1423609631
+        },
+        "TraitText": {
+            "hash": 1355024325
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210853,
+        "TitleText": {
+            "hash": -1423609630
+        },
+        "TraitText": {
+            "hash": 1355024326
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210911,
+        "TitleText": {
+            "hash": -1423608795
+        },
+        "TraitText": {
+            "hash": 1355025161
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210912,
+        "TitleText": {
+            "hash": -1423608794
+        },
+        "TraitText": {
+            "hash": 1355025162
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210913,
+        "TitleText": {
+            "hash": -1423608793
+        },
+        "TraitText": {
+            "hash": 1355025163
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210921,
+        "TitleText": {
+            "hash": -1423608764
+        },
+        "TraitText": {
+            "hash": 1355025192
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210922,
+        "TitleText": {
+            "hash": -1423608763
+        },
+        "TraitText": {
+            "hash": 1355025193
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210923,
+        "TitleText": {
+            "hash": -1423608762
+        },
+        "TraitText": {
+            "hash": 1355025194
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210931,
+        "TitleText": {
+            "hash": -1423608733
+        },
+        "TraitText": {
+            "hash": 1355025223
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210932,
+        "TitleText": {
+            "hash": -1423608732
+        },
+        "TraitText": {
+            "hash": 1355025224
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210933,
+        "TitleText": {
+            "hash": -1423608731
+        },
+        "TraitText": {
+            "hash": 1355025225
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210941,
+        "TitleText": {
+            "hash": -1423608702
+        },
+        "TraitText": {
+            "hash": 1355025254
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210942,
+        "TitleText": {
+            "hash": -1423608701
+        },
+        "TraitText": {
+            "hash": 1355025255
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210943,
+        "TitleText": {
+            "hash": -1423608700
+        },
+        "TraitText": {
+            "hash": 1355025256
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210951,
+        "TitleText": {
+            "hash": -1423608671
+        },
+        "TraitText": {
+            "hash": 1355025285
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombScale",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210952,
+        "TitleText": {
+            "hash": -1423608670
+        },
+        "TraitText": {
+            "hash": 1355025286
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeDistance",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 210953,
+        "TitleText": {
+            "hash": -1423608669
+        },
+        "TraitText": {
+            "hash": 1355025287
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211011,
+        "TitleText": {
+            "hash": -1423587653
+        },
+        "TraitText": {
+            "hash": 1355046303
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211012,
+        "TitleText": {
+            "hash": -1423587652
+        },
+        "TraitText": {
+            "hash": 1355046304
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211013,
+        "TitleText": {
+            "hash": -1423587651
+        },
+        "TraitText": {
+            "hash": 1355046305
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211021,
+        "TitleText": {
+            "hash": -1423587622
+        },
+        "TraitText": {
+            "hash": 1355046334
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211022,
+        "TitleText": {
+            "hash": -1423587621
+        },
+        "TraitText": {
+            "hash": 1355046335
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211023,
+        "TitleText": {
+            "hash": -1423587620
+        },
+        "TraitText": {
+            "hash": 1355046336
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211031,
+        "TitleText": {
+            "hash": -1423587591
+        },
+        "TraitText": {
+            "hash": 1355046365
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211032,
+        "TitleText": {
+            "hash": -1423587590
+        },
+        "TraitText": {
+            "hash": 1355046366
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211033,
+        "TitleText": {
+            "hash": -1423587589
+        },
+        "TraitText": {
+            "hash": 1355046367
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211041,
+        "TitleText": {
+            "hash": -1423587560
+        },
+        "TraitText": {
+            "hash": 1355046396
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211042,
+        "TitleText": {
+            "hash": -1423587559
+        },
+        "TraitText": {
+            "hash": 1355046397
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211043,
+        "TitleText": {
+            "hash": -1423587558
+        },
+        "TraitText": {
+            "hash": 1355046398
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211051,
+        "TitleText": {
+            "hash": -1423587529
+        },
+        "TraitText": {
+            "hash": 1355046427
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillBombCD",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211052,
+        "TitleText": {
+            "hash": -1423587528
+        },
+        "TraitText": {
+            "hash": 1355046428
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeSpeed",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211053,
+        "TitleText": {
+            "hash": -1423587527
+        },
+        "TraitText": {
+            "hash": 1355046429
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211111,
+        "TitleText": {
+            "hash": -1423586692
+        },
+        "TraitText": {
+            "hash": 1355047264
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211112,
+        "TitleText": {
+            "hash": -1423586691
+        },
+        "TraitText": {
+            "hash": 1355047265
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211113,
+        "TitleText": {
+            "hash": -1423586690
+        },
+        "TraitText": {
+            "hash": 1355047266
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211121,
+        "TitleText": {
+            "hash": -1423586661
+        },
+        "TraitText": {
+            "hash": 1355047295
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211122,
+        "TitleText": {
+            "hash": -1423586660
+        },
+        "TraitText": {
+            "hash": 1355047296
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211123,
+        "TitleText": {
+            "hash": -1423586659
+        },
+        "TraitText": {
+            "hash": 1355047297
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211131,
+        "TitleText": {
+            "hash": -1423586630
+        },
+        "TraitText": {
+            "hash": 1355047326
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211132,
+        "TitleText": {
+            "hash": -1423586629
+        },
+        "TraitText": {
+            "hash": 1355047327
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211133,
+        "TitleText": {
+            "hash": -1423586628
+        },
+        "TraitText": {
+            "hash": 1355047328
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211141,
+        "TitleText": {
+            "hash": -1423586599
+        },
+        "TraitText": {
+            "hash": 1355047357
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211142,
+        "TitleText": {
+            "hash": -1423586598
+        },
+        "TraitText": {
+            "hash": 1355047358
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211143,
+        "TitleText": {
+            "hash": -1423586597
+        },
+        "TraitText": {
+            "hash": 1355047359
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211151,
+        "TitleText": {
+            "hash": -1423586568
+        },
+        "TraitText": {
+            "hash": 1355047388
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillTrapDuration",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211152,
+        "TitleText": {
+            "hash": -1423586567
+        },
+        "TraitText": {
+            "hash": 1355047389
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillEscapeLimit",
+        "PVPSkillName": ""
+    },
+    {
+        "TraitID": 211153,
+        "TitleText": {
+            "hash": -1423586566
+        },
+        "TraitText": {
+            "hash": 1355047390
+        },
+        "AbilityName": "",
+        "ItemIcon": "SpriteOutput/RpgSurvival/SkillType/IconSkillProductUp",
+        "PVPSkillName": ""
+    }
+]

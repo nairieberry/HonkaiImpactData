@@ -1,0 +1,540 @@
+[
+    {
+        "ChoiceID": 1,
+        "KeyID": 1,
+        "NeedScore": 0,
+        "Reward": 1451101,
+        "StepID": 1,
+        "Name_Textmap": {
+            "hash": 1642808453
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar01_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677934
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275631
+            },
+            {
+                "hash": -530275630
+            },
+            {
+                "hash": -530275629
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 2,
+        "NeedScore": 0,
+        "Reward": 1451101,
+        "StepID": 1,
+        "Name_Textmap": {
+            "hash": 1642808454
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar02_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677934
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275631
+            },
+            {
+                "hash": -530275630
+            },
+            {
+                "hash": -530275629
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 3,
+        "NeedScore": 0,
+        "Reward": 1451101,
+        "StepID": 1,
+        "Name_Textmap": {
+            "hash": 1642808455
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+        "Pic": "event/Immediately/ActivityPage/Avatar03_a_truecolor",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677934
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275631
+            },
+            {
+                "hash": -530275630
+            },
+            {
+                "hash": -530275629
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 4,
+        "NeedScore": 100,
+        "Reward": 1451102,
+        "StepID": 2,
+        "Name_Textmap": {
+            "hash": 1642808484
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration02_a",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275600
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 5,
+        "NeedScore": 100,
+        "Reward": 1451102,
+        "StepID": 2,
+        "Name_Textmap": {
+            "hash": 1642808485
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration02_b",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275600
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 6,
+        "NeedScore": 100,
+        "Reward": 1451102,
+        "StepID": 2,
+        "Name_Textmap": {
+            "hash": 1642808486
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration02_c",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275600
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 7,
+        "NeedScore": 200,
+        "Reward": 1451103,
+        "StepID": 3,
+        "Name_Textmap": {
+            "hash": 1642808515
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration06_a",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275569
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 8,
+        "NeedScore": 200,
+        "Reward": 1451103,
+        "StepID": 3,
+        "Name_Textmap": {
+            "hash": 1642808516
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration06_b",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275569
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 9,
+        "NeedScore": 200,
+        "Reward": 1451103,
+        "StepID": 3,
+        "Name_Textmap": {
+            "hash": 1642808517
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration06_c",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275569
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 10,
+        "NeedScore": 400,
+        "Reward": 1451104,
+        "StepID": 4,
+        "Name_Textmap": {
+            "hash": 1642808546
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration03_a",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275538
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 11,
+        "NeedScore": 400,
+        "Reward": 1451104,
+        "StepID": 4,
+        "Name_Textmap": {
+            "hash": 1642808547
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration03_b",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275538
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 12,
+        "NeedScore": 400,
+        "Reward": 1451104,
+        "StepID": 4,
+        "Name_Textmap": {
+            "hash": 1642808548
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration03_c",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275538
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 13,
+        "NeedScore": 600,
+        "Reward": 1451105,
+        "StepID": 5,
+        "Name_Textmap": {
+            "hash": 1642808577
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration05_a",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275507
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 14,
+        "NeedScore": 600,
+        "Reward": 1451105,
+        "StepID": 5,
+        "Name_Textmap": {
+            "hash": 1642808578
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration05_b",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275507
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 15,
+        "NeedScore": 600,
+        "Reward": 1451105,
+        "StepID": 5,
+        "Name_Textmap": {
+            "hash": 1642808579
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration05_c",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275507
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 16,
+        "NeedScore": 900,
+        "Reward": 1451106,
+        "StepID": 6,
+        "Name_Textmap": {
+            "hash": 1642808608
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration01_a",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275476
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 17,
+        "NeedScore": 900,
+        "Reward": 1451106,
+        "StepID": 6,
+        "Name_Textmap": {
+            "hash": 1642808609
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration01_b",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275476
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 18,
+        "NeedScore": 900,
+        "Reward": 1451106,
+        "StepID": 6,
+        "Name_Textmap": {
+            "hash": 1642808610
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Decoration01_c",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275476
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 1,
+        "NeedScore": 1200,
+        "Reward": 1451142,
+        "StepID": 7,
+        "Name_Textmap": {
+            "hash": 1642808453
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar01_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677748
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275445
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 2,
+        "NeedScore": 1200,
+        "Reward": 1451142,
+        "StepID": 7,
+        "Name_Textmap": {
+            "hash": 1642808454
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar02_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677748
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275445
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 3,
+        "NeedScore": 1200,
+        "Reward": 1451142,
+        "StepID": 7,
+        "Name_Textmap": {
+            "hash": 1642808455
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+        "Pic": "event/Immediately/ActivityPage/Avatar03_a_truecolor",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677748
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275445
+            }
+        ]
+    },
+    {
+        "ChoiceID": 4,
+        "KeyID": 19,
+        "NeedScore": 1200,
+        "Reward": 1451142,
+        "StepID": 7,
+        "Name_Textmap": {
+            "hash": 1642808456
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "",
+        "ChoiceAfter_Textmap": [],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275445
+            }
+        ]
+    },
+    {
+        "ChoiceID": 1,
+        "KeyID": 1,
+        "NeedScore": 1500,
+        "Reward": 1451143,
+        "StepID": 8,
+        "Name_Textmap": {
+            "hash": 1642808453
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn01",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar01_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677717
+            },
+            {
+                "hash": -1450677716
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275414
+            }
+        ]
+    },
+    {
+        "ChoiceID": 2,
+        "KeyID": 2,
+        "NeedScore": 1500,
+        "Reward": 1451143,
+        "StepID": 8,
+        "Name_Textmap": {
+            "hash": 1642808454
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn03",
+        "Pic": "SpriteOutput/Activity/ChristmasPanel/Avatar02_a",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677717
+            },
+            {
+                "hash": -1450677716
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275414
+            }
+        ]
+    },
+    {
+        "ChoiceID": 3,
+        "KeyID": 3,
+        "NeedScore": 1500,
+        "Reward": 1451143,
+        "StepID": 8,
+        "Name_Textmap": {
+            "hash": 1642808455
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn02",
+        "Pic": "event/Immediately/ActivityPage/Avatar03_a_truecolor",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677717
+            },
+            {
+                "hash": -1450677716
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275414
+            }
+        ]
+    },
+    {
+        "ChoiceID": 4,
+        "KeyID": 20,
+        "NeedScore": 1500,
+        "Reward": 1451143,
+        "StepID": 8,
+        "Name_Textmap": {
+            "hash": 1642808456
+        },
+        "ButtonPrefab": "UI/Menus/Widget/Activity/ChristmasTabBtn",
+        "Pic": "",
+        "ChoiceAfter_Textmap": [
+            {
+                "hash": -1450677717
+            },
+            {
+                "hash": -1450677716
+            }
+        ],
+        "ChoiceBefore_Textmap": [
+            {
+                "hash": -530275414
+            }
+        ]
+    }
+]

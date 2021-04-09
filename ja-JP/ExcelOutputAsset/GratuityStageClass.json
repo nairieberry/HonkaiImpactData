@@ -1,0 +1,722 @@
+[
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 30,
+        "StageClassID": 1,
+        "StaminaCoef": 8,
+        "TeamSubList": 1,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 20.0,
+        "StageClassDec": {
+            "hash": -1039923692
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044410
+        },
+        "Colors": [
+            "#87FFEB32",
+            "#92FFDB32",
+            "#294A4F8F",
+            "#209BBC4D",
+            "#B8F9FF64",
+            "#B8F9FF64",
+            "#FFFFFF80",
+            "#1A203C64",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#1B385EFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#FFFFFFFF",
+            "#FFFFFFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 30,
+        "StageClassID": 1,
+        "StaminaCoef": 10,
+        "TeamSubList": 1,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 60.0,
+        "StageClassDec": {
+            "hash": -1039923692
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044410
+        },
+        "Colors": [
+            "#87FFEB32",
+            "#92FFDB32",
+            "#294A4F8F",
+            "#209BBC4D",
+            "#B8F9FF64",
+            "#B8F9FF64",
+            "#FFFFFF80",
+            "#1A203C64",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#1B385EFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#FFFFFFFF",
+            "#FFFFFFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 30,
+        "StageClassID": 2,
+        "StaminaCoef": 8,
+        "TeamSubList": 1,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 40.0,
+        "StageClassDec": {
+            "hash": -1039923691
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044410
+        },
+        "Colors": [
+            "#87FFEB32",
+            "#92FFDB32",
+            "#294A4F8F",
+            "#209BBC4D",
+            "#B8F9FF64",
+            "#B8F9FF64",
+            "#FFFFFF80",
+            "#1A203C64",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#1B385EFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#FFFFFFFF",
+            "#FFFFFFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 30,
+        "StageClassID": 2,
+        "StaminaCoef": 10,
+        "TeamSubList": 1,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 120.0,
+        "StageClassDec": {
+            "hash": -1039923691
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044410
+        },
+        "Colors": [
+            "#87FFEB32",
+            "#92FFDB32",
+            "#294A4F8F",
+            "#209BBC4D",
+            "#B8F9FF64",
+            "#B8F9FF64",
+            "#FFFFFF80",
+            "#1A203C64",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#1B385EFF",
+            "#B8F9FFFF",
+            "#B8F9FFFF",
+            "#FFFFFFFF",
+            "#FFFFFFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 40,
+        "StageClassID": 3,
+        "StaminaCoef": 8,
+        "TeamSubList": 2,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 65.0,
+        "StageClassDec": {
+            "hash": -1039923690
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044411
+        },
+        "Colors": [
+            "#00FFD532",
+            "#00FFAB32",
+            "#1B5E4292",
+            "#188EAC80",
+            "#00FF955F",
+            "#00FF955F",
+            "#FFFFFF80",
+            "#1A3C3764",
+            "#37FFCDFF",
+            "#5AFFADFF",
+            "#37FFA3A8",
+            "#1B385EFF",
+            "#36FFA3FF",
+            "#69FFCDFF",
+            "#37FFBCA8",
+            "#37FFBCA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 40,
+        "StageClassID": 3,
+        "StaminaCoef": 10,
+        "TeamSubList": 2,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 195.0,
+        "StageClassDec": {
+            "hash": -1039923690
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044411
+        },
+        "Colors": [
+            "#00FFD532",
+            "#00FFAB32",
+            "#1B5E4292",
+            "#188EAC80",
+            "#00FF955F",
+            "#00FF955F",
+            "#FFFFFF80",
+            "#1A3C3764",
+            "#37FFCDFF",
+            "#5AFFADFF",
+            "#37FFA3A8",
+            "#1B385EFF",
+            "#36FFA3FF",
+            "#69FFCDFF",
+            "#37FFBCA8",
+            "#37FFBCA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 40,
+        "StageClassID": 4,
+        "StaminaCoef": 8,
+        "TeamSubList": 2,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 90.0,
+        "StageClassDec": {
+            "hash": -1039923689
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044411
+        },
+        "Colors": [
+            "#00FFD532",
+            "#00FFAB32",
+            "#1B5E4292",
+            "#188EAC80",
+            "#00FF955F",
+            "#00FF955F",
+            "#FFFFFF80",
+            "#1A3C3764",
+            "#37FFCDFF",
+            "#5AFFADFF",
+            "#37FFA3A8",
+            "#1B385EFF",
+            "#36FFA3FF",
+            "#69FFCDFF",
+            "#37FFBCA8",
+            "#37FFBCA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 40,
+        "StageClassID": 4,
+        "StaminaCoef": 10,
+        "TeamSubList": 2,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 270.0,
+        "StageClassDec": {
+            "hash": -1039923689
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044411
+        },
+        "Colors": [
+            "#00FFD532",
+            "#00FFAB32",
+            "#1B5E4292",
+            "#188EAC80",
+            "#00FF955F",
+            "#00FF955F",
+            "#FFFFFF80",
+            "#1A3C3764",
+            "#37FFCDFF",
+            "#5AFFADFF",
+            "#37FFA3A8",
+            "#1B385EFF",
+            "#36FFA3FF",
+            "#69FFCDFF",
+            "#37FFBCA8",
+            "#37FFBCA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 50,
+        "StageClassID": 5,
+        "StaminaCoef": 8,
+        "TeamSubList": 3,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 120.0,
+        "StageClassDec": {
+            "hash": -1039923688
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044412
+        },
+        "Colors": [
+            "#00C3FF32",
+            "#0084FF32",
+            "#1B385EA8",
+            "#1869AC80",
+            "#00D7FF5F",
+            "#00D7FF5F",
+            "#37E7FFA8",
+            "#1B385E64",
+            "#37E7FFFF",
+            "#37E7FFFF",
+            "#37E7FFA8",
+            "#1B385EFF",
+            "#37E7FFFF",
+            "#00C3FFFF",
+            "#37E7FFA8",
+            "#37E7FFA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 50,
+        "StageClassID": 5,
+        "StaminaCoef": 10,
+        "TeamSubList": 3,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 360.0,
+        "StageClassDec": {
+            "hash": -1039923688
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044412
+        },
+        "Colors": [
+            "#00C3FF32",
+            "#0084FF32",
+            "#1B385EA8",
+            "#1869AC80",
+            "#00D7FF5F",
+            "#00D7FF5F",
+            "#37E7FFA8",
+            "#1B385E64",
+            "#37E7FFFF",
+            "#37E7FFFF",
+            "#37E7FFA8",
+            "#1B385EFF",
+            "#37E7FFFF",
+            "#00C3FFFF",
+            "#37E7FFA8",
+            "#37E7FFA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 50,
+        "StageClassID": 6,
+        "StaminaCoef": 8,
+        "TeamSubList": 3,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 150.0,
+        "StageClassDec": {
+            "hash": -1039923687
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044412
+        },
+        "Colors": [
+            "#00C3FF32",
+            "#0084FF32",
+            "#1B385EA8",
+            "#1869AC80",
+            "#00D7FF5F",
+            "#00D7FF5F",
+            "#37E7FFA8",
+            "#1B385E64",
+            "#37E7FFFF",
+            "#37E7FFFF",
+            "#37E7FFA8",
+            "#1B385EFF",
+            "#37E7FFFF",
+            "#00C3FFFF",
+            "#37E7FFA8",
+            "#37E7FFA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 50,
+        "StageClassID": 6,
+        "StaminaCoef": 10,
+        "TeamSubList": 3,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 450.0,
+        "StageClassDec": {
+            "hash": -1039923687
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044412
+        },
+        "Colors": [
+            "#00C3FF32",
+            "#0084FF32",
+            "#1B385EA8",
+            "#1869AC80",
+            "#00D7FF5F",
+            "#00D7FF5F",
+            "#37E7FFA8",
+            "#1B385E64",
+            "#37E7FFFF",
+            "#37E7FFFF",
+            "#37E7FFA8",
+            "#1B385EFF",
+            "#37E7FFFF",
+            "#00C3FFFF",
+            "#37E7FFA8",
+            "#37E7FFA8",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 60,
+        "StageClassID": 7,
+        "StaminaCoef": 8,
+        "TeamSubList": 4,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 210.0,
+        "StageClassDec": {
+            "hash": -1039923686
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044394
+        },
+        "Colors": [
+            "#C35CD432",
+            "#C35CD432",
+            "#402C6380",
+            "#73339C80",
+            "#A069FF64",
+            "#A069FF64",
+            "#FFFFFF80",
+            "#4F3974FF",
+            "#A069FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#1B385EFF",
+            "#BB94FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#BB94FFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 60,
+        "StageClassID": 7,
+        "StaminaCoef": 10,
+        "TeamSubList": 4,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 630.0,
+        "StageClassDec": {
+            "hash": -1039923686
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044394
+        },
+        "Colors": [
+            "#C35CD432",
+            "#C35CD432",
+            "#402C6380",
+            "#73339C80",
+            "#A069FF64",
+            "#A069FF64",
+            "#FFFFFF80",
+            "#4F3974FF",
+            "#A069FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#1B385EFF",
+            "#BB94FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#BB94FFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 60,
+        "StageClassID": 8,
+        "StaminaCoef": 8,
+        "TeamSubList": 4,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 270.0,
+        "StageClassDec": {
+            "hash": -1039923685
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044394
+        },
+        "Colors": [
+            "#C35CD432",
+            "#C35CD432",
+            "#402C6380",
+            "#73339C80",
+            "#A069FF64",
+            "#A069FF64",
+            "#FFFFFF80",
+            "#4F3974FF",
+            "#A069FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#1B385EFF",
+            "#BB94FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#BB94FFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 60,
+        "StageClassID": 8,
+        "StaminaCoef": 10,
+        "TeamSubList": 4,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 810.0,
+        "StageClassDec": {
+            "hash": -1039923685
+        },
+        "TeamSubListTitle": {
+            "hash": -1350044394
+        },
+        "Colors": [
+            "#C35CD432",
+            "#C35CD432",
+            "#402C6380",
+            "#73339C80",
+            "#A069FF64",
+            "#A069FF64",
+            "#FFFFFF80",
+            "#4F3974FF",
+            "#A069FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#1B385EFF",
+            "#BB94FFFF",
+            "#A069FFFF",
+            "#BB94FFFF",
+            "#BB94FFFF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 70,
+        "StageClassID": 9,
+        "StaminaCoef": 8,
+        "TeamSubList": 5,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 350.0,
+        "StageClassDec": {
+            "hash": -1039923684
+        },
+        "TeamSubListTitle": {
+            "hash": 1098296829
+        },
+        "Colors": [
+            "#FDC20032",
+            "#FDC20032",
+            "#6F5B1C80",
+            "#FF650028",
+            "#FDC20064",
+            "#FDC20064",
+            "#FFFFFF80",
+            "#170E0393",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FDC200FF",
+            "#1B385EFF",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FFC400FF",
+            "#FFC400FF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 70,
+        "StageClassID": 9,
+        "StaminaCoef": 10,
+        "TeamSubList": 5,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 1050.0,
+        "StageClassDec": {
+            "hash": -1039923684
+        },
+        "TeamSubListTitle": {
+            "hash": 1098296829
+        },
+        "Colors": [
+            "#FDC20032",
+            "#FDC20032",
+            "#6F5B1C80",
+            "#FF650028",
+            "#FDC20064",
+            "#FDC20064",
+            "#FFFFFF80",
+            "#170E0393",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FDC200FF",
+            "#1B385EFF",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FFC400FF",
+            "#FFC400FF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 1,
+        "ReciveStageMinLevel": 70,
+        "StageClassID": 10,
+        "StaminaCoef": 8,
+        "TeamSubList": 5,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 450.0,
+        "StageClassDec": {
+            "hash": 2122103964
+        },
+        "TeamSubListTitle": {
+            "hash": 1098296829
+        },
+        "Colors": [
+            "#FDC20032",
+            "#FDC20032",
+            "#6F5B1C80",
+            "#FF650028",
+            "#FDC20064",
+            "#FDC20064",
+            "#FFFFFF80",
+            "#170E0393",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FDC200FF",
+            "#1B385EFF",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FFC400FF",
+            "#FFC400FF",
+            "#0099FFA8"
+        ]
+    },
+    {
+        "DefeatRewardNum": 150,
+        "GratuityScheduleID": 2,
+        "ReciveStageMinLevel": 70,
+        "StageClassID": 10,
+        "StaminaCoef": 10,
+        "TeamSubList": 5,
+        "BonusDamageRatio": 2.5,
+        "BonusStaminaRatio": 3.0,
+        "DamageCoef": 1350.0,
+        "StageClassDec": {
+            "hash": 2122103964
+        },
+        "TeamSubListTitle": {
+            "hash": 1098296829
+        },
+        "Colors": [
+            "#FDC20032",
+            "#FDC20032",
+            "#6F5B1C80",
+            "#FF650028",
+            "#FDC20064",
+            "#FDC20064",
+            "#FFFFFF80",
+            "#170E0393",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FDC200FF",
+            "#1B385EFF",
+            "#FDC200FF",
+            "#FFE14BFF",
+            "#FFC400FF",
+            "#FFC400FF",
+            "#0099FFA8"
+        ]
+    }
+]

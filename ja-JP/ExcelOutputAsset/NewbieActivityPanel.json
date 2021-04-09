@@ -1,0 +1,484 @@
+[
+    {
+        "ActivityID": 1,
+        "ActivityType": 1,
+        "GroupID": 1,
+        "OpenLevel": 13,
+        "ScheduleID": 1,
+        "ShowLevel": 1,
+        "SortID": 1,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -1948582250
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconHot",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 2,
+        "ActivityType": 2,
+        "GroupID": 2,
+        "OpenLevel": 15,
+        "ScheduleID": 1,
+        "ShowLevel": 1,
+        "SortID": 3,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -84884315
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 3,
+        "ActivityType": 3,
+        "GroupID": 3,
+        "OpenLevel": 10,
+        "ScheduleID": 1,
+        "ShowLevel": 1,
+        "SortID": 4,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": 1786282045
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconAchievements",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 5,
+        "ActivityType": 5,
+        "GroupID": 4,
+        "OpenLevel": 25,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 5,
+        "SubTabTitle": {
+            "hash": -1318736364
+        },
+        "TabTitle": {
+            "hash": -1669619371
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityMission",
+        "TabImg": "SpriteOutput/MallTabIcon/IconLevelUp",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 6,
+        "ActivityType": 6,
+        "GroupID": 4,
+        "OpenLevel": 25,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 6,
+        "SubTabTitle": {
+            "hash": 1496239082
+        },
+        "TabTitle": {
+            "hash": -1669619371
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconLevelUp",
+        "StringParam": [
+            "288:8",
+            "289:9",
+            "290:10",
+            "291:11"
+        ],
+        "CurrencyList": [
+            114655
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 7,
+        "ActivityType": 4,
+        "GroupID": 5,
+        "OpenLevel": 20,
+        "ScheduleID": 1,
+        "ShowLevel": 15,
+        "SortID": 7,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": 2055854652
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconMainTask",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 8,
+        "ActivityType": 7,
+        "GroupID": 6,
+        "OpenLevel": 16,
+        "ScheduleID": 1,
+        "ShowLevel": 16,
+        "SortID": 2,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -583550045
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconMission",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 9,
+        "ActivityType": 9,
+        "GroupID": 7,
+        "OpenLevel": 9,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 8,
+        "SubTabTitle": {
+            "hash": 678298950
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 10,
+        "ActivityType": 8,
+        "GroupID": 7,
+        "OpenLevel": 20,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 9,
+        "SubTabTitle": {
+            "hash": 978613573
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 11,
+        "ActivityType": 10,
+        "GroupID": 7,
+        "OpenLevel": 15,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 11,
+        "SubTabTitle": {
+            "hash": 754636295
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 12,
+        "ActivityType": 11,
+        "GroupID": 8,
+        "OpenLevel": 15,
+        "ScheduleID": 1,
+        "ShowLevel": 0,
+        "SortID": 3,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -549045069
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [
+            "1"
+        ],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 1,
+        "ActivityType": 1,
+        "GroupID": 1,
+        "OpenLevel": 13,
+        "ScheduleID": 2,
+        "ShowLevel": 1,
+        "SortID": 1,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -1948582250
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconHot",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 2,
+        "ActivityType": 2,
+        "GroupID": 2,
+        "OpenLevel": 15,
+        "ScheduleID": 2,
+        "ShowLevel": 1,
+        "SortID": 4,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -84884315
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 3,
+        "ActivityType": 3,
+        "GroupID": 3,
+        "OpenLevel": 10,
+        "ScheduleID": 2,
+        "ShowLevel": 1,
+        "SortID": 5,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": 1786282045
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconAchievements",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 5,
+        "ActivityType": 5,
+        "GroupID": 4,
+        "OpenLevel": 25,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 6,
+        "SubTabTitle": {
+            "hash": -1318736364
+        },
+        "TabTitle": {
+            "hash": -1669619371
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityMission",
+        "TabImg": "SpriteOutput/MallTabIcon/IconLevelUp",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 6,
+        "ActivityType": 6,
+        "GroupID": 4,
+        "OpenLevel": 25,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 7,
+        "SubTabTitle": {
+            "hash": 1496239082
+        },
+        "TabTitle": {
+            "hash": -1669619371
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconLevelUp",
+        "StringParam": [
+            "288:8",
+            "289:9",
+            "290:10",
+            "291:11"
+        ],
+        "CurrencyList": [
+            114655
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 7,
+        "ActivityType": 4,
+        "GroupID": 5,
+        "OpenLevel": 20,
+        "ScheduleID": 2,
+        "ShowLevel": 15,
+        "SortID": 8,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": 2055854652
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconMainTask",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 8,
+        "ActivityType": 7,
+        "GroupID": 6,
+        "OpenLevel": 16,
+        "ScheduleID": 2,
+        "ShowLevel": 16,
+        "SortID": 2,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -583550045
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconMission",
+        "StringParam": [],
+        "CurrencyList": [],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 9,
+        "ActivityType": 9,
+        "GroupID": 7,
+        "OpenLevel": 9,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 9,
+        "SubTabTitle": {
+            "hash": 678298950
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 10,
+        "ActivityType": 8,
+        "GroupID": 7,
+        "OpenLevel": 20,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 10,
+        "SubTabTitle": {
+            "hash": 978613573
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 11,
+        "ActivityType": 10,
+        "GroupID": 7,
+        "OpenLevel": 20,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 11,
+        "SubTabTitle": {
+            "hash": 754636295
+        },
+        "TabTitle": {
+            "hash": -808826934
+        },
+        "SubTabImg": "SpriteOutput/MallTabIcon/IconActivityOthers",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ActivityID": 12,
+        "ActivityType": 11,
+        "GroupID": 8,
+        "OpenLevel": 15,
+        "ScheduleID": 2,
+        "ShowLevel": 0,
+        "SortID": 3,
+        "SubTabTitle": {
+            "hash": 0
+        },
+        "TabTitle": {
+            "hash": -549045069
+        },
+        "SubTabImg": "",
+        "TabImg": "SpriteOutput/MallTabIcon/IconGift",
+        "StringParam": [
+            "1"
+        ],
+        "CurrencyList": [
+            6,
+            3
+        ],
+        "bits1": 0
+    }
+]

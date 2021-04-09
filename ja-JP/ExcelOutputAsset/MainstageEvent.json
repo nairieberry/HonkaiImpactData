@@ -1,0 +1,394 @@
+[
+    {
+        "chapterID": 7,
+        "id": 1,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2017-12-08 04:00:00",
+        "EndTime": "2018-03-29 04:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 8,
+        "id": 2,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2018-05-05 04:00:00",
+        "EndTime": "2018-06-20 04:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 9,
+        "id": 3,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2018-12-05 04:00:00",
+        "EndTime": "2019-01-09 04:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 11,
+        "id": 5,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-03-15 04:00:00",
+        "EndTime": "2019-04-11 04:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 12,
+        "id": 7,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-04-11 12:00:00",
+        "EndTime": "2019-05-23 04:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 13,
+        "id": 10,
+        "showPointReward": 0,
+        "unlockLevel": 20,
+        "BeginShowTime": "2019-07-04 10:00:00",
+        "EndTime": "2019-08-15 04:00:00",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry",
+        "rewardBGPath": "event/Immediately/ChapterActivityRewardBg",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 14,
+        "id": 11,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-08-30 10:00:00",
+        "EndTime": "2019-09-26 10:00:00",
+        "enterIconPrefabPath": "",
+        "rewardBGPath": "",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 15,
+        "id": 12,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-09-26 12:00:00",
+        "EndTime": "2019-11-14 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry",
+        "rewardBGPath": "event/Immediately/ChapterActivity12RewardBg",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 16,
+        "id": 13,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-11-29 10:00:00",
+        "EndTime": "2019-12-24 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_13",
+        "rewardBGPath": "event/Immediately/ChapterActivityRewardBg",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 17,
+        "id": 14,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2019-12-24 10:00:00",
+        "EndTime": "2020-02-12 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_14",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 18,
+        "id": 15,
+        "showPointReward": 3,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-04-01 10:00:00",
+        "EndTime": "2020-05-14 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_15",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 19,
+        "id": 16,
+        "showPointReward": 6,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-05-14 10:00:00",
+        "EndTime": "2020-06-23 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_16",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 20,
+        "id": 17,
+        "showPointReward": 0,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-06-11 10:00:00",
+        "EndTime": "2020-08-26 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_17",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [],
+        "CycleMissionIDList": [],
+        "ShopLink": [],
+        "Ticket": [
+            0
+        ],
+        "TicketDailyNumLimit": [
+            0
+        ]
+    },
+    {
+        "chapterID": 21,
+        "id": 18,
+        "showPointReward": 8,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-08-06 10:00:00",
+        "EndTime": "2020-09-10 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/ChapterActivityEntry_18",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [
+            114367
+        ],
+        "CycleMissionIDList": [
+            80779,
+            80780
+        ],
+        "ShopLink": [
+            3
+        ],
+        "Ticket": [
+            114372
+        ],
+        "TicketDailyNumLimit": [
+            4
+        ]
+    },
+    {
+        "chapterID": 22,
+        "id": 19,
+        "showPointReward": 8,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-09-10 10:00:00",
+        "EndTime": "2020-10-16 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/Entry/ChapterActivityEntry_19",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [
+            114620
+        ],
+        "CycleMissionIDList": [
+            80812,
+            80811,
+            80810
+        ],
+        "ShopLink": [
+            303
+        ],
+        "Ticket": [
+            114605,
+            114606
+        ],
+        "TicketDailyNumLimit": [
+            3,
+            1
+        ]
+    },
+    {
+        "chapterID": 23,
+        "id": 20,
+        "showPointReward": 12,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-10-28 10:00:00",
+        "EndTime": "2020-12-10 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/Entry/ChapterActivityEntry_20",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [
+            114641
+        ],
+        "CycleMissionIDList": [
+            80852,
+            80851,
+            80850,
+            80849
+        ],
+        "ShopLink": [
+            303
+        ],
+        "Ticket": [
+            114636,
+            114637
+        ],
+        "TicketDailyNumLimit": [
+            3,
+            1
+        ]
+    },
+    {
+        "chapterID": 24,
+        "id": 21,
+        "showPointReward": 13,
+        "unlockLevel": 30,
+        "BeginShowTime": "2020-12-10 10:00:00",
+        "EndTime": "2021-01-21 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/Entry/ChapterActivityEntry_21",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [
+            114673
+        ],
+        "CycleMissionIDList": [
+            80901,
+            80900,
+            80899,
+            80898
+        ],
+        "ShopLink": [
+            303
+        ],
+        "Ticket": [
+            114668,
+            114669
+        ],
+        "TicketDailyNumLimit": [
+            3,
+            1
+        ]
+    },
+    {
+        "chapterID": 25,
+        "id": 22,
+        "showPointReward": 14,
+        "unlockLevel": 30,
+        "BeginShowTime": "2021-01-21 10:00:00",
+        "EndTime": "2021-03-05 03:59:59",
+        "enterIconPrefabPath": "UI/Menus/Widget/MainPage/Entry/ChapterActivityEntry_22",
+        "rewardBGPath": "event/Immediately/ChapterCover/ChapterActivityRewardBg_14",
+        "CurrencyList": [
+            114708
+        ],
+        "CycleMissionIDList": [
+            84417,
+            84423,
+            84416,
+            84565
+        ],
+        "ShopLink": [
+            303
+        ],
+        "Ticket": [
+            114703,
+            114704
+        ],
+        "TicketDailyNumLimit": [
+            3,
+            1
+        ]
+    }
+]

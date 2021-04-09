@@ -1,0 +1,442 @@
+[
+    {
+        "type": 1,
+        "TagID": 0,
+        "TagDec": {
+            "hash": 115174152
+        },
+        "TagName": {
+            "hash": -715441237
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_SA",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SA",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 1,
+        "TagID": 1001,
+        "TagDec": {
+            "hash": -525629816
+        },
+        "TagName": {
+            "hash": -2082091259
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Branch",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Branch",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 0
+    },
+    {
+        "type": 1,
+        "TagID": 1002,
+        "TagDec": {
+            "hash": -525629815
+        },
+        "TagName": {
+            "hash": -2082091258
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Charge",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Charge",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 0
+    },
+    {
+        "type": 1,
+        "TagID": 1003,
+        "TagDec": {
+            "hash": -525629814
+        },
+        "TagName": {
+            "hash": -2082091257
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Physical",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Physical",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 1,
+        "TagID": 1004,
+        "TagDec": {
+            "hash": -525629813
+        },
+        "TagName": {
+            "hash": -2082091256
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/EquipForge/State_Fire",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 1,
+        "TagID": 1005,
+        "TagDec": {
+            "hash": -525629812
+        },
+        "TagName": {
+            "hash": -2082091255
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/EquipForge/State_Ice",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 1,
+        "TagID": 1006,
+        "TagDec": {
+            "hash": -525629811
+        },
+        "TagName": {
+            "hash": -2082091254
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/EquipForge/State_Lightning",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1007,
+        "TagDec": {
+            "hash": -525629810
+        },
+        "TagName": {
+            "hash": -2082091253
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Frozen",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Frozen",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            24014,
+            21054,
+            20541,
+            20295,
+            20220,
+            20186,
+            20080,
+            20018
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1008,
+        "TagDec": {
+            "hash": -525629809
+        },
+        "TagName": {
+            "hash": -2082091252
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Paralysis",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Paralysis",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20040,
+            20076,
+            20141,
+            20258,
+            20287,
+            20459,
+            20766,
+            24024,
+            24034,
+            24124,
+            21214
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1009,
+        "TagDec": {
+            "hash": -525629808
+        },
+        "TagName": {
+            "hash": -2082091251
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Stun",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Stun",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20152,
+            20345,
+            20429,
+            20521,
+            20537,
+            20644,
+            25056,
+            25096,
+            25156,
+            20453,
+            20170
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1010,
+        "TagDec": {
+            "hash": -525629786
+        },
+        "TagName": {
+            "hash": -2082091229
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Burn",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Burn",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            24074,
+            20032,
+            20160,
+            20216,
+            20273,
+            20513,
+            20291,
+            20332,
+            20533,
+            21104,
+            25036,
+            25116,
+            25136,
+            20024,
+            20229,
+            20341,
+            20456,
+            20447,
+            29004
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1011,
+        "TagDec": {
+            "hash": -525629785
+        },
+        "TagName": {
+            "hash": -2082091228
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Bleading",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Bleading",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20052,
+            20237,
+            20309,
+            20467,
+            20494,
+            20664,
+            20916,
+            24064
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1012,
+        "TagDec": {
+            "hash": -525629784
+        },
+        "TagName": {
+            "hash": -2082091227
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Smash",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Smash",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            21143,
+            21173,
+            21184,
+            21194,
+            21224,
+            24114
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1013,
+        "TagDec": {
+            "hash": -525629783
+        },
+        "TagName": {
+            "hash": -2082091226
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Weak",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Weak",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20269,
+            20349,
+            20509,
+            20553
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1014,
+        "TagDec": {
+            "hash": -525629782
+        },
+        "TagName": {
+            "hash": -2082091225
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fragile",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Fragile",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20036,
+            20058,
+            20284,
+            20335,
+            20545,
+            20846,
+            21064,
+            21244,
+            21234,
+            24104,
+            20116
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1015,
+        "TagDec": {
+            "hash": -525629781
+        },
+        "TagName": {
+            "hash": -2082091224
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Float",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Float",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 0
+    },
+    {
+        "type": 2,
+        "TagID": 1016,
+        "TagDec": {
+            "hash": -525629780
+        },
+        "TagName": {
+            "hash": -2082091223
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 0
+    },
+    {
+        "type": 2,
+        "TagID": 1017,
+        "TagDec": {
+            "hash": -525629779
+        },
+        "TagName": {
+            "hash": -2082091222
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_WitchTime",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_WitchTime",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [
+            20116,
+            20173,
+            20241,
+            20391,
+            20704,
+            20974,
+            21023,
+            24104
+        ],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1018,
+        "TagDec": {
+            "hash": -525629778
+        },
+        "TagName": {
+            "hash": -2082091221
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_SlowDown",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1019,
+        "TagDec": {
+            "hash": -525629777
+        },
+        "TagName": {
+            "hash": -2082091220
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Heal",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Heal",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1020,
+        "TagDec": {
+            "hash": -525629755
+        },
+        "TagName": {
+            "hash": -2082091198
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_HighFreq",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_HighFreq",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1021,
+        "TagDec": {
+            "hash": -525629754
+        },
+        "TagName": {
+            "hash": -2082091197
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Burst",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Burst",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    },
+    {
+        "type": 2,
+        "TagID": 1022,
+        "TagDec": {
+            "hash": -525629753
+        },
+        "TagName": {
+            "hash": -2082091196
+        },
+        "ForgeScreenIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Shield",
+        "Icon": "SpriteOutput/StateIcon/NewStateIcon/State_Shield",
+        "DisplayStigmataList": [],
+        "DisplayWeaponList": [],
+        "bits1": 1
+    }
+]

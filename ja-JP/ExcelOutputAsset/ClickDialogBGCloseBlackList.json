@@ -1,0 +1,14 @@
+[
+    {
+        "ContextName": "ActChallengeDialogContext",
+        "Hierachies": [
+            "MainCanvas/Dialogs/ActChallengeDialog(Clone)/BG"
+        ]
+    },
+    {
+        "ContextName": "ChatDialogContext",
+        "Hierachies": [
+            "MainCanvas/Dialogs/ChatDialog(Clone)/Dialog/BackPanel"
+        ]
+    }
+]

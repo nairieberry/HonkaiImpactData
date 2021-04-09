@@ -1,0 +1,3442 @@
+[
+    {
+        "ID": 101001,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFCF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo"
+    },
+    {
+        "ID": 101002,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFCF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Arrow"
+    },
+    {
+        "ID": 101003,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FF7F",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Desc"
+    },
+    {
+        "ID": 101004,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101005,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101006,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#D8D8FFFF",
+        "ResPath": "SpriteOutput/Farm/IconMenu",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/Icon"
+    },
+    {
+        "ID": 101007,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/Slash2"
+    },
+    {
+        "ID": 101008,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFAF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101009,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101010,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101011,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#D8D8FFFF",
+        "ResPath": "SpriteOutput/Farm/IconTabPhoto",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/Icon"
+    },
+    {
+        "ID": 101012,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/Slash2"
+    },
+    {
+        "ID": 101013,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFAF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101014,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame01"
+    },
+    {
+        "ID": 101015,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame02"
+    },
+    {
+        "ID": 101016,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/Slash"
+    },
+    {
+        "ID": 101017,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#001B80CF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/Exp/TiltSlider"
+    },
+    {
+        "ID": 101018,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#585CFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/Exp/TiltSlider/Slider/Fill"
+    },
+    {
+        "ID": 101019,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/Exp/ExpPanel/NumText"
+    },
+    {
+        "ID": 101020,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel"
+    },
+    {
+        "ID": 101021,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#DFE0FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel/Text"
+    },
+    {
+        "ID": 101022,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlot",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/Rewards/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101023,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelRewardEmptyPanel/Text"
+    },
+    {
+        "ID": 101024,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level"
+    },
+    {
+        "ID": 101025,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Outline"
+    },
+    {
+        "ID": 101026,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#BFC1FF7F",
+        "ResPath": "SpriteOutput/Farm/IconBookLevel",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Icon"
+    },
+    {
+        "ID": 101027,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#1C4CFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/BgLabel"
+    },
+    {
+        "ID": 101028,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Title"
+    },
+    {
+        "ID": 101029,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#878AFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Icon"
+    },
+    {
+        "ID": 101030,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFAF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Buff/BuffDetail"
+    },
+    {
+        "ID": 101031,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title"
+    },
+    {
+        "ID": 101032,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/BG"
+    },
+    {
+        "ID": 101033,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/Desc"
+    },
+    {
+        "ID": 101034,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFF3F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line"
+    },
+    {
+        "ID": 101035,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFF7F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineRight"
+    },
+    {
+        "ID": 101036,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#2F5BFF7F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineLeft"
+    },
+    {
+        "ID": 101037,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/BG/BgExtraStoryLine",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101038,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/1"
+    },
+    {
+        "ID": 101039,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/2"
+    },
+    {
+        "ID": 101040,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#DE4F75FF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/Bg"
+    },
+    {
+        "ID": 101041,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#BFC1FFAF",
+        "ResPath": "SpriteOutput/Farm/FrameSeele",
+        "UIPath": "LeftPanel/Frame"
+    },
+    {
+        "ID": 101042,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageBg"
+    },
+    {
+        "ID": 101043,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#4F52DE40",
+        "ResPath": "SpriteOutput/Farm/IconBookLevel",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageSpecial"
+    },
+    {
+        "ID": 101044,
+        "ResType": 2,
+        "UIType": 2,
+        "Color": "#9295FFFF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/DescPanel"
+    },
+    {
+        "ID": 101045,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#001B802F",
+        "ResPath": "",
+        "UIPath": "PhotoList/Line"
+    },
+    {
+        "ID": 101046,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "PhotoList/ScrollbarWithIcon/SlidingArea/Handle/Icon"
+    },
+    {
+        "ID": 101047,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/StigmataFigures/S3H_2",
+        "UIPath": "PhotoList/Image/ImgDeco"
+    },
+    {
+        "ID": 101048,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "NameBg/Line"
+    },
+    {
+        "ID": 101049,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "ColorImg"
+    },
+    {
+        "ID": 101050,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DE1F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101051,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101052,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101053,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101054,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101055,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101056,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101057,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#BFC1FFAF",
+        "ResPath": "SpriteOutput/Farm/FrameSeele",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101058,
+        "ResType": 2,
+        "UIType": 4,
+        "Color": "#BFC1FFAF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101059,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101060,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101061,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101062,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101063,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel"
+    },
+    {
+        "ID": 101064,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Upline"
+    },
+    {
+        "ID": 101065,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Bottomline"
+    },
+    {
+        "ID": 101066,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "MaterialItem/Outline"
+    },
+    {
+        "ID": 101067,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/LableBumperSeele",
+        "UIPath": "LableBumper"
+    },
+    {
+        "ID": 101068,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#001B800F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101069,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101070,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101071,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101072,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101073,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101074,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FF7F",
+        "ResPath": "SpriteOutput/Farm/FrameSeele",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101075,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#BFC1FF7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Text/TextEn"
+    },
+    {
+        "ID": 101076,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/Kira"
+    },
+    {
+        "ID": 101077,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineLeft"
+    },
+    {
+        "ID": 101078,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowLeft"
+    },
+    {
+        "ID": 101079,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineRight"
+    },
+    {
+        "ID": 101080,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowRight"
+    },
+    {
+        "ID": 101081,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/StigmataFigures/S3BF_2",
+        "UIPath": "Dialog/Title/Image/ImgDeco"
+    },
+    {
+        "ID": 101082,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FF3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Outline"
+    },
+    {
+        "ID": 101083,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#BFC1FF7F",
+        "ResPath": "SpriteOutput/Farm/IconBookLevel",
+        "UIPath": "Dialog/Title/Level/Icon"
+    },
+    {
+        "ID": 101084,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#1C4CFFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/BgLabel"
+    },
+    {
+        "ID": 101085,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Level"
+    },
+    {
+        "ID": 101086,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Title"
+    },
+    {
+        "ID": 101087,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101088,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101089,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101090,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101091,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "FoodIcon/Frame"
+    },
+    {
+        "ID": 101092,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/ItemIcon/Num"
+    },
+    {
+        "ID": 101093,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "Exp/Label/Text"
+    },
+    {
+        "ID": 101094,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "TimeCost/Label/Text"
+    },
+    {
+        "ID": 101095,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "MaterialCount/Label/Text"
+    },
+    {
+        "ID": 101096,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "ChooseBtn"
+    },
+    {
+        "ID": 101097,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#BFC1FFFF",
+        "ResPath": "SpriteOutput/Farm/IconBookLevel",
+        "UIPath": "ChooseBtn/Icon"
+    },
+    {
+        "ID": 101098,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEAF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageR"
+    },
+    {
+        "ID": 101099,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEAF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageL"
+    },
+    {
+        "ID": 101100,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine"
+    },
+    {
+        "ID": 101101,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE40",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine/Gradual"
+    },
+    {
+        "ID": 101102,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine"
+    },
+    {
+        "ID": 101103,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE40",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine/Gradual"
+    },
+    {
+        "ID": 101104,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE4F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101105,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Title"
+    },
+    {
+        "ID": 101106,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image1"
+    },
+    {
+        "ID": 101107,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image2"
+    },
+    {
+        "ID": 101108,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE4F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101109,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Line"
+    },
+    {
+        "ID": 101110,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text"
+    },
+    {
+        "ID": 101111,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text/TextEn"
+    },
+    {
+        "ID": 101112,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Line"
+    },
+    {
+        "ID": 101113,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text"
+    },
+    {
+        "ID": 101114,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text/TextEn"
+    },
+    {
+        "ID": 101115,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlot",
+        "UIPath": "Dialog/Content/LevelupRewards/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101116,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#2F5BFFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Light"
+    },
+    {
+        "ID": 101117,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DE1F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101118,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101119,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101120,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101121,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101122,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101123,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#BFC1FF7F",
+        "ResPath": "SpriteOutput/Farm/FrameSeele",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101124,
+        "ResType": 2,
+        "UIType": 9,
+        "Color": "#F4F4FFAF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101125,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/List/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101126,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#001B80AF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101127,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101128,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#F6F6FFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101129,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101130,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE4F",
+        "ResPath": "",
+        "UIPath": "Current"
+    },
+    {
+        "ID": 101131,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#001B802F",
+        "ResPath": "",
+        "UIPath": "Current/Image1"
+    },
+    {
+        "ID": 101132,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE2F",
+        "ResPath": "",
+        "UIPath": "Current/Image2"
+    },
+    {
+        "ID": 101133,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE41",
+        "ResPath": "",
+        "UIPath": "Current/Image3"
+    },
+    {
+        "ID": 101134,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Current/ImageLine"
+    },
+    {
+        "ID": 101135,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Welt/Left"
+    },
+    {
+        "ID": 101136,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Welt/Right"
+    },
+    {
+        "ID": 101137,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "LevelPanel/Title/Text"
+    },
+    {
+        "ID": 101138,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#BFC1FFFF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/Title/Text"
+    },
+    {
+        "ID": 101139,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlot",
+        "UIPath": "UnclockMaterialPanel/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101140,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#4F52DE3F",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel"
+    },
+    {
+        "ID": 101141,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#4F52DEAF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel/Text"
+    },
+    {
+        "ID": 101142,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/LableBumperSeele",
+        "UIPath": "LableComplete"
+    },
+    {
+        "ID": 101143,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#98523AAF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo"
+    },
+    {
+        "ID": 101144,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#98523AAF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Arrow"
+    },
+    {
+        "ID": 101145,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Desc"
+    },
+    {
+        "ID": 101146,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101147,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101148,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconTabPhoto",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/Icon"
+    },
+    {
+        "ID": 101149,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/Slash2"
+    },
+    {
+        "ID": 101150,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101151,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101152,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101153,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "SpriteOutput/Farm/IconMenu",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/Icon"
+    },
+    {
+        "ID": 101154,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/Slash"
+    },
+    {
+        "ID": 101155,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101156,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame01"
+    },
+    {
+        "ID": 101157,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame02"
+    },
+    {
+        "ID": 101158,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/Slash"
+    },
+    {
+        "ID": 101159,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#6F6F6F7F",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/TiltSlider"
+    },
+    {
+        "ID": 101160,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE14BFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/TiltSlider/Slider/Fill"
+    },
+    {
+        "ID": 101161,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/ExpPanel/NumText"
+    },
+    {
+        "ID": 101162,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel"
+    },
+    {
+        "ID": 101163,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel/Text"
+    },
+    {
+        "ID": 101164,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/Rewards/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101165,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/NextLevelRewardEmptyPanel/Text"
+    },
+    {
+        "ID": 101166,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#945540FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level"
+    },
+    {
+        "ID": 101167,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#9455403F",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Outline"
+    },
+    {
+        "ID": 101168,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFCDA77F",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Icon"
+    },
+    {
+        "ID": 101169,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#352926FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/BgLabel"
+    },
+    {
+        "ID": 101170,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Title"
+    },
+    {
+        "ID": 101171,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Icon"
+    },
+    {
+        "ID": 101172,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Buff/BuffDetail"
+    },
+    {
+        "ID": 101173,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF9A4DFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title"
+    },
+    {
+        "ID": 101174,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF9A4DFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/BG"
+    },
+    {
+        "ID": 101175,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/Desc"
+    },
+    {
+        "ID": 101176,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF9A4D3F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line"
+    },
+    {
+        "ID": 101177,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF9A4D7F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineRight"
+    },
+    {
+        "ID": 101178,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF9A4D7F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineLeft"
+    },
+    {
+        "ID": 101179,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/BG/BgFoodFest",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101180,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/1"
+    },
+    {
+        "ID": 101181,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/2"
+    },
+    {
+        "ID": 101182,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/Bg"
+    },
+    {
+        "ID": 101183,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFCDA77F",
+        "ResPath": "SpriteOutput/Farm/FrameFood",
+        "UIPath": "LeftPanel/Frame"
+    },
+    {
+        "ID": 101184,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#5D221AFF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageBg"
+    },
+    {
+        "ID": 101185,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#6A39063F",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageSpecial"
+    },
+    {
+        "ID": 101186,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFCDA77F",
+        "ResPath": "",
+        "UIPath": "LeftPanel/DescPanel"
+    },
+    {
+        "ID": 101187,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#3E2D262F",
+        "ResPath": "",
+        "UIPath": "PhotoList/Line"
+    },
+    {
+        "ID": 101188,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "PhotoList/ScrollbarWithIcon/SlidingArea/Handle/Icon"
+    },
+    {
+        "ID": 101189,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/StigmataFigures/S4BZ_3",
+        "UIPath": "PhotoList/Image/ImgDeco"
+    },
+    {
+        "ID": 101190,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#6A3906FF",
+        "ResPath": "",
+        "UIPath": "NameBg/Line"
+    },
+    {
+        "ID": 101191,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#6A39067F",
+        "ResPath": "",
+        "UIPath": "ColorImg"
+    },
+    {
+        "ID": 101192,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#6A39061F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101193,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B463F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101194,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B463F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101195,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B463F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101196,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B463F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101197,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101198,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101199,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFCDA77F",
+        "ResPath": "SpriteOutput/Farm/FrameFood",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101200,
+        "ResType": 2,
+        "UIType": 4,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101201,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#A42819FF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101202,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101203,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101204,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101205,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel"
+    },
+    {
+        "ID": 101206,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Upline"
+    },
+    {
+        "ID": 101207,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Bottomline"
+    },
+    {
+        "ID": 101208,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#66392A3F",
+        "ResPath": "",
+        "UIPath": "MaterialItem/Outline"
+    },
+    {
+        "ID": 101209,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/LableBumperFood",
+        "UIPath": "LableBumper"
+    },
+    {
+        "ID": 101210,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#3E2D260F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101211,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101212,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101213,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101214,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101215,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101216,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7AF",
+        "ResPath": "SpriteOutput/Farm/FrameFood",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101217,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#FFCDA77F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Text/TextEn"
+    },
+    {
+        "ID": 101218,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/Kira"
+    },
+    {
+        "ID": 101219,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineLeft"
+    },
+    {
+        "ID": 101220,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowLeft"
+    },
+    {
+        "ID": 101221,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineRight"
+    },
+    {
+        "ID": 101222,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowRight"
+    },
+    {
+        "ID": 101223,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/FigureOfHomu",
+        "UIPath": "Dialog/Title/Image/ImgDeco"
+    },
+    {
+        "ID": 101224,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFCDA73F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Outline"
+    },
+    {
+        "ID": 101225,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFEADAFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/BG"
+    },
+    {
+        "ID": 101226,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#5D221A2F",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "Dialog/Title/Level/Icon"
+    },
+    {
+        "ID": 101227,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#5D221AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/BgLabel"
+    },
+    {
+        "ID": 101228,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Level"
+    },
+    {
+        "ID": 101229,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Title"
+    },
+    {
+        "ID": 101230,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101231,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101232,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101233,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101234,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "FoodIcon/Frame"
+    },
+    {
+        "ID": 101235,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "MaterialItem/ItemIcon/Num"
+    },
+    {
+        "ID": 101236,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "Exp/Label/Text"
+    },
+    {
+        "ID": 101237,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "TimeCost/Label/Text"
+    },
+    {
+        "ID": 101238,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "MaterialCount/Label/Text"
+    },
+    {
+        "ID": 101239,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "ChooseBtn"
+    },
+    {
+        "ID": 101240,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#FFCDA7FF",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "ChooseBtn/Icon"
+    },
+    {
+        "ID": 101241,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B46AF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageR"
+    },
+    {
+        "ID": 101242,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B46AF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageL"
+    },
+    {
+        "ID": 101243,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine"
+    },
+    {
+        "ID": 101244,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B4640",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine/Gradual"
+    },
+    {
+        "ID": 101245,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine"
+    },
+    {
+        "ID": 101246,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B4640",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine/Gradual"
+    },
+    {
+        "ID": 101247,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B464F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101248,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Title"
+    },
+    {
+        "ID": 101249,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image1"
+    },
+    {
+        "ID": 101250,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image2"
+    },
+    {
+        "ID": 101251,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B464F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101252,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Line"
+    },
+    {
+        "ID": 101253,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text"
+    },
+    {
+        "ID": 101254,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text/TextEn"
+    },
+    {
+        "ID": 101255,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Line"
+    },
+    {
+        "ID": 101256,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text"
+    },
+    {
+        "ID": 101257,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#9B6B467F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text/TextEn"
+    },
+    {
+        "ID": 101258,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "Dialog/Content/LevelupRewards/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101259,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#D46B48FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Light"
+    },
+    {
+        "ID": 101260,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#3E2D261F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101261,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#3E2D263F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101262,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#3E2D263F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101263,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#3E2D263F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101264,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#3E2D263F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101265,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#66392AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101266,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFCDA77F",
+        "ResPath": "SpriteOutput/Farm/FrameFood",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101267,
+        "ResType": 2,
+        "UIType": 9,
+        "Color": "#FFCDA7AF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101268,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/List/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101269,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#A42819AF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101270,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101271,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101272,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#9B6B46FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101273,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A4F",
+        "ResPath": "",
+        "UIPath": "Current"
+    },
+    {
+        "ID": 101274,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#5D221A2F",
+        "ResPath": "",
+        "UIPath": "Current/Image1"
+    },
+    {
+        "ID": 101275,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A2F",
+        "ResPath": "",
+        "UIPath": "Current/Image2"
+    },
+    {
+        "ID": 101276,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A41",
+        "ResPath": "",
+        "UIPath": "Current/Image3"
+    },
+    {
+        "ID": 101277,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Current/ImageLine"
+    },
+    {
+        "ID": 101278,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Welt/Left"
+    },
+    {
+        "ID": 101279,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A7F",
+        "ResPath": "",
+        "UIPath": "Welt/Right"
+    },
+    {
+        "ID": 101280,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "LevelPanel/Title/Text"
+    },
+    {
+        "ID": 101281,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#FFCDA7FF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/Title/Text"
+    },
+    {
+        "ID": 101282,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "UnclockMaterialPanel/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101283,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#66392A3F",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel"
+    },
+    {
+        "ID": 101284,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#66392AAF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel/Text"
+    },
+    {
+        "ID": 101285,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/LableBumperFood",
+        "UIPath": "LableComplete"
+    },
+    {
+        "ID": 101286,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035CF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo"
+    },
+    {
+        "ID": 101287,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035CF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Arrow"
+    },
+    {
+        "ID": 101288,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/BtnPanel/InfoBtn/FarmInfoPanel/FarmInfo/Desc"
+    },
+    {
+        "ID": 101289,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101290,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101291,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFEFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconTabPhoto",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/Icon"
+    },
+    {
+        "ID": 101292,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "SpriteOutput/Farm/DecoSlash",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/FrameBg/Slash2"
+    },
+    {
+        "ID": 101293,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/ALbumBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101294,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame01"
+    },
+    {
+        "ID": 101295,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/frame02"
+    },
+    {
+        "ID": 101296,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "SpriteOutput/Farm/IconMenu",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/Icon"
+    },
+    {
+        "ID": 101297,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "SpriteOutput/Farm/DecoSlash",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/FrameBg/Slash"
+    },
+    {
+        "ID": 101298,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/MaterialBtn/TitleInfo/TitleEn"
+    },
+    {
+        "ID": 101299,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame01"
+    },
+    {
+        "ID": 101300,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/frame02"
+    },
+    {
+        "ID": 101301,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "SpriteOutput/Farm/DecoSplashDot",
+        "UIPath": "Pages/InfoPanel/TitleInfo/FrameBg/Slash"
+    },
+    {
+        "ID": 101302,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#6F6F6F7F",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/TiltSlider"
+    },
+    {
+        "ID": 101303,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFE14BFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/TiltSlider/Slider/Fill"
+    },
+    {
+        "ID": 101304,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/InfoRowLv/Exp/ExpPanel/NumText"
+    },
+    {
+        "ID": 101305,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#4F52DEFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel"
+    },
+    {
+        "ID": 101306,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#DFE0FFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/TextPanel/Text"
+    },
+    {
+        "ID": 101307,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "Pages/InfoPanel/TitleInfo/NextLevelReward/Rewards/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101308,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/NextLevelRewardEmptyPanel/Text"
+    },
+    {
+        "ID": 101309,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level"
+    },
+    {
+        "ID": 101310,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Outline"
+    },
+    {
+        "ID": 101311,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FF888C7F",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Icon"
+    },
+    {
+        "ID": 101312,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#FFFFFFFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/BgLabel"
+    },
+    {
+        "ID": 101313,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/Level/Title"
+    },
+    {
+        "ID": 101314,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Icon"
+    },
+    {
+        "ID": 101315,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FF888CAF",
+        "ResPath": "",
+        "UIPath": "Pages/InfoPanel/TitleInfo/InfoRowLv/BuffInfo/Buff/BuffDetail"
+    },
+    {
+        "ID": 101316,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title"
+    },
+    {
+        "ID": 101317,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/BG"
+    },
+    {
+        "ID": 101318,
+        "ResType": 2,
+        "UIType": 1,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Title/Desc"
+    },
+    {
+        "ID": 101319,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line"
+    },
+    {
+        "ID": 101320,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineRight"
+    },
+    {
+        "ID": 101321,
+        "ResType": 1,
+        "UIType": 1,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Pages/MissionPanel/Line/LineLeft"
+    },
+    {
+        "ID": 101322,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/BG/BgFarmSpring",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101323,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/1"
+    },
+    {
+        "ID": 101324,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Line/2"
+    },
+    {
+        "ID": 101325,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "AlbumPanel/Bg/Page"
+    },
+    {
+        "ID": 101326,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/Bg"
+    },
+    {
+        "ID": 101327,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFE9C3FF",
+        "ResPath": "SpriteOutput/Farm/SpecialFrame",
+        "UIPath": "LeftPanel/Frame"
+    },
+    {
+        "ID": 101328,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageBg"
+    },
+    {
+        "ID": 101329,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FF888CFF",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "LeftPanel/InfoPanel/DecoPanel/ImageSpecial"
+    },
+    {
+        "ID": 101330,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/DescPanel"
+    },
+    {
+        "ID": 101331,
+        "ResType": 2,
+        "UIType": 2,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/DescPanel/Text"
+    },
+    {
+        "ID": 101332,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#B930352F",
+        "ResPath": "",
+        "UIPath": "PhotoList/Line"
+    },
+    {
+        "ID": 101333,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "PhotoList/ScrollbarWithIcon/SlidingArea/Handle/Icon"
+    },
+    {
+        "ID": 101334,
+        "ResType": 1,
+        "UIType": 2,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/StigmataFigures/S4BC_3",
+        "UIPath": "PhotoList/Image/ImgDeco"
+    },
+    {
+        "ID": 101335,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "NameBg/Line"
+    },
+    {
+        "ID": 101336,
+        "ResType": 1,
+        "UIType": 3,
+        "Color": "#B930357F",
+        "ResPath": "",
+        "UIPath": "ColorImg"
+    },
+    {
+        "ID": 101337,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#B930351F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101338,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101339,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101340,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101341,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101342,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101343,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101344,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFE9C3FF",
+        "ResPath": "SpriteOutput/Farm/SpecialFrame",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101345,
+        "ResType": 2,
+        "UIType": 4,
+        "Color": "#FFE9C3AF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101346,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#A42819FF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101347,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101348,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101349,
+        "ResType": 1,
+        "UIType": 4,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101350,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel"
+    },
+    {
+        "ID": 101351,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Upline"
+    },
+    {
+        "ID": 101352,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/UnlockLevel/Bottomline"
+    },
+    {
+        "ID": 101353,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#B930353F",
+        "ResPath": "",
+        "UIPath": "MaterialItem/Outline"
+    },
+    {
+        "ID": 101354,
+        "ResType": 1,
+        "UIType": 5,
+        "Color": "#FFFFFFFF",
+        "ResPath": "event/Immediately/LableBumper",
+        "UIPath": "LableBumper"
+    },
+    {
+        "ID": 101355,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#B930351F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101356,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101357,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101358,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101359,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101360,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101361,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE9C3FF",
+        "ResPath": "SpriteOutput/Farm/SpecialFrame",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101362,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#FFE9C37F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Text/TextEn"
+    },
+    {
+        "ID": 101363,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/Kira"
+    },
+    {
+        "ID": 101364,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineLeft"
+    },
+    {
+        "ID": 101365,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowLeft"
+    },
+    {
+        "ID": 101366,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/LineRight"
+    },
+    {
+        "ID": 101367,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Line/ArrowRight"
+    },
+    {
+        "ID": 101368,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/FigureOfHomu",
+        "UIPath": "Dialog/Title/Image/ImgDeco"
+    },
+    {
+        "ID": 101369,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FF888C7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Outline"
+    },
+    {
+        "ID": 101370,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464A3F",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "Dialog/Title/Level/Icon"
+    },
+    {
+        "ID": 101371,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFFFFFFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/BgLabel"
+    },
+    {
+        "ID": 101372,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Level"
+    },
+    {
+        "ID": 101373,
+        "ResType": 2,
+        "UIType": 6,
+        "Color": "#FFE39FFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Level/Title"
+    },
+    {
+        "ID": 101374,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101375,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101376,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101377,
+        "ResType": 1,
+        "UIType": 6,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101378,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#E9464A7F",
+        "ResPath": "",
+        "UIPath": "FoodIcon/Frame"
+    },
+    {
+        "ID": 101379,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "MaterialItem/ItemIcon/Num"
+    },
+    {
+        "ID": 101380,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Exp/Label/Text"
+    },
+    {
+        "ID": 101381,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "TimeCost/Label/Text"
+    },
+    {
+        "ID": 101382,
+        "ResType": 2,
+        "UIType": 7,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "MaterialCount/Label/Text"
+    },
+    {
+        "ID": 101383,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "ChooseBtn"
+    },
+    {
+        "ID": 101384,
+        "ResType": 1,
+        "UIType": 7,
+        "Color": "#FFE9C3FF",
+        "ResPath": "SpriteOutput/Farm/IconCook",
+        "UIPath": "ChooseBtn/Icon"
+    },
+    {
+        "ID": 101385,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEAF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageR"
+    },
+    {
+        "ID": 101386,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DEAF",
+        "ResPath": "",
+        "UIPath": "Dialog/ImageL"
+    },
+    {
+        "ID": 101387,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine"
+    },
+    {
+        "ID": 101388,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE40",
+        "ResPath": "",
+        "UIPath": "Dialog/UpLine/Gradual"
+    },
+    {
+        "ID": 101389,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE7F",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine"
+    },
+    {
+        "ID": 101390,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#4F52DE40",
+        "ResPath": "",
+        "UIPath": "Dialog/BottomLine/Gradual"
+    },
+    {
+        "ID": 101391,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464A4F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101392,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Title"
+    },
+    {
+        "ID": 101393,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image1"
+    },
+    {
+        "ID": 101394,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Arrow/Image2"
+    },
+    {
+        "ID": 101395,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464A4F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/IconKira"
+    },
+    {
+        "ID": 101396,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Title/Line"
+    },
+    {
+        "ID": 101397,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text"
+    },
+    {
+        "ID": 101398,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#E9464A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/Rewards/Text/TextEn"
+    },
+    {
+        "ID": 101399,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#E9464A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Line"
+    },
+    {
+        "ID": 101400,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text"
+    },
+    {
+        "ID": 101401,
+        "ResType": 2,
+        "UIType": 8,
+        "Color": "#E9464A7F",
+        "ResPath": "",
+        "UIPath": "Dialog/Content/LevelupRewards/Text/TextEn"
+    },
+    {
+        "ID": 101402,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "Dialog/Content/LevelupRewards/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101403,
+        "ResType": 1,
+        "UIType": 8,
+        "Color": "#FF181EFF",
+        "ResPath": "",
+        "UIPath": "Dialog/Light"
+    },
+    {
+        "ID": 101404,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#B930351F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross"
+    },
+    {
+        "ID": 101405,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/1"
+    },
+    {
+        "ID": 101406,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/2"
+    },
+    {
+        "ID": 101407,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/3"
+    },
+    {
+        "ID": 101408,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Dialog/Cross/4"
+    },
+    {
+        "ID": 101409,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#B93035FF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title"
+    },
+    {
+        "ID": 101410,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFE9C3FF",
+        "ResPath": "SpriteOutput/Farm/SpecialFrame",
+        "UIPath": "Dialog/Title/Frame"
+    },
+    {
+        "ID": 101411,
+        "ResType": 2,
+        "UIType": 9,
+        "Color": "#FFE9C3AF",
+        "ResPath": "",
+        "UIPath": "Dialog/Title/Label"
+    },
+    {
+        "ID": 101412,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/List/Scrollbar/Sliding Area/Handle"
+    },
+    {
+        "ID": 101413,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#A42819AF",
+        "ResPath": "",
+        "UIPath": "BG"
+    },
+    {
+        "ID": 101414,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog"
+    },
+    {
+        "ID": 101415,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/BG"
+    },
+    {
+        "ID": 101416,
+        "ResType": 1,
+        "UIType": 9,
+        "Color": "#E9464AFF",
+        "ResPath": "",
+        "UIPath": "Dialog/CloseBtn/Image"
+    },
+    {
+        "ID": 101417,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#E9464A3F",
+        "ResPath": "",
+        "UIPath": "Current"
+    },
+    {
+        "ID": 101418,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930352F",
+        "ResPath": "",
+        "UIPath": "Current/Image1"
+    },
+    {
+        "ID": 101419,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930352F",
+        "ResPath": "",
+        "UIPath": "Current/Image2"
+    },
+    {
+        "ID": 101420,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B9303541",
+        "ResPath": "",
+        "UIPath": "Current/Image3"
+    },
+    {
+        "ID": 101421,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930357F",
+        "ResPath": "",
+        "UIPath": "Current/ImageLine"
+    },
+    {
+        "ID": 101422,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930357F",
+        "ResPath": "",
+        "UIPath": "Welt/Left"
+    },
+    {
+        "ID": 101423,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930357F",
+        "ResPath": "",
+        "UIPath": "Welt/Right"
+    },
+    {
+        "ID": 101424,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "LevelPanel/Title/Text"
+    },
+    {
+        "ID": 101425,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#FFE9C3FF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/Title/Text"
+    },
+    {
+        "ID": 101426,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "SpriteOutput/Farm/IconSlotCook",
+        "UIPath": "UnclockMaterialPanel/Content/Slot/ItemIcon/Icon"
+    },
+    {
+        "ID": 101427,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#B930353F",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel"
+    },
+    {
+        "ID": 101428,
+        "ResType": 2,
+        "UIType": 10,
+        "Color": "#B93035AF",
+        "ResPath": "",
+        "UIPath": "UnclockMaterialPanel/EmptyPanel/Text"
+    },
+    {
+        "ID": 101429,
+        "ResType": 1,
+        "UIType": 10,
+        "Color": "#FFFFFFFF",
+        "ResPath": "event/Immediately/LableBumper",
+        "UIPath": "LableComplete"
+    },
+    {
+        "ID": 101430,
+        "ResType": 2,
+        "UIType": 2,
+        "Color": "#FFFBF4FF",
+        "ResPath": "",
+        "UIPath": "LeftPanel/DescPanel/Text"
+    }
+]

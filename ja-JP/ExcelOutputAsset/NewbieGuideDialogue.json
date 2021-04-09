@@ -1,0 +1,422 @@
+[
+    {
+        "dialogueID": 201,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 2,
+        "dialogueText": {
+            "hash": 1651065311
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange2"
+    },
+    {
+        "dialogueID": 202,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 2,
+        "dialogueText": {
+            "hash": 1651988832
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiNormal"
+    },
+    {
+        "dialogueID": 203,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 2,
+        "dialogueText": {
+            "hash": 1652912353
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiNormal"
+    },
+    {
+        "dialogueID": 301,
+        "remainTime": 0,
+        "subTag": 301,
+        "tag": 3,
+        "dialogueText": {
+            "hash": 24305125
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 302,
+        "remainTime": 0,
+        "subTag": 301,
+        "tag": 3,
+        "dialogueText": {
+            "hash": 911808806
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 303,
+        "remainTime": 0,
+        "subTag": 302,
+        "tag": 3,
+        "dialogueText": {
+            "hash": 1799312488
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 304,
+        "remainTime": 0,
+        "subTag": 302,
+        "tag": 3,
+        "dialogueText": {
+            "hash": -1608151127
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 401,
+        "remainTime": 0,
+        "subTag": 401,
+        "tag": 4,
+        "dialogueText": {
+            "hash": -1782224856
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 402,
+        "remainTime": 0,
+        "subTag": 401,
+        "tag": 4,
+        "dialogueText": {
+            "hash": -894721175
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 403,
+        "remainTime": 0,
+        "subTag": 402,
+        "tag": 4,
+        "dialogueText": {
+            "hash": -7217493
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom3"
+    },
+    {
+        "dialogueID": 404,
+        "remainTime": 0,
+        "subTag": 402,
+        "tag": 4,
+        "dialogueText": {
+            "hash": 880286188
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom3"
+    },
+    {
+        "dialogueID": 405,
+        "remainTime": 0,
+        "subTag": 403,
+        "tag": 4,
+        "dialogueText": {
+            "hash": 1767789870
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 406,
+        "remainTime": 0,
+        "subTag": 403,
+        "tag": 4,
+        "dialogueText": {
+            "hash": -1639673745
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 407,
+        "remainTime": 0,
+        "subTag": 401,
+        "tag": 4,
+        "dialogueText": {
+            "hash": -752170066
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 408,
+        "remainTime": 0,
+        "subTag": 402,
+        "tag": 4,
+        "dialogueText": {
+            "hash": 135333616
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 409,
+        "remainTime": 0,
+        "subTag": 403,
+        "tag": 4,
+        "dialogueText": {
+            "hash": 1022837298
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 501,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 5,
+        "dialogueText": {
+            "hash": 18611941
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange1"
+    },
+    {
+        "dialogueID": 502,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 5,
+        "dialogueText": {
+            "hash": 19535462
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward2"
+    },
+    {
+        "dialogueID": 503,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 5,
+        "dialogueText": {
+            "hash": 20458983
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 504,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 5,
+        "dialogueText": {
+            "hash": 21382504
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange2"
+    },
+    {
+        "dialogueID": 601,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 6,
+        "dialogueText": {
+            "hash": 906116583
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 602,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 6,
+        "dialogueText": {
+            "hash": 907040104
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward2"
+    },
+    {
+        "dialogueID": 701,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 7,
+        "dialogueText": {
+            "hash": 1793621225
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom1"
+    },
+    {
+        "dialogueID": 702,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 7,
+        "dialogueText": {
+            "hash": 1794544746
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom3"
+    },
+    {
+        "dialogueID": 703,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 7,
+        "dialogueText": {
+            "hash": 1795468267
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 704,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 7,
+        "dialogueText": {
+            "hash": 1796391788
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 711,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 7,
+        "dialogueText": {
+            "hash": 1822250376
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 801,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 8,
+        "dialogueText": {
+            "hash": -1613841429
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 802,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 8,
+        "dialogueText": {
+            "hash": -1612917908
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange2"
+    },
+    {
+        "dialogueID": 803,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 8,
+        "dialogueText": {
+            "hash": -1611994387
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward2"
+    },
+    {
+        "dialogueID": 804,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 8,
+        "dialogueText": {
+            "hash": -1611070866
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom3"
+    },
+    {
+        "dialogueID": 1001,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1474032535
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward2"
+    },
+    {
+        "dialogueID": 1002,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1502661686
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange2"
+    },
+    {
+        "dialogueID": 1003,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1531290837
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 1004,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1559919988
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward1"
+    },
+    {
+        "dialogueID": 1005,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1588549139
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange1"
+    },
+    {
+        "dialogueID": 1006,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1617178290
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiChange2"
+    },
+    {
+        "dialogueID": 1007,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1645807441
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 1008,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1674436592
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiReward2"
+    },
+    {
+        "dialogueID": 1009,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": 1703065743
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom3"
+    },
+    {
+        "dialogueID": 1010,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 10,
+        "dialogueText": {
+            "hash": -1962060231
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    },
+    {
+        "dialogueID": 1011,
+        "remainTime": 0,
+        "subTag": 0,
+        "tag": 11,
+        "dialogueText": {
+            "hash": -1933430119
+        },
+        "aiExpression": "SpriteOutput/AiEmoticon/AiRandom2"
+    }
+]

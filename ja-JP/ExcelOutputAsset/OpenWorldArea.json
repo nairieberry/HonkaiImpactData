@@ -1,0 +1,1369 @@
+[
+    {
+        "areaId": 101,
+        "isStoryOnly": 0,
+        "levelID": 900401,
+        "mapId": 1,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357543518
+        },
+        "unlockAreaDesc": {
+            "hash": 1209122448
+        },
+        "unlockAreaTips": {
+            "hash": -1658465143
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabMachi",
+        "areaRGB": "#00bffb",
+        "switchPoint": "102:Door",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 102,
+        "isStoryOnly": 0,
+        "levelID": 900403,
+        "mapId": 1,
+        "unlockStoryId": 407,
+        "nameTextId": {
+            "hash": -357543517
+        },
+        "unlockAreaDesc": {
+            "hash": 1209122449
+        },
+        "unlockAreaTips": {
+            "hash": -1658465142
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabTenshu",
+        "areaRGB": "#4de6aa",
+        "switchPoint": "101:Door",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 103,
+        "isStoryOnly": 0,
+        "levelID": 900401,
+        "mapId": 1,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357543516
+        },
+        "unlockAreaDesc": {
+            "hash": 1209122450
+        },
+        "unlockAreaTips": {
+            "hash": -1658465141
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+        "areaRGB": "#FFAF2CFF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 1
+    },
+    {
+        "areaId": 201,
+        "isStoryOnly": 0,
+        "levelID": 900405,
+        "mapId": 2,
+        "unlockStoryId": 308,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#00bffb",
+        "switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 202,
+        "isStoryOnly": 0,
+        "levelID": 900406,
+        "mapId": 2,
+        "unlockStoryId": 602,
+        "nameTextId": {
+            "hash": -357542556
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123410
+        },
+        "unlockAreaTips": {
+            "hash": -1658464181
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor2",
+        "areaRGB": "#4de6aa",
+        "switchPoint": "201:AreaL_P Portal,203:AreaL_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 203,
+        "isStoryOnly": 0,
+        "levelID": 900407,
+        "mapId": 2,
+        "unlockStoryId": 513,
+        "nameTextId": {
+            "hash": -357542555
+        },
+        "unlockAreaDesc": {
+            "hash": 0
+        },
+        "unlockAreaTips": {
+            "hash": 0
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#9babff",
+        "switchPoint": "201:Born,202:Born",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 204,
+        "isStoryOnly": 0,
+        "levelID": 900405,
+        "mapId": 2,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542554
+        },
+        "unlockAreaDesc": {
+            "hash": 1209122450
+        },
+        "unlockAreaTips": {
+            "hash": -1658465141
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+        "areaRGB": "#FFAF2CFF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 1
+    },
+    {
+        "areaId": 210,
+        "isStoryOnly": 1,
+        "levelID": 900409,
+        "mapId": 2,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 0
+        },
+        "unlockAreaTips": {
+            "hash": 0
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 211,
+        "isStoryOnly": 1,
+        "levelID": 900410,
+        "mapId": 2,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 0
+        },
+        "unlockAreaTips": {
+            "hash": 0
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+        "areaRGB": "#4de6aa",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 212,
+        "isStoryOnly": 1,
+        "levelID": 900411,
+        "mapId": 2,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 0
+        },
+        "unlockAreaTips": {
+            "hash": 0
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabQumo",
+        "areaRGB": "#9babff",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 1111,
+        "isStoryOnly": 0,
+        "levelID": 900421,
+        "mapId": 111,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#00bffb",
+        "switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 1121,
+        "isStoryOnly": 0,
+        "levelID": 900422,
+        "mapId": 112,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#00bffb",
+        "switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 1131,
+        "isStoryOnly": 0,
+        "levelID": 900423,
+        "mapId": 113,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#00bffb",
+        "switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 1141,
+        "isStoryOnly": 0,
+        "levelID": 900424,
+        "mapId": 114,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": -357542557
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor1",
+        "areaRGB": "#00bffb",
+        "switchPoint": "202:AreaI_P Portal,203:AreaT_P Portal",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 3011,
+        "isStoryOnly": 0,
+        "levelID": 900425,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112461
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG",
+            "AreaH"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3012,
+        "isStoryOnly": 0,
+        "levelID": 900426,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112462
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor02",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3013,
+        "isStoryOnly": 0,
+        "levelID": 900427,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112463
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor03",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3014,
+        "isStoryOnly": 0,
+        "levelID": 900428,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112464
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor04",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3015,
+        "isStoryOnly": 0,
+        "levelID": 900429,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112465
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3016,
+        "isStoryOnly": 0,
+        "levelID": 900429,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112466
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3017,
+        "isStoryOnly": 0,
+        "levelID": 900429,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112467
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3018,
+        "isStoryOnly": 0,
+        "levelID": 900429,
+        "mapId": 301,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112468
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3021,
+        "isStoryOnly": 0,
+        "levelID": 143157,
+        "mapId": 303,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112461
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG",
+            "AreaH"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3022,
+        "isStoryOnly": 0,
+        "levelID": 143158,
+        "mapId": 303,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112462
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor02",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3023,
+        "isStoryOnly": 0,
+        "levelID": 143159,
+        "mapId": 303,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112463
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor03",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [
+            "AreaA",
+            "AreaB",
+            "AreaC",
+            "AreaD",
+            "AreaE",
+            "AreaF",
+            "AreaG"
+        ],
+        "bits1": 0
+    },
+    {
+        "areaId": 3100,
+        "isStoryOnly": 0,
+        "levelID": 900430,
+        "mapId": 302,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801112461
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconFloor01",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4010,
+        "isStoryOnly": 0,
+        "levelID": 143401,
+        "mapId": 401,
+        "unlockStoryId": 0,
+        "nameTextId": {
+            "hash": 1801142251
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OpenWorld/IconTabArea/IconTabFloor3",
+        "areaRGB": "#FFAF2CFF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 1
+    },
+    {
+        "areaId": 4011,
+        "isStoryOnly": 0,
+        "levelID": 143401,
+        "mapId": 401,
+        "unlockStoryId": 104009,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#FF5945FF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4012,
+        "isStoryOnly": 1,
+        "levelID": 143402,
+        "mapId": 401,
+        "unlockStoryId": 104034,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#FF5945FF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4013,
+        "isStoryOnly": 1,
+        "levelID": 143409,
+        "mapId": 401,
+        "unlockStoryId": 104034,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#FF5945FF",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4022,
+        "isStoryOnly": 1,
+        "levelID": 143412,
+        "mapId": 401,
+        "unlockStoryId": 104001,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4023,
+        "isStoryOnly": 1,
+        "levelID": 143413,
+        "mapId": 401,
+        "unlockStoryId": 104004,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4024,
+        "isStoryOnly": 1,
+        "levelID": 143414,
+        "mapId": 401,
+        "unlockStoryId": 104007,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4025,
+        "isStoryOnly": 1,
+        "levelID": 143415,
+        "mapId": 401,
+        "unlockStoryId": 104012,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4026,
+        "isStoryOnly": 1,
+        "levelID": 143416,
+        "mapId": 401,
+        "unlockStoryId": 104018,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4027,
+        "isStoryOnly": 1,
+        "levelID": 143417,
+        "mapId": 401,
+        "unlockStoryId": 104021,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4028,
+        "isStoryOnly": 1,
+        "levelID": 143418,
+        "mapId": 401,
+        "unlockStoryId": 104024,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4029,
+        "isStoryOnly": 1,
+        "levelID": 143419,
+        "mapId": 401,
+        "unlockStoryId": 104027,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4030,
+        "isStoryOnly": 1,
+        "levelID": 143420,
+        "mapId": 401,
+        "unlockStoryId": 104030,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4031,
+        "isStoryOnly": 1,
+        "levelID": 143421,
+        "mapId": 401,
+        "unlockStoryId": 104033,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4032,
+        "isStoryOnly": 1,
+        "levelID": 143422,
+        "mapId": 401,
+        "unlockStoryId": 104015,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4101,
+        "isStoryOnly": 1,
+        "levelID": 143501,
+        "mapId": 401,
+        "unlockStoryId": 104101,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4102,
+        "isStoryOnly": 1,
+        "levelID": 143502,
+        "mapId": 401,
+        "unlockStoryId": 104104,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4103,
+        "isStoryOnly": 1,
+        "levelID": 143503,
+        "mapId": 401,
+        "unlockStoryId": 104107,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4104,
+        "isStoryOnly": 1,
+        "levelID": 143504,
+        "mapId": 401,
+        "unlockStoryId": 104110,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4105,
+        "isStoryOnly": 1,
+        "levelID": 143505,
+        "mapId": 401,
+        "unlockStoryId": 104113,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4106,
+        "isStoryOnly": 1,
+        "levelID": 143506,
+        "mapId": 401,
+        "unlockStoryId": 104116,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4107,
+        "isStoryOnly": 1,
+        "levelID": 143507,
+        "mapId": 401,
+        "unlockStoryId": 104119,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4108,
+        "isStoryOnly": 1,
+        "levelID": 143508,
+        "mapId": 401,
+        "unlockStoryId": 104122,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4109,
+        "isStoryOnly": 1,
+        "levelID": 143509,
+        "mapId": 401,
+        "unlockStoryId": 104125,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4110,
+        "isStoryOnly": 1,
+        "levelID": 143510,
+        "mapId": 401,
+        "unlockStoryId": 104128,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4201,
+        "isStoryOnly": 1,
+        "levelID": 143601,
+        "mapId": 401,
+        "unlockStoryId": 104027,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4202,
+        "isStoryOnly": 1,
+        "levelID": 143602,
+        "mapId": 401,
+        "unlockStoryId": 104030,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4203,
+        "isStoryOnly": 1,
+        "levelID": 143603,
+        "mapId": 401,
+        "unlockStoryId": 104033,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4204,
+        "isStoryOnly": 1,
+        "levelID": 143604,
+        "mapId": 401,
+        "unlockStoryId": 104103,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4205,
+        "isStoryOnly": 1,
+        "levelID": 143605,
+        "mapId": 401,
+        "unlockStoryId": 104107,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4206,
+        "isStoryOnly": 1,
+        "levelID": 143606,
+        "mapId": 401,
+        "unlockStoryId": 104112,
+        "nameTextId": {
+            "hash": 1801142252
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4207,
+        "isStoryOnly": 1,
+        "levelID": 143607,
+        "mapId": 401,
+        "unlockStoryId": 104115,
+        "nameTextId": {
+            "hash": 1801142253
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4208,
+        "isStoryOnly": 1,
+        "levelID": 143608,
+        "mapId": 401,
+        "unlockStoryId": 104118,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4209,
+        "isStoryOnly": 1,
+        "levelID": 143609,
+        "mapId": 401,
+        "unlockStoryId": 104121,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4210,
+        "isStoryOnly": 1,
+        "levelID": 143610,
+        "mapId": 401,
+        "unlockStoryId": 104124,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    },
+    {
+        "areaId": 4211,
+        "isStoryOnly": 1,
+        "levelID": 143611,
+        "mapId": 401,
+        "unlockStoryId": 104034,
+        "nameTextId": {
+            "hash": 1801142254
+        },
+        "unlockAreaDesc": {
+            "hash": 1209123409
+        },
+        "unlockAreaTips": {
+            "hash": -1658464182
+        },
+        "areaIcon": "SpriteOutput/OWEndless/Icon/IconTabFloorBoss",
+        "areaRGB": "#00bffb",
+        "switchPoint": "",
+        "areaList": [],
+        "bits1": 0
+    }
+]

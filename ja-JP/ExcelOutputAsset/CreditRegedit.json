@@ -1,0 +1,22 @@
+[
+    {
+        "AccountID": 1,
+        "InitialScore": 100,
+        "RuleInfo": "RuleInfoTVT",
+        "RuleTitle": "RuleTitleTVT",
+        "Title": "RuleTitleTVT",
+        "TypeList": [
+            1
+        ]
+    },
+    {
+        "AccountID": 2,
+        "InitialScore": 100,
+        "RuleInfo": "RuleInfoOVO",
+        "RuleTitle": "RuleTitleOVO",
+        "Title": "RuleTitleOVO",
+        "TypeList": [
+            2
+        ]
+    }
+]

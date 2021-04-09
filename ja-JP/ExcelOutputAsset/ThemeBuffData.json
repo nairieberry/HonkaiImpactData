@@ -1,0 +1,398 @@
+[
+    {
+        "buffID": 100,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 32226580
+        },
+        "buffNameText": {
+            "hash": -1372346703
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_Round01_Buff01"
+    },
+    {
+        "buffID": 101,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -473332045
+        },
+        "buffNameText": {
+            "hash": -1343717552
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_MR",
+        "buffNameStrId": "ChallengeMode_Round01_Buff02"
+    },
+    {
+        "buffID": 102,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1539778389
+        },
+        "buffNameText": {
+            "hash": -484843022
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_Round02_Buff01"
+    },
+    {
+        "buffID": 103,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1034219764
+        },
+        "buffNameText": {
+            "hash": -456213871
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Range",
+        "buffNameStrId": "ChallengeMode_Round02_Buff02"
+    },
+    {
+        "buffID": 104,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1247637098
+        },
+        "buffNameText": {
+            "hash": 402660659
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+        "buffNameStrId": "ChallengeMode_Round03_Buff01"
+    },
+    {
+        "buffID": 105,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1753195723
+        },
+        "buffNameText": {
+            "hash": 431289810
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Lighting",
+        "buffNameStrId": "ChallengeMode_Round03_Buff02"
+    },
+    {
+        "buffID": 106,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 259914711
+        },
+        "buffNameText": {
+            "hash": 1290164340
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Stun",
+        "buffNameStrId": "ChallengeMode_Round04_Buff01"
+    },
+    {
+        "buffID": 107,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -245643914
+        },
+        "buffNameText": {
+            "hash": 1318793491
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Stun",
+        "buffNameStrId": "ChallengeMode_Round04_Buff02"
+    },
+    {
+        "buffID": 108,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1767466520
+        },
+        "buffNameText": {
+            "hash": -2117299275
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Break",
+        "buffNameStrId": "ChallengeMode_Round05_Buff01"
+    },
+    {
+        "buffID": 109,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1261907895
+        },
+        "buffNameText": {
+            "hash": -2088670124
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Break",
+        "buffNameStrId": "ChallengeMode_Round05_Buff02"
+    },
+    {
+        "buffID": 110,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1019948967
+        },
+        "buffNameText": {
+            "hash": -1229795594
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Fire",
+        "buffNameStrId": "ChallengeMode_Round05_Buff01"
+    },
+    {
+        "buffID": 111,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1525507592
+        },
+        "buffNameText": {
+            "hash": -1201166443
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_WitchTime",
+        "buffNameStrId": "ChallengeMode_Round06_Buff02"
+    },
+    {
+        "buffID": 114,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 546039744
+        },
+        "buffNameText": {
+            "hash": -436992042
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Bleeding",
+        "buffNameStrId": "MonsterBuff_Bleeding_Weak"
+    },
+    {
+        "buffID": 115,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 443065066
+        },
+        "buffNameText": {
+            "hash": -436992041
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Bleeding",
+        "buffNameStrId": "MonsterBuff_Bleeding_Down"
+    },
+    {
+        "buffID": 116,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 947769972
+        },
+        "buffNameText": {
+            "hash": -436992040
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Crit",
+        "buffNameStrId": "MonsterBuff_Charge_Weak"
+    },
+    {
+        "buffID": 117,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 844795294
+        },
+        "buffNameText": {
+            "hash": -436992039
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Crit",
+        "buffNameStrId": "MonsterBuff_Charge_Down"
+    },
+    {
+        "buffID": 118,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 277376106
+        },
+        "buffNameText": {
+            "hash": -436992038
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "MonsterBuff_Qte_Weak"
+    },
+    {
+        "buffID": 119,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 174401428
+        },
+        "buffNameText": {
+            "hash": -436992037
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "MonsterBuff_Qte_Down"
+    },
+    {
+        "buffID": 120,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1010452783
+        },
+        "buffNameText": {
+            "hash": -436992015
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "MonsterBuff_Range_Weak"
+    },
+    {
+        "buffID": 1001,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1152039502
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 2001,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1924745168
+        },
+        "buffNameText": {
+            "hash": 280909373
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_StigmataBuff01"
+    },
+    {
+        "buffID": 2002,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 117290705
+        },
+        "buffNameText": {
+            "hash": 309538524
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_StigmataBuff02"
+    },
+    {
+        "buffID": 2003,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1690163758
+        },
+        "buffNameText": {
+            "hash": 338167675
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_StigmataBuff03"
+    },
+    {
+        "buffID": 2011,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1924745168
+        },
+        "buffNameText": {
+            "hash": 1048244261
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_WeakStigmataBuff01"
+    },
+    {
+        "buffID": 2012,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 117290705
+        },
+        "buffNameText": {
+            "hash": 1076873412
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_WeakStigmataBuff02"
+    },
+    {
+        "buffID": 2013,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -1690163758
+        },
+        "buffNameText": {
+            "hash": 1105502563
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Atk",
+        "buffNameStrId": "ChallengeMode_WeakStigmataBuff03"
+    },
+    {
+        "buffID": 3001,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -2144617931
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3002,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1644790740
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3003,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 1139232115
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3004,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 633673490
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3005,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": 128114865
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3006,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -377443760
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    },
+    {
+        "buffID": 3007,
+        "buffType": 2,
+        "buffDescStrId": {
+            "hash": -883002385
+        },
+        "buffNameText": {
+            "hash": -527699045
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_AtkSpeed",
+        "buffNameStrId": "ChallengeMode_FukaSpecialBuff"
+    }
+]

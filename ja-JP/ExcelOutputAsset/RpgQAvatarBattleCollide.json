@@ -1,0 +1,48 @@
+[
+    {
+        "ContactType": 1,
+        "CollideSet": [
+            0,
+            3
+        ],
+        "NotCollideSet": [],
+        "PropertySet": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "ContactType": 2,
+        "CollideSet": [],
+        "NotCollideSet": [
+            3
+        ],
+        "PropertySet": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "ContactType": 3,
+        "CollideSet": [
+            3
+        ],
+        "NotCollideSet": [],
+        "PropertySet": [
+            1
+        ],
+        "bits1": 1
+    },
+    {
+        "ContactType": 4,
+        "CollideSet": [
+            2,
+            3
+        ],
+        "NotCollideSet": [],
+        "PropertySet": [
+            0
+        ],
+        "bits1": 0
+    }
+]

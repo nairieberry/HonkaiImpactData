@@ -1,0 +1,931 @@
+[
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80301,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward01",
+        "PiecesID": [
+            1,
+            2,
+            5,
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80302,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward02",
+        "PiecesID": [
+            7,
+            8,
+            11,
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80303,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward03",
+        "PiecesID": [
+            3
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80304,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward04",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 80305,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward05",
+        "PiecesID": [
+            9
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 80306,
+        "JigsawID": 3,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture01/Picture01_GroupReward06",
+        "PiecesID": [
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80308,
+        "JigsawID": 4,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture02/Picture02_GroupReward01",
+        "PiecesID": [
+            1,
+            2,
+            6,
+            7
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80309,
+        "JigsawID": 4,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture02/Picture02_GroupReward02",
+        "PiecesID": [
+            3,
+            4,
+            5,
+            8,
+            9,
+            10,
+            13,
+            14,
+            15
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80310,
+        "JigsawID": 4,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture02/Picture02_GroupReward03",
+        "PiecesID": [
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80311,
+        "JigsawID": 4,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture02/Picture02_GroupReward04",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80313,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward01",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80314,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward02",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80315,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward03",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80316,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward04",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 80317,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward05",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 80318,
+        "JigsawID": 5,
+        "GroupRewardPic": "SpriteOutput/Activity/Pictures/Picture03/Picture03_GroupReward06",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80433,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80434,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward02_truecolor",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80435,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward03_truecolor",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80436,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward04_truecolor",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 80437,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward05_truecolor",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 80438,
+        "JigsawID": 6,
+        "GroupRewardPic": "event/Immediately/Picture/Picture01_GroupReward06_truecolor",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80447,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80448,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward02_truecolor",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80449,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward03_truecolor",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80450,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward04_truecolor",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 80451,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward05_truecolor",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 80452,
+        "JigsawID": 7,
+        "GroupRewardPic": "event/Immediately/Picture/Picture02_GroupReward06_truecolor",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80481,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80482,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward02_truecolor",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80483,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward03_truecolor",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80484,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward04_truecolor",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 80485,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward05_truecolor",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 80486,
+        "JigsawID": 12,
+        "GroupRewardPic": "event/Immediately/Sports/Picture01_GroupReward06_truecolor",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 13,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 13,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 13,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 13,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 14,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 14,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 14,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 14,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 15,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 15,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 15,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 15,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 16,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 16,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 16,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 16,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 17,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 17,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 17,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 17,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 80539,
+        "JigsawID": 18,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            10,
+            11
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 80540,
+        "JigsawID": 18,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 80541,
+        "JigsawID": 18,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 80540,
+        "JigsawID": 18,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            12
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 15000801,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 15000802,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward02_truecolor",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 15000803,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward03_truecolor",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 15000804,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward04_truecolor",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 15000805,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward05_truecolor",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 15000806,
+        "JigsawID": 120001,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture01_GroupReward06_truecolor",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 15000807,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward01_truecolor",
+        "PiecesID": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 15000808,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward02_truecolor",
+        "PiecesID": [
+            4,
+            5,
+            9,
+            10
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 15000809,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward03_truecolor",
+        "PiecesID": [
+            16
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 15000804,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward04_truecolor",
+        "PiecesID": [
+            17
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 5,
+        "GroupRewardID": 15000810,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward05_truecolor",
+        "PiecesID": [
+            18
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 6,
+        "GroupRewardID": 15000811,
+        "JigsawID": 120002,
+        "GroupRewardPic": "event/Immediately/Halloween/Picture02_GroupReward06_truecolor",
+        "PiecesID": [
+            14,
+            15,
+            19,
+            20
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 15000801,
+        "JigsawID": 120003,
+        "GroupRewardPic": "event/Immediately/Picture/Picture04Pcs_01bg",
+        "PiecesID": [
+            1
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 15000802,
+        "JigsawID": 120003,
+        "GroupRewardPic": "event/Immediately/Picture/Picture04Pcs_02bg",
+        "PiecesID": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 15000803,
+        "JigsawID": 120003,
+        "GroupRewardPic": "event/Immediately/Picture/Picture04Pcs_03bg",
+        "PiecesID": [
+            3
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 15000804,
+        "JigsawID": 120003,
+        "GroupRewardPic": "event/Immediately/Picture/Picture04Pcs_04bg",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 1,
+        "GroupRewardID": 15000932,
+        "JigsawID": 120004,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward01_truecolor",
+        "PiecesID": [
+            1
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 2,
+        "GroupRewardID": 15000933,
+        "JigsawID": 120004,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward02_truecolor",
+        "PiecesID": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 3,
+        "GroupRewardID": 15000934,
+        "JigsawID": 120004,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward03_truecolor",
+        "PiecesID": [
+            3
+        ],
+        "bits1": 1
+    },
+    {
+        "GroupID": 4,
+        "GroupRewardID": 15000935,
+        "JigsawID": 120004,
+        "GroupRewardPic": "event/Immediately/Picture/Picture_GroupReward04_truecolor",
+        "PiecesID": [
+            4
+        ],
+        "bits1": 1
+    }
+]

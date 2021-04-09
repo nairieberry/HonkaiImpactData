@@ -1,0 +1,67 @@
+[
+    {
+        "UiFormat": 0,
+        "AvatarSupportContextType": 0,
+        "MaxShowNum": 999999,
+        "SupportConfigID": 1,
+        "AvatarSupportEntryPrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivityBtn",
+        "AvatarSupportMissionPrefabPath": "UI/Menus/Dialog/Activity/EVAActivityEventFileDialog",
+        "AvatarSupportPrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityDialog",
+        "AvatarSupportSharePagePrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityShare",
+        "BeginTime": "2020-06-01 12:00:00",
+        "CountDownTime": "2020-06-12 03:59:59",
+        "EndTime": "2020-07-06 03:59:59"
+    },
+    {
+        "UiFormat": 0,
+        "AvatarSupportContextType": 0,
+        "MaxShowNum": 999999,
+        "SupportConfigID": 2,
+        "AvatarSupportEntryPrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivityBtn",
+        "AvatarSupportMissionPrefabPath": "UI/Menus/Dialog/Activity/EVAActivityEventFileDialog",
+        "AvatarSupportPrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityDialog",
+        "AvatarSupportSharePagePrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityShare",
+        "BeginTime": "2020-07-09 10:00:00",
+        "CountDownTime": "2020-07-10 12:00:00",
+        "EndTime": "2020-07-31 11:59:59"
+    },
+    {
+        "UiFormat": 0,
+        "AvatarSupportContextType": 1,
+        "MaxShowNum": 999999,
+        "SupportConfigID": 3,
+        "AvatarSupportEntryPrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivityBtn",
+        "AvatarSupportMissionPrefabPath": "UI/Menus/Dialog/Activity/EVAActivityEventFileDialog",
+        "AvatarSupportPrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivityPage",
+        "AvatarSupportSharePagePrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivitySharePage",
+        "BeginTime": "2020-12-25 10:00:00",
+        "CountDownTime": "2020-12-25 10:00:00",
+        "EndTime": "2021-01-24 03:59:59"
+    },
+    {
+        "UiFormat": 0,
+        "AvatarSupportContextType": 0,
+        "MaxShowNum": 999999,
+        "SupportConfigID": 4,
+        "AvatarSupportEntryPrefabPath": "UI/Menus/Page/EVAPreheatActivity/EVAPreheatActivityBtn",
+        "AvatarSupportMissionPrefabPath": "UI/Menus/Dialog/Activity/EVAActivityEventFileDialog",
+        "AvatarSupportPrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityDialog",
+        "AvatarSupportSharePagePrefabPath": "UI/Menus/Dialog/Activity/HerrscherofThunderActivityShare",
+        "BeginTime": "2020-10-25 10:00:00",
+        "CountDownTime": "2020-10-25 10:00:00",
+        "EndTime": "2020-11-25 03:59:59"
+    },
+    {
+        "UiFormat": 1,
+        "AvatarSupportContextType": 1,
+        "MaxShowNum": 999999,
+        "SupportConfigID": 5,
+        "AvatarSupportEntryPrefabPath": "UI/Menus/Page/HerrscherOfSentiencePreheatActivity/HerrscherOfSentiencePreheatActivityBtn",
+        "AvatarSupportMissionPrefabPath": "UI/Menus/Dialog/Activity/ActivityEventFileDialogV2",
+        "AvatarSupportPrefabPath": "UI/Menus/Page/HerrscherOfSentiencePreheatActivity/HerrscherOfSentiencePreheatActivityPage",
+        "AvatarSupportSharePagePrefabPath": "UI/Menus/Page/HerrscherOfSentiencePreheatActivity/HerrscherOfSentiencePreheatActivitySharePage",
+        "BeginTime": "2021-03-11 12:00:00",
+        "CountDownTime": "2021-03-11 12:00:00",
+        "EndTime": "2021-04-02 03:59:59"
+    }
+]

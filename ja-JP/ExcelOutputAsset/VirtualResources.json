@@ -1,0 +1,368 @@
+[
+    {
+        "displayRarity": 2,
+        "ID": 1,
+        "protoID": 0,
+        "displayDescription": {
+            "hash": -1948306938
+        },
+        "displayTitle": {
+            "hash": 812959079
+        },
+        "iconPath": "SpriteOutput/GeneralUI/IconLight",
+        "imagePath": "SpriteOutput/MaterialFigures/IconLight",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 2,
+        "protoID": 0,
+        "displayDescription": {
+            "hash": -1948306937
+        },
+        "displayTitle": {
+            "hash": 812959080
+        },
+        "iconPath": "SpriteOutput/GeneralUI/IconBaseExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconBaseExp",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 3,
+        "protoID": 0,
+        "displayDescription": {
+            "hash": -1948306936
+        },
+        "displayTitle": {
+            "hash": 812959081
+        },
+        "iconPath": "SpriteOutput/GeneralUI/IconFall",
+        "imagePath": "SpriteOutput/MaterialFigures/IconFall",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 3,
+        "ID": 4,
+        "protoID": 80001,
+        "displayDescription": {
+            "hash": 2012917998
+        },
+        "displayTitle": {
+            "hash": 1748240775
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconArmadaFund",
+        "imagePath": "SpriteOutput/GeneralIcon/IconArmadaFund",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 3,
+        "ID": 5,
+        "protoID": 80002,
+        "displayDescription": {
+            "hash": -244995794
+        },
+        "displayTitle": {
+            "hash": -244995794
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconMPEXP",
+        "imagePath": "SpriteOutput/MaterialFigures/IconMPExp",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 6,
+        "protoID": 80006,
+        "displayDescription": {
+            "hash": 176813707
+        },
+        "displayTitle": {
+            "hash": -455894134
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconSC",
+        "imagePath": "SpriteOutput/MaterialFigures/IconSC",
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_401\"/>"
+        ]
+    },
+    {
+        "displayRarity": 3,
+        "ID": 7,
+        "protoID": 80007,
+        "displayDescription": {
+            "hash": 113225951
+        },
+        "displayTitle": {
+            "hash": 1972591262
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconMentorPrestige",
+        "imagePath": "SpriteOutput/MaterialFigures/IconMentorPrestige",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 3,
+        "ID": 8,
+        "protoID": 80008,
+        "displayDescription": {
+            "hash": -1763818257
+        },
+        "displayTitle": {
+            "hash": 1344202576
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconSeasonExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconSeasonExp",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 9,
+        "protoID": 80009,
+        "displayDescription": {
+            "hash": -1158992847
+        },
+        "displayTitle": {
+            "hash": 1949027986
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconEXP",
+        "imagePath": "SpriteOutput/MaterialFigures/IconExp",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 10,
+        "protoID": 80010,
+        "displayDescription": {
+            "hash": -1763818257
+        },
+        "displayTitle": {
+            "hash": 1344202576
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconSeasonExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconSeasonExp",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 11,
+        "protoID": 80011,
+        "displayDescription": {
+            "hash": 1634392849
+        },
+        "displayTitle": {
+            "hash": 72083600
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/Iconcontribution",
+        "imagePath": "SpriteOutput/GeneralIcon/Iconcontribution",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 12,
+        "protoID": 80012,
+        "displayDescription": {
+            "hash": 381756877
+        },
+        "displayTitle": {
+            "hash": -1180552372
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80012",
+        "imagePath": "SpriteOutput/MaterialFigures/80012",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 13,
+        "protoID": 80014,
+        "displayDescription": {
+            "hash": -1790871107
+        },
+        "displayTitle": {
+            "hash": 941786940
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80014",
+        "imagePath": "SpriteOutput/MaterialFigures/80014",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 14,
+        "protoID": 80015,
+        "displayDescription": {
+            "hash": -1875235186
+        },
+        "displayTitle": {
+            "hash": -263064273
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconReclaimEventExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconReclaimEventEXP",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 15,
+        "protoID": 80016,
+        "displayDescription": {
+            "hash": -2052908585
+        },
+        "displayTitle": {
+            "hash": -199787754
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80016",
+        "imagePath": "SpriteOutput/MaterialFigures/80016",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 16,
+        "protoID": 80017,
+        "displayDescription": {
+            "hash": -684520823
+        },
+        "displayTitle": {
+            "hash": 1563336746
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/AdventureExperience",
+        "imagePath": "SpriteOutput/GeneralIcon/AdventureExperience",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 3,
+        "ID": 17,
+        "protoID": 80019,
+        "displayDescription": {
+            "hash": -210831635
+        },
+        "displayTitle": {
+            "hash": -780867886
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconSeasonExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconSeasonEXP",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 18,
+        "protoID": 80020,
+        "displayDescription": {
+            "hash": 1093811889
+        },
+        "displayTitle": {
+            "hash": -1395405614
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80020",
+        "imagePath": "SpriteOutput/MaterialFigures/80020",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 19,
+        "protoID": 80021,
+        "displayDescription": {
+            "hash": 1893940240
+        },
+        "displayTitle": {
+            "hash": -541661745
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconHuntEXP",
+        "imagePath": "SpriteOutput/MaterialFigures/IconHuntEXP",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 20,
+        "protoID": 80022,
+        "displayDescription": {
+            "hash": 957789637
+        },
+        "displayTitle": {
+            "hash": -1531427866
+        },
+        "iconPath": "SpriteOutput/GeneralIcon/IconOWExp",
+        "imagePath": "SpriteOutput/MaterialFigures/IconOWEXP",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 21,
+        "protoID": 80023,
+        "displayDescription": {
+            "hash": -30398870
+        },
+        "displayTitle": {
+            "hash": 1825606411
+        },
+        "iconPath": "SpriteOutput/ChapterActivity/Chapter16/Icon_Tool",
+        "imagePath": "SpriteOutput/ChapterActivity/Chapter16/Icon_Tool",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 22,
+        "protoID": 80024,
+        "displayDescription": {
+            "hash": 958758479
+        },
+        "displayTitle": {
+            "hash": 781332400
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80024",
+        "imagePath": "SpriteOutput/MaterialFigures/80024",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 23,
+        "protoID": 80025,
+        "displayDescription": {
+            "hash": 786466842
+        },
+        "displayTitle": {
+            "hash": -1702750661
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80025",
+        "imagePath": "SpriteOutput/MaterialFigures/80025",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 24,
+        "protoID": 80026,
+        "displayDescription": {
+            "hash": 958758479
+        },
+        "displayTitle": {
+            "hash": 781332400
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80024",
+        "imagePath": "SpriteOutput/MaterialFigures/80024",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 4,
+        "ID": 25,
+        "protoID": 80027,
+        "displayDescription": {
+            "hash": 1996300776
+        },
+        "displayTitle": {
+            "hash": -50808951
+        },
+        "iconPath": "SpriteOutput/MaterialIcons/80025",
+        "imagePath": "SpriteOutput/MaterialFigures/80024",
+        "comeFromList": []
+    },
+    {
+        "displayRarity": 2,
+        "ID": 999,
+        "protoID": 0,
+        "displayDescription": {
+            "hash": 282783150
+        },
+        "displayTitle": {
+            "hash": -430363441
+        },
+        "iconPath": "SpriteOutput/GeneralUI/IconSpacetime",
+        "imagePath": "SpriteOutput/GeneralUI/IconSpacetime",
+        "comeFromList": []
+    }
+]

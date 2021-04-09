@@ -1,0 +1,3320 @@
+[
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 1,
+        "ExchangeID": 0,
+        "PointID": 1001,
+        "AreaID": 1,
+        "DanmakuID": 1,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944944389
+        },
+        "PointTitle": {
+            "hash": -1200898800
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [],
+        "StageList": [
+            145101,
+            145187,
+            145220
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 2,
+        "ExchangeID": 2,
+        "PointID": 1002,
+        "AreaID": 1,
+        "DanmakuID": 2,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944944389
+        },
+        "PointTitle": {
+            "hash": -1200898799
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1001
+        ],
+        "StageList": [
+            145103,
+            145189,
+            145222
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 3,
+        "ExchangeID": 0,
+        "PointID": 1003,
+        "AreaID": 1,
+        "DanmakuID": 3,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 40840,
+        "RewardID": 1450850,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944944391
+        },
+        "PointTitle": {
+            "hash": -1200898798
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1002
+        ],
+        "StageList": [
+            145102,
+            145188,
+            145221
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 4,
+        "ExchangeID": 1,
+        "PointID": 1004,
+        "AreaID": 1,
+        "DanmakuID": 4,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 40841,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944944389
+        },
+        "PointTitle": {
+            "hash": -1200898797
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1003
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 5,
+        "ExchangeID": 0,
+        "PointID": 1005,
+        "AreaID": 1,
+        "DanmakuID": 5,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 40842,
+        "RewardID": 1450850,
+        "SweepCurrencyCD": 300,
+        "SweepCurrencyMaxNum": 100,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944944393
+        },
+        "PointTitle": {
+            "hash": -1200898796
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1003
+        ],
+        "StageList": [
+            145105,
+            145191,
+            145224
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 6,
+        "ExchangeID": 0,
+        "PointID": 1006,
+        "AreaID": 1,
+        "DanmakuID": 6,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 25527000,
+        "PreEventID": 40843,
+        "RewardID": 0,
+        "SweepCurrencyCD": 300,
+        "SweepCurrencyMaxNum": 100,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944944389
+        },
+        "PointTitle": {
+            "hash": -1200898795
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1004,
+            1005
+        ],
+        "StageList": [
+            145104,
+            145190,
+            145223
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 1,
+        "ExchangeID": 0,
+        "PointID": 1101,
+        "AreaID": 2,
+        "DanmakuID": 7,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 300,
+        "SweepCurrencyMaxNum": 100,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897839
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-08-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [],
+        "StageList": [
+            145107,
+            145193,
+            145226
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 2,
+        "ExchangeID": 1,
+        "PointID": 1102,
+        "AreaID": 2,
+        "DanmakuID": 8,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 300,
+        "SweepCurrencyMaxNum": 100,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897838
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1101,
+            1106
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 3,
+        "ExchangeID": 0,
+        "PointID": 1103,
+        "AreaID": 2,
+        "DanmakuID": 9,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40844,
+        "RewardID": 1450853,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945352
+        },
+        "PointTitle": {
+            "hash": -1200897837
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            1
+        ],
+        "PrePointList": [
+            1101,
+            1105
+        ],
+        "StageList": [
+            145106,
+            145192,
+            145225
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 4,
+        "ExchangeID": 2,
+        "PointID": 1104,
+        "AreaID": 2,
+        "DanmakuID": 10,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897836
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1101,
+            1108
+        ],
+        "StageList": [
+            145108,
+            145194,
+            145227
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 5,
+        "ExchangeID": 2,
+        "PointID": 1105,
+        "AreaID": 2,
+        "DanmakuID": 11,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40845,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897835
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1103,
+            1107
+        ],
+        "StageList": [
+            145109,
+            145195,
+            145228
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 6,
+        "ExchangeID": 0,
+        "PointID": 1106,
+        "AreaID": 2,
+        "DanmakuID": 12,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897834
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1102,
+            1107
+        ],
+        "StageList": [
+            145110,
+            145196,
+            145229
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 7,
+        "ExchangeID": 1,
+        "PointID": 1107,
+        "AreaID": 2,
+        "DanmakuID": 13,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897833
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1105,
+            1106,
+            1108
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 8,
+        "ExchangeID": 0,
+        "PointID": 1108,
+        "AreaID": 2,
+        "DanmakuID": 14,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40846,
+        "RewardID": 1450853,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945357
+        },
+        "PointTitle": {
+            "hash": -1200897832
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            2
+        ],
+        "PrePointList": [
+            1104,
+            1107
+        ],
+        "StageList": [
+            145111,
+            145197,
+            145230
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 9,
+        "ExchangeID": 1,
+        "PointID": 1109,
+        "AreaID": 2,
+        "DanmakuID": 15,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40847,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897831
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1108,
+            1110,
+            1111
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 10,
+        "ExchangeID": 1,
+        "PointID": 1110,
+        "AreaID": 2,
+        "DanmakuID": 16,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897809
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1108,
+            1109,
+            1112
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 11,
+        "ExchangeID": 2,
+        "PointID": 1111,
+        "AreaID": 2,
+        "DanmakuID": 17,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897808
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-08-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1109,
+            1112
+        ],
+        "StageList": [
+            145112,
+            145198,
+            145231
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 12,
+        "ExchangeID": 0,
+        "PointID": 1112,
+        "AreaID": 2,
+        "DanmakuID": 18,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897807
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1108,
+            1111,
+            1110
+        ],
+        "StageList": [
+            145113,
+            145199,
+            145232
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 13,
+        "ExchangeID": 0,
+        "PointID": 1113,
+        "AreaID": 2,
+        "DanmakuID": 19,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40848,
+        "RewardID": 1450851,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945383
+        },
+        "PointTitle": {
+            "hash": -1200897806
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            3
+        ],
+        "PrePointList": [
+            1104
+        ],
+        "StageList": [
+            145114,
+            145200,
+            145233
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 14,
+        "ExchangeID": 1,
+        "PointID": 1114,
+        "AreaID": 2,
+        "DanmakuID": 20,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40849,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897805
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1113,
+            1118
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 15,
+        "ExchangeID": 2,
+        "PointID": 1115,
+        "AreaID": 2,
+        "DanmakuID": 21,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897804
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1113,
+            1120
+        ],
+        "StageList": [
+            145115,
+            145201,
+            145234
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 16,
+        "ExchangeID": 0,
+        "PointID": 1116,
+        "AreaID": 2,
+        "DanmakuID": 22,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897803
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1113,
+            1117
+        ],
+        "StageList": [
+            145116,
+            145202,
+            145235
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 17,
+        "ExchangeID": 0,
+        "PointID": 1117,
+        "AreaID": 2,
+        "DanmakuID": 23,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897802
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1118,
+            1116,
+            1120
+        ],
+        "StageList": [
+            145117,
+            145203,
+            145236
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 18,
+        "ExchangeID": 0,
+        "PointID": 1118,
+        "AreaID": 2,
+        "DanmakuID": 24,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897801
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1114,
+            1117
+        ],
+        "StageList": [
+            145118,
+            145204,
+            145237
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 19,
+        "ExchangeID": 1,
+        "PointID": 1119,
+        "AreaID": 2,
+        "DanmakuID": 25,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897800
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1110,
+            1112
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 20,
+        "ExchangeID": 1,
+        "PointID": 1120,
+        "AreaID": 2,
+        "DanmakuID": 26,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944945350
+        },
+        "PointTitle": {
+            "hash": -1200897778
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1115,
+            1117
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 1,
+        "ExchangeID": 2,
+        "PointID": 1201,
+        "AreaID": 3,
+        "DanmakuID": 28,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40850,
+        "RewardID": 1450853,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946310
+        },
+        "PointTitle": {
+            "hash": -1200896878
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-08-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            4
+        ],
+        "PrePointList": [],
+        "StageList": [
+            145253,
+            145206,
+            145239
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 2,
+        "ExchangeID": 0,
+        "PointID": 1202,
+        "AreaID": 3,
+        "DanmakuID": 29,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40851,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896877
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1201,
+            1206
+        ],
+        "StageList": [
+            145174,
+            145207,
+            145240
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 3,
+        "ExchangeID": 1,
+        "PointID": 1203,
+        "AreaID": 3,
+        "DanmakuID": 30,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896876
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1201
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 4,
+        "ExchangeID": 2,
+        "PointID": 1204,
+        "AreaID": 3,
+        "DanmakuID": 31,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896875
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1203
+        ],
+        "StageList": [
+            145175,
+            145208,
+            145241
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 5,
+        "ExchangeID": 0,
+        "PointID": 1205,
+        "AreaID": 3,
+        "DanmakuID": 32,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896874
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1204,
+            1206
+        ],
+        "StageList": [
+            145176,
+            145209,
+            145242
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 6,
+        "ExchangeID": 1,
+        "PointID": 1206,
+        "AreaID": 3,
+        "DanmakuID": 33,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896873
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1202,
+            1205
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 7,
+        "ExchangeID": 2,
+        "PointID": 1207,
+        "AreaID": 3,
+        "DanmakuID": 34,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896872
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1201
+        ],
+        "StageList": [
+            145177,
+            145210,
+            145243
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 8,
+        "ExchangeID": 0,
+        "PointID": 1208,
+        "AreaID": 3,
+        "DanmakuID": 35,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40852,
+        "RewardID": 1450853,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946318
+        },
+        "PointTitle": {
+            "hash": -1200896871
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            5
+        ],
+        "PrePointList": [
+            1214,
+            1215
+        ],
+        "StageList": [
+            145178,
+            145211,
+            145244
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 9,
+        "ExchangeID": 0,
+        "PointID": 1209,
+        "AreaID": 3,
+        "DanmakuID": 36,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896870
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1207
+        ],
+        "StageList": [
+            145179,
+            145212,
+            145245
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 10,
+        "ExchangeID": 2,
+        "PointID": 1210,
+        "AreaID": 3,
+        "DanmakuID": 37,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896848
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1207
+        ],
+        "StageList": [
+            145180,
+            145213,
+            145246
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 11,
+        "ExchangeID": 1,
+        "PointID": 1211,
+        "AreaID": 3,
+        "DanmakuID": 38,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896847
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-08-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1210,
+            1212
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 2,
+        "UIIndex": 12,
+        "ExchangeID": 0,
+        "PointID": 1212,
+        "AreaID": 3,
+        "DanmakuID": 39,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40854,
+        "RewardID": 1450851,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946343
+        },
+        "PointTitle": {
+            "hash": -1200896846
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [
+            6
+        ],
+        "PrePointList": [
+            1211,
+            1213
+        ],
+        "StageList": [
+            145181,
+            145214,
+            145247
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 13,
+        "ExchangeID": 1,
+        "PointID": 1213,
+        "AreaID": 3,
+        "DanmakuID": 40,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896845
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1209,
+            1212
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 14,
+        "ExchangeID": 2,
+        "PointID": 1214,
+        "AreaID": 3,
+        "DanmakuID": 41,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40855,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896844
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1212
+        ],
+        "StageList": [
+            145182,
+            145215,
+            145248
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 15,
+        "ExchangeID": 0,
+        "PointID": 1215,
+        "AreaID": 3,
+        "DanmakuID": 42,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896843
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1212
+        ],
+        "StageList": [
+            145183,
+            145216,
+            145249
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 16,
+        "ExchangeID": 1,
+        "PointID": 1216,
+        "AreaID": 3,
+        "DanmakuID": 43,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 40853,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896842
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1208,
+            1218
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 17,
+        "ExchangeID": 0,
+        "PointID": 1217,
+        "AreaID": 3,
+        "DanmakuID": 44,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896841
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1208,
+            1218
+        ],
+        "StageList": [
+            145184,
+            145217,
+            145250
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 18,
+        "ExchangeID": 2,
+        "PointID": 1218,
+        "AreaID": 3,
+        "DanmakuID": 45,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896840
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1216,
+            1217
+        ],
+        "StageList": [
+            145185,
+            145218,
+            145251
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 19,
+        "ExchangeID": 1,
+        "PointID": 1219,
+        "AreaID": 3,
+        "DanmakuID": 46,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896839
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1216,
+            1220
+        ],
+        "StageList": []
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 20,
+        "ExchangeID": 0,
+        "PointID": 1220,
+        "AreaID": 3,
+        "DanmakuID": 47,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 17280000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944946311
+        },
+        "PointTitle": {
+            "hash": -1200896817
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            1216,
+            1219
+        ],
+        "StageList": [
+            145186,
+            145219,
+            145252
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 3,
+        "UIIndex": 1,
+        "ExchangeID": 0,
+        "PointID": 1321,
+        "AreaID": 4,
+        "DanmakuID": 27,
+        "FinishEventID": 40857,
+        "LockAvatarId": 0,
+        "PointHP": 87102000,
+        "PreEventID": 40856,
+        "RewardID": 1450852,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944947334
+        },
+        "PointTitle": {
+            "hash": -1200895855
+        },
+        "PointImagePath": "SpriteOutput/GlobalWar/Stage/PicQuantum12",
+        "StageBuffIcon": "",
+        "UnlockTime": "2019-04-30 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [],
+        "StageList": [
+            145119,
+            145205,
+            145238
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 1,
+        "ExchangeID": 11,
+        "PointID": 2001,
+        "AreaID": 11,
+        "DanmakuID": 101,
+        "FinishEventID": 0,
+        "LockAvatarId": 704,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974180
+        },
+        "PointTitle": {
+            "hash": -1200869009
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            704
+        ],
+        "BuffList": [],
+        "PrePointList": [],
+        "StageList": [
+            146101
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 2,
+        "ExchangeID": 11,
+        "PointID": 2002,
+        "AreaID": 11,
+        "DanmakuID": 102,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974181
+        },
+        "PointTitle": {
+            "hash": -1200869008
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2001
+        ],
+        "StageList": [
+            146102
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 3,
+        "ExchangeID": 11,
+        "PointID": 2003,
+        "AreaID": 11,
+        "DanmakuID": 103,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974182
+        },
+        "PointTitle": {
+            "hash": -1200869007
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2002
+        ],
+        "StageList": [
+            146103
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 4,
+        "ExchangeID": 11,
+        "PointID": 2004,
+        "AreaID": 11,
+        "DanmakuID": 104,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974183
+        },
+        "PointTitle": {
+            "hash": -1200869006
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2003
+        ],
+        "StageList": [
+            146104
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 5,
+        "ExchangeID": 11,
+        "PointID": 2005,
+        "AreaID": 11,
+        "DanmakuID": 105,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974184
+        },
+        "PointTitle": {
+            "hash": -1200869005
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2004
+        ],
+        "StageList": [
+            146105
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 6,
+        "ExchangeID": 11,
+        "PointID": 2006,
+        "AreaID": 11,
+        "DanmakuID": 106,
+        "FinishEventID": 0,
+        "LockAvatarId": 205,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974185
+        },
+        "PointTitle": {
+            "hash": -1200869004
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            205
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2005
+        ],
+        "StageList": [
+            146106
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 7,
+        "ExchangeID": 11,
+        "PointID": 2007,
+        "AreaID": 11,
+        "DanmakuID": 107,
+        "FinishEventID": 0,
+        "LockAvatarId": 113,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974186
+        },
+        "PointTitle": {
+            "hash": -1200869003
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            113
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2004
+        ],
+        "StageList": [
+            146107
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 8,
+        "ExchangeID": 11,
+        "PointID": 2008,
+        "AreaID": 11,
+        "DanmakuID": 108,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974187
+        },
+        "PointTitle": {
+            "hash": -1200869002
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2001
+        ],
+        "StageList": [
+            146108
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 9,
+        "ExchangeID": 11,
+        "PointID": 2009,
+        "AreaID": 11,
+        "DanmakuID": 109,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974188
+        },
+        "PointTitle": {
+            "hash": -1200869001
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2008
+        ],
+        "StageList": [
+            146109
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 10,
+        "ExchangeID": 11,
+        "PointID": 2010,
+        "AreaID": 11,
+        "DanmakuID": 110,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974210
+        },
+        "PointTitle": {
+            "hash": -1200868979
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2009
+        ],
+        "StageList": [
+            146110
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 11,
+        "ExchangeID": 11,
+        "PointID": 2011,
+        "AreaID": 11,
+        "DanmakuID": 111,
+        "FinishEventID": 0,
+        "LockAvatarId": 313,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974211
+        },
+        "PointTitle": {
+            "hash": -1200868978
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            313
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2010
+        ],
+        "StageList": [
+            146111
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 12,
+        "ExchangeID": 11,
+        "PointID": 2012,
+        "AreaID": 11,
+        "DanmakuID": 112,
+        "FinishEventID": 0,
+        "LockAvatarId": 412,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974212
+        },
+        "PointTitle": {
+            "hash": -1200868977
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            412
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2010
+        ],
+        "StageList": [
+            146112
+        ]
+    },
+    {
+        "PointClientType": 5,
+        "PointType": 1,
+        "UIIndex": 13,
+        "ExchangeID": 11,
+        "PointID": 2013,
+        "AreaID": 11,
+        "DanmakuID": 113,
+        "FinishEventID": 48985,
+        "LockAvatarId": 0,
+        "PointHP": 43200000,
+        "PreEventID": 0,
+        "RewardID": 1453102,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974213
+        },
+        "PointTitle": {
+            "hash": -1200868976
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2006,
+            2007,
+            2011
+        ],
+        "StageList": [
+            146113
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 14,
+        "ExchangeID": 11,
+        "PointID": 2014,
+        "AreaID": 11,
+        "DanmakuID": 114,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974214
+        },
+        "PointTitle": {
+            "hash": -1200868975
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2013
+        ],
+        "StageList": [
+            146114
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 15,
+        "ExchangeID": 11,
+        "PointID": 2015,
+        "AreaID": 11,
+        "DanmakuID": 115,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974215
+        },
+        "PointTitle": {
+            "hash": -1200868974
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2014
+        ],
+        "StageList": [
+            146115
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 16,
+        "ExchangeID": 11,
+        "PointID": 2016,
+        "AreaID": 11,
+        "DanmakuID": 116,
+        "FinishEventID": 0,
+        "LockAvatarId": 111,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974216
+        },
+        "PointTitle": {
+            "hash": -1200868973
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            111
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2015
+        ],
+        "StageList": [
+            146116
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 17,
+        "ExchangeID": 11,
+        "PointID": 2017,
+        "AreaID": 11,
+        "DanmakuID": 117,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974217
+        },
+        "PointTitle": {
+            "hash": -1200868972
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2016
+        ],
+        "StageList": [
+            146117
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 18,
+        "ExchangeID": 11,
+        "PointID": 2018,
+        "AreaID": 11,
+        "DanmakuID": 118,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974218
+        },
+        "PointTitle": {
+            "hash": -1200868971
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2017
+        ],
+        "StageList": [
+            146118
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 19,
+        "ExchangeID": 11,
+        "PointID": 2019,
+        "AreaID": 11,
+        "DanmakuID": 119,
+        "FinishEventID": 0,
+        "LockAvatarId": 602,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974219
+        },
+        "PointTitle": {
+            "hash": -1200868970
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            602
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2018
+        ],
+        "StageList": [
+            146119
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 20,
+        "ExchangeID": 11,
+        "PointID": 2020,
+        "AreaID": 11,
+        "DanmakuID": 120,
+        "FinishEventID": 0,
+        "LockAvatarId": 611,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974241
+        },
+        "PointTitle": {
+            "hash": -1200868948
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            611
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2018
+        ],
+        "StageList": [
+            146120
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 21,
+        "ExchangeID": 11,
+        "PointID": 2021,
+        "AreaID": 11,
+        "DanmakuID": 121,
+        "FinishEventID": 0,
+        "LockAvatarId": 712,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974242
+        },
+        "PointTitle": {
+            "hash": -1200868947
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            712
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2013
+        ],
+        "StageList": [
+            146121
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 22,
+        "ExchangeID": 11,
+        "PointID": 2022,
+        "AreaID": 11,
+        "DanmakuID": 122,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974243
+        },
+        "PointTitle": {
+            "hash": -1200868946
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2021
+        ],
+        "StageList": [
+            146122
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 23,
+        "ExchangeID": 11,
+        "PointID": 2023,
+        "AreaID": 11,
+        "DanmakuID": 123,
+        "FinishEventID": 0,
+        "LockAvatarId": 504,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974244
+        },
+        "PointTitle": {
+            "hash": -1200868945
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            504
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2022
+        ],
+        "StageList": [
+            146123
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 24,
+        "ExchangeID": 11,
+        "PointID": 2024,
+        "AreaID": 11,
+        "DanmakuID": 124,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974245
+        },
+        "PointTitle": {
+            "hash": -1200868944
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2013
+        ],
+        "StageList": [
+            146124
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 25,
+        "ExchangeID": 11,
+        "PointID": 2025,
+        "AreaID": 11,
+        "DanmakuID": 125,
+        "FinishEventID": 0,
+        "LockAvatarId": 802,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974246
+        },
+        "PointTitle": {
+            "hash": -1200868943
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            802
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2024
+        ],
+        "StageList": [
+            146125
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 26,
+        "ExchangeID": 11,
+        "PointID": 2026,
+        "AreaID": 11,
+        "DanmakuID": 126,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974247
+        },
+        "PointTitle": {
+            "hash": -1200868942
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2025
+        ],
+        "StageList": [
+            146126
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 27,
+        "ExchangeID": 11,
+        "PointID": 2027,
+        "AreaID": 11,
+        "DanmakuID": 127,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974248
+        },
+        "PointTitle": {
+            "hash": -1200868941
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2026
+        ],
+        "StageList": [
+            146127
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 28,
+        "ExchangeID": 11,
+        "PointID": 2028,
+        "AreaID": 11,
+        "DanmakuID": 128,
+        "FinishEventID": 0,
+        "LockAvatarId": 705,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974249
+        },
+        "PointTitle": {
+            "hash": -1200868940
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            705
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2027
+        ],
+        "StageList": [
+            146128
+        ]
+    },
+    {
+        "PointClientType": 5,
+        "PointType": 1,
+        "UIIndex": 29,
+        "ExchangeID": 11,
+        "PointID": 2029,
+        "AreaID": 11,
+        "DanmakuID": 129,
+        "FinishEventID": 48986,
+        "LockAvatarId": 0,
+        "PointHP": 43200000,
+        "PreEventID": 0,
+        "RewardID": 1453103,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974250
+        },
+        "PointTitle": {
+            "hash": -1200868939
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2020,
+            2023,
+            2028
+        ],
+        "StageList": [
+            146129
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 30,
+        "ExchangeID": 11,
+        "PointID": 2030,
+        "AreaID": 11,
+        "DanmakuID": 130,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974272
+        },
+        "PointTitle": {
+            "hash": -1200868917
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2029
+        ],
+        "StageList": [
+            146130
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 31,
+        "ExchangeID": 11,
+        "PointID": 2031,
+        "AreaID": 11,
+        "DanmakuID": 131,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974273
+        },
+        "PointTitle": {
+            "hash": -1200868916
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2030
+        ],
+        "StageList": [
+            146131
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 32,
+        "ExchangeID": 11,
+        "PointID": 2032,
+        "AreaID": 11,
+        "DanmakuID": 132,
+        "FinishEventID": 0,
+        "LockAvatarId": 502,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974274
+        },
+        "PointTitle": {
+            "hash": -1200868915
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            502
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2031
+        ],
+        "StageList": [
+            146132
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 33,
+        "ExchangeID": 11,
+        "PointID": 2033,
+        "AreaID": 11,
+        "DanmakuID": 133,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974275
+        },
+        "PointTitle": {
+            "hash": -1200868914
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2032
+        ],
+        "StageList": [
+            146133
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 34,
+        "ExchangeID": 11,
+        "PointID": 2034,
+        "AreaID": 11,
+        "DanmakuID": 134,
+        "FinishEventID": 0,
+        "LockAvatarId": 204,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974276
+        },
+        "PointTitle": {
+            "hash": -1200868913
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            204
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2033
+        ],
+        "StageList": [
+            146134
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 35,
+        "ExchangeID": 11,
+        "PointID": 2035,
+        "AreaID": 11,
+        "DanmakuID": 135,
+        "FinishEventID": 0,
+        "LockAvatarId": 604,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974277
+        },
+        "PointTitle": {
+            "hash": -1200868912
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            604
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2029
+        ],
+        "StageList": [
+            146135
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 36,
+        "ExchangeID": 11,
+        "PointID": 2036,
+        "AreaID": 11,
+        "DanmakuID": 136,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974278
+        },
+        "PointTitle": {
+            "hash": -1200868911
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2035
+        ],
+        "StageList": [
+            146136
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 37,
+        "ExchangeID": 11,
+        "PointID": 2037,
+        "AreaID": 11,
+        "DanmakuID": 137,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974279
+        },
+        "PointTitle": {
+            "hash": -1200868910
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2036
+        ],
+        "StageList": [
+            146137
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 38,
+        "ExchangeID": 11,
+        "PointID": 2038,
+        "AreaID": 11,
+        "DanmakuID": 138,
+        "FinishEventID": 0,
+        "LockAvatarId": 103,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974280
+        },
+        "PointTitle": {
+            "hash": -1200868909
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            103
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2037
+        ],
+        "StageList": [
+            146138
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 39,
+        "ExchangeID": 11,
+        "PointID": 2039,
+        "AreaID": 11,
+        "DanmakuID": 139,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974281
+        },
+        "PointTitle": {
+            "hash": -1200868908
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2029
+        ],
+        "StageList": [
+            146139
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 40,
+        "ExchangeID": 11,
+        "PointID": 2040,
+        "AreaID": 11,
+        "DanmakuID": 140,
+        "FinishEventID": 0,
+        "LockAvatarId": 212,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974303
+        },
+        "PointTitle": {
+            "hash": -1200868886
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Ice",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            212
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2039
+        ],
+        "StageList": [
+            146140
+        ]
+    },
+    {
+        "PointClientType": 3,
+        "PointType": 1,
+        "UIIndex": 41,
+        "ExchangeID": 11,
+        "PointID": 2041,
+        "AreaID": 11,
+        "DanmakuID": 141,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 600,
+        "SweepCurrencyMaxNum": 150,
+        "SweepCurrencyNumPerCD": 1,
+        "PointDesc": {
+            "hash": 944974304
+        },
+        "PointTitle": {
+            "hash": -1200868885
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Lightning",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2040
+        ],
+        "StageList": [
+            146141
+        ]
+    },
+    {
+        "PointClientType": 1,
+        "PointType": 1,
+        "UIIndex": 42,
+        "ExchangeID": 11,
+        "PointID": 2042,
+        "AreaID": 11,
+        "DanmakuID": 142,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 10800000,
+        "PreEventID": 0,
+        "RewardID": 1453101,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974305
+        },
+        "PointTitle": {
+            "hash": -1200868884
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2041
+        ],
+        "StageList": [
+            146142
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 43,
+        "ExchangeID": 11,
+        "PointID": 2043,
+        "AreaID": 11,
+        "DanmakuID": 143,
+        "FinishEventID": 0,
+        "LockAvatarId": 304,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974306
+        },
+        "PointTitle": {
+            "hash": -1200868883
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            304
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2042
+        ],
+        "StageList": [
+            146143
+        ]
+    },
+    {
+        "PointClientType": 2,
+        "PointType": 1,
+        "UIIndex": 44,
+        "ExchangeID": 11,
+        "PointID": 2044,
+        "AreaID": 11,
+        "DanmakuID": 144,
+        "FinishEventID": 0,
+        "LockAvatarId": 404,
+        "PointHP": 21600000,
+        "PreEventID": 0,
+        "RewardID": 0,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974307
+        },
+        "PointTitle": {
+            "hash": -1200868882
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "SpriteOutput/StateIcon/NewStateIcon/State_Fire",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            404
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2029
+        ],
+        "StageList": [
+            146144
+        ]
+    },
+    {
+        "PointClientType": 5,
+        "PointType": 1,
+        "UIIndex": 45,
+        "ExchangeID": 11,
+        "PointID": 2045,
+        "AreaID": 11,
+        "DanmakuID": 145,
+        "FinishEventID": 48987,
+        "LockAvatarId": 0,
+        "PointHP": 43200000,
+        "PreEventID": 0,
+        "RewardID": 1453104,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974308
+        },
+        "PointTitle": {
+            "hash": -1200868881
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2034,
+            2038,
+            2043
+        ],
+        "StageList": [
+            146145
+        ]
+    },
+    {
+        "PointClientType": 5,
+        "PointType": 1,
+        "UIIndex": 46,
+        "ExchangeID": 11,
+        "PointID": 2046,
+        "AreaID": 11,
+        "DanmakuID": 146,
+        "FinishEventID": 48988,
+        "LockAvatarId": 312,
+        "PointHP": 43200000,
+        "PreEventID": 0,
+        "RewardID": 1453105,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974309
+        },
+        "PointTitle": {
+            "hash": -1200868880
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [
+            312
+        ],
+        "BuffList": [],
+        "PrePointList": [
+            2045
+        ],
+        "StageList": [
+            146146
+        ]
+    },
+    {
+        "PointClientType": 5,
+        "PointType": 3,
+        "UIIndex": 47,
+        "ExchangeID": 11,
+        "PointID": 2047,
+        "AreaID": 11,
+        "DanmakuID": 147,
+        "FinishEventID": 0,
+        "LockAvatarId": 0,
+        "PointHP": 86400000,
+        "PreEventID": 0,
+        "RewardID": 1453106,
+        "SweepCurrencyCD": 0,
+        "SweepCurrencyMaxNum": 0,
+        "SweepCurrencyNumPerCD": 0,
+        "PointDesc": {
+            "hash": 944974310
+        },
+        "PointTitle": {
+            "hash": -1200868879
+        },
+        "PointImagePath": "",
+        "StageBuffIcon": "",
+        "UnlockTime": "2020-09-27 10:00:00",
+        "AvatarList": [],
+        "BuffList": [],
+        "PrePointList": [
+            2046
+        ],
+        "StageList": [
+            146147
+        ]
+    }
+]

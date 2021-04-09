@@ -1,0 +1,74 @@
+[
+    {
+        "ID": 1001,
+        "Desc": "BonusDesc1001",
+        "IconPath": "SpriteOutput/StateIcon/State_Event",
+        "Name": "BonusName1001",
+        "BuffList": [
+            2019
+        ]
+    },
+    {
+        "ID": 1002,
+        "Desc": "BonusDesc1002",
+        "IconPath": "SpriteOutput/StateIcon/State_Float",
+        "Name": "BonusName1002",
+        "BuffList": [
+            2020
+        ]
+    },
+    {
+        "ID": 1003,
+        "Desc": "BonusDesc1003",
+        "IconPath": "SpriteOutput/StateIcon/State_Float",
+        "Name": "BonusName1003",
+        "BuffList": [
+            2021
+        ]
+    },
+    {
+        "ID": 1004,
+        "Desc": "BonusDesc1004",
+        "IconPath": "SpriteOutput/StateIcon/State_WitchTime",
+        "Name": "BonusName1004",
+        "BuffList": [
+            2022
+        ]
+    },
+    {
+        "ID": 1005,
+        "Desc": "BonusDesc1005",
+        "IconPath": "SpriteOutput/StateIcon/State_Event",
+        "Name": "BonusName1005",
+        "BuffList": [
+            2023
+        ]
+    },
+    {
+        "ID": 1006,
+        "Desc": "BonusDesc1006",
+        "IconPath": "SpriteOutput/StateIcon/State_WitchTime",
+        "Name": "BonusName1006",
+        "BuffList": [
+            2024
+        ]
+    },
+    {
+        "ID": 1007,
+        "Desc": "BonusDesc1007",
+        "IconPath": "SpriteOutput/StateIcon/State_Event",
+        "Name": "BonusName1007",
+        "BuffList": [
+            2025
+        ]
+    },
+    {
+        "ID": 1008,
+        "Desc": "BonusDesc1008",
+        "IconPath": "SpriteOutput/StateIcon/State_Event",
+        "Name": "BonusName1008",
+        "BuffList": [
+            2026
+        ]
+    }
+]

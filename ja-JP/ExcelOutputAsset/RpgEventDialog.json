@@ -1,0 +1,22 @@
+[
+    {
+        "DialogId": 600110200,
+        "UnlockFlagList": "101|115801,>=,200"
+    },
+    {
+        "DialogId": 600110300,
+        "UnlockFlagList": "101|115801,>=,300"
+    },
+    {
+        "DialogId": 600120300,
+        "UnlockFlagList": "105|>,50"
+    },
+    {
+        "DialogId": 600130100,
+        "UnlockFlagList": "104|>=,1"
+    },
+    {
+        "DialogId": 600141100,
+        "UnlockFlagList": "101|115801,>=,200"
+    }
+]

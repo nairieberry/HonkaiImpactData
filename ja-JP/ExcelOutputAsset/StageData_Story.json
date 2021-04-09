@@ -1,0 +1,466 @@
+[
+    {
+        "MaxCount": 1,
+        "StoryID": 101,
+        "Sub": 1,
+        "Description": {
+            "hash": 443880294
+        },
+        "Name": {
+            "hash": 444174176
+        },
+        "Target": {
+            "hash": 1821549862
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Target_1_1"
+    },
+    {
+        "MaxCount": 100,
+        "StoryID": 102,
+        "Sub": 1,
+        "Description": {
+            "hash": 472509445
+        },
+        "Name": {
+            "hash": 472803327
+        },
+        "Target": {
+            "hash": -730607099
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Target_2_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 103,
+        "Sub": 1,
+        "Description": {
+            "hash": 501138596
+        },
+        "Name": {
+            "hash": 501432478
+        },
+        "Target": {
+            "hash": 1012203236
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_3_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 104,
+        "Sub": 1,
+        "Description": {
+            "hash": 529767747
+        },
+        "Name": {
+            "hash": 530061629
+        },
+        "Target": {
+            "hash": -1539953725
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_4_3"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 105,
+        "Sub": 1,
+        "Description": {
+            "hash": 558396898
+        },
+        "Name": {
+            "hash": 558690780
+        },
+        "Target": {
+            "hash": 202856610
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_5_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 106,
+        "Sub": 1,
+        "Description": {
+            "hash": 587026049
+        },
+        "Name": {
+            "hash": 587319931
+        },
+        "Target": {
+            "hash": 1945666945
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_6_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 107,
+        "Sub": 1,
+        "Description": {
+            "hash": 615655200
+        },
+        "Name": {
+            "hash": 615949082
+        },
+        "Target": {
+            "hash": -606490016
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Box_7_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 108,
+        "Sub": 1,
+        "Description": {
+            "hash": 644284351
+        },
+        "Name": {
+            "hash": 644578233
+        },
+        "Target": {
+            "hash": 1136320319
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Born8"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 109,
+        "Sub": 1,
+        "Description": {
+            "hash": 672913502
+        },
+        "Name": {
+            "hash": 673207384
+        },
+        "Target": {
+            "hash": -1415836642
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_9_4"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 110,
+        "Sub": 1,
+        "Description": {
+            "hash": 1302754824
+        },
+        "Name": {
+            "hash": 1303048706
+        },
+        "Target": {
+            "hash": -1728714936
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "AirWall_10_3"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 111,
+        "Sub": 1,
+        "Description": {
+            "hash": 1331383975
+        },
+        "Name": {
+            "hash": 1331677857
+        },
+        "Target": {
+            "hash": 14095399
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_11_3"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 112,
+        "Sub": 1,
+        "Description": {
+            "hash": 1360013126
+        },
+        "Name": {
+            "hash": 1360307008
+        },
+        "Target": {
+            "hash": 1756905734
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_12_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 113,
+        "Sub": 1,
+        "Description": {
+            "hash": 1388642277
+        },
+        "Name": {
+            "hash": 1388936159
+        },
+        "Target": {
+            "hash": -795251227
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_13_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 114,
+        "Sub": 1,
+        "Description": {
+            "hash": 1417271428
+        },
+        "Name": {
+            "hash": 1417565310
+        },
+        "Target": {
+            "hash": 947559108
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_14_9"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 115,
+        "Sub": 1,
+        "Description": {
+            "hash": 1445900579
+        },
+        "Name": {
+            "hash": 1446194461
+        },
+        "Target": {
+            "hash": -1604597853
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_15_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 116,
+        "Sub": 1,
+        "Description": {
+            "hash": 1474529730
+        },
+        "Name": {
+            "hash": 1474823612
+        },
+        "Target": {
+            "hash": 138212482
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_16_2"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 117,
+        "Sub": 1,
+        "Description": {
+            "hash": 1503158881
+        },
+        "Name": {
+            "hash": 1503452763
+        },
+        "Target": {
+            "hash": 1881022817
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Born24"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 118,
+        "Sub": 1,
+        "Description": {
+            "hash": 1531788032
+        },
+        "Name": {
+            "hash": 1532081914
+        },
+        "Target": {
+            "hash": -671134144
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Born18"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 119,
+        "Sub": 1,
+        "Description": {
+            "hash": 1560417183
+        },
+        "Name": {
+            "hash": 1560711065
+        },
+        "Target": {
+            "hash": 1071676191
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Born19"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 120,
+        "Sub": 1,
+        "Description": {
+            "hash": -2104708791
+        },
+        "Name": {
+            "hash": -2104414909
+        },
+        "Target": {
+            "hash": 758797897
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_20_2"
+    },
+    {
+        "MaxCount": 4,
+        "StoryID": 121,
+        "Sub": 1,
+        "Description": {
+            "hash": -2076079640
+        },
+        "Name": {
+            "hash": -2075785758
+        },
+        "Target": {
+            "hash": -1793359064
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Born21"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 122,
+        "Sub": 1,
+        "Description": {
+            "hash": -2047450489
+        },
+        "Name": {
+            "hash": -2047156607
+        },
+        "Target": {
+            "hash": -50548729
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_24_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 123,
+        "Sub": 1,
+        "Description": {
+            "hash": -2018821338
+        },
+        "Name": {
+            "hash": -2018527456
+        },
+        "Target": {
+            "hash": 1692261606
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_24_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 124,
+        "Sub": 1,
+        "Description": {
+            "hash": -1990192187
+        },
+        "Name": {
+            "hash": -1989898305
+        },
+        "Target": {
+            "hash": -859895355
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_24_1"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 1011,
+        "Sub": 2,
+        "Description": {
+            "hash": -417614615
+        },
+        "Name": {
+            "hash": -417320733
+        },
+        "Target": {
+            "hash": -1441336855
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Target_1_3"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 1012,
+        "Sub": 2,
+        "Description": {
+            "hash": -388985464
+        },
+        "Name": {
+            "hash": -388691582
+        },
+        "Target": {
+            "hash": 301473480
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Target_1_4"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 1021,
+        "Sub": 2,
+        "Description": {
+            "hash": 1499943856
+        },
+        "Name": {
+            "hash": 1500237738
+        },
+        "Target": {
+            "hash": -1208616208
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Target_2_2"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 1031,
+        "Sub": 2,
+        "Description": {
+            "hash": -1247859994
+        },
+        "Name": {
+            "hash": -1247566112
+        },
+        "Target": {
+            "hash": -443229018
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_3_2_2"
+    },
+    {
+        "MaxCount": 1,
+        "StoryID": 1161,
+        "Sub": 2,
+        "Description": {
+            "hash": 1467746829
+        },
+        "Name": {
+            "hash": 1468040711
+        },
+        "Target": {
+            "hash": -2085188083
+        },
+        "luaPath": "Levels/MainLineMission_Stage05/null",
+        "targetLocation": "Monster_16_2"
+    }
+]

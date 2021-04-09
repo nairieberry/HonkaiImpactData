@@ -1,0 +1,107 @@
+[
+    {
+        "CostTime": 21600,
+        "EveryNum": 1500,
+        "LimitTimes": 30,
+        "MaterialId": 4,
+        "RewardFarmExp": 60,
+        "UnlockFarmLevel": 2,
+        "FoodDesc": {
+            "hash": -1469903893
+        },
+        "FoodNameEn": {
+            "hash": 755724051
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1008"
+    },
+    {
+        "CostTime": 57600,
+        "EveryNum": 1,
+        "LimitTimes": 10,
+        "MaterialId": 2008,
+        "RewardFarmExp": 160,
+        "UnlockFarmLevel": 7,
+        "FoodDesc": {
+            "hash": -1469903889
+        },
+        "FoodNameEn": {
+            "hash": 755724049
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1006"
+    },
+    {
+        "CostTime": 54000,
+        "EveryNum": 1,
+        "LimitTimes": 99,
+        "MaterialId": 7026,
+        "RewardFarmExp": 0,
+        "UnlockFarmLevel": 8,
+        "FoodDesc": {
+            "hash": -1469903887
+        },
+        "FoodNameEn": {
+            "hash": 755753836
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/2002"
+    },
+    {
+        "CostTime": 43200,
+        "EveryNum": 1,
+        "LimitTimes": 20,
+        "MaterialId": 9004,
+        "RewardFarmExp": 120,
+        "UnlockFarmLevel": 5,
+        "FoodDesc": {
+            "hash": -1469903891
+        },
+        "FoodNameEn": {
+            "hash": 755724074
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1010"
+    },
+    {
+        "CostTime": 36000,
+        "EveryNum": 1,
+        "LimitTimes": 30,
+        "MaterialId": 115123,
+        "RewardFarmExp": 100,
+        "UnlockFarmLevel": 1,
+        "FoodDesc": {
+            "hash": -1469903892
+        },
+        "FoodNameEn": {
+            "hash": 755724052
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1009"
+    },
+    {
+        "CostTime": 50400,
+        "EveryNum": 1,
+        "LimitTimes": 20,
+        "MaterialId": 115124,
+        "RewardFarmExp": 140,
+        "UnlockFarmLevel": 3,
+        "FoodDesc": {
+            "hash": -1469903890
+        },
+        "FoodNameEn": {
+            "hash": 755724048
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1005"
+    },
+    {
+        "CostTime": 57600,
+        "EveryNum": 1,
+        "LimitTimes": 10,
+        "MaterialId": 115125,
+        "RewardFarmExp": 160,
+        "UnlockFarmLevel": 6,
+        "FoodDesc": {
+            "hash": -1469903888
+        },
+        "FoodNameEn": {
+            "hash": 755724050
+        },
+        "FoodIcon": "SpriteOutput/FarmFoodIcon/1007"
+    }
+]

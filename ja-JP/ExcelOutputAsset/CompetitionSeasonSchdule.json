@@ -1,0 +1,41 @@
+[
+    {
+        "ActiveMaterialID": 135001,
+        "CompetitionSeasonID": 1,
+        "HornerMaterialID": 115001,
+        "ActiveExpIcon": "SpriteOutput/MaterialIcons/135001",
+        "ActiveExpIconSmall": "SpriteOutput/GeneralUI/135001",
+        "BeginTime": "2020-09-11 10:00:00",
+        "CompetitionSeasonName": "CompetitionSeason_Season_1",
+        "EndTime": "2020-12-07 03:59:59",
+        "HornerExpIcon": "SpriteOutput/MaterialIcons/115001",
+        "HornerExpIconSmall": "SpriteOutput/GeneralUI/115001",
+        "SettleTime": "2020-12-14 03:59:59"
+    },
+    {
+        "ActiveMaterialID": 135002,
+        "CompetitionSeasonID": 2,
+        "HornerMaterialID": 115002,
+        "ActiveExpIcon": "SpriteOutput/MaterialIcons/135001",
+        "ActiveExpIconSmall": "SpriteOutput/GeneralUI/135001",
+        "BeginTime": "2020-12-14 04:00:00",
+        "CompetitionSeasonName": "CompetitionSeason_Season_2",
+        "EndTime": "2021-03-08 03:59:59",
+        "HornerExpIcon": "SpriteOutput/MaterialIcons/115001",
+        "HornerExpIconSmall": "SpriteOutput/GeneralUI/115001",
+        "SettleTime": "2021-03-15 03:59:59"
+    },
+    {
+        "ActiveMaterialID": 135003,
+        "CompetitionSeasonID": 3,
+        "HornerMaterialID": 115003,
+        "ActiveExpIcon": "SpriteOutput/MaterialIcons/135001",
+        "ActiveExpIconSmall": "SpriteOutput/GeneralUI/135001",
+        "BeginTime": "2021-03-15 04:00:00",
+        "CompetitionSeasonName": "CompetitionSeason_Season_3",
+        "EndTime": "2021-05-17 03:59:59",
+        "HornerExpIcon": "SpriteOutput/MaterialIcons/115001",
+        "HornerExpIconSmall": "SpriteOutput/GeneralUI/115001",
+        "SettleTime": "2021-05-24 03:59:59"
+    }
+]

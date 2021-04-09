@@ -1,0 +1,62 @@
+[
+    {
+        "AdvanceTime": 36000,
+        "BossPointScheduleID": 1,
+        "PointID": 7101,
+        "BeginTime": "2020-05-01 10:00:00",
+        "EndTime": "2020-05-02 23:59:59",
+        "RewardDisplay": [
+            114291
+        ],
+        "StageList": [
+            142801,
+            142802,
+            142803
+        ],
+        "Belief": [
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "AdvanceTime": 36000,
+        "BossPointScheduleID": 2,
+        "PointID": 7101,
+        "BeginTime": "2020-05-04 10:00:00",
+        "EndTime": "2020-05-05 23:59:59",
+        "RewardDisplay": [
+            114291
+        ],
+        "StageList": [
+            142804,
+            142805,
+            142806
+        ],
+        "Belief": [
+            4,
+            3,
+            2
+        ]
+    },
+    {
+        "AdvanceTime": 36000,
+        "BossPointScheduleID": 3,
+        "PointID": 7101,
+        "BeginTime": "2020-05-08 10:00:00",
+        "EndTime": "2020-05-10 23:59:59",
+        "RewardDisplay": [
+            114291
+        ],
+        "StageList": [
+            142807,
+            142808,
+            142809
+        ],
+        "Belief": [
+            4,
+            3,
+            2
+        ]
+    }
+]

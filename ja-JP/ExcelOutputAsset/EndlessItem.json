@@ -1,0 +1,376 @@
+[
+    {
+        "ID": 70001,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921171
+        },
+        "name": {
+            "hash": -1334000860
+        },
+        "report": {
+            "hash": -1731148578
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+        "paramStr": "EndlessStrengthPotion",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001"
+    },
+    {
+        "ID": 70002,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 7200,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 2,
+        "description": {
+            "hash": 465921172
+        },
+        "name": {
+            "hash": -1334000859
+        },
+        "report": {
+            "hash": -1731148577
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Debuff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70002",
+        "paramStr": "EndlessWeakPotion",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70002"
+    },
+    {
+        "ID": 70003,
+        "maxUseRange": 3,
+        "minUseRange": 3,
+        "paramTime": 5400,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 4,
+        "description": {
+            "hash": 465921173
+        },
+        "name": {
+            "hash": -1334000858
+        },
+        "report": {
+            "hash": -1731148576
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Bomb01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70003",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70003"
+    },
+    {
+        "ID": 70008,
+        "maxUseRange": 5,
+        "minUseRange": 5,
+        "paramTime": 5400,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 4,
+        "description": {
+            "hash": 465921178
+        },
+        "name": {
+            "hash": -1334000853
+        },
+        "report": {
+            "hash": -1731148571
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Bomb01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70008",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70008"
+    },
+    {
+        "ID": 70013,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 3,
+        "description": {
+            "hash": 465921204
+        },
+        "name": {
+            "hash": -1334000827
+        },
+        "report": {
+            "hash": -1731148545
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Trap01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70013",
+        "paramStr": "EndlessBananaTrap",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70013"
+    },
+    {
+        "ID": 70014,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 3,
+        "description": {
+            "hash": 465921205
+        },
+        "name": {
+            "hash": -1334000826
+        },
+        "report": {
+            "hash": -1731148544
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Debuff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70014",
+        "paramStr": "EndlessPoisionTrap",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70014"
+    },
+    {
+        "ID": 70015,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 1800,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 5,
+        "description": {
+            "hash": 465921206
+        },
+        "name": {
+            "hash": -1334000825
+        },
+        "report": {
+            "hash": -1731148543
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Fade01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70015",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70015"
+    },
+    {
+        "ID": 70016,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921207
+        },
+        "name": {
+            "hash": -1334000824
+        },
+        "report": {
+            "hash": -1731148542
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+        "paramStr": "EndlessResistPotion",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016"
+    },
+    {
+        "ID": 70017,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 300,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 5,
+        "description": {
+            "hash": 465921208
+        },
+        "name": {
+            "hash": -1334000823
+        },
+        "report": {
+            "hash": -1731148541
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Fade01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70017",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70017"
+    },
+    {
+        "ID": 70018,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921209
+        },
+        "name": {
+            "hash": -1334000822
+        },
+        "report": {
+            "hash": -1731148540
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70018",
+        "paramStr": "EndlessItem_PhysicalDamageUp",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70018"
+    },
+    {
+        "ID": 70019,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921210
+        },
+        "name": {
+            "hash": -1334000821
+        },
+        "report": {
+            "hash": -1731148539
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70019",
+        "paramStr": "EndlessItem_MonsterPhysicalTakenUp",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70019"
+    },
+    {
+        "ID": 70020,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921232
+        },
+        "name": {
+            "hash": -1334000799
+        },
+        "report": {
+            "hash": -1731148517
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+        "paramStr": "EndlessItem_ElementalDamageUp",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020"
+    },
+    {
+        "ID": 70021,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 1,
+        "description": {
+            "hash": 465921233
+        },
+        "name": {
+            "hash": -1334000798
+        },
+        "report": {
+            "hash": -1731148516
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Buff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70021",
+        "paramStr": "EndlessItem_MonsterElementalTakenUp",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70021"
+    },
+    {
+        "ID": 71002,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 7200,
+        "rarity": 1,
+        "showIcon": 1,
+        "type": 2,
+        "description": {
+            "hash": 465950963
+        },
+        "name": {
+            "hash": -1333971068
+        },
+        "report": {
+            "hash": -1731118786
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Debuff01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70002",
+        "paramStr": "EndlessWeakPotion",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70002"
+    },
+    {
+        "ID": 71003,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 3600,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 4,
+        "description": {
+            "hash": 465950964
+        },
+        "name": {
+            "hash": -1333971067
+        },
+        "report": {
+            "hash": -1731118785
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Bomb01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70003",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70003"
+    },
+    {
+        "ID": 71008,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 3600,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 4,
+        "description": {
+            "hash": 465950969
+        },
+        "name": {
+            "hash": -1333971062
+        },
+        "report": {
+            "hash": -1731118780
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Bomb01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70008",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70008"
+    },
+    {
+        "ID": 72017,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramTime": 0,
+        "rarity": 1,
+        "showIcon": 0,
+        "type": 0,
+        "description": {
+            "hash": 465980790
+        },
+        "name": {
+            "hash": -1333941241
+        },
+        "report": {
+            "hash": -1731088959
+        },
+        "effectPath": "UI/Menus/Widget/EndlessActivity/EndlessEffectUI_Lust01",
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70017",
+        "paramStr": "",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70017"
+    }
+]

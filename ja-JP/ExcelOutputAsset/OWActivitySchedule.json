@@ -1,0 +1,104 @@
+[
+    {
+        "MapID": 111,
+        "OWActivityID": 1002,
+        "ThemeBuffPara": 20,
+        "GroupName": {
+            "hash": 577408754
+        },
+        "BeginTime": "2018-12-14 12:00:00",
+        "BigImgPath": "SpriteOutput/WorldMap/Entry/Cover_Event_Test",
+        "EndTime": "2019-01-25 02:59:59",
+        "GroupIcon": "SpriteOutput/SinDemonExRankIcons/Interval01",
+        "PhaseIDList": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "RatingIDList": [
+            10013,
+            10012,
+            10011
+        ],
+        "ThemeAvatarList": [
+            412,
+            402,
+            411,
+            703,
+            204,
+            211,
+            212
+        ]
+    },
+    {
+        "MapID": 112,
+        "OWActivityID": 1002,
+        "ThemeBuffPara": 20,
+        "GroupName": {
+            "hash": 577408755
+        },
+        "BeginTime": "2018-12-14 12:00:00",
+        "BigImgPath": "SpriteOutput/WorldMap/Entry/Cover_Event_Test",
+        "EndTime": "2019-01-25 02:59:59",
+        "GroupIcon": "SpriteOutput/SinDemonExRankIcons/Interval02",
+        "PhaseIDList": [
+            2011,
+            2012,
+            2013,
+            2014,
+            2015,
+            2016
+        ],
+        "RatingIDList": [
+            10023,
+            10022,
+            10021
+        ],
+        "ThemeAvatarList": [
+            412,
+            402,
+            411,
+            703,
+            204,
+            211,
+            212
+        ]
+    },
+    {
+        "MapID": 113,
+        "OWActivityID": 1002,
+        "ThemeBuffPara": 20,
+        "GroupName": {
+            "hash": 577408756
+        },
+        "BeginTime": "2018-12-14 12:00:00",
+        "BigImgPath": "SpriteOutput/WorldMap/Entry/Cover_Event_Test",
+        "EndTime": "2019-01-25 02:59:59",
+        "GroupIcon": "SpriteOutput/SinDemonExRankIcons/Interval03",
+        "PhaseIDList": [
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026
+        ],
+        "RatingIDList": [
+            10033,
+            10032,
+            10031
+        ],
+        "ThemeAvatarList": [
+            412,
+            402,
+            411,
+            703,
+            204,
+            211,
+            212
+        ]
+    }
+]

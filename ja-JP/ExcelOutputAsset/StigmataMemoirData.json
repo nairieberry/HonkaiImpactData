@@ -1,0 +1,653 @@
+[
+    {
+        "AvatarID": 70004,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 4,
+        "ThemeGroup": 104,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235728
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11004",
+        "RewardGroupList": [
+            41,
+            42
+        ]
+    },
+    {
+        "AvatarID": 70005,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 5,
+        "ThemeGroup": 104,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235729
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11005",
+        "RewardGroupList": [
+            51,
+            52
+        ]
+    },
+    {
+        "AvatarID": 70006,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 6,
+        "ThemeGroup": 104,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235730
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11006",
+        "RewardGroupList": [
+            61,
+            62
+        ]
+    },
+    {
+        "AvatarID": 70007,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 7,
+        "ThemeGroup": 105,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235731
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11007",
+        "RewardGroupList": [
+            71,
+            72
+        ]
+    },
+    {
+        "AvatarID": 70010,
+        "MaxProcess": 60,
+        "OnePieceSet": 0,
+        "SetID": 10,
+        "ThemeGroup": 103,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235755
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11010",
+        "RewardGroupList": [
+            101,
+            102
+        ]
+    },
+    {
+        "AvatarID": 70011,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 11,
+        "ThemeGroup": 101,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235756
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11011",
+        "RewardGroupList": [
+            111,
+            112
+        ]
+    },
+    {
+        "AvatarID": 70012,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 12,
+        "ThemeGroup": 105,
+        "UiOrder": 9,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235757
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11012",
+        "RewardGroupList": [
+            121,
+            122,
+            123
+        ]
+    },
+    {
+        "AvatarID": 70014,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 14,
+        "ThemeGroup": 105,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235759
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11014",
+        "RewardGroupList": [
+            141,
+            142,
+            143
+        ]
+    },
+    {
+        "AvatarID": 70015,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 15,
+        "ThemeGroup": 105,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235760
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11015",
+        "RewardGroupList": [
+            151,
+            152,
+            153
+        ]
+    },
+    {
+        "AvatarID": 70017,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 17,
+        "ThemeGroup": 101,
+        "UiOrder": 4,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235762
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11017",
+        "RewardGroupList": [
+            171,
+            172,
+            173
+        ]
+    },
+    {
+        "AvatarID": 70019,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 19,
+        "ThemeGroup": 102,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235764
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11019",
+        "RewardGroupList": [
+            191,
+            192,
+            193
+        ]
+    },
+    {
+        "AvatarID": 70020,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 20,
+        "ThemeGroup": 102,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235786
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11020",
+        "RewardGroupList": [
+            201,
+            202,
+            203
+        ]
+    },
+    {
+        "AvatarID": 70022,
+        "MaxProcess": 60,
+        "OnePieceSet": 0,
+        "SetID": 22,
+        "ThemeGroup": 101,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235788
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11022",
+        "RewardGroupList": [
+            221,
+            222
+        ]
+    },
+    {
+        "AvatarID": 70025,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 25,
+        "ThemeGroup": 101,
+        "UiOrder": 6,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235791
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11025",
+        "RewardGroupList": [
+            251,
+            252,
+            253
+        ]
+    },
+    {
+        "AvatarID": 70026,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 26,
+        "ThemeGroup": 101,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235792
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11026",
+        "RewardGroupList": [
+            261,
+            262,
+            263
+        ]
+    },
+    {
+        "AvatarID": 70027,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 27,
+        "ThemeGroup": 101,
+        "UiOrder": 7,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235793
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11027",
+        "RewardGroupList": [
+            271,
+            272,
+            273
+        ]
+    },
+    {
+        "AvatarID": 70028,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 28,
+        "ThemeGroup": 105,
+        "UiOrder": 8,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235794
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11028",
+        "RewardGroupList": [
+            281,
+            282
+        ]
+    },
+    {
+        "AvatarID": 70029,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 29,
+        "ThemeGroup": 105,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235795
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11029",
+        "RewardGroupList": [
+            291,
+            292
+        ]
+    },
+    {
+        "AvatarID": 70030,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 30,
+        "ThemeGroup": 102,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235817
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11030",
+        "RewardGroupList": [
+            301,
+            302,
+            303
+        ]
+    },
+    {
+        "AvatarID": 70032,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 32,
+        "ThemeGroup": 105,
+        "UiOrder": 7,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235819
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11032",
+        "RewardGroupList": [
+            321,
+            322
+        ]
+    },
+    {
+        "AvatarID": 70033,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 33,
+        "ThemeGroup": 104,
+        "UiOrder": 5,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235820
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11033",
+        "RewardGroupList": [
+            331,
+            332
+        ]
+    },
+    {
+        "AvatarID": 70035,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 35,
+        "ThemeGroup": 102,
+        "UiOrder": 4,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235822
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11035",
+        "RewardGroupList": [
+            351,
+            352,
+            353
+        ]
+    },
+    {
+        "AvatarID": 70037,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 37,
+        "ThemeGroup": 103,
+        "UiOrder": 6,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235824
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11037",
+        "RewardGroupList": [
+            371,
+            372,
+            373
+        ]
+    },
+    {
+        "AvatarID": 70038,
+        "MaxProcess": 60,
+        "OnePieceSet": 0,
+        "SetID": 38,
+        "ThemeGroup": 103,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235825
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11038",
+        "RewardGroupList": [
+            381,
+            382
+        ]
+    },
+    {
+        "AvatarID": 70041,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 41,
+        "ThemeGroup": 103,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235849
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11041",
+        "RewardGroupList": [
+            411,
+            412,
+            413
+        ]
+    },
+    {
+        "AvatarID": 70044,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 44,
+        "ThemeGroup": 103,
+        "UiOrder": 7,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235852
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11044",
+        "RewardGroupList": [
+            441,
+            442
+        ]
+    },
+    {
+        "AvatarID": 70045,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 45,
+        "ThemeGroup": 104,
+        "UiOrder": 4,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235853
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11045",
+        "RewardGroupList": [
+            451,
+            452
+        ]
+    },
+    {
+        "AvatarID": 70049,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 49,
+        "ThemeGroup": 101,
+        "UiOrder": 5,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235857
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11049",
+        "RewardGroupList": [
+            491,
+            492,
+            493
+        ]
+    },
+    {
+        "AvatarID": 70054,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 54,
+        "ThemeGroup": 103,
+        "UiOrder": 5,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235883
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11054",
+        "RewardGroupList": [
+            541,
+            542,
+            543
+        ]
+    },
+    {
+        "AvatarID": 70055,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 55,
+        "ThemeGroup": 105,
+        "UiOrder": 5,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235884
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11055",
+        "RewardGroupList": [
+            551,
+            552,
+            553
+        ]
+    },
+    {
+        "AvatarID": 70060,
+        "MaxProcess": 100,
+        "OnePieceSet": 0,
+        "SetID": 60,
+        "ThemeGroup": 106,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235910
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11060",
+        "RewardGroupList": [
+            601,
+            602,
+            603
+        ]
+    },
+    {
+        "AvatarID": 70062,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 62,
+        "ThemeGroup": 105,
+        "UiOrder": 4,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235912
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11062",
+        "RewardGroupList": [
+            621,
+            622,
+            623
+        ]
+    },
+    {
+        "AvatarID": 70065,
+        "MaxProcess": 120,
+        "OnePieceSet": 0,
+        "SetID": 65,
+        "ThemeGroup": 103,
+        "UiOrder": 4,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235915
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11065",
+        "RewardGroupList": [
+            651,
+            652,
+            653
+        ]
+    },
+    {
+        "AvatarID": 70080,
+        "MaxProcess": 40,
+        "OnePieceSet": 0,
+        "SetID": 80,
+        "ThemeGroup": 103,
+        "UiOrder": 8,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235972
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11080",
+        "RewardGroupList": [
+            801,
+            802
+        ]
+    },
+    {
+        "AvatarID": 70086,
+        "MaxProcess": 100,
+        "OnePieceSet": 1,
+        "SetID": 86,
+        "ThemeGroup": 201,
+        "UiOrder": 1,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453235978
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/11086",
+        "RewardGroupList": [
+            861,
+            862,
+            863
+        ]
+    },
+    {
+        "AvatarID": 71086,
+        "MaxProcess": 100,
+        "OnePieceSet": 2,
+        "SetID": 86,
+        "ThemeGroup": 201,
+        "UiOrder": 2,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453265769
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/12086",
+        "RewardGroupList": [
+            10861,
+            10862,
+            10863
+        ]
+    },
+    {
+        "AvatarID": 72086,
+        "MaxProcess": 100,
+        "OnePieceSet": 3,
+        "SetID": 86,
+        "ThemeGroup": 201,
+        "UiOrder": 3,
+        "Unlock": 1,
+        "StigmataQNameText": {
+            "hash": 1453295560
+        },
+        "StigmataQIcon": "SpriteOutput/AvatarChibiIcons/13086",
+        "RewardGroupList": [
+            20861,
+            20862,
+            20863
+        ]
+    }
+]

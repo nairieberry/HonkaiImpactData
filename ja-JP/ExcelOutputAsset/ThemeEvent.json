@@ -1,0 +1,119 @@
+[
+    {
+        "ActivityID": 4870,
+        "AvatarPrefabPath": "UI/Menus/Widget/ThemeEvent/Avatar/Spring_Himeko",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor00",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/LoginRewardPage",
+        "MissionIDList": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "ActivityID": 4871,
+        "AvatarPrefabPath": "UI/Menus/Widget/ThemeEvent/Avatar/SpringFest_Fuka",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor01",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/FestivalRewardPage",
+        "MissionIDList": [
+            84588,
+            84589,
+            81112,
+            81111,
+            89456,
+            89464,
+            89465
+        ],
+        "bits1": 1
+    },
+    {
+        "ActivityID": 4872,
+        "AvatarPrefabPath": "UI/Menus/Widget/ThemeEvent/Avatar/TeririKiana",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor03",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/EventRewardPage",
+        "MissionIDList": [
+            84453,
+            84454,
+            84455,
+            89469,
+            89399,
+            89400,
+            89401,
+            89402,
+            89403,
+            89404,
+            89405,
+            89406,
+            89461,
+            89462,
+            89463,
+            81119,
+            81120,
+            81121,
+            81123,
+            81125
+        ],
+        "bits1": 1
+    },
+    {
+        "ActivityID": 4873,
+        "AvatarPrefabPath": "UI/Menus/Widget/ThemeEvent/Avatar/SpringFest_Mei",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor02",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/PayRewardPage",
+        "MissionIDList": [
+            84552,
+            87190,
+            84530,
+            84531,
+            84532,
+            84533,
+            84534,
+            84535,
+            84536,
+            84537,
+            84538,
+            84539,
+            84540,
+            84541,
+            84542,
+            84543,
+            84544,
+            84545,
+            84546,
+            84547,
+            84548,
+            84549,
+            84550,
+            84551,
+            84556,
+            84557,
+            84558,
+            84559,
+            84560,
+            84561,
+            84553,
+            84554,
+            84555
+        ],
+        "bits1": 1
+    },
+    {
+        "ActivityID": 4874,
+        "AvatarPrefabPath": "",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor04",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/WebLinkPage",
+        "MissionIDList": [
+            0
+        ],
+        "bits1": 1
+    },
+    {
+        "ActivityID": 4875,
+        "AvatarPrefabPath": "",
+        "BGPrefabPath": "UI/3D/ThemeEvent/Floor04",
+        "UIPrefabPath": "UI/Menus/Widget/ThemeEvent/WebLinkPage",
+        "MissionIDList": [
+            0
+        ],
+        "bits1": 1
+    }
+]

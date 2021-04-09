@@ -1,0 +1,863 @@
+[
+    {
+        "PendantId": 350001,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206590
+        },
+        "PendantNameText": {
+            "hash": -1005411140
+        },
+        "PendantSourceDescText": {
+            "hash": -377218356
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838864
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarBronya",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarBronya",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarBronya"
+    },
+    {
+        "PendantId": 350002,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206589
+        },
+        "PendantNameText": {
+            "hash": -1005411139
+        },
+        "PendantSourceDescText": {
+            "hash": -377218355
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838865
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarFuka",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarFuka",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarFuka"
+    },
+    {
+        "PendantId": 350003,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206588
+        },
+        "PendantNameText": {
+            "hash": -1005411138
+        },
+        "PendantSourceDescText": {
+            "hash": -377218354
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838866
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarHimeko",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarHimeko",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarHimeko"
+    },
+    {
+        "PendantId": 350004,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206587
+        },
+        "PendantNameText": {
+            "hash": -1005411137
+        },
+        "PendantSourceDescText": {
+            "hash": -377218353
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838867
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKallen",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKallen",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKallen"
+    },
+    {
+        "PendantId": 350005,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206586
+        },
+        "PendantNameText": {
+            "hash": -1005411136
+        },
+        "PendantSourceDescText": {
+            "hash": -377218352
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838868
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKiana",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKiana",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarKiana"
+    },
+    {
+        "PendantId": 350006,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206585
+        },
+        "PendantNameText": {
+            "hash": -1005411135
+        },
+        "PendantSourceDescText": {
+            "hash": -377218351
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838869
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarMei",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarMei",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarMei"
+    },
+    {
+        "PendantId": 350007,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206584
+        },
+        "PendantNameText": {
+            "hash": -1005411134
+        },
+        "PendantSourceDescText": {
+            "hash": -377218350
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838870
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarSakura",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarSakura",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarSakura"
+    },
+    {
+        "PendantId": 350008,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206583
+        },
+        "PendantNameText": {
+            "hash": -1005411133
+        },
+        "PendantSourceDescText": {
+            "hash": -377218349
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838871
+        },
+        "PendantIconPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarTheresa",
+        "PendantImagePath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarTheresa",
+        "PendantModPath": "SpriteOutput/CityEvent/CityEventChibiFigures/SummerAvatarTheresa"
+    },
+    {
+        "PendantId": 350011,
+        "Rarity": 2,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206559
+        },
+        "PendantNameText": {
+            "hash": -1005411109
+        },
+        "PendantSourceDescText": {
+            "hash": -377218325
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838895
+        },
+        "PendantIconPath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Kiana",
+        "PendantImagePath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Kiana",
+        "PendantModPath": "SpriteOutput/PhoneStrapItemIcon/WikiCollection_Kiana"
+    },
+    {
+        "PendantId": 350012,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206558
+        },
+        "PendantNameText": {
+            "hash": -1005411108
+        },
+        "PendantSourceDescText": {
+            "hash": -377218324
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838896
+        },
+        "PendantIconPath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Fuka",
+        "PendantImagePath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Fuka",
+        "PendantModPath": "SpriteOutput/PhoneStrapItemIcon/WikiCollection_Fuka"
+    },
+    {
+        "PendantId": 350013,
+        "Rarity": 4,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206557
+        },
+        "PendantNameText": {
+            "hash": -1005411107
+        },
+        "PendantSourceDescText": {
+            "hash": -377218323
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838897
+        },
+        "PendantIconPath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Sakura",
+        "PendantImagePath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Sakura",
+        "PendantModPath": "SpriteOutput/PhoneStrapItemIcon/WikiCollection_Sakura"
+    },
+    {
+        "PendantId": 350014,
+        "Rarity": 5,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206556
+        },
+        "PendantNameText": {
+            "hash": -1005411106
+        },
+        "PendantSourceDescText": {
+            "hash": -377218322
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838898
+        },
+        "PendantIconPath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Himeko",
+        "PendantImagePath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Himeko",
+        "PendantModPath": "SpriteOutput/PhoneStrapItemIcon/WikiCollection_Himeko"
+    },
+    {
+        "PendantId": 350015,
+        "Rarity": 5,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206555
+        },
+        "PendantNameText": {
+            "hash": -1005411105
+        },
+        "PendantSourceDescText": {
+            "hash": -377218321
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838899
+        },
+        "PendantIconPath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Bronya",
+        "PendantImagePath": "SpriteOutput/WikiPics/WikiMedalFigures/WikiCollection_Bronya",
+        "PendantModPath": "SpriteOutput/PhoneStrapItemIcon/WikiCollection_Bronya"
+    },
+    {
+        "PendantId": 350016,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206554
+        },
+        "PendantNameText": {
+            "hash": -1005411104
+        },
+        "PendantSourceDescText": {
+            "hash": -377218320
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838900
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionBronya",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionBronya",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionBronya"
+    },
+    {
+        "PendantId": 350017,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206553
+        },
+        "PendantNameText": {
+            "hash": -1005411103
+        },
+        "PendantSourceDescText": {
+            "hash": -377218319
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838901
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionFuka",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionFuka",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionFuka"
+    },
+    {
+        "PendantId": 350018,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206552
+        },
+        "PendantNameText": {
+            "hash": -1005411102
+        },
+        "PendantSourceDescText": {
+            "hash": -377218318
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838902
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionHimeko",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionHimeko",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionHimeko"
+    },
+    {
+        "PendantId": 350019,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206551
+        },
+        "PendantNameText": {
+            "hash": -1005411101
+        },
+        "PendantSourceDescText": {
+            "hash": -377218317
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838903
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKallen",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKallen",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKallen"
+    },
+    {
+        "PendantId": 350020,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206529
+        },
+        "PendantNameText": {
+            "hash": -1005411079
+        },
+        "PendantSourceDescText": {
+            "hash": -377218295
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838925
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKiana",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKiana",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionKiana"
+    },
+    {
+        "PendantId": 350021,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206528
+        },
+        "PendantNameText": {
+            "hash": -1005411078
+        },
+        "PendantSourceDescText": {
+            "hash": -377218294
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838926
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionMei",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionMei",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionMei"
+    },
+    {
+        "PendantId": 350022,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206527
+        },
+        "PendantNameText": {
+            "hash": -1005411077
+        },
+        "PendantSourceDescText": {
+            "hash": -377218293
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838927
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionSakura",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionSakura",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionSakura"
+    },
+    {
+        "PendantId": 350023,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206526
+        },
+        "PendantNameText": {
+            "hash": -1005411076
+        },
+        "PendantSourceDescText": {
+            "hash": -377218292
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838928
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionTheresa",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/IdolCollectionTheresa",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/IdolCollectionTheresa"
+    },
+    {
+        "PendantId": 350024,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206525
+        },
+        "PendantNameText": {
+            "hash": -1005411075
+        },
+        "PendantSourceDescText": {
+            "hash": -377218291
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838929
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/ElfColletion001",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/ElfColletion001",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/ElfColletion001"
+    },
+    {
+        "PendantId": 350026,
+        "Rarity": 5,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206523
+        },
+        "PendantNameText": {
+            "hash": -1005411073
+        },
+        "PendantSourceDescText": {
+            "hash": -377218289
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838931
+        },
+        "PendantIconPath": "SpriteOutput/PhoneStrapIcon/WikiCollection_Rita",
+        "PendantImagePath": "SpriteOutput/PhoneStrapIcon/WikiCollection_Rita",
+        "PendantModPath": "SpriteOutput/PhoneStrapIcon/WikiCollection_Rita"
+    },
+    {
+        "PendantId": 350027,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206522
+        },
+        "PendantNameText": {
+            "hash": -1005411072
+        },
+        "PendantSourceDescText": {
+            "hash": -377218288
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838932
+        },
+        "PendantIconPath": "event/Immediately/PhoneImage350027",
+        "PendantImagePath": "event/Immediately/PhoneImage350027",
+        "PendantModPath": "event/Immediately/PhoneIcon350027"
+    },
+    {
+        "PendantId": 350028,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206521
+        },
+        "PendantNameText": {
+            "hash": -1005411071
+        },
+        "PendantSourceDescText": {
+            "hash": -377218287
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838933
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350028",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350028",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350028"
+    },
+    {
+        "PendantId": 350030,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206498
+        },
+        "PendantNameText": {
+            "hash": -1005411048
+        },
+        "PendantSourceDescText": {
+            "hash": -377218264
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838956
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350030",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350030",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneImage350030"
+    },
+    {
+        "PendantId": 350032,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206496
+        },
+        "PendantNameText": {
+            "hash": -1005411046
+        },
+        "PendantSourceDescText": {
+            "hash": -377218262
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838958
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350032",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350032",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350032"
+    },
+    {
+        "PendantId": 350033,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206495
+        },
+        "PendantNameText": {
+            "hash": -1005411045
+        },
+        "PendantSourceDescText": {
+            "hash": -377218261
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838959
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350033",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350033",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350033"
+    },
+    {
+        "PendantId": 350034,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206494
+        },
+        "PendantNameText": {
+            "hash": -1005411044
+        },
+        "PendantSourceDescText": {
+            "hash": -377218260
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838960
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350034",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350034",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350034"
+    },
+    {
+        "PendantId": 350035,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206493
+        },
+        "PendantNameText": {
+            "hash": -1005411043
+        },
+        "PendantSourceDescText": {
+            "hash": -377218259
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838961
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350035",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350035",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350035"
+    },
+    {
+        "PendantId": 350036,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206492
+        },
+        "PendantNameText": {
+            "hash": -1005411042
+        },
+        "PendantSourceDescText": {
+            "hash": -377218258
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838962
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350036",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350036",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350036"
+    },
+    {
+        "PendantId": 350037,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206491
+        },
+        "PendantNameText": {
+            "hash": -1005411041
+        },
+        "PendantSourceDescText": {
+            "hash": -377218257
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838963
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350037",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350037",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350037"
+    },
+    {
+        "PendantId": 350038,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206490
+        },
+        "PendantNameText": {
+            "hash": -1005411040
+        },
+        "PendantSourceDescText": {
+            "hash": -377218256
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838964
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350038",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350038",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350038"
+    },
+    {
+        "PendantId": 350041,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206466
+        },
+        "PendantNameText": {
+            "hash": -1005411016
+        },
+        "PendantSourceDescText": {
+            "hash": -377218232
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838988
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350041",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350041",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350041"
+    },
+    {
+        "PendantId": 350042,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206465
+        },
+        "PendantNameText": {
+            "hash": -1005411015
+        },
+        "PendantSourceDescText": {
+            "hash": -377218231
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838989
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350042",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350042",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350042"
+    },
+    {
+        "PendantId": 350043,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206464
+        },
+        "PendantNameText": {
+            "hash": -1005411014
+        },
+        "PendantSourceDescText": {
+            "hash": -377218230
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838990
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350043",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350043",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350043"
+    },
+    {
+        "PendantId": 350045,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206462
+        },
+        "PendantNameText": {
+            "hash": -1005411012
+        },
+        "PendantSourceDescText": {
+            "hash": -377218228
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838992
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/IdolCollectionLita",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/IdolCollectionLita",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/IdolCollectionLita"
+    },
+    {
+        "PendantId": 350046,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206461
+        },
+        "PendantNameText": {
+            "hash": -1005411011
+        },
+        "PendantSourceDescText": {
+            "hash": -377218227
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838993
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/IdolCollectionLiliya",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/IdolCollectionLiliya",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/IdolCollectionLiliya"
+    },
+    {
+        "PendantId": 350047,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206460
+        },
+        "PendantNameText": {
+            "hash": -1005411010
+        },
+        "PendantSourceDescText": {
+            "hash": -377218226
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838994
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/IdolCollectionRozaliya",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/IdolCollectionRozaliya",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/IdolCollectionRozaliya"
+    },
+    {
+        "PendantId": 350048,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206459
+        },
+        "PendantNameText": {
+            "hash": -1005411009
+        },
+        "PendantSourceDescText": {
+            "hash": -377218225
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838995
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/IdolCollectionDurandal",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/IdolCollectionDurandal",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/IdolCollectionDurandal"
+    },
+    {
+        "PendantId": 350049,
+        "Rarity": 3,
+        "TimeDuring": 0,
+        "TimeType": 1,
+        "PendantDescText": {
+            "hash": -1883206458
+        },
+        "PendantNameText": {
+            "hash": -1005411008
+        },
+        "PendantSourceDescText": {
+            "hash": -377218224
+        },
+        "PendantUnlockDescText": {
+            "hash": 759838996
+        },
+        "PendantIconPath": "event/Immediately/PhoneStrapIcon/PhoneImage350049",
+        "PendantImagePath": "event/Immediately/PhoneStrapIcon/PhoneImage350049",
+        "PendantModPath": "event/Immediately/PhoneStrapIcon/PhoneSmallIcon350049"
+    }
+]

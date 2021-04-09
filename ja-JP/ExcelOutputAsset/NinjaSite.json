@@ -1,0 +1,761 @@
+[
+    {
+        "AreaID": 1,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1001,
+        "NextStageID": 15200007,
+        "StageID": 15000111,
+        "ChangeText": {
+            "hash": -2014377047
+        },
+        "LockText": {
+            "hash": -1901258210
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597961
+        },
+        "LineUIIndex": "",
+        "UIIndex": "1_1"
+    },
+    {
+        "AreaID": 1,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1001,
+        "SiteID": 1002,
+        "NextStageID": 15200008,
+        "StageID": 15000112,
+        "ChangeText": {
+            "hash": -2014377046
+        },
+        "LockText": {
+            "hash": -1901258209
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597960
+        },
+        "LineUIIndex": "1_1",
+        "UIIndex": "1_2"
+    },
+    {
+        "AreaID": 1,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1002,
+        "SiteID": 1003,
+        "NextStageID": 15200009,
+        "StageID": 15200003,
+        "ChangeText": {
+            "hash": -2014377045
+        },
+        "LockText": {
+            "hash": -1901258208
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597959
+        },
+        "LineUIIndex": "1_2",
+        "UIIndex": "1_3"
+    },
+    {
+        "AreaID": 1,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1003,
+        "SiteID": 1004,
+        "NextStageID": 0,
+        "StageID": 15200004,
+        "ChangeText": {
+            "hash": -1022930667
+        },
+        "LockText": {
+            "hash": -1901258207
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597958
+        },
+        "LineUIIndex": "1_3",
+        "UIIndex": "1_Boss"
+    },
+    {
+        "AreaID": 1,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1004,
+        "SiteID": 1005,
+        "NextStageID": 0,
+        "StageID": 15200005,
+        "ChangeText": {
+            "hash": -1643113998
+        },
+        "LockText": {
+            "hash": -1901258206
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597957
+        },
+        "LineUIIndex": "",
+        "UIIndex": "1_Event"
+    },
+    {
+        "AreaID": 2,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1011,
+        "NextStageID": 15200017,
+        "StageID": 15200011,
+        "ChangeText": {
+            "hash": -2014376086
+        },
+        "LockText": {
+            "hash": -1901258179
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597930
+        },
+        "LineUIIndex": "",
+        "UIIndex": "2_1"
+    },
+    {
+        "AreaID": 2,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1011,
+        "SiteID": 1012,
+        "NextStageID": 15200018,
+        "StageID": 15200012,
+        "ChangeText": {
+            "hash": -2014376085
+        },
+        "LockText": {
+            "hash": -1901258178
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597929
+        },
+        "LineUIIndex": "2_1",
+        "UIIndex": "2_2"
+    },
+    {
+        "AreaID": 2,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1012,
+        "SiteID": 1013,
+        "NextStageID": 15200019,
+        "StageID": 15200013,
+        "ChangeText": {
+            "hash": -2014376084
+        },
+        "LockText": {
+            "hash": -1901258177
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597928
+        },
+        "LineUIIndex": "2_2",
+        "UIIndex": "2_3"
+    },
+    {
+        "AreaID": 2,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1013,
+        "SiteID": 1014,
+        "NextStageID": 0,
+        "StageID": 15200014,
+        "ChangeText": {
+            "hash": -994301516
+        },
+        "LockText": {
+            "hash": -1901258176
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597927
+        },
+        "LineUIIndex": "2_3",
+        "UIIndex": "2_Boss"
+    },
+    {
+        "AreaID": 2,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1014,
+        "SiteID": 1015,
+        "NextStageID": 0,
+        "StageID": 15200015,
+        "ChangeText": {
+            "hash": -755610317
+        },
+        "LockText": {
+            "hash": -1901258175
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597926
+        },
+        "LineUIIndex": "",
+        "UIIndex": "2_Event"
+    },
+    {
+        "AreaID": 3,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1021,
+        "NextStageID": 15200027,
+        "StageID": 15200021,
+        "ChangeText": {
+            "hash": -2014375125
+        },
+        "LockText": {
+            "hash": -1901258148
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597899
+        },
+        "LineUIIndex": "",
+        "UIIndex": "3_1"
+    },
+    {
+        "AreaID": 3,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1021,
+        "SiteID": 1022,
+        "NextStageID": 15200028,
+        "StageID": 15200022,
+        "ChangeText": {
+            "hash": -2014375124
+        },
+        "LockText": {
+            "hash": -1901258147
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597898
+        },
+        "LineUIIndex": "3_1",
+        "UIIndex": "3_2"
+    },
+    {
+        "AreaID": 3,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1022,
+        "SiteID": 1023,
+        "NextStageID": 15200029,
+        "StageID": 15200023,
+        "ChangeText": {
+            "hash": -2014375123
+        },
+        "LockText": {
+            "hash": -1901258146
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597897
+        },
+        "LineUIIndex": "3_2",
+        "UIIndex": "3_3"
+    },
+    {
+        "AreaID": 3,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1023,
+        "SiteID": 1024,
+        "NextStageID": 0,
+        "StageID": 15200024,
+        "ChangeText": {
+            "hash": -965672365
+        },
+        "LockText": {
+            "hash": -1901258145
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597896
+        },
+        "LineUIIndex": "3_3",
+        "UIIndex": "3_Boss"
+    },
+    {
+        "AreaID": 3,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1024,
+        "SiteID": 1025,
+        "NextStageID": 0,
+        "StageID": 15200025,
+        "ChangeText": {
+            "hash": 131893364
+        },
+        "LockText": {
+            "hash": -1901258144
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597895
+        },
+        "LineUIIndex": "",
+        "UIIndex": "3_Event"
+    },
+    {
+        "AreaID": 4,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1031,
+        "NextStageID": 15200037,
+        "StageID": 15200031,
+        "ChangeText": {
+            "hash": -2014374164
+        },
+        "LockText": {
+            "hash": -1901258117
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597868
+        },
+        "LineUIIndex": "",
+        "UIIndex": "4_1"
+    },
+    {
+        "AreaID": 4,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1031,
+        "SiteID": 1032,
+        "NextStageID": 15200038,
+        "StageID": 15200032,
+        "ChangeText": {
+            "hash": -2014374163
+        },
+        "LockText": {
+            "hash": -1901258116
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597867
+        },
+        "LineUIIndex": "4_1",
+        "UIIndex": "4_2"
+    },
+    {
+        "AreaID": 4,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1032,
+        "SiteID": 1033,
+        "NextStageID": 15200039,
+        "StageID": 15200033,
+        "ChangeText": {
+            "hash": -2014374162
+        },
+        "LockText": {
+            "hash": -1901258115
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597866
+        },
+        "LineUIIndex": "4_2",
+        "UIIndex": "4_3"
+    },
+    {
+        "AreaID": 4,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1033,
+        "SiteID": 1034,
+        "NextStageID": 0,
+        "StageID": 15200034,
+        "ChangeText": {
+            "hash": -937043214
+        },
+        "LockText": {
+            "hash": -1901258114
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597865
+        },
+        "LineUIIndex": "4_3",
+        "UIIndex": "4_Boss"
+    },
+    {
+        "AreaID": 4,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1034,
+        "SiteID": 1035,
+        "NextStageID": 0,
+        "StageID": 15200035,
+        "ChangeText": {
+            "hash": 1019397045
+        },
+        "LockText": {
+            "hash": -1901258113
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597864
+        },
+        "LineUIIndex": "",
+        "UIIndex": "4_Event"
+    },
+    {
+        "AreaID": 5,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1041,
+        "NextStageID": 15200047,
+        "StageID": 15200041,
+        "ChangeText": {
+            "hash": -2014373203
+        },
+        "LockText": {
+            "hash": -1901258086
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597837
+        },
+        "LineUIIndex": "",
+        "UIIndex": "5_1"
+    },
+    {
+        "AreaID": 5,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1041,
+        "SiteID": 1042,
+        "NextStageID": 15200048,
+        "StageID": 15200042,
+        "ChangeText": {
+            "hash": -2014373202
+        },
+        "LockText": {
+            "hash": -1901258085
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597836
+        },
+        "LineUIIndex": "5_1",
+        "UIIndex": "5_2"
+    },
+    {
+        "AreaID": 5,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1042,
+        "SiteID": 1043,
+        "NextStageID": 15200049,
+        "StageID": 15200043,
+        "ChangeText": {
+            "hash": -2014373201
+        },
+        "LockText": {
+            "hash": -1901258084
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597835
+        },
+        "LineUIIndex": "5_2",
+        "UIIndex": "5_3"
+    },
+    {
+        "AreaID": 5,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1043,
+        "SiteID": 1044,
+        "NextStageID": 0,
+        "StageID": 15200044,
+        "ChangeText": {
+            "hash": -908414063
+        },
+        "LockText": {
+            "hash": -1901258083
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597834
+        },
+        "LineUIIndex": "5_3",
+        "UIIndex": "5_Boss"
+    },
+    {
+        "AreaID": 5,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1044,
+        "SiteID": 1045,
+        "NextStageID": 0,
+        "StageID": 15200045,
+        "ChangeText": {
+            "hash": 1906900726
+        },
+        "LockText": {
+            "hash": -1901258082
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597833
+        },
+        "LineUIIndex": "",
+        "UIIndex": "5_Event"
+    },
+    {
+        "AreaID": 6,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1051,
+        "NextStageID": 15200057,
+        "StageID": 15200051,
+        "ChangeText": {
+            "hash": -2014372242
+        },
+        "LockText": {
+            "hash": -1901258055
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597806
+        },
+        "LineUIIndex": "",
+        "UIIndex": "6_1"
+    },
+    {
+        "AreaID": 6,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1051,
+        "SiteID": 1052,
+        "NextStageID": 15200058,
+        "StageID": 15200052,
+        "ChangeText": {
+            "hash": -2014372241
+        },
+        "LockText": {
+            "hash": -1901258054
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597805
+        },
+        "LineUIIndex": "6_1",
+        "UIIndex": "6_2"
+    },
+    {
+        "AreaID": 6,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1052,
+        "SiteID": 1053,
+        "NextStageID": 15200059,
+        "StageID": 15200053,
+        "ChangeText": {
+            "hash": -2014372240
+        },
+        "LockText": {
+            "hash": -1901258053
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597804
+        },
+        "LineUIIndex": "6_2",
+        "UIIndex": "6_3"
+    },
+    {
+        "AreaID": 6,
+        "SiteType": 2,
+        "UnlockSlotLevel": 1,
+        "PreSiteID": 1053,
+        "SiteID": 1054,
+        "NextStageID": 0,
+        "StageID": 15200054,
+        "ChangeText": {
+            "hash": -879784912
+        },
+        "LockText": {
+            "hash": -1901258052
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597803
+        },
+        "LineUIIndex": "6_3",
+        "UIIndex": "6_Boss"
+    },
+    {
+        "AreaID": 6,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1054,
+        "SiteID": 1055,
+        "NextStageID": 0,
+        "StageID": 15200055,
+        "ChangeText": {
+            "hash": -1500562889
+        },
+        "LockText": {
+            "hash": -1901258051
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597802
+        },
+        "LineUIIndex": "",
+        "UIIndex": "6_Event"
+    },
+    {
+        "AreaID": 7,
+        "SiteType": 1,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 0,
+        "SiteID": 1061,
+        "NextStageID": 15200064,
+        "StageID": 15200063,
+        "ChangeText": {
+            "hash": -2014371281
+        },
+        "LockText": {
+            "hash": -1901258024
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597775
+        },
+        "LineUIIndex": "",
+        "UIIndex": "7_1"
+    },
+    {
+        "AreaID": 7,
+        "SiteType": 2,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1061,
+        "SiteID": 1062,
+        "NextStageID": 0,
+        "StageID": 15200061,
+        "ChangeText": {
+            "hash": -851155761
+        },
+        "LockText": {
+            "hash": -1901258023
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597774
+        },
+        "LineUIIndex": "7_1",
+        "UIIndex": "7_Boss"
+    },
+    {
+        "AreaID": 7,
+        "SiteType": 3,
+        "UnlockSlotLevel": 0,
+        "PreSiteID": 1062,
+        "SiteID": 1063,
+        "NextStageID": 0,
+        "StageID": 15200062,
+        "ChangeText": {
+            "hash": -613059208
+        },
+        "LockText": {
+            "hash": -1901258022
+        },
+        "PointDesc": {
+            "hash": 0
+        },
+        "PointTitle": {
+            "hash": -1435597773
+        },
+        "LineUIIndex": "",
+        "UIIndex": "7_Event"
+    }
+]

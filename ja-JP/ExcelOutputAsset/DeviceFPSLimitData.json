@@ -1,0 +1,71 @@
+[
+    {
+        "TargetFPS": 30,
+        "DisplayTextID": {
+            "hash": -1301277503
+        },
+        "DeviceWhiteList": []
+    },
+    {
+        "TargetFPS": 60,
+        "DisplayTextID": {
+            "hash": -1301277410
+        },
+        "DeviceWhiteList": []
+    },
+    {
+        "TargetFPS": 90,
+        "DisplayTextID": {
+            "hash": -1301277317
+        },
+        "DeviceWhiteList": [
+            "ONEPLUSIN2010_ADRENO(TM)650",
+            "ONEPLUSIN2011_ADRENO(TM)650",
+            "ONEPLUSIN2013_ADRENO(TM)650",
+            "ONEPLUSIN2015_ADRENO(TM)650",
+            "ONEPLUSIN2017_ADRENO(TM)650",
+            "ONEPLUSIN2019_ADRENO(TM)650",
+            "ONEPLUSIN2020_ADRENO(TM)650",
+            "ONEPLUSIN2021_ADRENO(TM)650",
+            "ONEPLUSIN2023_ADRENO(TM)650",
+            "ONEPLUSIN2025_ADRENO(TM)650",
+            "OPPOPDHM00_ADRENO(TM)650",
+            "VIVOV1981A_ADRENO(TM)650",
+            "VIVOV2011A_ADRENO(TM)650",
+            "ASUSASUS_I001DA_ADRENO(TM)640",
+            "ASUSASUS_I001DB_ADRENO(TM)640",
+            "ASUSASUS_I001DC_ADRENO(TM)640",
+            "ASUSASUS_I001DD_ADRENO(TM)640",
+            "ASUSASUS_I001DE_ADRENO(TM)640",
+            "ASUSZS660KL_ADRENO(TM)640",
+            "ASUSASUS_I003D_ADRENO(TM)650",
+            "ASUSASUS_I003DD_ADRENO(TM)650",
+            "ASUSZS661KS_ADRENO(TM)650",
+            "LENOVOLENOVOL79031_ADRENO(TM)650",
+            "XIAOMIMI10_ADRENO(TM)650",
+            "XIAOMIMI10PRO_ADRENO(TM)650",
+            "VIVOV2024A_ADRENO(TM)650",
+            "VIVOV2025A_ADRENO(TM)650",
+            "",
+            "XIAOMIM2011K2C_ADRENO(TM)660",
+            "VIVOV2049A_ADRENO(TM)660",
+            "VIVOV2055A_ADRENO(TM)650",
+            "ASUSASUS_I005D_ADRENO(TM)660",
+            "ASUSASUS_I005DA_ADRENO(TM)660",
+            "ASUSASUS_I005DB_ADRENO(TM)660",
+            "ASUSASUS_I005DC_ADRENO(TM)660",
+            "ASUSZS673KS_ADRENO(TM)660",
+            "LENOVOLENOVOL70081_ADRENO(TM)660",
+            "PC"
+        ]
+    },
+    {
+        "TargetFPS": 120,
+        "DisplayTextID": {
+            "hash": -1684898741
+        },
+        "DeviceWhiteList": [
+            "PC"
+        ]
+    }
+]

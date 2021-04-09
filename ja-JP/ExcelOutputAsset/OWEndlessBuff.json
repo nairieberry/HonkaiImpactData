@@ -1,0 +1,212 @@
+[
+    {
+        "BuffID": 1001,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherNormal",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1002,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherIce",
+        "Effect": "OW_Endless_04",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1003,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherFire",
+        "Effect": "OW_Endless_01",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1004,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherThunder",
+        "Effect": "OW_Endless_03",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1005,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherHonkai",
+        "Effect": "OW_Endless_02",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1006,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherFog",
+        "Effect": "OW_Endless_05",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1007,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherIce_NEW",
+        "Effect": "OW_Endless_04",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1008,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherFire_NEW",
+        "Effect": "OW_Endless_01",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1009,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherThunder_NEW",
+        "Effect": "OW_Endless_03",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1010,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherHonkai_NEW",
+        "Effect": "OW_Endless_02",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1011,
+        "BuffType": 3,
+        "BuffName": "OWEndless_WeatherNatureEnhance",
+        "Effect": "OW_Endless_01",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1012,
+        "BuffType": 3,
+        "BuffName": "OWEndless_WeatherNatureEnhance",
+        "Effect": "OW_Endless_02",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1013,
+        "BuffType": 3,
+        "BuffName": "OWEndless_WeatherNatureEnhance",
+        "Effect": "OW_Endless_04",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1014,
+        "BuffType": 3,
+        "BuffName": "OWEndless_WeatherElfEnhance",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1015,
+        "BuffType": 3,
+        "BuffName": "OWEndless_WeatherNatureEnhance",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 1016,
+        "BuffType": 1,
+        "BuffName": "OWEndless_WeatherFogReverse",
+        "Effect": "OW_Endless_05",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 2001,
+        "BuffType": 4,
+        "BuffName": "QTEndless_IceWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Ice"
+    },
+    {
+        "BuffID": 2002,
+        "BuffType": 4,
+        "BuffName": "QTEndless_FireWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Fire"
+    },
+    {
+        "BuffID": 2003,
+        "BuffType": 4,
+        "BuffName": "QTEndless_ThunderWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Thunder"
+    },
+    {
+        "BuffID": 2004,
+        "BuffType": 4,
+        "BuffName": "QTEndless_PsyWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics"
+    },
+    {
+        "BuffID": 2005,
+        "BuffType": 4,
+        "BuffName": "QTEndless_EnhanceWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage"
+    },
+    {
+        "BuffID": 2006,
+        "BuffType": 4,
+        "BuffName": "QTEndless_ElementWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Element"
+    },
+    {
+        "BuffID": 2007,
+        "BuffType": 4,
+        "BuffName": "QTEndless_QuantumWeather",
+        "Effect": "",
+        "InLevelIconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum"
+    },
+    {
+        "BuffID": 3000,
+        "BuffType": 1,
+        "BuffName": "QTEndless_WeatherNatureEnhance",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3001,
+        "BuffType": 1,
+        "BuffName": "QTEndless_WeatherNatureEnhance",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3002,
+        "BuffType": 3,
+        "BuffName": "QTEndless_WeatherFire",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3003,
+        "BuffType": 3,
+        "BuffName": "QTEndless_WeatherIce",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3004,
+        "BuffType": 3,
+        "BuffName": "QTEndless_WeatherPhy",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3005,
+        "BuffType": 3,
+        "BuffName": "QTEndless_WeatherThunder",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    },
+    {
+        "BuffID": 3006,
+        "BuffType": 1,
+        "BuffName": "QTEndless_WeatherNatureEnhance",
+        "Effect": "Style01_Day",
+        "InLevelIconPath": ""
+    }
+]

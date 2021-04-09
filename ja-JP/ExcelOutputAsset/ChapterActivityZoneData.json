@@ -1,0 +1,264 @@
+[
+    {
+        "chapterID": 23,
+        "dropLimit": 2301,
+        "numInChapter": 1,
+        "preZone": 0,
+        "zoneID": 2301,
+        "openTime": {
+            "_remoteTimeStampValue": 1602734400
+        },
+        "buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc1",
+        "buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort1",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle1",
+        "zoneOpenHint": "Chapter20_LimitZoneOpen1",
+        "zoneRefuseHint": "Menu_DropLimit_Hint1",
+        "buffList": [
+            23101,
+            23102,
+            23103
+        ],
+        "buffRequireList": [
+            1,
+            2,
+            3
+        ],
+        "challengeStages": [
+            1236101
+        ],
+        "repeatStages": [
+            1231101,
+            1231201,
+            1231301
+        ]
+    },
+    {
+        "chapterID": 23,
+        "dropLimit": 2302,
+        "numInChapter": 2,
+        "preZone": 2301,
+        "zoneID": 2302,
+        "openTime": {
+            "_remoteTimeStampValue": 1603339200
+        },
+        "buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc2",
+        "buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort2",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle2",
+        "zoneOpenHint": "Chapter20_LimitZoneOpen2",
+        "zoneRefuseHint": "Menu_DropLimit_Hint2",
+        "buffList": [
+            23201,
+            23202,
+            23203
+        ],
+        "buffRequireList": [
+            1,
+            2,
+            3
+        ],
+        "challengeStages": [
+            1236201
+        ],
+        "repeatStages": [
+            1232101,
+            1232201,
+            1232301
+        ]
+    },
+    {
+        "chapterID": 23,
+        "dropLimit": 2303,
+        "numInChapter": 3,
+        "preZone": 2302,
+        "zoneID": 2303,
+        "openTime": {
+            "_remoteTimeStampValue": 1603944000
+        },
+        "buffDesc": "Chapter20LimitRepeat_UpAvatarBuffDesc3",
+        "buffDescShort": "Chapter20LimitRepeat_UpAvatarBuffDescShort3",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter20LimitRepeat_UpAvatarBuffTitle3",
+        "zoneOpenHint": "Chapter20_LimitZoneOpen3",
+        "zoneRefuseHint": "Menu_DropLimit_Hint3",
+        "buffList": [
+            23301,
+            23302,
+            23303
+        ],
+        "buffRequireList": [
+            1,
+            2,
+            3
+        ],
+        "challengeStages": [
+            1236301
+        ],
+        "repeatStages": [
+            1233101,
+            1233201,
+            1233301
+        ]
+    },
+    {
+        "chapterID": 24,
+        "dropLimit": 2401,
+        "numInChapter": 1,
+        "preZone": 0,
+        "zoneID": 2401,
+        "openTime": {
+            "_remoteTimeStampValue": 1606968000
+        },
+        "buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc1",
+        "buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort1",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle1",
+        "zoneOpenHint": "Chapter21_LimitZoneOpen1",
+        "zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint1",
+        "buffList": [
+            24101,
+            24102
+        ],
+        "buffRequireList": [
+            1,
+            2
+        ],
+        "challengeStages": [
+            1246101
+        ],
+        "repeatStages": [
+            1241101,
+            1241201,
+            1241301
+        ]
+    },
+    {
+        "chapterID": 24,
+        "dropLimit": 2402,
+        "numInChapter": 2,
+        "preZone": 2401,
+        "zoneID": 2402,
+        "openTime": {
+            "_remoteTimeStampValue": 1607572800
+        },
+        "buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc2",
+        "buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort2",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle2",
+        "zoneOpenHint": "Chapter21_LimitZoneOpen2",
+        "zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint2",
+        "buffList": [
+            24201,
+            24202
+        ],
+        "buffRequireList": [
+            1,
+            2
+        ],
+        "challengeStages": [
+            1246201
+        ],
+        "repeatStages": [
+            1242101,
+            1242201,
+            1242301
+        ]
+    },
+    {
+        "chapterID": 24,
+        "dropLimit": 2403,
+        "numInChapter": 3,
+        "preZone": 2402,
+        "zoneID": 2403,
+        "openTime": {
+            "_remoteTimeStampValue": 1608177600
+        },
+        "buffDesc": "Chapter21LimitRepeat_UpAvatarBuffDesc3",
+        "buffDescShort": "Chapter21LimitRepeat_UpAvatarBuffDescShort3",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter21LimitRepeat_UpAvatarBuffTitle3",
+        "zoneOpenHint": "Chapter21_LimitZoneOpen3",
+        "zoneRefuseHint": "Chapter21_Menu_DropLimit_Hint3",
+        "buffList": [
+            24301,
+            24302
+        ],
+        "buffRequireList": [
+            1,
+            2
+        ],
+        "challengeStages": [
+            1246301
+        ],
+        "repeatStages": [
+            1243101,
+            1243201,
+            1243301
+        ]
+    },
+    {
+        "chapterID": 25,
+        "dropLimit": 251,
+        "numInChapter": 1,
+        "preZone": 0,
+        "zoneID": 2501,
+        "openTime": {
+            "_remoteTimeStampValue": 1610683200
+        },
+        "buffDesc": "Chapter22LimitRepeat_UpAvatarBuffDesc1",
+        "buffDescShort": "Chapter22LimitRepeat_UpAvatarBuffDescShort1",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter22LimitRepeat_UpAvatarBuffTitle1",
+        "zoneOpenHint": "Chapter22_LimitZoneOpen1",
+        "zoneRefuseHint": "Chapter22_Menu_DropLimit_Hint1",
+        "buffList": [
+            25101,
+            25102
+        ],
+        "buffRequireList": [
+            1,
+            2
+        ],
+        "challengeStages": [
+            1256101
+        ],
+        "repeatStages": [
+            1251101,
+            1251301,
+            1251401
+        ]
+    },
+    {
+        "chapterID": 25,
+        "dropLimit": 252,
+        "numInChapter": 2,
+        "preZone": 2501,
+        "zoneID": 2502,
+        "openTime": {
+            "_remoteTimeStampValue": 1611288000
+        },
+        "buffDesc": "Chapter22LimitRepeat_UpAvatarBuffDesc2",
+        "buffDescShort": "Chapter22LimitRepeat_UpAvatarBuffDescShort2",
+        "buffIcon": "UI/_shared/Sprite/ActivityPage/Icon_Up",
+        "buffTitle": "Chapter22LimitRepeat_UpAvatarBuffTitle2",
+        "zoneOpenHint": "Chapter22_LimitZoneOpen2",
+        "zoneRefuseHint": "Chapter22_Menu_DropLimit_Hint2",
+        "buffList": [
+            25201,
+            25202
+        ],
+        "buffRequireList": [
+            1,
+            2
+        ],
+        "challengeStages": [
+            1256201
+        ],
+        "repeatStages": [
+            1252101,
+            1252301,
+            1252401
+        ]
+    }
+]

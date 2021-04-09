@@ -1,0 +1,7259 @@
+[
+    {
+        "ID": 1,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            7,
+            5,
+            1,
+            6,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "ID": 10001,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909803
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            10001
+        ]
+    },
+    {
+        "ID": 10002,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909802
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            10002
+        ]
+    },
+    {
+        "ID": 10003,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909801
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            10003
+        ]
+    },
+    {
+        "ID": 10201,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78
+        ]
+    },
+    {
+        "ID": 10301,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1326152679
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3C_3",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20012
+        ]
+    },
+    {
+        "ID": 10302,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1838939927
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3AN_3",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20011
+        ]
+    },
+    {
+        "ID": 10303,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172584608
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3W_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20004
+        ]
+    },
+    {
+        "ID": 10305,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172578842
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3Q_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20002
+        ]
+    },
+    {
+        "ID": 10306,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1838939923
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3AJ_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20010
+        ]
+    },
+    {
+        "ID": 10307,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172587491
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3Z_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20005
+        ]
+    },
+    {
+        "ID": 10403,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172601906
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S4J_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20008
+        ]
+    },
+    {
+        "ID": 10405,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1990633862
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S4AJ_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            20006
+        ]
+    },
+    {
+        "ID": 11001,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 45,
+        "MinLevel": 10,
+        "Weight": 149,
+        "LoadingTitle": {
+            "hash": -1577059036
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            500,
+            506,
+            136,
+            502,
+            701,
+            702,
+            704,
+            705,
+            2001,
+            1101,
+            1102,
+            1108,
+            1103,
+            1109
+        ],
+        "LoadingTipsList": [
+            40130
+        ]
+    },
+    {
+        "ID": 11002,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 45,
+        "MinLevel": 1,
+        "Weight": 149,
+        "LoadingTitle": {
+            "hash": -1577059035
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            500,
+            506,
+            2001,
+            9004,
+            701,
+            702,
+            704,
+            705,
+            706,
+            1101,
+            1102,
+            1103,
+            1108
+        ],
+        "LoadingTipsList": [
+            40131
+        ]
+    },
+    {
+        "ID": 11004,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 60,
+        "MinLevel": 25,
+        "Weight": 199,
+        "LoadingTitle": {
+            "hash": -1577059034
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_04",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            40132,
+            40133,
+            40134
+        ]
+    },
+    {
+        "ID": 11007,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 60,
+        "MinLevel": 25,
+        "Weight": 199,
+        "LoadingTitle": {
+            "hash": -1577059031
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_05",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            506,
+            2001,
+            9004,
+            500
+        ],
+        "LoadingTipsList": [
+            40135,
+            40136,
+            40137
+        ]
+    },
+    {
+        "ID": 11010,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 55,
+        "MinLevel": 15,
+        "Weight": 95,
+        "LoadingTitle": {
+            "hash": -1577059028
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_06",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            506,
+            500,
+            1
+        ],
+        "LoadingTipsList": [
+            40138
+        ]
+    },
+    {
+        "ID": 11011,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 55,
+        "MinLevel": 15,
+        "Weight": 95,
+        "LoadingTitle": {
+            "hash": -1577059006
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_beginner_07",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            506,
+            0,
+            2001,
+            9004,
+            1,
+            1000
+        ],
+        "LoadingTipsList": [
+            40139
+        ]
+    },
+    {
+        "ID": 11012,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 40,
+        "MinLevel": 1,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500
+        ],
+        "LoadingTipsList": [
+            2301,
+            2302,
+            2303,
+            2304,
+            2305,
+            2306,
+            2307,
+            2308,
+            2309,
+            2310,
+            2311,
+            2312,
+            2313,
+            2314,
+            2315,
+            2316,
+            2317,
+            2318,
+            2319,
+            2320,
+            2321,
+            2322,
+            2323,
+            2324,
+            2325,
+            2326,
+            2327,
+            2328,
+            2329,
+            2330,
+            2331,
+            2332
+        ]
+    },
+    {
+        "ID": 20001,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Dorm_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 40001,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909803
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "LoadingTipsList": [
+            10001
+        ]
+    },
+    {
+        "ID": 50001,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50002,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50003,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 50,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50004,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50005,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50006,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50007,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_04",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50008,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_05",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50009,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_06",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50010,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_07",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50011,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_08",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50012,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_09",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50013,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_10",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50014,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_11",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50015,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_12",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            25,
+            26,
+            27,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    {
+        "ID": 50018,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1326152679
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3C_3",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20012
+        ]
+    },
+    {
+        "ID": 50019,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1838939927
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3AN_3",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20011
+        ]
+    },
+    {
+        "ID": 50020,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172584608
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3W_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20004
+        ]
+    },
+    {
+        "ID": 50021,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172583647
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3V_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20003
+        ]
+    },
+    {
+        "ID": 50022,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172578842
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3Q_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20002
+        ]
+    },
+    {
+        "ID": 50023,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1838939923
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3AJ_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20010
+        ]
+    },
+    {
+        "ID": 50024,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 65,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172587491
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S3Z_2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20005
+        ]
+    },
+    {
+        "ID": 50026,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 35,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -1326152627
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S4X_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20009
+        ]
+    },
+    {
+        "ID": 50027,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 35,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1172601906
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S4J_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20008
+        ]
+    },
+    {
+        "ID": 50029,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 35,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1990633862
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Stigama",
+        "ImgPath_2": "SpriteOutput/StigmataFigures/S4AJ_1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            1101,
+            702,
+            1000
+        ],
+        "LoadingTipsList": [
+            20006
+        ]
+    },
+    {
+        "ID": 51001,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909803
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2001
+        ],
+        "LoadingTipsList": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ]
+    },
+    {
+        "ID": 51002,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909802
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2001
+        ],
+        "LoadingTipsList": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ]
+    },
+    {
+        "ID": 51003,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": -235909801
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2001
+        ],
+        "LoadingTipsList": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ]
+    },
+    {
+        "ID": 54000,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 479221422
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_owendless_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40100
+        ]
+    },
+    {
+        "ID": 54001,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -684046870
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_owendless_04",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40101
+        ]
+    },
+    {
+        "ID": 54002,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -684617206
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_owendless_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40102
+        ]
+    },
+    {
+        "ID": 54003,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -557046130
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_owendless_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40103
+        ]
+    },
+    {
+        "ID": 54004,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40104
+        ]
+    },
+    {
+        "ID": 54005,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40105
+        ]
+    },
+    {
+        "ID": 54006,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_14",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40106
+        ]
+    },
+    {
+        "ID": 54007,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_07",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40107
+        ]
+    },
+    {
+        "ID": 54008,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40108
+        ]
+    },
+    {
+        "ID": 54009,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 15,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_12",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9004
+        ],
+        "LoadingTipsList": [
+            40109
+        ]
+    },
+    {
+        "ID": 55000,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144050,
+            144051,
+            144052,
+            144053,
+            144054,
+            144055,
+            144056
+        ],
+        "LoadingTipsList": [
+            55000
+        ]
+    },
+    {
+        "ID": 55001,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144050,
+            144051,
+            144052,
+            144053,
+            144054,
+            144055,
+            144056
+        ],
+        "LoadingTipsList": [
+            55001
+        ]
+    },
+    {
+        "ID": 55002,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_04",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144055,
+            144056
+        ],
+        "LoadingTipsList": [
+            55002
+        ]
+    },
+    {
+        "ID": 55003,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144056
+        ],
+        "LoadingTipsList": [
+            55003
+        ]
+    },
+    {
+        "ID": 55004,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_05",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144056
+        ],
+        "LoadingTipsList": [
+            55004
+        ]
+    },
+    {
+        "ID": 55005,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_08",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144070,
+            144071,
+            144072,
+            144073,
+            144074,
+            144075,
+            144076
+        ],
+        "LoadingTipsList": [
+            55005
+        ]
+    },
+    {
+        "ID": 55006,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_10",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144070,
+            144071,
+            144072,
+            144073,
+            144074,
+            144075,
+            144076
+        ],
+        "LoadingTipsList": [
+            55006
+        ]
+    },
+    {
+        "ID": 55007,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_09",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144070,
+            144071,
+            144072,
+            144073,
+            144074,
+            144075,
+            144076
+        ],
+        "LoadingTipsList": [
+            55007
+        ]
+    },
+    {
+        "ID": 55008,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 81,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1475365103
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/ChallengeWar_Loading_11",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            144074,
+            144075
+        ],
+        "LoadingTipsList": [
+            55008
+        ]
+    },
+    {
+        "ID": 60001,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60002,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60003,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_Story_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60004,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60005,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60006,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60007,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_04",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60008,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_05",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60009,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_06",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60010,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_07",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60011,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_08",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60012,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_09",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60013,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_10",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60014,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_11",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60015,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 1,
+        "Weight": 10,
+        "LoadingTitle": {
+            "hash": 1894372776
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_12",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            0
+        ],
+        "LoadingTipsList": [
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105
+        ]
+    },
+    {
+        "ID": 60030,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 150,
+        "LoadingTitle": {
+            "hash": 698566065
+        },
+        "BeginTime": "2019-02-28 10:00:00",
+        "EndTime": "2019-03-14 04:00:00",
+        "ImgPath": "event/Immediately/RitaBirth/Ritaloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40121
+        ]
+    },
+    {
+        "ID": 60031,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 295588970
+        },
+        "BeginTime": "2019-03-14 04:00:00",
+        "EndTime": "2019-04-04 04:00:00",
+        "ImgPath": "event/PicLoading/3.0story_1",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40122
+        ]
+    },
+    {
+        "ID": 60032,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1529157029
+        },
+        "BeginTime": "2019-03-21 10:00:00",
+        "EndTime": "2019-04-04 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_shanchui",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40123
+        ]
+    },
+    {
+        "ID": 60033,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 50,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1068449108
+        },
+        "BeginTime": "2019-03-21 10:00:00",
+        "EndTime": "2019-04-11 04:00:00",
+        "ImgPath": "event/Immediately/3.0Elf/3.0FangyoudaLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40124
+        ]
+    },
+    {
+        "ID": 60034,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 55,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1600484749
+        },
+        "BeginTime": "2019-03-22 10:00:00",
+        "EndTime": "2019-04-23 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_tuanben",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40125
+        ]
+    },
+    {
+        "ID": 60035,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1930136354
+        },
+        "BeginTime": "2019-04-30 10:00:00",
+        "EndTime": "2019-05-23 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_Kingdom01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40126
+        ]
+    },
+    {
+        "ID": 60036,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1930136355
+        },
+        "BeginTime": "2019-04-30 10:00:00",
+        "EndTime": "2019-05-23 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_Kingdom02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40127
+        ]
+    },
+    {
+        "ID": 60037,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1930136356
+        },
+        "BeginTime": "2019-04-30 10:00:00",
+        "EndTime": "2019-05-23 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_Kingdom03",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40128
+        ]
+    },
+    {
+        "ID": 60038,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1174088066
+        },
+        "BeginTime": "2019-05-23 10:00:00",
+        "EndTime": "2019-06-05 04:00:00",
+        "ImgPath": "event/PicLoading/seeleloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143279
+        ],
+        "LoadingTipsList": [
+            40129
+        ]
+    },
+    {
+        "ID": 60039,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 492461785
+        },
+        "BeginTime": "2019-06-03 10:00:00",
+        "EndTime": "2029-12-12 04:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_12",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9005
+        ],
+        "LoadingTipsList": [
+            40141,
+            40142
+        ]
+    },
+    {
+        "ID": 60040,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 494203655
+        },
+        "BeginTime": "2019-06-03 10:00:00",
+        "EndTime": "2029-12-12 04:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_10",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9005
+        ],
+        "LoadingTipsList": [
+            40143,
+            40144
+        ]
+    },
+    {
+        "ID": 60041,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 490706286
+        },
+        "BeginTime": "2019-06-03 10:00:00",
+        "EndTime": "2029-12-12 04:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_06",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9005
+        ],
+        "LoadingTipsList": [
+            40145
+        ]
+    },
+    {
+        "ID": 60042,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1541971339
+        },
+        "BeginTime": "2019-06-03 10:00:00",
+        "EndTime": "2029-12-12 04:00:00",
+        "ImgPath": "event/PicLoading/PicLoading_normal_14",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            9005
+        ],
+        "LoadingTipsList": [
+            40146
+        ]
+    },
+    {
+        "ID": 60043,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1861642211
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2019-06-27 04:00:00",
+        "ImgPath": "event/PicLoading/3.2MainStoryLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40147
+        ]
+    },
+    {
+        "ID": 60044,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 40,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": 646564485
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2019-06-27 04:00:00",
+        "ImgPath": "event/PicLoading/huntingloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40148
+        ]
+    },
+    {
+        "ID": 60045,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 61,
+        "Weight": 80,
+        "LoadingTitle": {
+            "hash": -1326133579
+        },
+        "BeginTime": "2019-06-06 10:00:00",
+        "EndTime": "2019-06-27 04:00:00",
+        "ImgPath": "event/PicLoading/3.2elfloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143323,
+            143325
+        ],
+        "LoadingTipsList": [
+            40149
+        ]
+    },
+    {
+        "ID": 60046,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 80,
+        "LoadingTitle": {
+            "hash": -1574265243
+        },
+        "BeginTime": "2019-06-13 10:00:00",
+        "EndTime": "2019-06-27 04:00:00",
+        "ImgPath": "event/PicLoading/3.2kaoshiloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143294
+        ],
+        "LoadingTipsList": [
+            40150
+        ]
+    },
+    {
+        "ID": 60047,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 589140410
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2019-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/3.3SummerLoading01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40151
+        ]
+    },
+    {
+        "ID": 60048,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 589140411
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2019-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/3.3SummerLoading02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40152
+        ]
+    },
+    {
+        "ID": 60049,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 60,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1427297461
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2029-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/pet01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143323,
+            143325
+        ],
+        "LoadingTipsList": [
+            41200
+        ]
+    },
+    {
+        "ID": 60050,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 60,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1427297460
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2020-07-09 04:00:00",
+        "ImgPath": "event/PicLoading/pet_CX",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143323,
+            143325
+        ],
+        "LoadingTipsList": [
+            41201
+        ]
+    },
+    {
+        "ID": 60051,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 60,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1427297459
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2029-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/pet02",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143323,
+            143325
+        ],
+        "LoadingTipsList": [
+            41202
+        ]
+    },
+    {
+        "ID": 60053,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -248267172
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2029-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/jiantuan01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            500,
+            506,
+            0,
+            2001,
+            9004,
+            1,
+            1000
+        ],
+        "LoadingTipsList": [
+            41204
+        ]
+    },
+    {
+        "ID": 60059,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 1453575232
+        },
+        "BeginTime": "2019-07-19 10:00:00",
+        "EndTime": "2029-08-22 04:00:00",
+        "ImgPath": "event/PicLoading/shuxing",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            1000,
+            1028,
+            2002
+        ],
+        "LoadingTipsList": [
+            41210
+        ]
+    },
+    {
+        "ID": 60061,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 109709734
+        },
+        "BeginTime": "2019-08-01 10:00:00",
+        "EndTime": "2019-08-11 04:00:00",
+        "ImgPath": "event/PicLoading/3.3chapter11.5loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            40154
+        ]
+    },
+    {
+        "ID": 60063,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -693737569
+        },
+        "BeginTime": "2019-08-22 10:00:00",
+        "EndTime": "2019-08-29 04:00:00",
+        "ImgPath": "event/PicLoading/3.3DeliciousLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145162,
+            145168
+        ],
+        "LoadingTipsList": [
+            41213
+        ]
+    },
+    {
+        "ID": 60064,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -519810949
+        },
+        "BeginTime": "2019-08-29 10:00:00",
+        "EndTime": "2019-09-26 04:00:00",
+        "ImgPath": "event/PicLoading/3.4ChaoxianLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41214
+        ]
+    },
+    {
+        "ID": 60065,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 142671499
+        },
+        "BeginTime": "2019-09-26 10:00:00",
+        "EndTime": "2019-10-17 04:00:00",
+        "ImgPath": "event/PicLoading/3.4zhounianLoading1",
+        "ImgPath_2": "event/PicLoading/3.4zhounianLoadinglh1",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            580,
+            180200,
+            601
+        ],
+        "LoadingTipsList": [
+            41215
+        ]
+    },
+    {
+        "ID": 60066,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 142671500
+        },
+        "BeginTime": "2019-09-26 10:00:00",
+        "EndTime": "2019-10-17 04:00:00",
+        "ImgPath": "event/PicLoading/3.4zhounianLoading2",
+        "ImgPath_2": "event/PicLoading/3.4zhounianLoadinglh2",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            580,
+            180200,
+            601
+        ],
+        "LoadingTipsList": [
+            41216
+        ]
+    },
+    {
+        "ID": 60067,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 142671501
+        },
+        "BeginTime": "2019-09-26 10:00:00",
+        "EndTime": "2019-10-17 04:00:00",
+        "ImgPath": "event/PicLoading/3.4zhounianLoading3",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            580,
+            180200,
+            601
+        ],
+        "LoadingTipsList": [
+            41217
+        ]
+    },
+    {
+        "ID": 60068,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 9,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 142671502
+        },
+        "BeginTime": "2019-09-26 10:00:00",
+        "EndTime": "2019-10-17 04:00:00",
+        "ImgPath": "event/PicLoading/3.4zhounianLoading4",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            580,
+            180200,
+            601
+        ],
+        "LoadingTipsList": [
+            41218
+        ]
+    },
+    {
+        "ID": 60069,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -80064033
+        },
+        "BeginTime": "2019-10-31 10:00:00",
+        "EndTime": "2019-11-21 04:00:00",
+        "ImgPath": "event/PicLoading/3.5chapter13loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41219
+        ]
+    },
+    {
+        "ID": 60070,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": 835072711
+        },
+        "BeginTime": "2020-07-23 10:00:00",
+        "EndTime": "2020-08-13 04:00:00",
+        "ImgPath": "event/PicLoading/4.1chapter18loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41267
+        ]
+    },
+    {
+        "ID": 60071,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -753211906
+        },
+        "BeginTime": "2020-08-10 10:00:00",
+        "EndTime": "2020-08-20 04:00:00",
+        "ImgPath": "event/PicLoading/4.1AvatarKitchenloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            371132
+        ],
+        "LoadingTipsList": [
+            41268
+        ]
+    },
+    {
+        "ID": 60072,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 250,
+        "LoadingTitle": {
+            "hash": 2094638985
+        },
+        "BeginTime": "2020-08-20 10:00:00",
+        "EndTime": "2020-09-10 04:00:00",
+        "ImgPath": "event/PicLoading/4.2SRitaloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145901,
+            145920
+        ],
+        "LoadingTipsList": [
+            41269
+        ]
+    },
+    {
+        "ID": 60073,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": 638559207
+        },
+        "BeginTime": "2020-09-03 10:00:00",
+        "EndTime": "2020-09-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.2chapter19loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41270
+        ]
+    },
+    {
+        "ID": 60074,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 250,
+        "LoadingTitle": {
+            "hash": -1109096118
+        },
+        "BeginTime": "2020-09-27 10:00:00",
+        "EndTime": "2020-10-10 04:00:00",
+        "ImgPath": "event/PicLoading/4thPublic1loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            146101
+        ],
+        "LoadingTipsList": [
+            41271
+        ]
+    },
+    {
+        "ID": 60075,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 250,
+        "LoadingTitle": {
+            "hash": -1109096117
+        },
+        "BeginTime": "2020-09-27 10:00:00",
+        "EndTime": "2020-10-10 04:00:00",
+        "ImgPath": "event/PicLoading/4thPublic2loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            146101
+        ],
+        "LoadingTipsList": [
+            41272
+        ]
+    },
+    {
+        "ID": 60076,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1705502222
+        },
+        "BeginTime": "2020-09-26 10:00:00",
+        "EndTime": "2020-11-19 04:00:00",
+        "ImgPath": "event/PicLoading/4thGiftloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            146101
+        ],
+        "LoadingTipsList": [
+            41273
+        ]
+    },
+    {
+        "ID": 60077,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1584457239
+        },
+        "BeginTime": "2020-10-09 10:00:00",
+        "EndTime": "2020-10-20 04:00:00",
+        "ImgPath": "event/PicLoading/Gardenloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41274
+        ]
+    },
+    {
+        "ID": 60078,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": 442045724
+        },
+        "BeginTime": "2020-10-15 10:00:00",
+        "EndTime": "2020-11-05 04:00:00",
+        "ImgPath": "event/PicLoading/4.3chapter20loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41275
+        ]
+    },
+    {
+        "ID": 60079,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -557064706
+        },
+        "BeginTime": "2020-10-29 10:00:00",
+        "EndTime": "2020-11-09 04:00:00",
+        "ImgPath": "event/PicLoading/4.3Halloweenloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41276
+        ]
+    },
+    {
+        "ID": 60080,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1445093889
+        },
+        "BeginTime": "2020-02-06 10:00:00",
+        "EndTime": "2020-02-17 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_SpringFestival_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145400
+        ],
+        "LoadingTipsList": [
+            40110
+        ]
+    },
+    {
+        "ID": 60081,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1066029922
+        },
+        "BeginTime": "2020-02-13 10:00:00",
+        "EndTime": "2020-02-27 04:00:00",
+        "ImgPath": "event/PicLoading/3.7DMMloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145400,
+            145437,
+            145443,
+            180380
+        ],
+        "LoadingTipsList": [
+            41230
+        ]
+    },
+    {
+        "ID": 60082,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1312365498
+        },
+        "BeginTime": "2020-02-27 10:00:00",
+        "EndTime": "2020-03-05 04:00:00",
+        "ImgPath": "event/PicLoading/3.7Ritaloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41231
+        ]
+    },
+    {
+        "ID": 60083,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -669604546
+        },
+        "BeginTime": "2020-03-26 10:00:00",
+        "EndTime": "2020-04-16 04:00:00",
+        "ImgPath": "event/PicLoading/3.8chapter15loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41232
+        ]
+    },
+    {
+        "ID": 60084,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -866118050
+        },
+        "BeginTime": "2020-05-11 10:00:00",
+        "EndTime": "2020-05-28 04:00:00",
+        "ImgPath": "event/PicLoading/3.9chapter16loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41257
+        ]
+    },
+    {
+        "ID": 60085,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1623772785
+        },
+        "BeginTime": "2020-05-28 10:00:00",
+        "EndTime": "2020-06-18 04:00:00",
+        "ImgPath": "event/PicLoading/4.0Farmerloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            999
+        ],
+        "LoadingTipsList": [
+            41258
+        ]
+    },
+    {
+        "ID": 60086,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 225,
+        "LoadingTitle": {
+            "hash": 1031586215
+        },
+        "BeginTime": "2020-06-11 10:00:00",
+        "EndTime": "2020-07-02 04:00:00",
+        "ImgPath": "event/PicLoading/4.0chapter17loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41262
+        ]
+    },
+    {
+        "ID": 60087,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1663066584
+        },
+        "BeginTime": "2020-06-24 10:00:00",
+        "EndTime": "2020-07-06 04:00:00",
+        "ImgPath": "event/PicLoading/4.0DuanWuloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41263
+        ]
+    },
+    {
+        "ID": 60088,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 250,
+        "LoadingTitle": {
+            "hash": -345768676
+        },
+        "BeginTime": "2020-07-09 10:00:00",
+        "EndTime": "2020-07-30 04:00:00",
+        "ImgPath": "event/PicLoading/4.1Summerloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145700,
+            145701,
+            145702,
+            145704,
+            145705,
+            145706,
+            145708,
+            145709,
+            145710,
+            145712,
+            145713,
+            145714,
+            145716,
+            145717,
+            145718,
+            145720,
+            145721,
+            145722,
+            145724,
+            145725,
+            145726,
+            145728,
+            145729,
+            145730,
+            145732,
+            145733,
+            145734,
+            145736,
+            145737,
+            145738,
+            145703,
+            145707,
+            145711,
+            145715,
+            145719,
+            145723,
+            145727,
+            145731,
+            145735,
+            145739,
+            145752,
+            145753,
+            145754,
+            145755,
+            145756,
+            145757,
+            145758,
+            145759,
+            145760,
+            145761
+        ],
+        "LoadingTipsList": [
+            41265
+        ]
+    },
+    {
+        "ID": 60089,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -364290604
+        },
+        "BeginTime": "2020-07-20 10:00:00",
+        "EndTime": "2020-07-30 04:00:00",
+        "ImgPath": "event/PicLoading/4.1Sakuraloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145700,
+            145701,
+            145702,
+            145704,
+            145705,
+            145706,
+            145708,
+            145709,
+            145710,
+            145712,
+            145713,
+            145714,
+            145716,
+            145717,
+            145718,
+            145720,
+            145721,
+            145722,
+            145724,
+            145725,
+            145726,
+            145728,
+            145729,
+            145730,
+            145732,
+            145733,
+            145734,
+            145736,
+            145737,
+            145738,
+            145703,
+            145707,
+            145711,
+            145715,
+            145719,
+            145723,
+            145727,
+            145731,
+            145735,
+            145739,
+            145752,
+            145753,
+            145754,
+            145755,
+            145756,
+            145757,
+            145758,
+            145759,
+            145760,
+            145761
+        ],
+        "LoadingTipsList": [
+            41266
+        ]
+    },
+    {
+        "ID": 60090,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 40,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -346200786
+        },
+        "BeginTime": "2020-11-26 10:00:00",
+        "EndTime": "2020-12-07 04:00:00",
+        "ImgPath": "event/PicLoading/4.4Slotloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41277
+        ]
+    },
+    {
+        "ID": 60091,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": 245532220
+        },
+        "BeginTime": "2020-12-03 10:00:00",
+        "EndTime": "2020-12-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.4chapter21loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41278
+        ]
+    },
+    {
+        "ID": 60092,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -345716974
+        },
+        "BeginTime": "2020-12-25 10:00:00",
+        "EndTime": "2021-01-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.5EVAloading1",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            148000,
+            148001,
+            148006,
+            148011,
+            148016,
+            148101,
+            148201,
+            148301,
+            148401,
+            148010
+        ],
+        "LoadingTipsList": [
+            41279
+        ]
+    },
+    {
+        "ID": 60093,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -345716973
+        },
+        "BeginTime": "2020-12-25 10:00:00",
+        "EndTime": "2021-01-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.5EVAloading2",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            148000,
+            148001,
+            148006,
+            148011,
+            148016,
+            148101,
+            148201,
+            148301,
+            148401,
+            148010
+        ],
+        "LoadingTipsList": [
+            41280
+        ]
+    },
+    {
+        "ID": 60094,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -1734956949
+        },
+        "BeginTime": "2020-12-25 12:00:00",
+        "EndTime": "2021-01-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.5EVA_CharaLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            148000,
+            148001,
+            148006,
+            148011,
+            148016,
+            148101,
+            148201,
+            148301,
+            148401,
+            148010
+        ],
+        "LoadingTipsList": [
+            41281
+        ]
+    },
+    {
+        "ID": 60095,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -1732822832
+        },
+        "BeginTime": "2020-12-25 12:00:00",
+        "EndTime": "2021-01-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.5EVA_EquipLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            148000,
+            148001,
+            148006,
+            148011,
+            148016,
+            148101,
+            148201,
+            148301,
+            148401,
+            148010
+        ],
+        "LoadingTipsList": [
+            41282
+        ]
+    },
+    {
+        "ID": 60096,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": -1733731625
+        },
+        "BeginTime": "2020-12-25 12:00:00",
+        "EndTime": "2021-01-24 04:00:00",
+        "ImgPath": "event/PicLoading/4.5EVA_DressLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            148000,
+            148001,
+            148006,
+            148011,
+            148016,
+            148101,
+            148201,
+            148301,
+            148401,
+            148010
+        ],
+        "LoadingTipsList": [
+            41283
+        ]
+    },
+    {
+        "ID": 60097,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 30,
+        "Weight": 300,
+        "LoadingTitle": {
+            "hash": 49018716
+        },
+        "BeginTime": "2021-01-15 10:00:00",
+        "EndTime": "2021-01-29 04:00:00",
+        "ImgPath": "event/PicLoading/4.5chapter22loading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41284
+        ]
+    },
+    {
+        "ID": 60098,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1445093889
+        },
+        "BeginTime": "2021-03-29 10:00:00",
+        "EndTime": "2021-04-11 04:00:00",
+        "ImgPath": "event/PicLoading/Loading_SpringFestival_01",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145400
+        ],
+        "LoadingTipsList": [
+            40110
+        ]
+    },
+    {
+        "ID": 60099,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -726497295
+        },
+        "BeginTime": "2021-03-11 10:00:00",
+        "EndTime": "2021-04-01 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearFoodloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            143001
+        ],
+        "LoadingTipsList": [
+            41285
+        ]
+    },
+    {
+        "ID": 60100,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1788804
+        },
+        "BeginTime": "2021-03-10 12:00:00",
+        "EndTime": "2021-04-14 12:00:00",
+        "ImgPath": "event/PicLoading/NewYearLeixiaoloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41286
+        ]
+    },
+    {
+        "ID": 60101,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 2006940825
+        },
+        "BeginTime": "2021-03-11 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            149200
+        ],
+        "LoadingTipsList": [
+            41287
+        ]
+    },
+    {
+        "ID": 60102,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -726491604
+        },
+        "BeginTime": "2021-03-10 12:00:00",
+        "EndTime": "2021-03-26 12:00:00",
+        "ImgPath": "event/PicLoading/NewYearFulvloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002
+        ],
+        "LoadingTipsList": [
+            41288
+        ]
+    },
+    {
+        "ID": 60103,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 2085623480
+        },
+        "BeginTime": "2021-03-11 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading1",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            149200
+        ],
+        "LoadingTipsList": [
+            41289
+        ]
+    },
+    {
+        "ID": 60104,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1813197440
+        },
+        "BeginTime": "2021-03-11 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2021
+        ],
+        "LoadingTipsList": [
+            41290
+        ]
+    },
+    {
+        "ID": 60105,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1813197441
+        },
+        "BeginTime": "2021-03-11 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading1",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            2021
+        ],
+        "LoadingTipsList": [
+            41291
+        ]
+    },
+    {
+        "ID": 60106,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1813197442
+        },
+        "BeginTime": "2021-03-14 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading3",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            149200,
+            2021
+        ],
+        "LoadingTipsList": [
+            41292
+        ]
+    },
+    {
+        "ID": 60107,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": 1813197443
+        },
+        "BeginTime": "2021-03-14 10:00:00",
+        "EndTime": "2021-04-05 04:00:00",
+        "ImgPath": "event/PicLoading/NewYearShooterloading3",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            149200,
+            2021
+        ],
+        "LoadingTipsList": [
+            41293
+        ]
+    },
+    {
+        "ID": 60108,
+        "IsIgnoreZeroTag": 0,
+        "MaxLevel": 85,
+        "MinLevel": 20,
+        "Weight": 200,
+        "LoadingTitle": {
+            "hash": -1295447764
+        },
+        "BeginTime": "2021-03-04 04:00:00",
+        "EndTime": "2021-03-15 04:00:00",
+        "ImgPath": "event/PicLoading/MosaicLoading",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            1101,
+            702,
+            1000,
+            2002,
+            145400
+        ],
+        "LoadingTipsList": [
+            41294
+        ]
+    },
+    {
+        "ID": 70001,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065353
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_station",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3001
+        ],
+        "LoadingTipsList": [
+            50001
+        ]
+    },
+    {
+        "ID": 70002,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065352
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_church",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3002
+        ],
+        "LoadingTipsList": [
+            50002
+        ]
+    },
+    {
+        "ID": 70003,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065351
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3003
+        ],
+        "LoadingTipsList": [
+            50003
+        ]
+    },
+    {
+        "ID": 70004,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065350
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3004
+        ],
+        "LoadingTipsList": [
+            50004
+        ]
+    },
+    {
+        "ID": 70005,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065349
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3005
+        ],
+        "LoadingTipsList": [
+            50006
+        ]
+    },
+    {
+        "ID": 70006,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065348
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_bridge",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3006
+        ],
+        "LoadingTipsList": [
+            50007
+        ]
+    },
+    {
+        "ID": 70007,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065347
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_bridge",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3007
+        ],
+        "LoadingTipsList": [
+            50008
+        ]
+    },
+    {
+        "ID": 70008,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065346
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3008
+        ],
+        "LoadingTipsList": [
+            50009
+        ]
+    },
+    {
+        "ID": 70009,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065324
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3009
+        ],
+        "LoadingTipsList": [
+            50010
+        ]
+    },
+    {
+        "ID": 70010,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065323
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/Immediately/DLCCG/earphone_with_finalstage",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3010
+        ],
+        "LoadingTipsList": [
+            50011
+        ]
+    },
+    {
+        "ID": 70011,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -156065322
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3011
+        ],
+        "LoadingTipsList": [
+            50005
+        ]
+    },
+    {
+        "ID": 70012,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448226
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3012
+        ],
+        "LoadingTipsList": [
+            50012
+        ]
+    },
+    {
+        "ID": 70013,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448227
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_church",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3013
+        ],
+        "LoadingTipsList": [
+            50013
+        ]
+    },
+    {
+        "ID": 70014,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448228
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3014
+        ],
+        "LoadingTipsList": [
+            50014
+        ]
+    },
+    {
+        "ID": 70015,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448229
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3015
+        ],
+        "LoadingTipsList": [
+            50015
+        ]
+    },
+    {
+        "ID": 70016,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448230
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3016
+        ],
+        "LoadingTipsList": [
+            50016
+        ]
+    },
+    {
+        "ID": 70017,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448231
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3017
+        ],
+        "LoadingTipsList": [
+            50017
+        ]
+    },
+    {
+        "ID": 70018,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448232
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3018
+        ],
+        "LoadingTipsList": [
+            50018
+        ]
+    },
+    {
+        "ID": 70019,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448233
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3019
+        ],
+        "LoadingTipsList": [
+            50019
+        ]
+    },
+    {
+        "ID": 70020,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448234
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3020
+        ],
+        "LoadingTipsList": [
+            50020
+        ]
+    },
+    {
+        "ID": 70021,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": 9448256
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3021
+        ],
+        "LoadingTipsList": [
+            50021
+        ]
+    },
+    {
+        "ID": 70022,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173050
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_church",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3022
+        ],
+        "LoadingTipsList": [
+            50022
+        ]
+    },
+    {
+        "ID": 70023,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173049
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3022
+        ],
+        "LoadingTipsList": [
+            50023
+        ]
+    },
+    {
+        "ID": 70024,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173048
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_bridge",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3022
+        ],
+        "LoadingTipsList": [
+            50024
+        ]
+    },
+    {
+        "ID": 70025,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173047
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3022
+        ],
+        "LoadingTipsList": [
+            50025
+        ]
+    },
+    {
+        "ID": 70026,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173046
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_station",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3023
+        ],
+        "LoadingTipsList": [
+            50026
+        ]
+    },
+    {
+        "ID": 70027,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173045
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3023
+        ],
+        "LoadingTipsList": [
+            50027
+        ]
+    },
+    {
+        "ID": 70028,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173044
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_bridge",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3023
+        ],
+        "LoadingTipsList": [
+            50028
+        ]
+    },
+    {
+        "ID": 70029,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173043
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3023
+        ],
+        "LoadingTipsList": [
+            50029
+        ]
+    },
+    {
+        "ID": 70030,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173021
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3023
+        ],
+        "LoadingTipsList": [
+            50030
+        ]
+    },
+    {
+        "ID": 70031,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173020
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_church",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3024
+        ],
+        "LoadingTipsList": [
+            50031
+        ]
+    },
+    {
+        "ID": 70032,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173019
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_street",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3024
+        ],
+        "LoadingTipsList": [
+            50032
+        ]
+    },
+    {
+        "ID": 70033,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173018
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3024
+        ],
+        "LoadingTipsList": [
+            50033
+        ]
+    },
+    {
+        "ID": 70034,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173017
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3024
+        ],
+        "LoadingTipsList": [
+            50034
+        ]
+    },
+    {
+        "ID": 70035,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 100,
+        "LoadingTitle": {
+            "hash": -1806173016
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/st_fountain_tunnel",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3024
+        ],
+        "LoadingTipsList": [
+            50035
+        ]
+    },
+    {
+        "ID": 70036,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 50,
+        "LoadingTitle": {
+            "hash": -1806173015
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/DLC/earphone_with_plaza",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            3022,
+            3023,
+            3024
+        ],
+        "LoadingTipsList": [
+            50036
+        ]
+    },
+    {
+        "ID": 80011,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903496
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading001",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            802
+        ],
+        "ExtraTriggerTypeList": [
+            1
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41243,
+            41250
+        ]
+    },
+    {
+        "ID": 80012,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903495
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading002",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            801
+        ],
+        "ExtraTriggerTypeList": [
+            1
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41244,
+            41251
+        ]
+    },
+    {
+        "ID": 80013,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903494
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading003",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            502
+        ],
+        "ExtraTriggerTypeList": [
+            5
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41245,
+            41252
+        ]
+    },
+    {
+        "ID": 80014,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903493
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading004",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            106
+        ],
+        "ExtraTriggerTypeList": [
+            4
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41246,
+            41253
+        ]
+    },
+    {
+        "ID": 80015,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903492
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading005",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            103
+        ],
+        "ExtraTriggerTypeList": [
+            4
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41247,
+            41254
+        ]
+    },
+    {
+        "ID": 80016,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903491
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading006",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            130
+        ],
+        "ExtraTriggerTypeList": [
+            101
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41248,
+            41255
+        ]
+    },
+    {
+        "ID": 80017,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 500,
+        "LoadingTitle": {
+            "hash": -1761903490
+        },
+        "BeginTime": "2019-06-05 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "SpriteOutput/PicLoading/PicLoading007",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [
+            150
+        ],
+        "ExtraTriggerTypeList": [
+            101
+        ],
+        "LoadingTagList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            500,
+            506,
+            2001,
+            9004,
+            1000
+        ],
+        "LoadingTipsList": [
+            41249,
+            41256
+        ]
+    },
+    {
+        "ID": 80019,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 800,
+        "LoadingTitle": {
+            "hash": 1351267346
+        },
+        "BeginTime": "2020-06-11 10:00:00",
+        "EndTime": "2020-07-02 10:00:00",
+        "ImgPath": "event/PicLoading/4.0PicLoading_ChapterActivityMonsterBrush",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            1701101,
+            1701201,
+            1701301
+        ],
+        "LoadingTipsList": [
+            41260,
+            41261
+        ]
+    },
+    {
+        "ID": 80020,
+        "IsIgnoreZeroTag": 1,
+        "MaxLevel": 85,
+        "MinLevel": 0,
+        "Weight": 1000,
+        "LoadingTitle": {
+            "hash": -1985322485
+        },
+        "BeginTime": "2018-12-12 10:00:00",
+        "EndTime": "2029-12-12 10:00:00",
+        "ImgPath": "event/PicLoading/4.0PicLoading_ChapterEarPhone",
+        "ImgPath_2": "",
+        "ExtraTriggerParamsList": [],
+        "ExtraTriggerTypeList": [],
+        "LoadingTagList": [
+            12012
+        ],
+        "LoadingTipsList": [
+            41264
+        ]
+    }
+]

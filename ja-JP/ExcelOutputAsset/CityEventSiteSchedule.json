@@ -1,0 +1,917 @@
+[
+    {
+        "EnterType": 2,
+        "LinkType": 48,
+        "ScheduleID": 1001,
+        "ActivityText": {
+            "hash": 1075524595
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7298
+        ],
+        "LinkParams": [
+            0
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 48,
+        "ScheduleID": 1002,
+        "ActivityText": {
+            "hash": 1075524595
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7298
+        ],
+        "LinkParams": [
+            0
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 48,
+        "ScheduleID": 1003,
+        "ActivityText": {
+            "hash": 1075524595
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7298
+        ],
+        "LinkParams": [
+            0
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 58,
+        "ScheduleID": 1004,
+        "ActivityText": {
+            "hash": 1075524596
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            0
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 58,
+        "ScheduleID": 1005,
+        "ActivityText": {
+            "hash": 1075524596
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            0
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 2,
+        "ScheduleID": 1006,
+        "ActivityText": {
+            "hash": 1075524597
+        },
+        "RemindText": {
+            "hash": 978343160
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7322,
+            7298
+        ],
+        "LinkParams": [
+            34116
+        ],
+        "UPRole": [],
+        "bits1": 1
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 2,
+        "ScheduleID": 1007,
+        "ActivityText": {
+            "hash": 1075524597
+        },
+        "RemindText": {
+            "hash": 978343160
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7322,
+            7298
+        ],
+        "LinkParams": [
+            34117
+        ],
+        "UPRole": [],
+        "bits1": 1
+    },
+    {
+        "EnterType": 102,
+        "LinkType": 63,
+        "ScheduleID": 1008,
+        "ActivityText": {
+            "hash": 1075524598
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            10201024
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10201024
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1009,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101301,
+            10101302,
+            10101303
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1010,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101311,
+            10101312,
+            10101313
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1011,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101321,
+            10101322,
+            10101323
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1012,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101331,
+            10101332,
+            10101333
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1013,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101341,
+            10101342,
+            10101343
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1014,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101351,
+            10101352,
+            10101353
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1015,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101361,
+            10101362,
+            10101363
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1016,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101371,
+            10101372,
+            10101373
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1017,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101381,
+            10101382,
+            10101383
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1018,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101391,
+            10101392,
+            10101393
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 8,
+        "ScheduleID": 1020,
+        "ActivityText": {
+            "hash": 1075524600
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            34150
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34150
+        ],
+        "UPRole": [
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 8,
+        "ScheduleID": 1021,
+        "ActivityText": {
+            "hash": 1075524600
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            34151
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34151
+        ],
+        "UPRole": [
+            3,
+            6
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 8,
+        "ScheduleID": 1022,
+        "ActivityText": {
+            "hash": 1075524600
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            34152
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34152
+        ],
+        "UPRole": [
+            1,
+            2
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 8,
+        "ScheduleID": 1023,
+        "ActivityText": {
+            "hash": 1075524600
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            34153
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34153
+        ],
+        "UPRole": [
+            101,
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 102,
+        "LinkType": 63,
+        "ScheduleID": 1024,
+        "ActivityText": {
+            "hash": 1075524601
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            10201043
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            10201043
+        ],
+        "UPRole": [
+            1,
+            2
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 102,
+        "LinkType": 63,
+        "ScheduleID": 1025,
+        "ActivityText": {
+            "hash": 1075524601
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            10201044
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            10201044
+        ],
+        "UPRole": [
+            101,
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 102,
+        "LinkType": 63,
+        "ScheduleID": 1026,
+        "ActivityText": {
+            "hash": 1075524601
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            10201045
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            10201045
+        ],
+        "UPRole": [
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 102,
+        "LinkType": 63,
+        "ScheduleID": 1027,
+        "ActivityText": {
+            "hash": 1075524601
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 1269487906
+        },
+        "ActivityID": [
+            10201046
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            10201046
+        ],
+        "UPRole": [
+            3,
+            6
+        ],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 2,
+        "ScheduleID": 1028,
+        "ActivityText": {
+            "hash": 1075524602
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34154
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34154
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 2,
+        "ScheduleID": 1029,
+        "ActivityText": {
+            "hash": 1075524602
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34155
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34155
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 2,
+        "ScheduleID": 1030,
+        "ActivityText": {
+            "hash": 1075524602
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34157
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34157
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 8,
+        "LinkType": 2,
+        "ScheduleID": 1031,
+        "ActivityText": {
+            "hash": 1075524602
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34158
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34158
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 2,
+        "LinkType": 2,
+        "ScheduleID": 1032,
+        "ActivityText": {
+            "hash": -1018475874
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34166
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34166
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 6,
+        "LinkType": 8,
+        "ScheduleID": 1033,
+        "ActivityText": {
+            "hash": -1018475873
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            34161
+        ],
+        "DropDisplay": [
+            7322
+        ],
+        "LinkParams": [
+            34161
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1036,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101401,
+            10101402,
+            10101403
+        ],
+        "UPRole": [],
+        "bits1": 0
+    },
+    {
+        "EnterType": 101,
+        "LinkType": 62,
+        "ScheduleID": 1037,
+        "ActivityText": {
+            "hash": 1075524599
+        },
+        "RemindText": {
+            "hash": 978343162
+        },
+        "UpText": {
+            "hash": 0
+        },
+        "ActivityID": [
+            0
+        ],
+        "DropDisplay": [
+            7299,
+            7298
+        ],
+        "LinkParams": [
+            10101411,
+            10101412,
+            10101413
+        ],
+        "UPRole": [],
+        "bits1": 0
+    }
+]

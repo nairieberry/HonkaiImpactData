@@ -1,0 +1,74 @@
+[
+    {
+        "SceneId": 1,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test2",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_102.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Factory_04",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 2,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test1",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_101.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_mountainous_03",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 3,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test3",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_103.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Cave_04",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 4,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test4",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_104.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_mountainous_03_PVP",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 5,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test6",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_106.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Village_03_PVP",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 6,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test5",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_105.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Factory_04",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 7,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test7",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_107.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Wilderness_03_PVP",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 8,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test8",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_108.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Cave_05",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    },
+    {
+        "SceneId": 9,
+        "SceneGroundHeight": 0.0,
+        "ClientGridMap": "Qshoot/Map/test9",
+        "RpgQAvatarBattleGridMap": "RpgQAvatarBattleGridMap_109.txt",
+        "StagePath": "Stage/Stage_Qbattle/Stage_Qbattle_Wilderness_03_PVP",
+        "Weather": "Style_Stage_Q_Shoot_1"
+    }
+]

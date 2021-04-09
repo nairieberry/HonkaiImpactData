@@ -1,0 +1,4746 @@
+[
+    {
+        "affixID": 10201,
+        "level": 1,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 100.0,
+        "valueMin": 37.5,
+        "valueStep": 0.625,
+        "nameDual": {
+            "hash": -1160330304
+        },
+        "nameMono": {
+            "hash": -1124918041
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10202,
+        "level": 1,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 100.0,
+        "valueMin": 37.5,
+        "valueStep": 0.625,
+        "nameDual": {
+            "hash": -1160330303
+        },
+        "nameMono": {
+            "hash": -1124918040
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10203,
+        "level": 2,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 163.0,
+        "valueMin": 87.5,
+        "valueStep": 0.755,
+        "nameDual": {
+            "hash": -1160330302
+        },
+        "nameMono": {
+            "hash": -1124918039
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10204,
+        "level": 2,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 163.0,
+        "valueMin": 87.5,
+        "valueStep": 0.755,
+        "nameDual": {
+            "hash": -1160330301
+        },
+        "nameMono": {
+            "hash": -1124918038
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10205,
+        "level": 3,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 238.0,
+        "valueMin": 150.0,
+        "valueStep": 0.88,
+        "nameDual": {
+            "hash": -1160330300
+        },
+        "nameMono": {
+            "hash": -1124918037
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10401,
+        "level": 1,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.0,
+        "valueMin": 3.0,
+        "valueStep": 0.05,
+        "nameDual": {
+            "hash": -1160328382
+        },
+        "nameMono": {
+            "hash": -1124916119
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10402,
+        "level": 1,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.0,
+        "valueMin": 3.0,
+        "valueStep": 0.05,
+        "nameDual": {
+            "hash": -1160328381
+        },
+        "nameMono": {
+            "hash": -1124916118
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10403,
+        "level": 2,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 13.0,
+        "valueMin": 7.0,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160328380
+        },
+        "nameMono": {
+            "hash": -1124916117
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10404,
+        "level": 2,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 13.0,
+        "valueMin": 7.0,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160328379
+        },
+        "nameMono": {
+            "hash": -1124916116
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10405,
+        "level": 3,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 19.0,
+        "valueMin": 12.0,
+        "valueStep": 0.07,
+        "nameDual": {
+            "hash": -1160328378
+        },
+        "nameMono": {
+            "hash": -1124916115
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10501,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1160327421
+        },
+        "nameMono": {
+            "hash": -1124915158
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10502,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1160327420
+        },
+        "nameMono": {
+            "hash": -1124915157
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10503,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1160327419
+        },
+        "nameMono": {
+            "hash": -1124915156
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10504,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1160327418
+        },
+        "nameMono": {
+            "hash": -1124915155
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10505,
+        "level": 2,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 33.0,
+        "valueMin": 17.5,
+        "valueStep": 0.155,
+        "nameDual": {
+            "hash": -1160327417
+        },
+        "nameMono": {
+            "hash": -1124915154
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10601,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": -1160326460
+        },
+        "nameMono": {
+            "hash": -1124914197
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10602,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": -1160326459
+        },
+        "nameMono": {
+            "hash": -1124914196
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10603,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": -1160326458
+        },
+        "nameMono": {
+            "hash": -1124914195
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10604,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": -1160326457
+        },
+        "nameMono": {
+            "hash": -1124914194
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10605,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": -1160326456
+        },
+        "nameMono": {
+            "hash": -1124914193
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10801,
+        "level": 1,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 1.0,
+        "valueMax": 1.3,
+        "valueMin": 0.5,
+        "valueStep": 0.008,
+        "nameDual": {
+            "hash": -1160324538
+        },
+        "nameMono": {
+            "hash": -1124912275
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10802,
+        "level": 1,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 1.25,
+        "valueMax": 1.3,
+        "valueMin": 0.5,
+        "valueStep": 0.008,
+        "nameDual": {
+            "hash": -1160324537
+        },
+        "nameMono": {
+            "hash": -1124912274
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10803,
+        "level": 2,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 3.0,
+        "PropParam3": 1.75,
+        "valueMax": 2.2,
+        "valueMin": 1.2,
+        "valueStep": 0.01,
+        "nameDual": {
+            "hash": -1160324536
+        },
+        "nameMono": {
+            "hash": -1124912273
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10804,
+        "level": 3,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 3.0,
+        "PropParam3": 2.25,
+        "valueMax": 3.2,
+        "valueMin": 2.0,
+        "valueStep": 0.012,
+        "nameDual": {
+            "hash": -1160324535
+        },
+        "nameMono": {
+            "hash": -1124912272
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 10805,
+        "level": 3,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 3.0,
+        "PropParam3": 3.0,
+        "valueMax": 3.2,
+        "valueMin": 2.0,
+        "valueStep": 0.012,
+        "nameDual": {
+            "hash": -1160324534
+        },
+        "nameMono": {
+            "hash": -1124912271
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 11001,
+        "level": 1,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.013,
+        "valueMin": -0.005,
+        "valueStep": -8e-05,
+        "nameDual": {
+            "hash": -1160302435
+        },
+        "nameMono": {
+            "hash": -1124890172
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 11002,
+        "level": 1,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.013,
+        "valueMin": -0.005,
+        "valueStep": -8e-05,
+        "nameDual": {
+            "hash": -1160302434
+        },
+        "nameMono": {
+            "hash": -1124890171
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 11003,
+        "level": 1,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.013,
+        "valueMin": -0.005,
+        "valueStep": -8e-05,
+        "nameDual": {
+            "hash": -1160302433
+        },
+        "nameMono": {
+            "hash": -1124890170
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 11004,
+        "level": 2,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.022,
+        "valueMin": -0.012,
+        "valueStep": -0.0001,
+        "nameDual": {
+            "hash": -1160302432
+        },
+        "nameMono": {
+            "hash": -1124890169
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 11005,
+        "level": 2,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.022,
+        "valueMin": -0.012,
+        "valueStep": -0.0001,
+        "nameDual": {
+            "hash": -1160302431
+        },
+        "nameMono": {
+            "hash": -1124890168
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12101,
+        "level": 1,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160271683
+        },
+        "nameMono": {
+            "hash": -1124859420
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12102,
+        "level": 1,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160271682
+        },
+        "nameMono": {
+            "hash": -1124859419
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12103,
+        "level": 2,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1160271681
+        },
+        "nameMono": {
+            "hash": -1124859418
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12104,
+        "level": 3,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160271680
+        },
+        "nameMono": {
+            "hash": -1124859417
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12105,
+        "level": 3,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160271679
+        },
+        "nameMono": {
+            "hash": -1124859416
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12201,
+        "level": 1,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160270722
+        },
+        "nameMono": {
+            "hash": -1124858459
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12202,
+        "level": 1,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160270721
+        },
+        "nameMono": {
+            "hash": -1124858458
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12203,
+        "level": 2,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1160270720
+        },
+        "nameMono": {
+            "hash": -1124858457
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12204,
+        "level": 3,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160270719
+        },
+        "nameMono": {
+            "hash": -1124858456
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12205,
+        "level": 3,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160270718
+        },
+        "nameMono": {
+            "hash": -1124858455
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12301,
+        "level": 1,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160269761
+        },
+        "nameMono": {
+            "hash": -1124857498
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12302,
+        "level": 1,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1160269760
+        },
+        "nameMono": {
+            "hash": -1124857497
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12303,
+        "level": 2,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1160269759
+        },
+        "nameMono": {
+            "hash": -1124857496
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12304,
+        "level": 3,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160269758
+        },
+        "nameMono": {
+            "hash": -1124857495
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 12305,
+        "level": 3,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1160269757
+        },
+        "nameMono": {
+            "hash": -1124857494
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13101,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160241892
+        },
+        "nameMono": {
+            "hash": -1124829629
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13102,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160241891
+        },
+        "nameMono": {
+            "hash": -1124829628
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13103,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160241890
+        },
+        "nameMono": {
+            "hash": -1124829627
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13104,
+        "level": 2,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1160241889
+        },
+        "nameMono": {
+            "hash": -1124829626
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13105,
+        "level": 3,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1160241888
+        },
+        "nameMono": {
+            "hash": -1124829625
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13201,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160240931
+        },
+        "nameMono": {
+            "hash": -1124828668
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13202,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160240930
+        },
+        "nameMono": {
+            "hash": -1124828667
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13203,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160240929
+        },
+        "nameMono": {
+            "hash": -1124828666
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13204,
+        "level": 2,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1160240928
+        },
+        "nameMono": {
+            "hash": -1124828665
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13205,
+        "level": 3,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1160240927
+        },
+        "nameMono": {
+            "hash": -1124828664
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13301,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160239970
+        },
+        "nameMono": {
+            "hash": -1124827707
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13302,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160239969
+        },
+        "nameMono": {
+            "hash": -1124827706
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13303,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1160239968
+        },
+        "nameMono": {
+            "hash": -1124827705
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13304,
+        "level": 2,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1160239967
+        },
+        "nameMono": {
+            "hash": -1124827704
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 13305,
+        "level": 3,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1160239966
+        },
+        "nameMono": {
+            "hash": -1124827703
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15101,
+        "level": 1,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160182310
+        },
+        "nameMono": {
+            "hash": -1124770047
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15102,
+        "level": 1,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160182309
+        },
+        "nameMono": {
+            "hash": -1124770046
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15103,
+        "level": 2,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160182308
+        },
+        "nameMono": {
+            "hash": -1124770045
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15104,
+        "level": 2,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160182307
+        },
+        "nameMono": {
+            "hash": -1124770044
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15105,
+        "level": 3,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": -1160182306
+        },
+        "nameMono": {
+            "hash": -1124770043
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15201,
+        "level": 1,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160181349
+        },
+        "nameMono": {
+            "hash": -1124769086
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15202,
+        "level": 1,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160181348
+        },
+        "nameMono": {
+            "hash": -1124769085
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15203,
+        "level": 2,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160181347
+        },
+        "nameMono": {
+            "hash": -1124769084
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15204,
+        "level": 2,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160181346
+        },
+        "nameMono": {
+            "hash": -1124769083
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15205,
+        "level": 3,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": -1160181345
+        },
+        "nameMono": {
+            "hash": -1124769082
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15301,
+        "level": 1,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160180388
+        },
+        "nameMono": {
+            "hash": -1124768125
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15302,
+        "level": 1,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": -1160180387
+        },
+        "nameMono": {
+            "hash": -1124768124
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15303,
+        "level": 2,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160180386
+        },
+        "nameMono": {
+            "hash": -1124768123
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15304,
+        "level": 2,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": -1160180385
+        },
+        "nameMono": {
+            "hash": -1124768122
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 15305,
+        "level": 3,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": -1160180384
+        },
+        "nameMono": {
+            "hash": -1124768121
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20301,
+        "level": 1,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 7.0,
+        "valueMin": 2.5,
+        "valueStep": 0.045,
+        "nameDual": {
+            "hash": -1159405822
+        },
+        "nameMono": {
+            "hash": -1123993559
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20302,
+        "level": 1,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 7.0,
+        "valueMin": 2.5,
+        "valueStep": 0.045,
+        "nameDual": {
+            "hash": -1159405821
+        },
+        "nameMono": {
+            "hash": -1123993558
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20303,
+        "level": 2,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 11.0,
+        "valueMin": 5.9,
+        "valueStep": 0.051,
+        "nameDual": {
+            "hash": -1159405820
+        },
+        "nameMono": {
+            "hash": -1123993557
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20304,
+        "level": 3,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 16.0,
+        "valueMin": 10.1,
+        "valueStep": 0.059,
+        "nameDual": {
+            "hash": -1159405819
+        },
+        "nameMono": {
+            "hash": -1123993556
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20305,
+        "level": 3,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 16.0,
+        "valueMin": 10.1,
+        "valueStep": 0.059,
+        "nameDual": {
+            "hash": -1159405818
+        },
+        "nameMono": {
+            "hash": -1123993555
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20401,
+        "level": 1,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.0,
+        "valueMin": 3.0,
+        "valueStep": 0.05,
+        "nameDual": {
+            "hash": -1159404861
+        },
+        "nameMono": {
+            "hash": -1123992598
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20402,
+        "level": 1,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.0,
+        "valueMin": 3.0,
+        "valueStep": 0.05,
+        "nameDual": {
+            "hash": -1159404860
+        },
+        "nameMono": {
+            "hash": -1123992597
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20403,
+        "level": 2,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 13.0,
+        "valueMin": 7.0,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159404859
+        },
+        "nameMono": {
+            "hash": -1123992596
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20404,
+        "level": 2,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 13.0,
+        "valueMin": 7.0,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159404858
+        },
+        "nameMono": {
+            "hash": -1123992595
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20405,
+        "level": 3,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 19.0,
+        "valueMin": 12.0,
+        "valueStep": 0.07,
+        "nameDual": {
+            "hash": -1159404857
+        },
+        "nameMono": {
+            "hash": -1123992594
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20501,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1159403900
+        },
+        "nameMono": {
+            "hash": -1123991637
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20502,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1159403899
+        },
+        "nameMono": {
+            "hash": -1123991636
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20503,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1159403898
+        },
+        "nameMono": {
+            "hash": -1123991635
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20504,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": -1159403897
+        },
+        "nameMono": {
+            "hash": -1123991634
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20505,
+        "level": 2,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 33.0,
+        "valueMin": 17.5,
+        "valueStep": 0.155,
+        "nameDual": {
+            "hash": -1159403896
+        },
+        "nameMono": {
+            "hash": -1123991633
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20701,
+        "level": 1,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.024,
+        "valueMin": 0.009,
+        "valueStep": 0.00015,
+        "nameDual": {
+            "hash": -1159401978
+        },
+        "nameMono": {
+            "hash": -1123989715
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20702,
+        "level": 1,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.024,
+        "valueMin": 0.009,
+        "valueStep": 0.00015,
+        "nameDual": {
+            "hash": -1159401977
+        },
+        "nameMono": {
+            "hash": -1123989714
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20703,
+        "level": 1,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.024,
+        "valueMin": 0.009,
+        "valueStep": 0.00015,
+        "nameDual": {
+            "hash": -1159401976
+        },
+        "nameMono": {
+            "hash": -1123989713
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20704,
+        "level": 2,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.038,
+        "valueMin": 0.021,
+        "valueStep": 0.00017,
+        "nameDual": {
+            "hash": -1159401975
+        },
+        "nameMono": {
+            "hash": -1123989712
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20705,
+        "level": 3,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.056,
+        "valueMin": 0.035,
+        "valueStep": 0.00021,
+        "nameDual": {
+            "hash": -1159401974
+        },
+        "nameMono": {
+            "hash": -1123989711
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20901,
+        "level": 1,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.21,
+        "valueMin": 0.08,
+        "valueStep": 0.0013,
+        "nameDual": {
+            "hash": -1159400056
+        },
+        "nameMono": {
+            "hash": -1123987793
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20902,
+        "level": 1,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.125,
+        "valueMax": 0.21,
+        "valueMin": 0.08,
+        "valueStep": 0.0013,
+        "nameDual": {
+            "hash": -1159400055
+        },
+        "nameMono": {
+            "hash": -1123987792
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20903,
+        "level": 2,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.25,
+        "valueMax": 0.34,
+        "valueMin": 0.18,
+        "valueStep": 0.0016,
+        "nameDual": {
+            "hash": -1159400054
+        },
+        "nameMono": {
+            "hash": -1123987791
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20904,
+        "level": 3,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.375,
+        "valueMax": 0.5,
+        "valueMin": 0.32,
+        "valueStep": 0.0018,
+        "nameDual": {
+            "hash": -1159400053
+        },
+        "nameMono": {
+            "hash": -1123987790
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 20905,
+        "level": 3,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.5,
+        "valueMax": 0.5,
+        "valueMin": 0.32,
+        "valueStep": 0.0018,
+        "nameDual": {
+            "hash": -1159400052
+        },
+        "nameMono": {
+            "hash": -1123987789
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 21101,
+        "level": 1,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.7,
+        "valueMin": 4.0,
+        "valueStep": 0.067,
+        "nameDual": {
+            "hash": -1159377953
+        },
+        "nameMono": {
+            "hash": -1123965690
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 21102,
+        "level": 1,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.7,
+        "valueMin": 4.0,
+        "valueStep": 0.067,
+        "nameDual": {
+            "hash": -1159377952
+        },
+        "nameMono": {
+            "hash": -1123965689
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 21103,
+        "level": 1,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.7,
+        "valueMin": 4.0,
+        "valueStep": 0.067,
+        "nameDual": {
+            "hash": -1159377951
+        },
+        "nameMono": {
+            "hash": -1123965688
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 21104,
+        "level": 2,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 17.3,
+        "valueMin": 9.3,
+        "valueStep": 0.08,
+        "nameDual": {
+            "hash": -1159377950
+        },
+        "nameMono": {
+            "hash": -1123965687
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 21105,
+        "level": 3,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 25.3,
+        "valueMin": 16.0,
+        "valueStep": 0.093,
+        "nameDual": {
+            "hash": -1159377949
+        },
+        "nameMono": {
+            "hash": -1123965686
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23101,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159318371
+        },
+        "nameMono": {
+            "hash": -1123906108
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23102,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159318370
+        },
+        "nameMono": {
+            "hash": -1123906107
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23103,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159318369
+        },
+        "nameMono": {
+            "hash": -1123906106
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23104,
+        "level": 2,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1159318368
+        },
+        "nameMono": {
+            "hash": -1123906105
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23105,
+        "level": 3,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1159318367
+        },
+        "nameMono": {
+            "hash": -1123906104
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23201,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159317410
+        },
+        "nameMono": {
+            "hash": -1123905147
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23202,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159317409
+        },
+        "nameMono": {
+            "hash": -1123905146
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23203,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159317408
+        },
+        "nameMono": {
+            "hash": -1123905145
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23204,
+        "level": 2,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1159317407
+        },
+        "nameMono": {
+            "hash": -1123905144
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23205,
+        "level": 3,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1159317406
+        },
+        "nameMono": {
+            "hash": -1123905143
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23301,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159316449
+        },
+        "nameMono": {
+            "hash": -1123904186
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23302,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159316448
+        },
+        "nameMono": {
+            "hash": -1123904185
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23303,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": -1159316447
+        },
+        "nameMono": {
+            "hash": -1123904184
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23304,
+        "level": 2,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": -1159316446
+        },
+        "nameMono": {
+            "hash": -1123904183
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 23305,
+        "level": 3,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": -1159316445
+        },
+        "nameMono": {
+            "hash": -1123904182
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 24101,
+        "level": 1,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159288580
+        },
+        "nameMono": {
+            "hash": -1123876317
+        },
+        "UIClass": [
+            1
+        ]
+    },
+    {
+        "affixID": 24102,
+        "level": 1,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159288579
+        },
+        "nameMono": {
+            "hash": -1123876316
+        },
+        "UIClass": [
+            1
+        ]
+    },
+    {
+        "affixID": 24103,
+        "level": 2,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1159288578
+        },
+        "nameMono": {
+            "hash": -1123876315
+        },
+        "UIClass": [
+            1
+        ]
+    },
+    {
+        "affixID": 24104,
+        "level": 3,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159288577
+        },
+        "nameMono": {
+            "hash": -1123876314
+        },
+        "UIClass": [
+            1
+        ]
+    },
+    {
+        "affixID": 24105,
+        "level": 3,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159288576
+        },
+        "nameMono": {
+            "hash": -1123876313
+        },
+        "UIClass": [
+            1
+        ]
+    },
+    {
+        "affixID": 24201,
+        "level": 1,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159287619
+        },
+        "nameMono": {
+            "hash": -1123875356
+        },
+        "UIClass": [
+            2
+        ]
+    },
+    {
+        "affixID": 24202,
+        "level": 1,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159287618
+        },
+        "nameMono": {
+            "hash": -1123875355
+        },
+        "UIClass": [
+            2
+        ]
+    },
+    {
+        "affixID": 24203,
+        "level": 2,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1159287617
+        },
+        "nameMono": {
+            "hash": -1123875354
+        },
+        "UIClass": [
+            2
+        ]
+    },
+    {
+        "affixID": 24204,
+        "level": 3,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159287616
+        },
+        "nameMono": {
+            "hash": -1123875353
+        },
+        "UIClass": [
+            2
+        ]
+    },
+    {
+        "affixID": 24205,
+        "level": 3,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159287615
+        },
+        "nameMono": {
+            "hash": -1123875352
+        },
+        "UIClass": [
+            2
+        ]
+    },
+    {
+        "affixID": 24301,
+        "level": 1,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159286658
+        },
+        "nameMono": {
+            "hash": -1123874395
+        },
+        "UIClass": [
+            3
+        ]
+    },
+    {
+        "affixID": 24302,
+        "level": 1,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159286657
+        },
+        "nameMono": {
+            "hash": -1123874394
+        },
+        "UIClass": [
+            3
+        ]
+    },
+    {
+        "affixID": 24303,
+        "level": 2,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1159286656
+        },
+        "nameMono": {
+            "hash": -1123874393
+        },
+        "UIClass": [
+            3
+        ]
+    },
+    {
+        "affixID": 24304,
+        "level": 3,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159286655
+        },
+        "nameMono": {
+            "hash": -1123874392
+        },
+        "UIClass": [
+            3
+        ]
+    },
+    {
+        "affixID": 24305,
+        "level": 3,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159286654
+        },
+        "nameMono": {
+            "hash": -1123874391
+        },
+        "UIClass": [
+            3
+        ]
+    },
+    {
+        "affixID": 24401,
+        "level": 1,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159285697
+        },
+        "nameMono": {
+            "hash": -1123873434
+        },
+        "UIClass": [
+            4
+        ]
+    },
+    {
+        "affixID": 24402,
+        "level": 1,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": -1159285696
+        },
+        "nameMono": {
+            "hash": -1123873433
+        },
+        "UIClass": [
+            4
+        ]
+    },
+    {
+        "affixID": 24403,
+        "level": 2,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": -1159285695
+        },
+        "nameMono": {
+            "hash": -1123873432
+        },
+        "UIClass": [
+            4
+        ]
+    },
+    {
+        "affixID": 24404,
+        "level": 3,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159285694
+        },
+        "nameMono": {
+            "hash": -1123873431
+        },
+        "UIClass": [
+            4
+        ]
+    },
+    {
+        "affixID": 24405,
+        "level": 3,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": -1159285693
+        },
+        "nameMono": {
+            "hash": -1123873430
+        },
+        "UIClass": [
+            4
+        ]
+    },
+    {
+        "affixID": 30011,
+        "level": 1,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 100.0,
+        "valueMin": 37.5,
+        "valueStep": 0.625,
+        "nameDual": {
+            "hash": 1122073476
+        },
+        "nameMono": {
+            "hash": 1122073476
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30012,
+        "level": 2,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 163.0,
+        "valueMin": 87.5,
+        "valueStep": 0.755,
+        "nameDual": {
+            "hash": 1122073477
+        },
+        "nameMono": {
+            "hash": 1122073477
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30013,
+        "level": 3,
+        "propID": 902,
+        "UINature": 0,
+        "UIType": 1,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 238.0,
+        "valueMin": 150.0,
+        "valueStep": 0.88,
+        "nameDual": {
+            "hash": 1122073478
+        },
+        "nameMono": {
+            "hash": 1122073478
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30021,
+        "level": 1,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.0,
+        "valueMin": 3.0,
+        "valueStep": 0.05,
+        "nameDual": {
+            "hash": 1122073507
+        },
+        "nameMono": {
+            "hash": 1122073507
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30022,
+        "level": 2,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 13.0,
+        "valueMin": 7.0,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122073508
+        },
+        "nameMono": {
+            "hash": 1122073508
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30023,
+        "level": 3,
+        "propID": 904,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 19.0,
+        "valueMin": 12.0,
+        "valueStep": 0.07,
+        "nameDual": {
+            "hash": 1122073509
+        },
+        "nameMono": {
+            "hash": 1122073509
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30031,
+        "level": 1,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 5.3,
+        "valueMin": 2.0,
+        "valueStep": 0.033,
+        "nameDual": {
+            "hash": 1122073538
+        },
+        "nameMono": {
+            "hash": 1122073538
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30032,
+        "level": 2,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 8.7,
+        "valueMin": 4.7,
+        "valueStep": 0.04,
+        "nameDual": {
+            "hash": 1122073539
+        },
+        "nameMono": {
+            "hash": 1122073539
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30033,
+        "level": 3,
+        "propID": 906,
+        "UINature": 0,
+        "UIType": 5,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 12.7,
+        "valueMin": 8.0,
+        "valueStep": 0.047,
+        "nameDual": {
+            "hash": 1122073540
+        },
+        "nameMono": {
+            "hash": 1122073540
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30041,
+        "level": 1,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.024,
+        "valueMin": 0.009,
+        "valueStep": 0.00015,
+        "nameDual": {
+            "hash": 1122073569
+        },
+        "nameMono": {
+            "hash": 1122073569
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30042,
+        "level": 2,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.038,
+        "valueMin": 0.021,
+        "valueStep": 0.00017,
+        "nameDual": {
+            "hash": 1122073570
+        },
+        "nameMono": {
+            "hash": 1122073570
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30043,
+        "level": 3,
+        "propID": 907,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.056,
+        "valueMin": 0.035,
+        "valueStep": 0.00021,
+        "nameDual": {
+            "hash": 1122073571
+        },
+        "nameMono": {
+            "hash": 1122073571
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30051,
+        "level": 1,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.7,
+        "valueMin": 4.0,
+        "valueStep": 0.067,
+        "nameDual": {
+            "hash": 1122073600
+        },
+        "nameMono": {
+            "hash": 1122073600
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30052,
+        "level": 2,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 17.3,
+        "valueMin": 9.3,
+        "valueStep": 0.08,
+        "nameDual": {
+            "hash": 1122073601
+        },
+        "nameMono": {
+            "hash": 1122073601
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30053,
+        "level": 3,
+        "propID": 911,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 25.3,
+        "valueMin": 16.0,
+        "valueStep": 0.093,
+        "nameDual": {
+            "hash": 1122073602
+        },
+        "nameMono": {
+            "hash": 1122073602
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30061,
+        "level": 1,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122073631
+        },
+        "nameMono": {
+            "hash": 1122073631
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30062,
+        "level": 2,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122073632
+        },
+        "nameMono": {
+            "hash": 1122073632
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30063,
+        "level": 3,
+        "propID": 921,
+        "UINature": 1,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122073633
+        },
+        "nameMono": {
+            "hash": 1122073633
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30071,
+        "level": 1,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122073662
+        },
+        "nameMono": {
+            "hash": 1122073662
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30072,
+        "level": 2,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122073663
+        },
+        "nameMono": {
+            "hash": 1122073663
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30073,
+        "level": 3,
+        "propID": 922,
+        "UINature": 3,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122073664
+        },
+        "nameMono": {
+            "hash": 1122073664
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30081,
+        "level": 1,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122073693
+        },
+        "nameMono": {
+            "hash": 1122073693
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30082,
+        "level": 2,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122073694
+        },
+        "nameMono": {
+            "hash": 1122073694
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30083,
+        "level": 3,
+        "propID": 923,
+        "UINature": 2,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122073695
+        },
+        "nameMono": {
+            "hash": 1122073695
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30091,
+        "level": 1,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": 1122073724
+        },
+        "nameMono": {
+            "hash": 1122073724
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30092,
+        "level": 2,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": 1122073725
+        },
+        "nameMono": {
+            "hash": 1122073725
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30093,
+        "level": 3,
+        "propID": 931,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": 1122073726
+        },
+        "nameMono": {
+            "hash": 1122073726
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30101,
+        "level": 1,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": 1122074406
+        },
+        "nameMono": {
+            "hash": 1122074406
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30102,
+        "level": 2,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": 1122074407
+        },
+        "nameMono": {
+            "hash": 1122074407
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30103,
+        "level": 3,
+        "propID": 932,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": 1122074408
+        },
+        "nameMono": {
+            "hash": 1122074408
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30111,
+        "level": 1,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 6.0,
+        "valueMin": 2.3,
+        "valueStep": 0.037,
+        "nameDual": {
+            "hash": 1122074437
+        },
+        "nameMono": {
+            "hash": 1122074437
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30112,
+        "level": 2,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 10.0,
+        "valueMin": 5.4,
+        "valueStep": 0.046,
+        "nameDual": {
+            "hash": 1122074438
+        },
+        "nameMono": {
+            "hash": 1122074438
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30113,
+        "level": 3,
+        "propID": 933,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.0,
+        "valueMin": 9.2,
+        "valueStep": 0.058,
+        "nameDual": {
+            "hash": 1122074439
+        },
+        "nameMono": {
+            "hash": 1122074439
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30121,
+        "level": 1,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074468
+        },
+        "nameMono": {
+            "hash": 1122074468
+        },
+        "UIClass": [
+            1,
+            8
+        ]
+    },
+    {
+        "affixID": 30122,
+        "level": 2,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074469
+        },
+        "nameMono": {
+            "hash": 1122074469
+        },
+        "UIClass": [
+            1,
+            8
+        ]
+    },
+    {
+        "affixID": 30123,
+        "level": 3,
+        "propID": 941,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074470
+        },
+        "nameMono": {
+            "hash": 1122074470
+        },
+        "UIClass": [
+            1,
+            8
+        ]
+    },
+    {
+        "affixID": 30131,
+        "level": 1,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074499
+        },
+        "nameMono": {
+            "hash": 1122074499
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30132,
+        "level": 2,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074500
+        },
+        "nameMono": {
+            "hash": 1122074500
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30133,
+        "level": 3,
+        "propID": 942,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074501
+        },
+        "nameMono": {
+            "hash": 1122074501
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30141,
+        "level": 1,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074530
+        },
+        "nameMono": {
+            "hash": 1122074530
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30142,
+        "level": 2,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074531
+        },
+        "nameMono": {
+            "hash": 1122074531
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30143,
+        "level": 3,
+        "propID": 943,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074532
+        },
+        "nameMono": {
+            "hash": 1122074532
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30151,
+        "level": 1,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074561
+        },
+        "nameMono": {
+            "hash": 1122074561
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30152,
+        "level": 2,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074562
+        },
+        "nameMono": {
+            "hash": 1122074562
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30153,
+        "level": 3,
+        "propID": 944,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074563
+        },
+        "nameMono": {
+            "hash": 1122074563
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30161,
+        "level": 1,
+        "propID": 954,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074592
+        },
+        "nameMono": {
+            "hash": 1122074592
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30162,
+        "level": 2,
+        "propID": 954,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074593
+        },
+        "nameMono": {
+            "hash": 1122074593
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30163,
+        "level": 3,
+        "propID": 954,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074594
+        },
+        "nameMono": {
+            "hash": 1122074594
+        },
+        "UIClass": [
+            2,
+            5
+        ]
+    },
+    {
+        "affixID": 30171,
+        "level": 1,
+        "propID": 955,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074623
+        },
+        "nameMono": {
+            "hash": 1122074623
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30172,
+        "level": 2,
+        "propID": 955,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074624
+        },
+        "nameMono": {
+            "hash": 1122074624
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30173,
+        "level": 3,
+        "propID": 955,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074625
+        },
+        "nameMono": {
+            "hash": 1122074625
+        },
+        "UIClass": [
+            4,
+            6
+        ]
+    },
+    {
+        "affixID": 30181,
+        "level": 1,
+        "propID": 956,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074654
+        },
+        "nameMono": {
+            "hash": 1122074654
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30182,
+        "level": 2,
+        "propID": 956,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074655
+        },
+        "nameMono": {
+            "hash": 1122074655
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30183,
+        "level": 3,
+        "propID": 956,
+        "UINature": 0,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074656
+        },
+        "nameMono": {
+            "hash": 1122074656
+        },
+        "UIClass": [
+            3,
+            7
+        ]
+    },
+    {
+        "affixID": 30191,
+        "level": 1,
+        "propID": 957,
+        "UINature": 4,
+        "UIType": 3,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 9.6,
+        "valueMin": 3.6,
+        "valueStep": 0.06,
+        "nameDual": {
+            "hash": 1122074685
+        },
+        "nameMono": {
+            "hash": 1122074685
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30192,
+        "level": 2,
+        "propID": 957,
+        "UINature": 4,
+        "UIType": 3,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 15.6,
+        "valueMin": 8.4,
+        "valueStep": 0.072,
+        "nameDual": {
+            "hash": 1122074686
+        },
+        "nameMono": {
+            "hash": 1122074686
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 30193,
+        "level": 3,
+        "propID": 957,
+        "UINature": 4,
+        "UIType": 3,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 23.0,
+        "valueMin": 14.4,
+        "valueStep": 0.086,
+        "nameDual": {
+            "hash": 1122074687
+        },
+        "nameMono": {
+            "hash": 1122074687
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40011,
+        "level": 1,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 20.0,
+        "valueMin": 7.5,
+        "valueStep": 0.125,
+        "nameDual": {
+            "hash": 1122996997
+        },
+        "nameMono": {
+            "hash": 1122996997
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40012,
+        "level": 2,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 33.0,
+        "valueMin": 17.5,
+        "valueStep": 0.155,
+        "nameDual": {
+            "hash": 1122996998
+        },
+        "nameMono": {
+            "hash": 1122996998
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40013,
+        "level": 3,
+        "propID": 905,
+        "UINature": 0,
+        "UIType": 4,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 48.0,
+        "valueMin": 30.0,
+        "valueStep": 0.18,
+        "nameDual": {
+            "hash": 1122996999
+        },
+        "nameMono": {
+            "hash": 1122996999
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40021,
+        "level": 1,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": 1122997028
+        },
+        "nameMono": {
+            "hash": 1122997028
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40022,
+        "level": 2,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": 1122997029
+        },
+        "nameMono": {
+            "hash": 1122997029
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40023,
+        "level": 3,
+        "propID": 951,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": 1122997030
+        },
+        "nameMono": {
+            "hash": 1122997030
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40031,
+        "level": 1,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": 1122997059
+        },
+        "nameMono": {
+            "hash": 1122997059
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40032,
+        "level": 2,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": 1122997060
+        },
+        "nameMono": {
+            "hash": 1122997060
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40033,
+        "level": 3,
+        "propID": 952,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": 1122997061
+        },
+        "nameMono": {
+            "hash": 1122997061
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40041,
+        "level": 1,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.05,
+        "valueMin": 0.019,
+        "valueStep": 0.00031,
+        "nameDual": {
+            "hash": 1122997090
+        },
+        "nameMono": {
+            "hash": 1122997090
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40042,
+        "level": 2,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.081,
+        "valueMin": 0.044,
+        "valueStep": 0.00037,
+        "nameDual": {
+            "hash": 1122997091
+        },
+        "nameMono": {
+            "hash": 1122997091
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 40043,
+        "level": 3,
+        "propID": 953,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.12,
+        "valueMin": 0.075,
+        "valueStep": 0.00045,
+        "nameDual": {
+            "hash": 1122997092
+        },
+        "nameMono": {
+            "hash": 1122997092
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50011,
+        "level": 1,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 7.0,
+        "valueMin": 2.5,
+        "valueStep": 0.045,
+        "nameDual": {
+            "hash": 1123920518
+        },
+        "nameMono": {
+            "hash": 1123920518
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50012,
+        "level": 2,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 11.0,
+        "valueMin": 5.9,
+        "valueStep": 0.051,
+        "nameDual": {
+            "hash": 1123920519
+        },
+        "nameMono": {
+            "hash": 1123920519
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50013,
+        "level": 3,
+        "propID": 903,
+        "UINature": 0,
+        "UIType": 2,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": 16.0,
+        "valueMin": 10.1,
+        "valueStep": 0.059,
+        "nameDual": {
+            "hash": 1123920520
+        },
+        "nameMono": {
+            "hash": 1123920520
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50021,
+        "level": 1,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 1.3,
+        "valueMin": 0.5,
+        "valueStep": 0.008,
+        "nameDual": {
+            "hash": 1123920549
+        },
+        "nameMono": {
+            "hash": 1123920549
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50022,
+        "level": 2,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 2.2,
+        "valueMin": 1.2,
+        "valueStep": 0.01,
+        "nameDual": {
+            "hash": 1123920550
+        },
+        "nameMono": {
+            "hash": 1123920550
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50023,
+        "level": 3,
+        "propID": 908,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 3.2,
+        "valueMin": 2.0,
+        "valueStep": 0.012,
+        "nameDual": {
+            "hash": 1123920551
+        },
+        "nameMono": {
+            "hash": 1123920551
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50031,
+        "level": 1,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.21,
+        "valueMin": 0.08,
+        "valueStep": 0.0013,
+        "nameDual": {
+            "hash": 1123920580
+        },
+        "nameMono": {
+            "hash": 1123920580
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50032,
+        "level": 2,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.34,
+        "valueMin": 0.18,
+        "valueStep": 0.0016,
+        "nameDual": {
+            "hash": 1123920581
+        },
+        "nameMono": {
+            "hash": 1123920581
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50033,
+        "level": 3,
+        "propID": 909,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 3.0,
+        "PropParam3": 0.0,
+        "valueMax": 0.5,
+        "valueMin": 0.32,
+        "valueStep": 0.0018,
+        "nameDual": {
+            "hash": 1123920582
+        },
+        "nameMono": {
+            "hash": 1123920582
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50041,
+        "level": 1,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.5,
+        "baseValue": 90.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.013,
+        "valueMin": -0.005,
+        "valueStep": -8e-05,
+        "nameDual": {
+            "hash": 1123920611
+        },
+        "nameMono": {
+            "hash": 1123920611
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50042,
+        "level": 2,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 1.8,
+        "baseValue": 210.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.022,
+        "valueMin": -0.012,
+        "valueStep": -0.0001,
+        "nameDual": {
+            "hash": 1123920612
+        },
+        "nameMono": {
+            "hash": 1123920612
+        },
+        "UIClass": []
+    },
+    {
+        "affixID": 50043,
+        "level": 3,
+        "propID": 910,
+        "UINature": 0,
+        "UIType": 0,
+        "addPerPercent": 2.1,
+        "baseValue": 360.0,
+        "PropParam2": 0.0,
+        "PropParam3": 0.0,
+        "valueMax": -0.032,
+        "valueMin": -0.02,
+        "valueStep": -0.00012,
+        "nameDual": {
+            "hash": 1123920613
+        },
+        "nameMono": {
+            "hash": 1123920613
+        },
+        "UIClass": []
+    }
+]

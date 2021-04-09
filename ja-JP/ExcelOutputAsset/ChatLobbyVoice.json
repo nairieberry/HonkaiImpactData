@@ -1,0 +1,2396 @@
+[
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 136,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ai_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 137,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ai_Hi_02"
+    },
+    {
+        "FromHour": 6,
+        "ToHour": 10,
+        "ID": 138,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ai_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 139,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ai_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 140,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Bro_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 141,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Bro_Hi_02"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 142,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Bro_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 143,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Bro_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 144,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fuk_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 145,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fuk_Hi_02"
+    },
+    {
+        "FromHour": 6,
+        "ToHour": 10,
+        "ID": 146,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fuk_Hi_04"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 147,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fuk_Hi_05"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 148,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 149,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_Hi_02"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 150,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 151,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 152,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kal_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 153,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kal_Hi_02"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 154,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kal_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 155,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kal_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 156,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kia_Hi_01"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 157,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kia_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 158,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kia_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 159,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kia_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 160,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Mei_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 161,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Mei_Hi_02"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 162,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Mei_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 163,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Mei_Hi_04"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 164,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sak_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 165,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sak_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 166,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sak_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 167,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sak_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 168,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 169,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_Hi_02"
+    },
+    {
+        "FromHour": 4,
+        "ToHour": 10,
+        "ID": 170,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 171,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 172,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Tes_Hi_01"
+    },
+    {
+        "FromHour": 6,
+        "ToHour": 12,
+        "ID": 173,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Tes_Hi_02"
+    },
+    {
+        "FromHour": 12,
+        "ToHour": 18,
+        "ID": 174,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Tes_Hi_03"
+    },
+    {
+        "FromHour": 18,
+        "ToHour": 24,
+        "ID": 175,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Tes_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 176,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sch_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 177,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sch_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 178,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sch_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 179,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sch_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 180,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Edi_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 181,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Edi_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 182,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Edi_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 183,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Edi_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 184,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fux_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 185,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fux_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 186,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fux_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 187,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fux_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 188,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nvw_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 189,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nvw_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 190,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nvw_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 191,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nvw_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 192,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cha_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 193,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cha_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 194,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cha_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 195,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cha_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 196,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 197,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 198,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 199,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 200,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Non_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 201,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Non_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 202,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Non_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 203,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Non_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 204,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ban_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 205,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ban_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 206,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ban_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 207,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ban_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 208,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ein_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 209,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ein_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 210,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ein_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 211,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Ein_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 212,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nag_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 213,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nag_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 214,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nag_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 215,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Nag_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 216,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kep_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 217,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kep_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 218,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kep_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 219,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Kep_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 220,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Wei_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 221,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Wei_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 222,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Wei_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 223,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Wei_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 224,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Luc_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 225,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Luc_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 226,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Luc_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 227,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Luc_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 228,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_New_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 229,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_New_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 230,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_New_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 231,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_New_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 232,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Yuk_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 233,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Yuk_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 234,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Yuk_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 235,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Yuk_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 236,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Vio_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 237,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Vio_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 238,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Vio_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 239,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Vio_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 240,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cec_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 241,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cec_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 242,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cec_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 243,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Cec_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 244,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_See_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 245,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_See_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 246,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_See_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 247,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_See_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 248,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 249,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 250,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 251,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Fei_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 252,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sha_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 253,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sha_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 254,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sha_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 255,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Sha_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 256,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Lhn_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 257,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Lhn_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 258,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Lhn_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 259,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Lhn_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 260,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_NQ_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 261,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_NQ_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 262,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_NQ_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 263,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_Him_NQ_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 264,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_GM_Hi_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 265,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_GM_Hi_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 266,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_GM_Hi_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 267,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Hi",
+        "AudioPattern": "VO_Dorm_The_GM_Hi_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 506,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ai_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 507,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ai_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 508,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ai_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 509,
+        "RoleID": 0,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ai_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 510,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Bro_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 511,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Bro_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 512,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Bro_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 513,
+        "RoleID": 3,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Bro_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 514,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fuk_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 515,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fuk_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 516,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fuk_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 517,
+        "RoleID": 6,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fuk_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 518,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 519,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 520,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 521,
+        "RoleID": 4,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 522,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kal_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 523,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kal_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 524,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kal_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 525,
+        "RoleID": 102,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kal_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 526,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kia_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 527,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kia_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 528,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kia_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 529,
+        "RoleID": 1,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kia_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 530,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Mei_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 531,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Mei_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 532,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Mei_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 533,
+        "RoleID": 2,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Mei_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 534,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sak_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 535,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sak_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 536,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sak_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 537,
+        "RoleID": 101,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sak_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 538,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 539,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 540,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 541,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 542,
+        "RoleID": 5,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_Dance_05"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 543,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Tes_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 544,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Tes_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 545,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Tes_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 546,
+        "RoleID": 70011,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Tes_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 547,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sch_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 548,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sch_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 549,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sch_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 550,
+        "RoleID": 70026,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sch_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 551,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Edi_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 552,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Edi_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 553,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Edi_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 554,
+        "RoleID": 70022,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Edi_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 555,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fux_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 556,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fux_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 557,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fux_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 558,
+        "RoleID": 70019,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fux_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 559,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nvw_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 560,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nvw_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 561,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nvw_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 562,
+        "RoleID": 70020,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nvw_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 563,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cha_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 564,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cha_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 565,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cha_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 566,
+        "RoleID": 70038,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cha_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 567,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 568,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 569,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 570,
+        "RoleID": 70065,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 571,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Non_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 572,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Non_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 573,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Non_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 574,
+        "RoleID": 70041,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Non_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 575,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ban_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 576,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ban_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 577,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ban_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 578,
+        "RoleID": 70010,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ban_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 579,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ein_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 580,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ein_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 581,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ein_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 582,
+        "RoleID": 70017,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Ein_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 583,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nag_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 584,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nag_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 585,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nag_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 586,
+        "RoleID": 70054,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Nag_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 587,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kep_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 588,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kep_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 589,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kep_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 590,
+        "RoleID": 70049,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Kep_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 591,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Wei_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 592,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Wei_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 593,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Wei_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 594,
+        "RoleID": 70004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Wei_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 595,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Luc_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 596,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Luc_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 597,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Luc_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 598,
+        "RoleID": 70005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Luc_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 599,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_New_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 600,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_New_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 601,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_New_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 602,
+        "RoleID": 70025,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_New_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 603,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Yuk_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 604,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Yuk_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 605,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Yuk_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 606,
+        "RoleID": 70037,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Yuk_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 607,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Vio_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 608,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Vio_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 609,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Vio_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 610,
+        "RoleID": 70006,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Vio_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 611,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cec_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 612,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cec_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 613,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cec_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 614,
+        "RoleID": 70086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Cec_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 615,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_See_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 616,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_See_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 617,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_See_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 618,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_See_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 619,
+        "RoleID": 72086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_See_Dance_05"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 620,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 621,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 622,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 623,
+        "RoleID": 71086,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Fei_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 624,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sha_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 625,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sha_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 626,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sha_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 627,
+        "RoleID": 70014,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Sha_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 628,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Lhn_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 629,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Lhn_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 630,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Lhn_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 631,
+        "RoleID": 10001,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Lhn_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 632,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_NQ_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 633,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_NQ_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 634,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_NQ_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 635,
+        "RoleID": 10004,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_Him_NQ_Dance_04"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 636,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_GM_Dance_01"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 637,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_GM_Dance_02"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 638,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_GM_Dance_03"
+    },
+    {
+        "FromHour": 0,
+        "ToHour": 24,
+        "ID": 639,
+        "RoleID": 10005,
+        "Weight": 2.0,
+        "AudioID": "Dorm_Voice_Dance",
+        "AudioPattern": "VO_Dorm_The_GM_Dance_04"
+    }
+]

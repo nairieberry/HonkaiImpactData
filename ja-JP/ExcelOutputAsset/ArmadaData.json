@@ -1,0 +1,67 @@
+[
+    {
+        "BossNum": 1,
+        "ContactNum": 4,
+        "costFund": 0,
+        "costTime": 0,
+        "exchequerNum": 2,
+        "grids": 10,
+        "HangarNum": 1,
+        "level": 1,
+        "officerNum": 2,
+        "requirePopl": 0,
+        "workshopNum": 1
+    },
+    {
+        "BossNum": 1,
+        "ContactNum": 6,
+        "costFund": 12000,
+        "costTime": 10800,
+        "exchequerNum": 4,
+        "grids": 16,
+        "HangarNum": 1,
+        "level": 2,
+        "officerNum": 3,
+        "requirePopl": 6000,
+        "workshopNum": 1
+    },
+    {
+        "BossNum": 1,
+        "ContactNum": 9,
+        "costFund": 90000,
+        "costTime": 21600,
+        "exchequerNum": 6,
+        "grids": 22,
+        "HangarNum": 1,
+        "level": 3,
+        "officerNum": 4,
+        "requirePopl": 50000,
+        "workshopNum": 1
+    },
+    {
+        "BossNum": 1,
+        "ContactNum": 12,
+        "costFund": 350000,
+        "costTime": 43200,
+        "exchequerNum": 8,
+        "grids": 28,
+        "HangarNum": 1,
+        "level": 4,
+        "officerNum": 5,
+        "requirePopl": 210000,
+        "workshopNum": 1
+    },
+    {
+        "BossNum": 1,
+        "ContactNum": 15,
+        "costFund": 750000,
+        "costTime": 43200,
+        "exchequerNum": 10,
+        "grids": 34,
+        "HangarNum": 1,
+        "level": 5,
+        "officerNum": 6,
+        "requirePopl": 450000,
+        "workshopNum": 1
+    }
+]

@@ -1,0 +1,1370 @@
+[
+    {
+        "GroupID": 41,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 42,
+        "NeedProcess": 40,
+        "RewardID": 70004,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 51,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 52,
+        "NeedProcess": 40,
+        "RewardID": 70005,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 61,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 62,
+        "NeedProcess": 40,
+        "RewardID": 70006,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 71,
+        "NeedProcess": 20,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 72,
+        "NeedProcess": 40,
+        "RewardID": 70007,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 101,
+        "NeedProcess": 30,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 102,
+        "NeedProcess": 60,
+        "RewardID": 70010,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 111,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 112,
+        "NeedProcess": 40,
+        "RewardID": 70011,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 121,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 122,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 123,
+        "NeedProcess": 100,
+        "RewardID": 70012,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 141,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 142,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 143,
+        "NeedProcess": 120,
+        "RewardID": 70014,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 151,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 152,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 153,
+        "NeedProcess": 120,
+        "RewardID": 70015,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 171,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 172,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 173,
+        "NeedProcess": 100,
+        "RewardID": 70017,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 191,
+        "NeedProcess": 50,
+        "RewardID": 122001,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 192,
+        "NeedProcess": 80,
+        "RewardID": 122002,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 193,
+        "NeedProcess": 120,
+        "RewardID": 70019,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 201,
+        "NeedProcess": 30,
+        "RewardID": 122011,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 202,
+        "NeedProcess": 60,
+        "RewardID": 122012,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 203,
+        "NeedProcess": 100,
+        "RewardID": 70020,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 221,
+        "NeedProcess": 30,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 222,
+        "NeedProcess": 60,
+        "RewardID": 70022,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 251,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 252,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 253,
+        "NeedProcess": 120,
+        "RewardID": 70025,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 261,
+        "NeedProcess": 50,
+        "RewardID": 122041,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 262,
+        "NeedProcess": 80,
+        "RewardID": 122042,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 263,
+        "NeedProcess": 120,
+        "RewardID": 70026,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 271,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 272,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 273,
+        "NeedProcess": 120,
+        "RewardID": 70027,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 281,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 282,
+        "NeedProcess": 40,
+        "RewardID": 70028,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 291,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 292,
+        "NeedProcess": 40,
+        "RewardID": 70029,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 301,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 302,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 303,
+        "NeedProcess": 100,
+        "RewardID": 70030,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 321,
+        "NeedProcess": 20,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 322,
+        "NeedProcess": 40,
+        "RewardID": 70032,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 331,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 332,
+        "NeedProcess": 40,
+        "RewardID": 70033,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 351,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 352,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 353,
+        "NeedProcess": 100,
+        "RewardID": 70035,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 371,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 372,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 373,
+        "NeedProcess": 100,
+        "RewardID": 70037,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 381,
+        "NeedProcess": 30,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 382,
+        "NeedProcess": 60,
+        "RewardID": 70038,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 411,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 412,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 413,
+        "NeedProcess": 100,
+        "RewardID": 70041,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 441,
+        "NeedProcess": 20,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 442,
+        "NeedProcess": 40,
+        "RewardID": 70044,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 451,
+        "NeedProcess": 20,
+        "RewardID": 122031,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 452,
+        "NeedProcess": 40,
+        "RewardID": 70045,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 491,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 492,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 493,
+        "NeedProcess": 100,
+        "RewardID": 70049,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 541,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 542,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 543,
+        "NeedProcess": 100,
+        "RewardID": 70054,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 551,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 552,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 553,
+        "NeedProcess": 120,
+        "RewardID": 70055,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 601,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 602,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 603,
+        "NeedProcess": 100,
+        "RewardID": 70060,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 621,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 622,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 623,
+        "NeedProcess": 120,
+        "RewardID": 70062,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 651,
+        "NeedProcess": 50,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 652,
+        "NeedProcess": 80,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 653,
+        "NeedProcess": 120,
+        "RewardID": 70065,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 801,
+        "NeedProcess": 20,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 802,
+        "NeedProcess": 40,
+        "RewardID": 70080,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 861,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 862,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 863,
+        "NeedProcess": 100,
+        "RewardID": 70086,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 10100,
+        "NeedProcess": 0,
+        "RewardID": 101,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 10101,
+        "NeedProcess": 20,
+        "RewardID": 121400,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10102,
+        "NeedProcess": 40,
+        "RewardID": 121450,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10201,
+        "NeedProcess": 30,
+        "RewardID": 102,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 10202,
+        "NeedProcess": 60,
+        "RewardID": 121401,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10203,
+        "NeedProcess": 80,
+        "RewardID": 121451,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10301,
+        "NeedProcess": 40,
+        "RewardID": 103,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 10302,
+        "NeedProcess": 80,
+        "RewardID": 121402,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10303,
+        "NeedProcess": 120,
+        "RewardID": 121452,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10401,
+        "NeedProcess": 30,
+        "RewardID": 104,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 10402,
+        "NeedProcess": 50,
+        "RewardID": 121403,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10403,
+        "NeedProcess": 70,
+        "RewardID": 121453,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10861,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10862,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 10863,
+        "NeedProcess": 100,
+        "RewardID": 71086,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 11101,
+        "NeedProcess": 40,
+        "RewardID": 111,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 11102,
+        "NeedProcess": 80,
+        "RewardID": 121404,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11103,
+        "NeedProcess": 120,
+        "RewardID": 121454,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11201,
+        "NeedProcess": 20,
+        "RewardID": 112,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 11202,
+        "NeedProcess": 40,
+        "RewardID": 121405,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11203,
+        "NeedProcess": 60,
+        "RewardID": 121455,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11301,
+        "NeedProcess": 40,
+        "RewardID": 113,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 11302,
+        "NeedProcess": 80,
+        "RewardID": 121431,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11303,
+        "NeedProcess": 120,
+        "RewardID": 121481,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11401,
+        "NeedProcess": 30,
+        "RewardID": 114,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 11402,
+        "NeedProcess": 50,
+        "RewardID": 121432,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 11403,
+        "NeedProcess": 70,
+        "RewardID": 121482,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20100,
+        "NeedProcess": 0,
+        "RewardID": 201,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 20101,
+        "NeedProcess": 20,
+        "RewardID": 121406,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20102,
+        "NeedProcess": 40,
+        "RewardID": 121456,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20201,
+        "NeedProcess": 30,
+        "RewardID": 202,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 20202,
+        "NeedProcess": 50,
+        "RewardID": 121407,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20203,
+        "NeedProcess": 70,
+        "RewardID": 121457,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20301,
+        "NeedProcess": 30,
+        "RewardID": 203,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 20302,
+        "NeedProcess": 60,
+        "RewardID": 121408,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20303,
+        "NeedProcess": 80,
+        "RewardID": 121458,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20401,
+        "NeedProcess": 40,
+        "RewardID": 204,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 20402,
+        "NeedProcess": 80,
+        "RewardID": 121409,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20403,
+        "NeedProcess": 120,
+        "RewardID": 121459,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20861,
+        "NeedProcess": 30,
+        "RewardID": 122051,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20862,
+        "NeedProcess": 60,
+        "RewardID": 122052,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 20863,
+        "NeedProcess": 100,
+        "RewardID": 72086,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 21101,
+        "NeedProcess": 20,
+        "RewardID": 211,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 21102,
+        "NeedProcess": 40,
+        "RewardID": 121410,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 21103,
+        "NeedProcess": 60,
+        "RewardID": 121460,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 21201,
+        "NeedProcess": 40,
+        "RewardID": 212,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 21202,
+        "NeedProcess": 80,
+        "RewardID": 121411,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 21203,
+        "NeedProcess": 120,
+        "RewardID": 121461,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 21301,
+        "NeedProcess": 30,
+        "RewardID": 213,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 21302,
+        "NeedProcess": 60,
+        "RewardID": 121412,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 21303,
+        "NeedProcess": 80,
+        "RewardID": 121462,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30101,
+        "NeedProcess": 20,
+        "RewardID": 301,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 30102,
+        "NeedProcess": 40,
+        "RewardID": 121413,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30103,
+        "NeedProcess": 60,
+        "RewardID": 121463,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30201,
+        "NeedProcess": 30,
+        "RewardID": 302,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 30202,
+        "NeedProcess": 60,
+        "RewardID": 121414,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30203,
+        "NeedProcess": 80,
+        "RewardID": 121464,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30301,
+        "NeedProcess": 30,
+        "RewardID": 303,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 30302,
+        "NeedProcess": 50,
+        "RewardID": 121415,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30303,
+        "NeedProcess": 70,
+        "RewardID": 121465,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30401,
+        "NeedProcess": 40,
+        "RewardID": 304,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 30402,
+        "NeedProcess": 80,
+        "RewardID": 121416,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 30403,
+        "NeedProcess": 120,
+        "RewardID": 121466,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31101,
+        "NeedProcess": 30,
+        "RewardID": 311,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 31102,
+        "NeedProcess": 60,
+        "RewardID": 121417,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31103,
+        "NeedProcess": 80,
+        "RewardID": 121467,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31201,
+        "NeedProcess": 40,
+        "RewardID": 312,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 31202,
+        "NeedProcess": 80,
+        "RewardID": 121418,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31203,
+        "NeedProcess": 120,
+        "RewardID": 121468,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31301,
+        "NeedProcess": 40,
+        "RewardID": 313,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 31302,
+        "NeedProcess": 80,
+        "RewardID": 121431,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 31303,
+        "NeedProcess": 120,
+        "RewardID": 121481,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40101,
+        "NeedProcess": 30,
+        "RewardID": 401,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 40102,
+        "NeedProcess": 60,
+        "RewardID": 121419,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40103,
+        "NeedProcess": 80,
+        "RewardID": 121469,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40201,
+        "NeedProcess": 30,
+        "RewardID": 402,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 40202,
+        "NeedProcess": 50,
+        "RewardID": 121420,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40203,
+        "NeedProcess": 70,
+        "RewardID": 121470,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40301,
+        "NeedProcess": 20,
+        "RewardID": 403,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 40302,
+        "NeedProcess": 40,
+        "RewardID": 121421,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40303,
+        "NeedProcess": 60,
+        "RewardID": 121471,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40401,
+        "NeedProcess": 40,
+        "RewardID": 404,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 40402,
+        "NeedProcess": 80,
+        "RewardID": 121422,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 40403,
+        "NeedProcess": 120,
+        "RewardID": 121472,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 41101,
+        "NeedProcess": 30,
+        "RewardID": 411,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 41102,
+        "NeedProcess": 50,
+        "RewardID": 121432,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 41103,
+        "NeedProcess": 70,
+        "RewardID": 121482,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 41201,
+        "NeedProcess": 40,
+        "RewardID": 412,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 41202,
+        "NeedProcess": 80,
+        "RewardID": 121431,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 41203,
+        "NeedProcess": 120,
+        "RewardID": 121481,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 42101,
+        "NeedProcess": 30,
+        "RewardID": 421,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 42102,
+        "NeedProcess": 50,
+        "RewardID": 121429,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 42103,
+        "NeedProcess": 70,
+        "RewardID": 121479,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 42201,
+        "NeedProcess": 40,
+        "RewardID": 422,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 42202,
+        "NeedProcess": 80,
+        "RewardID": 121431,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 42203,
+        "NeedProcess": 120,
+        "RewardID": 121481,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50101,
+        "NeedProcess": 20,
+        "RewardID": 501,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 50102,
+        "NeedProcess": 40,
+        "RewardID": 121423,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50103,
+        "NeedProcess": 60,
+        "RewardID": 121473,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50201,
+        "NeedProcess": 40,
+        "RewardID": 502,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 50202,
+        "NeedProcess": 80,
+        "RewardID": 121424,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50203,
+        "NeedProcess": 120,
+        "RewardID": 121474,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50301,
+        "NeedProcess": 30,
+        "RewardID": 503,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 50302,
+        "NeedProcess": 60,
+        "RewardID": 121425,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50303,
+        "NeedProcess": 80,
+        "RewardID": 121475,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50401,
+        "NeedProcess": 40,
+        "RewardID": 504,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 50402,
+        "NeedProcess": 80,
+        "RewardID": 121426,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 50403,
+        "NeedProcess": 120,
+        "RewardID": 121476,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 51101,
+        "NeedProcess": 30,
+        "RewardID": 511,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 51102,
+        "NeedProcess": 50,
+        "RewardID": 121433,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 51103,
+        "NeedProcess": 70,
+        "RewardID": 121483,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60101,
+        "NeedProcess": 20,
+        "RewardID": 601,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 60102,
+        "NeedProcess": 40,
+        "RewardID": 121427,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60103,
+        "NeedProcess": 60,
+        "RewardID": 121477,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60201,
+        "NeedProcess": 40,
+        "RewardID": 602,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 60202,
+        "NeedProcess": 80,
+        "RewardID": 121428,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60203,
+        "NeedProcess": 120,
+        "RewardID": 121478,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60301,
+        "NeedProcess": 30,
+        "RewardID": 603,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 60302,
+        "NeedProcess": 50,
+        "RewardID": 121429,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60303,
+        "NeedProcess": 70,
+        "RewardID": 121479,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60401,
+        "NeedProcess": 40,
+        "RewardID": 604,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 60402,
+        "NeedProcess": 80,
+        "RewardID": 121428,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 60403,
+        "NeedProcess": 120,
+        "RewardID": 121478,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70201,
+        "NeedProcess": 30,
+        "RewardID": 702,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 70202,
+        "NeedProcess": 50,
+        "RewardID": 121429,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70203,
+        "NeedProcess": 70,
+        "RewardID": 121479,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70301,
+        "NeedProcess": 30,
+        "RewardID": 703,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 70302,
+        "NeedProcess": 50,
+        "RewardID": 121429,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70303,
+        "NeedProcess": 70,
+        "RewardID": 121479,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70401,
+        "NeedProcess": 40,
+        "RewardID": 704,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 70402,
+        "NeedProcess": 80,
+        "RewardID": 121431,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 70403,
+        "NeedProcess": 120,
+        "RewardID": 121481,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 71101,
+        "NeedProcess": 30,
+        "RewardID": 711,
+        "RewardType": 2
+    },
+    {
+        "GroupID": 71102,
+        "NeedProcess": 50,
+        "RewardID": 121429,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 71103,
+        "NeedProcess": 70,
+        "RewardID": 121479,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 71201,
+        "NeedProcess": 40,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 71202,
+        "NeedProcess": 80,
+        "RewardID": 122021,
+        "RewardType": 1
+    },
+    {
+        "GroupID": 71203,
+        "NeedProcess": 120,
+        "RewardID": 712,
+        "RewardType": 2
+    }
+]

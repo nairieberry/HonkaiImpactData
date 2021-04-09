@@ -1,0 +1,482 @@
+[
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 0,
+        "Displayreward3": 200623,
+        "Level": 0,
+        "ScheduleID": 1,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_0",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_01",
+        "TextMap_Level": "Armada_Dinner_Level0",
+        "RewardList": [
+            1451530,
+            1451531,
+            1451532
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 0
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 200624,
+        "Displayreward3": 200623,
+        "Level": 1,
+        "ScheduleID": 1,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_1",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_02",
+        "TextMap_Level": "Armada_Dinner_Level1",
+        "RewardList": [
+            200622,
+            200623,
+            200624
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 5
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 5
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 200623,
+        "Displayreward3": 200623,
+        "Level": 2,
+        "ScheduleID": 1,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_2",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_03",
+        "TextMap_Level": "Armada_Dinner_Level2",
+        "RewardList": [
+            200623,
+            200622,
+            200624
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 10
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 10
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200623,
+        "Displayreward2": 200624,
+        "Displayreward3": 200624,
+        "Level": 3,
+        "ScheduleID": 1,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_04",
+        "TextMap_Level": "Armada_Dinner_Level3",
+        "RewardList": [
+            200624,
+            200623,
+            200622
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 20
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 20
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 20
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 0,
+        "Displayreward3": 200623,
+        "Level": 0,
+        "ScheduleID": 2,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_0",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_01",
+        "TextMap_Level": "Armada_Dinner_Level0",
+        "RewardList": [
+            200622,
+            200623,
+            200624
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 0
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 200624,
+        "Displayreward3": 200623,
+        "Level": 1,
+        "ScheduleID": 2,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_1",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_02",
+        "TextMap_Level": "Armada_Dinner_Level1",
+        "RewardList": [
+            200622,
+            200623,
+            200624
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 5
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 5
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200624,
+        "Displayreward2": 200623,
+        "Displayreward3": 200623,
+        "Level": 2,
+        "ScheduleID": 2,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_2",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_03",
+        "TextMap_Level": "Armada_Dinner_Level2",
+        "RewardList": [
+            200623,
+            200622,
+            200624
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 10
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 10
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "Displayreward1": 200623,
+        "Displayreward2": 200624,
+        "Displayreward3": 200624,
+        "Level": 3,
+        "ScheduleID": 2,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_04",
+        "TextMap_Level": "Armada_Dinner_Level3",
+        "RewardList": [
+            200624,
+            200623,
+            200622
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 20
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 20
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 20
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451530,
+        "Displayreward2": 1451531,
+        "Displayreward3": 1451532,
+        "Level": 0,
+        "ScheduleID": 3,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_0",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_01",
+        "TextMap_Level": "Armada_Dinner_Level0",
+        "RewardList": [
+            1451530,
+            1451531,
+            1451532
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 0
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451533,
+        "Displayreward2": 1451534,
+        "Displayreward3": 1451535,
+        "Level": 1,
+        "ScheduleID": 3,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_1",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_02",
+        "TextMap_Level": "Armada_Dinner_Level1",
+        "RewardList": [
+            1451533,
+            1451534,
+            1451535
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 90
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 90
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 90
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451536,
+        "Displayreward2": 1451537,
+        "Displayreward3": 1451538,
+        "Level": 2,
+        "ScheduleID": 3,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_2",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_03",
+        "TextMap_Level": "Armada_Dinner_Level2",
+        "RewardList": [
+            1451536,
+            1451537,
+            1451538
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 180
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 180
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 180
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451539,
+        "Displayreward2": 1451540,
+        "Displayreward3": 1451541,
+        "Level": 3,
+        "ScheduleID": 3,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_04",
+        "TextMap_Level": "Armada_Dinner_Level3",
+        "RewardList": [
+            1451539,
+            1451540,
+            1451541
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 360
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 360
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 360
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451554,
+        "Displayreward2": 1451558,
+        "Displayreward3": 0,
+        "Level": 0,
+        "ScheduleID": 4,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_0",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_01",
+        "TextMap_Level": "Armada_Dinner_Level0",
+        "RewardList": [
+            1451530,
+            1451531,
+            1451532
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 0
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 0
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451555,
+        "Displayreward2": 1451559,
+        "Displayreward3": 0,
+        "Level": 1,
+        "ScheduleID": 4,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_1",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_02",
+        "TextMap_Level": "Armada_Dinner_Level1",
+        "RewardList": [
+            1451533,
+            1451534,
+            1451535
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 900
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 900
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 900
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451556,
+        "Displayreward2": 1451560,
+        "Displayreward3": 0,
+        "Level": 2,
+        "ScheduleID": 4,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_2",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_03",
+        "TextMap_Level": "Armada_Dinner_Level2",
+        "RewardList": [
+            1451536,
+            1451537,
+            1451538
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 1800
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 1800
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 1800
+            }
+        ]
+    },
+    {
+        "Displayreward1": 1451557,
+        "Displayreward2": 1451561,
+        "Displayreward3": 0,
+        "Level": 3,
+        "ScheduleID": 4,
+        "ActivePaintingPath": "event/Immediately/3.7RpgSpringFestival/SpringTest01",
+        "OriginalPaintingPath": "SpriteOutput/Dorm/Furniture/S22_SpringFestival_NightTable_01_3",
+        "PicPath": "SpriteOutput/RpgSpringFestival/NightTable/NightTable_04",
+        "TextMap_Level": "Armada_Dinner_Level3",
+        "RewardList": [
+            1451539,
+            1451540,
+            1451541
+        ],
+        "Demand": [
+            {
+                "MaterialID": 118001,
+                "Number": 3600
+            },
+            {
+                "MaterialID": 118002,
+                "Number": 3600
+            },
+            {
+                "MaterialID": 118003,
+                "Number": 3600
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "grandKeyID": 201,
+        "maxGrandKeyLv": 10,
+        "positionNum": 1,
+        "grandkeyName": {
+            "hash": 897497763
+        },
+        "webLinks": "https://comic.bh3.com/book/1010/2",
+        "mainWeaponIdList": [
+            10158
+        ],
+        "SubWeaponmainIDlist": [
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_201_1"
+        ]
+    },
+    {
+        "grandKeyID": 202,
+        "maxGrandKeyLv": 10,
+        "positionNum": 2,
+        "grandkeyName": {
+            "hash": 926126914
+        },
+        "webLinks": "https://comic.bh3.com/book/1010/3",
+        "mainWeaponIdList": [
+            10163,
+            10207,
+            10199
+        ],
+        "SubWeaponmainIDlist": [
+            0,
+            24014,
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_202_1",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_202_2",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_202_2"
+        ]
+    },
+    {
+        "grandKeyID": 203,
+        "maxGrandKeyLv": 10,
+        "positionNum": 3,
+        "grandkeyName": {
+            "hash": 954756065
+        },
+        "webLinks": "https://comic.bh3.com/book/1010/1",
+        "mainWeaponIdList": [
+            20000,
+            10169
+        ],
+        "SubWeaponmainIDlist": [
+            0,
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_203_1",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_203_2"
+        ]
+    },
+    {
+        "grandKeyID": 204,
+        "maxGrandKeyLv": 1,
+        "positionNum": 4,
+        "grandkeyName": {
+            "hash": 983385216
+        },
+        "webLinks": "https://comic.bh3.com/book/1012",
+        "mainWeaponIdList": [
+            10180,
+            10222
+        ],
+        "SubWeaponmainIDlist": [
+            0,
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_201_1",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_202_2"
+        ]
+    },
+    {
+        "grandKeyID": 205,
+        "maxGrandKeyLv": 10,
+        "positionNum": 5,
+        "grandkeyName": {
+            "hash": 1012014367
+        },
+        "webLinks": "https://comic.bh3.com/book/1005/1",
+        "mainWeaponIdList": [
+            10211,
+            10212
+        ],
+        "SubWeaponmainIDlist": [
+            0,
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_205_1",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_205_2"
+        ]
+    },
+    {
+        "grandKeyID": 206,
+        "maxGrandKeyLv": 1,
+        "positionNum": 6,
+        "grandkeyName": {
+            "hash": 1040643518
+        },
+        "webLinks": "https://comic.bh3.com/book/1012",
+        "mainWeaponIdList": [
+            10234,
+            10235
+        ],
+        "SubWeaponmainIDlist": [
+            0,
+            0
+        ],
+        "breachIconList": [
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_201_1",
+            "SpriteOutput/GrandKeyEffects/GrandKeyEffect_202_2"
+        ]
+    }
+]

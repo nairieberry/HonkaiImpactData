@@ -1,0 +1,50 @@
+[
+    {
+        "levelId": 0,
+        "tutorialId": 10010,
+        "lua": "Lua/Levels/Tutorial/Level_Tutorial_Himeko.lua",
+        "paramList": [
+            0.0
+        ],
+        "subPakIds": [
+            10004
+        ],
+        "diaplayTarget": [
+            {
+                "hash": 48
+            }
+        ]
+    },
+    {
+        "levelId": 0,
+        "tutorialId": 10011,
+        "lua": "Lua/Levels/TrialEvent/Seele_C1_Trial_04.lua",
+        "paramList": [
+            0.0
+        ],
+        "subPakIds": [
+            12016
+        ],
+        "diaplayTarget": [
+            {
+                "hash": 48
+            }
+        ]
+    },
+    {
+        "levelId": 0,
+        "tutorialId": 10012,
+        "lua": "Lua/Levels/TrialEvent/Durandal_C1_TJ_Trial_01.lua",
+        "paramList": [
+            0.0
+        ],
+        "subPakIds": [
+            12016
+        ],
+        "diaplayTarget": [
+            {
+                "hash": 48
+            }
+        ]
+    }
+]

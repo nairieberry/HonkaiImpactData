@@ -1,0 +1,352 @@
+[
+    {
+        "UnlockLevel": 0,
+        "AreaID": 4011,
+        "DefaultStatus": 2,
+        "ExploreID": 1,
+        "LocationID": 40111,
+        "MapID": 401,
+        "Type": 0,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 655463121
+        },
+        "BornPointName": "ExploreBorn1",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCBirthPoint"
+        ]
+    },
+    {
+        "UnlockLevel": 0,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 2,
+        "LocationID": 40112,
+        "MapID": 401,
+        "Type": 0,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 684092272
+        },
+        "BornPointName": "ExploreBorn2",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCBirthPoint"
+        ]
+    },
+    {
+        "UnlockLevel": 0,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 3,
+        "LocationID": 40113,
+        "MapID": 401,
+        "Type": 0,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 712721423
+        },
+        "BornPointName": "ExploreBorn3",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCBirthPoint"
+        ]
+    },
+    {
+        "UnlockLevel": 0,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 4,
+        "LocationID": 40114,
+        "MapID": 401,
+        "Type": 0,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 741350574
+        },
+        "BornPointName": "ExploreBorn4",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCBirthPoint"
+        ]
+    },
+    {
+        "UnlockLevel": 12,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 5,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate1",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 10,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 6,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate2",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 8,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 7,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate3",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 10,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 8,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate4",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 13,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 9,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate5",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 14,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 10,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate6",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 17,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 11,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate7",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 15,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 12,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate8",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 12,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 13,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate9",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 23,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 14,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate10",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 11,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 15,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate11",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 16,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 16,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate12",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 13,
+        "AreaID": 4011,
+        "DefaultStatus": 1,
+        "ExploreID": 17,
+        "LocationID": 0,
+        "MapID": 401,
+        "Type": 1,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 2087962480
+        },
+        "BornPointName": "Gate13",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCMapGate",
+            "SpriteOutput/DLC/MapElement/DLCMapGateWaitOpen",
+            ""
+        ]
+    },
+    {
+        "UnlockLevel": 0,
+        "AreaID": 4012,
+        "DefaultStatus": 1,
+        "ExploreID": 18,
+        "LocationID": 40121,
+        "MapID": 401,
+        "Type": 2,
+        "Rotation": 0.0,
+        "PointNameTextID": {
+            "hash": 769979725
+        },
+        "BornPointName": "Area4_Prop (17)",
+        "UIPath": [
+            "",
+            "SpriteOutput/DLC/MapElement/DLCBirthPoint"
+        ]
+    }
+]

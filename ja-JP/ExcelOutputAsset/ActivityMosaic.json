@@ -1,0 +1,92 @@
+[
+    {
+        "MosaicID": 1,
+        "MosaicNum": 20,
+        "MosaicReward": 1452606,
+        "Xcoordinate": 0,
+        "Ycoordinate": 0,
+        "MosaicPic": "event/Immediately/ActivityPage/4.1SakuraMosaic_truecolor",
+        "TextmapRule": "Textmap_Rule_Mosaic",
+        "MissionIDList": [
+            80660,
+            80661,
+            80662,
+            80663,
+            80664,
+            80665,
+            80666,
+            80667,
+            80668,
+            80669
+        ]
+    },
+    {
+        "MosaicID": 2,
+        "MosaicNum": 20,
+        "MosaicReward": 15000782,
+        "Xcoordinate": 0,
+        "Ycoordinate": 0,
+        "MosaicPic": "event/Immediately/ActivityPage/4.1BronyaMosaic_truecolor",
+        "TextmapRule": "Textmap_Rule_Mosaic",
+        "MissionIDList": [
+            1050460,
+            1050461,
+            1050462,
+            1050463,
+            1050464,
+            1050465,
+            1050466,
+            1050467,
+            1050468,
+            1050469,
+            1050470
+        ]
+    },
+    {
+        "MosaicID": 101,
+        "MosaicNum": 39,
+        "MosaicReward": 15000839,
+        "Xcoordinate": 0,
+        "Ycoordinate": 0,
+        "MosaicPic": "event/Immediately/ActivityPage/4.4XmasMosaic_truecolor",
+        "TextmapRule": "Textmap_Rule_Mosaic",
+        "MissionIDList": [
+            1050509,
+            1050510,
+            1050511,
+            1050512,
+            1050513,
+            1050514,
+            1050515,
+            1050516,
+            1050517,
+            1050518,
+            1050519,
+            1050520,
+            1050521,
+            1050522,
+            1050523
+        ]
+    },
+    {
+        "MosaicID": 102,
+        "MosaicNum": 25,
+        "MosaicReward": 15001002,
+        "Xcoordinate": 0,
+        "Ycoordinate": 0,
+        "MosaicPic": "event/Immediately/ActivityPage/4.6HinaMosaic_truecolor",
+        "TextmapRule": "Textmap_Rule_Mosaic",
+        "MissionIDList": [
+            1050548,
+            1050549,
+            1050550,
+            1050551,
+            1050552,
+            1050553,
+            1050554,
+            1050555,
+            1050556,
+            1050557
+        ]
+    }
+]

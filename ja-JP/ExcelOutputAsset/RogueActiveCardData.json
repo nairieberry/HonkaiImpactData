@@ -1,0 +1,1562 @@
+[
+    {
+        "activeId": 1,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396382
+        },
+        "name": {
+            "hash": -1844975780
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Common_Weapon_01",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 2,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396381
+        },
+        "name": {
+            "hash": -1844975779
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_JJ_003",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 3,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396380
+        },
+        "name": {
+            "hash": -1844975778
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_02",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 4,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396379
+        },
+        "name": {
+            "hash": -1844975777
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Common_Weapon_01",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 5,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396378
+        },
+        "name": {
+            "hash": -1844975776
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_04",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 6,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396377
+        },
+        "name": {
+            "hash": -1844975775
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_03",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 7,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396376
+        },
+        "name": {
+            "hash": -1844975774
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_07",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 8,
+        "chargeCount": 2,
+        "entityClass": 0,
+        "cd": 1.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396375
+        },
+        "name": {
+            "hash": -1844975773
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_10",
+        "model": "CardCommon"
+    },
+    {
+        "activeId": 9,
+        "chargeCount": 1,
+        "entityClass": 0,
+        "cd": 10.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -2127396374
+        },
+        "name": {
+            "hash": -1844975772
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_04",
+        "model": "CardGod"
+    },
+    {
+        "activeId": 10,
+        "chargeCount": 1,
+        "entityClass": 0,
+        "cd": 10.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778354
+        },
+        "name": {
+            "hash": -1359674284
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_12",
+        "model": "CardGod"
+    },
+    {
+        "activeId": 11,
+        "chargeCount": 1,
+        "entityClass": 0,
+        "cd": 10.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778353
+        },
+        "name": {
+            "hash": -1359674283
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_08",
+        "model": "CardGod"
+    },
+    {
+        "activeId": 12,
+        "chargeCount": 1,
+        "entityClass": 0,
+        "cd": 10.0,
+        "param1": 0.0,
+        "param1Add": 0.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778352
+        },
+        "name": {
+            "hash": -1359674282
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_14",
+        "model": "CardGod"
+    },
+    {
+        "activeId": 13,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 5.0,
+        "param1Add": 0.2,
+        "param2": 6.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778351
+        },
+        "name": {
+            "hash": -1359674281
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_06",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 14,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 1.85,
+        "param1Add": 0.0525,
+        "param2": 90.0,
+        "param2Add": 8.5,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778350
+        },
+        "name": {
+            "hash": -1359674280
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_05",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 15,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 790.0,
+        "param1Add": 71.5,
+        "param2": 6.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778349
+        },
+        "name": {
+            "hash": -1359674279
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_04",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 16,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 90.0,
+        "param1Add": 6.5,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778348
+        },
+        "name": {
+            "hash": -1359674278
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_14",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 17,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 1200.0,
+        "param1Add": 90.0,
+        "param2": 240.0,
+        "param2Add": 16.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778347
+        },
+        "name": {
+            "hash": -1359674277
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_15",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 18,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 3.0,
+        "param1Add": 0.15,
+        "param2": 440.0,
+        "param2Add": 26.5,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778346
+        },
+        "name": {
+            "hash": -1359674276
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_13",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 19,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 300.0,
+        "param1Add": 20.0,
+        "param2": 3.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778345
+        },
+        "name": {
+            "hash": -1359674275
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_11",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 20,
+        "chargeCount": 3,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 60.0,
+        "param1Add": 4.5,
+        "param2": 2.7,
+        "param2Add": 0.035,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778323
+        },
+        "name": {
+            "hash": -1359674253
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_16",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 21,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 1100.0,
+        "param1Add": 65.5,
+        "param2": 6.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778322
+        },
+        "name": {
+            "hash": -1359674252
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_06",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 22,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 360.0,
+        "param1Add": 69.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778321
+        },
+        "name": {
+            "hash": -1359674251
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_03",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 23,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 360.0,
+        "param1Add": 29.5,
+        "param2": 6.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778320
+        },
+        "name": {
+            "hash": -1359674250
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_13",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 24,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 240.0,
+        "param1Add": 8.5,
+        "param2": 4.0,
+        "param2Add": 0.15,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778319
+        },
+        "name": {
+            "hash": -1359674249
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_14",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 25,
+        "chargeCount": 1,
+        "entityClass": 2,
+        "cd": 9.0,
+        "param1": 5.0,
+        "param1Add": 0.15,
+        "param2": 0.45,
+        "param2Add": 0.0075,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778318
+        },
+        "name": {
+            "hash": -1359674248
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_18",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 26,
+        "chargeCount": 1,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 1.5,
+        "param1Add": 0.03,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778317
+        },
+        "name": {
+            "hash": -1359674247
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_11",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 27,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 420.0,
+        "param1Add": 30.5,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778316
+        },
+        "name": {
+            "hash": -1359674246
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_19",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 28,
+        "chargeCount": 3,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 1.5,
+        "param1Add": 0.015,
+        "param2": 12.0,
+        "param2Add": 0.15,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778315
+        },
+        "name": {
+            "hash": -1359674245
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_17",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 29,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 390.0,
+        "param1Add": 14.0,
+        "param2": 3.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778314
+        },
+        "name": {
+            "hash": -1359674244
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_09",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 30,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 9.0,
+        "param1Add": 0.35,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778292
+        },
+        "name": {
+            "hash": -1359674222
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_03",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 31,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 3.0,
+        "param1Add": 0.07,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778291
+        },
+        "name": {
+            "hash": -1359674221
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Common_Weapon_01",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 32,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 9.0,
+        "param1Add": 0.35,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778290
+        },
+        "name": {
+            "hash": -1359674220
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_10",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 33,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 0.4,
+        "param1Add": 0.012,
+        "param2": 0.5,
+        "param2Add": 0.005,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778289
+        },
+        "name": {
+            "hash": -1359674219
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_11",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 34,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 720.0,
+        "param1Add": 75.5,
+        "param2": 100.0,
+        "param2Add": 7.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778288
+        },
+        "name": {
+            "hash": -1359674218
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_12",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 35,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 6.0,
+        "param1Add": 0.09,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778287
+        },
+        "name": {
+            "hash": -1359674217
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_01",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 36,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 1.7,
+        "param1Add": 0.02,
+        "param2": 3.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778286
+        },
+        "name": {
+            "hash": -1359674216
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_06",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 37,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 200.0,
+        "param1Add": 25.0,
+        "param2": 120.0,
+        "param2Add": 13.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778285
+        },
+        "name": {
+            "hash": -1359674215
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_07",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 38,
+        "chargeCount": 1,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 1800.0,
+        "param1Add": 120.5,
+        "param2": 180.0,
+        "param2Add": 8.5,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778284
+        },
+        "name": {
+            "hash": -1359674214
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_05",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 39,
+        "chargeCount": 1,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 6.0,
+        "param1Add": 0.15,
+        "param2": 180.0,
+        "param2Add": 9.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778283
+        },
+        "name": {
+            "hash": -1359674213
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_06",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 40,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 4.2,
+        "param1Add": 0.09,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778261
+        },
+        "name": {
+            "hash": -1359674191
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 41,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 3.9,
+        "param1Add": 0.065,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778260
+        },
+        "name": {
+            "hash": -1359674190
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_02",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 42,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 370.0,
+        "param1Add": 33.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778259
+        },
+        "name": {
+            "hash": -1359674189
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_04",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 43,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 0.32,
+        "param1Add": 0.0035,
+        "param2": 3.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778258
+        },
+        "name": {
+            "hash": -1359674188
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_03",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 44,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 6.0,
+        "param1Add": 0.11,
+        "param2": 6.0,
+        "param2Add": 0.05,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778257
+        },
+        "name": {
+            "hash": -1359674187
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 45,
+        "chargeCount": 3,
+        "entityClass": 4,
+        "cd": 0.0,
+        "param1": 0.02,
+        "param1Add": 0.186,
+        "param2": 0.02,
+        "param2Add": 0.144,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778256
+        },
+        "name": {
+            "hash": -1359674186
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2013,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 10.0,
+        "param1Add": 0.4,
+        "param2": 12.0,
+        "param2Add": 0.2,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778351
+        },
+        "name": {
+            "hash": -1359674281
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_06",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2014,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 3.7,
+        "param1Add": 0.105,
+        "param2": 180.0,
+        "param2Add": 17.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778350
+        },
+        "name": {
+            "hash": -1359674280
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_05",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2015,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 1580.0,
+        "param1Add": 143.0,
+        "param2": 12.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778349
+        },
+        "name": {
+            "hash": -1359674279
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_04",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2016,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 180.0,
+        "param1Add": 13.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778348
+        },
+        "name": {
+            "hash": -1359674278
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_14",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2017,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 2400.0,
+        "param1Add": 180.0,
+        "param2": 480.0,
+        "param2Add": 32.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778347
+        },
+        "name": {
+            "hash": -1359674277
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_15",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2018,
+        "chargeCount": 2,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 6.0,
+        "param1Add": 0.3,
+        "param2": 880.0,
+        "param2Add": 53.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778346
+        },
+        "name": {
+            "hash": -1359674276
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_13",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2019,
+        "chargeCount": 1,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 600.0,
+        "param1Add": 40.0,
+        "param2": 6.0,
+        "param2Add": 0.2,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778345
+        },
+        "name": {
+            "hash": -1359674275
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_11",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2020,
+        "chargeCount": 3,
+        "entityClass": 1,
+        "cd": 5.0,
+        "param1": 120.0,
+        "param1Add": 9.0,
+        "param2": 5.4,
+        "param2Add": 0.07,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778323
+        },
+        "name": {
+            "hash": -1359674253
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_16",
+        "model": "CardPistol"
+    },
+    {
+        "activeId": 2021,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 2200.0,
+        "param1Add": 131.0,
+        "param2": 12.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778322
+        },
+        "name": {
+            "hash": -1359674252
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_06",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2022,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 720.0,
+        "param1Add": 138.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778321
+        },
+        "name": {
+            "hash": -1359674251
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_03",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2023,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 720.0,
+        "param1Add": 59.0,
+        "param2": 12.0,
+        "param2Add": 0.2,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778320
+        },
+        "name": {
+            "hash": -1359674250
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_13",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2024,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 480.0,
+        "param1Add": 17.0,
+        "param2": 8.0,
+        "param2Add": 0.3,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778319
+        },
+        "name": {
+            "hash": -1359674249
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_14",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2025,
+        "chargeCount": 1,
+        "entityClass": 2,
+        "cd": 9.0,
+        "param1": 10.0,
+        "param1Add": 0.3,
+        "param2": 0.9,
+        "param2Add": 0.015,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778318
+        },
+        "name": {
+            "hash": -1359674248
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_18",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2026,
+        "chargeCount": 1,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 3.0,
+        "param1Add": 0.06,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778317
+        },
+        "name": {
+            "hash": -1359674247
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_11",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2027,
+        "chargeCount": 2,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 840.0,
+        "param1Add": 61.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778316
+        },
+        "name": {
+            "hash": -1359674246
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_19",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2028,
+        "chargeCount": 3,
+        "entityClass": 2,
+        "cd": 5.0,
+        "param1": 3.0,
+        "param1Add": 0.03,
+        "param2": 24.0,
+        "param2Add": 0.3,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778315
+        },
+        "name": {
+            "hash": -1359674245
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_Weapon_17",
+        "model": "CardKatana"
+    },
+    {
+        "activeId": 2029,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 780.0,
+        "param1Add": 28.0,
+        "param2": 6.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778314
+        },
+        "name": {
+            "hash": -1359674244
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_09",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2030,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 18.0,
+        "param1Add": 0.7,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778292
+        },
+        "name": {
+            "hash": -1359674222
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_03",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2031,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 6.0,
+        "param1Add": 0.14,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778291
+        },
+        "name": {
+            "hash": -1359674221
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Common_Weapon_01",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2032,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 18.0,
+        "param1Add": 0.7,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778290
+        },
+        "name": {
+            "hash": -1359674220
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_10",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2033,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 0.8,
+        "param1Add": 0.024,
+        "param2": 1.0,
+        "param2Add": 0.01,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778289
+        },
+        "name": {
+            "hash": -1359674219
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_11",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2034,
+        "chargeCount": 1,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 1440.0,
+        "param1Add": 151.0,
+        "param2": 200.0,
+        "param2Add": 14.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778288
+        },
+        "name": {
+            "hash": -1359674218
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_12",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2035,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 12.0,
+        "param1Add": 0.18,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778287
+        },
+        "name": {
+            "hash": -1359674217
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_01",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2036,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 3.4,
+        "param1Add": 0.04,
+        "param2": 6.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778286
+        },
+        "name": {
+            "hash": -1359674216
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_06",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2037,
+        "chargeCount": 2,
+        "entityClass": 3,
+        "cd": 5.0,
+        "param1": 400.0,
+        "param1Add": 50.0,
+        "param2": 240.0,
+        "param2Add": 26.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778285
+        },
+        "name": {
+            "hash": -1359674215
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_07",
+        "model": "CardCannon"
+    },
+    {
+        "activeId": 2038,
+        "chargeCount": 1,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 3600.0,
+        "param1Add": 241.0,
+        "param2": 360.0,
+        "param2Add": 17.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778284
+        },
+        "name": {
+            "hash": -1359674214
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_05",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2039,
+        "chargeCount": 1,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 12.0,
+        "param1Add": 0.3,
+        "param2": 360.0,
+        "param2Add": 18.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778283
+        },
+        "name": {
+            "hash": -1359674213
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_06",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2040,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 8.4,
+        "param1Add": 0.18,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778261
+        },
+        "name": {
+            "hash": -1359674191
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2041,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 7.8,
+        "param1Add": 0.13,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778260
+        },
+        "name": {
+            "hash": -1359674190
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_02",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2042,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 740.0,
+        "param1Add": 66.0,
+        "param2": 0.0,
+        "param2Add": 0.0,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778259
+        },
+        "name": {
+            "hash": -1359674189
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_04",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2043,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 0.64,
+        "param1Add": 0.007,
+        "param2": 6.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778258
+        },
+        "name": {
+            "hash": -1359674188
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_03",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2044,
+        "chargeCount": 2,
+        "entityClass": 4,
+        "cd": 5.0,
+        "param1": 12.0,
+        "param1Add": 0.22,
+        "param2": 12.0,
+        "param2Add": 0.1,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778257
+        },
+        "name": {
+            "hash": -1359674187
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    },
+    {
+        "activeId": 2045,
+        "chargeCount": 3,
+        "entityClass": 4,
+        "cd": 0.0,
+        "param1": 0.04,
+        "param1Add": 0.372,
+        "param2": 0.04,
+        "param2Add": 0.288,
+        "param3": 0.0,
+        "param3Add": 0.0,
+        "desc": {
+            "hash": -1524778256
+        },
+        "name": {
+            "hash": -1359674186
+        },
+        "iconPath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_Weapon_01",
+        "model": "CardClymore"
+    }
+]

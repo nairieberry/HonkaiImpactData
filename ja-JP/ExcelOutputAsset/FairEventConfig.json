@@ -1,0 +1,124 @@
+[
+    {
+        "ID": 1,
+        "SealedID": 1,
+        "TicketTimes": 5,
+        "StagePackList": [
+            2
+        ]
+    },
+    {
+        "ID": 2,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            3
+        ]
+    },
+    {
+        "ID": 3,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            4
+        ]
+    },
+    {
+        "ID": 4,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            7
+        ]
+    },
+    {
+        "ID": 5,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            6
+        ]
+    },
+    {
+        "ID": 6,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            5
+        ]
+    },
+    {
+        "ID": 1000,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1001
+        ]
+    },
+    {
+        "ID": 1001,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1002
+        ]
+    },
+    {
+        "ID": 1002,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1003
+        ]
+    },
+    {
+        "ID": 1003,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1004,
+            1005,
+            1006
+        ]
+    },
+    {
+        "ID": 3001,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1016
+        ]
+    },
+    {
+        "ID": 3002,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            1017
+        ]
+    },
+    {
+        "ID": 10001,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            100011
+        ]
+    },
+    {
+        "ID": 10002,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            100021
+        ]
+    },
+    {
+        "ID": 10003,
+        "SealedID": 1,
+        "TicketTimes": 3,
+        "StagePackList": [
+            100031
+        ]
+    }
+]

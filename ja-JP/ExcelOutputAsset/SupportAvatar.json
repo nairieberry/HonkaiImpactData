@@ -1,0 +1,438 @@
+[
+    {
+        "ActivityType": 20,
+        "AvatarID": 104,
+        "SupportAvatarID": 1,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114525,
+        "SkillDesc": {
+            "hash": 547018989
+        },
+        "SkillName": {
+            "hash": 829439591
+        },
+        "AbilityName": "AvatarAssistant_TimeSLowandHeal",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+        "ParamList": [
+            "12",
+            "50",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 301,
+        "SupportAvatarID": 2,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114526,
+        "SkillDesc": {
+            "hash": 547018990
+        },
+        "SkillName": {
+            "hash": 829439592
+        },
+        "AbilityName": "AvatarAssistant_BronyaBlackHole",
+        "SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+        "ParamList": [
+            "30"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 204,
+        "SupportAvatarID": 3,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114527,
+        "SkillDesc": {
+            "hash": 547018991
+        },
+        "SkillName": {
+            "hash": 829439593
+        },
+        "AbilityName": "AvatarAssistant_HealSP",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+        "ParamList": [
+            "60",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 404,
+        "SupportAvatarID": 5,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114529,
+        "SkillDesc": {
+            "hash": 547018993
+        },
+        "SkillName": {
+            "hash": 829439595
+        },
+        "AbilityName": "AvatarAssistant_AddDamage",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+        "ParamList": [
+            "10",
+            "-0.3",
+            "1.5",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 503,
+        "SupportAvatarID": 6,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114530,
+        "SkillDesc": {
+            "hash": 547018994
+        },
+        "SkillName": {
+            "hash": 829439596
+        },
+        "AbilityName": "AvatarAssistant_SakuraFire",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\503",
+        "ParamList": [
+            "3",
+            "10",
+            "30",
+            "200000"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 603,
+        "SupportAvatarID": 7,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114531,
+        "SkillDesc": {
+            "hash": 547018995
+        },
+        "SkillName": {
+            "hash": 829439597
+        },
+        "AbilityName": "AvatarAssistant_UltraMode",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\603",
+        "ParamList": [
+            "5",
+            "0.5",
+            "200",
+            "30"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 402,
+        "SupportAvatarID": 8,
+        "CD": 20,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114532,
+        "SkillDesc": {
+            "hash": 547018996
+        },
+        "SkillName": {
+            "hash": 829439598
+        },
+        "AbilityName": "AvatarAssistant_Paralyze",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\402",
+        "ParamList": [
+            "5",
+            "20"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 611,
+        "SupportAvatarID": 14,
+        "CD": 50,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114538,
+        "SkillDesc": {
+            "hash": -222280473
+        },
+        "SkillName": {
+            "hash": -57176403
+        },
+        "AbilityName": "AvatarAssistant_FukaC5Ultra",
+        "SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+        "ParamList": []
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 712,
+        "SupportAvatarID": 16,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114540,
+        "SkillDesc": {
+            "hash": -222280471
+        },
+        "SkillName": {
+            "hash": -57176401
+        },
+        "AbilityName": "AvatarAssistant_SeeleC2Ultra",
+        "SkillFunctionName": "AvatarAssistant_SeeleC2Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+        "ParamList": []
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 303,
+        "SupportAvatarID": 17,
+        "CD": 60,
+        "DefaultDressID": 0,
+        "ActivityID": 4010,
+        "MaterialID": 114541,
+        "SkillDesc": {
+            "hash": -222280470
+        },
+        "SkillName": {
+            "hash": -57176400
+        },
+        "AbilityName": "AvatarAssistant_BronyaC3Ultra",
+        "SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\303",
+        "ParamList": []
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 104,
+        "SupportAvatarID": 101,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115501,
+        "SkillDesc": {
+            "hash": 142234401
+        },
+        "SkillName": {
+            "hash": 424655003
+        },
+        "AbilityName": "AvatarAssistant_TimeSLowandHeal",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\104",
+        "ParamList": [
+            "12",
+            "50",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 301,
+        "SupportAvatarID": 102,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115502,
+        "SkillDesc": {
+            "hash": 142234402
+        },
+        "SkillName": {
+            "hash": 424655004
+        },
+        "AbilityName": "AvatarAssistant_BronyaBlackHole",
+        "SkillFunctionName": "AvatarAssistant_BronyaBlackHole",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\301",
+        "ParamList": [
+            "30"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 204,
+        "SupportAvatarID": 103,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115503,
+        "SkillDesc": {
+            "hash": 142234403
+        },
+        "SkillName": {
+            "hash": 424655005
+        },
+        "AbilityName": "AvatarAssistant_HealSP",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\204",
+        "ParamList": [
+            "60",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 404,
+        "SupportAvatarID": 104,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115504,
+        "SkillDesc": {
+            "hash": 142234404
+        },
+        "SkillName": {
+            "hash": 424655006
+        },
+        "AbilityName": "AvatarAssistant_AddDamage",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\404",
+        "ParamList": [
+            "10",
+            "-0.3",
+            "1.5",
+            "40"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 603,
+        "SupportAvatarID": 105,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115505,
+        "SkillDesc": {
+            "hash": 142234405
+        },
+        "SkillName": {
+            "hash": 424655007
+        },
+        "AbilityName": "AvatarAssistant_UltraMode",
+        "SkillFunctionName": "",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\603",
+        "ParamList": [
+            "5",
+            "0.5",
+            "200",
+            "30"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 611,
+        "SupportAvatarID": 106,
+        "CD": 50,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115506,
+        "SkillDesc": {
+            "hash": 142234406
+        },
+        "SkillName": {
+            "hash": 424655008
+        },
+        "AbilityName": "AvatarAssistant_FukaC5Ultra",
+        "SkillFunctionName": "AvatarAssistant_FukaC5Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\611",
+        "ParamList": []
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 712,
+        "SupportAvatarID": 107,
+        "CD": 40,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115507,
+        "SkillDesc": {
+            "hash": 142234407
+        },
+        "SkillName": {
+            "hash": 424655009
+        },
+        "AbilityName": "AvatarAssistant_SeeleC2Ultra",
+        "SkillFunctionName": "AvatarAssistant_SeeleC2Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\712",
+        "ParamList": []
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 303,
+        "SupportAvatarID": 108,
+        "CD": 60,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115508,
+        "SkillDesc": {
+            "hash": 142234408
+        },
+        "SkillName": {
+            "hash": 424655010
+        },
+        "AbilityName": "AvatarAssistant_BronyaC3Ultra",
+        "SkillFunctionName": "AvatarAssistant_BronyaC3Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\303",
+        "ParamList": [
+            "50"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 802,
+        "SupportAvatarID": 109,
+        "CD": 30,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115509,
+        "SkillDesc": {
+            "hash": 142234409
+        },
+        "SkillName": {
+            "hash": 424655011
+        },
+        "AbilityName": "AvatarAssistant_DurandalC2Ultra",
+        "SkillFunctionName": "AvatarAssistant_DurandalC2Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\802",
+        "ParamList": [
+            "2000",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "ActivityType": 20,
+        "AvatarID": 412,
+        "SupportAvatarID": 110,
+        "CD": 60,
+        "DefaultDressID": 0,
+        "ActivityID": 4020,
+        "MaterialID": 115510,
+        "SkillDesc": {
+            "hash": 114299183
+        },
+        "SkillName": {
+            "hash": 279403253
+        },
+        "AbilityName": "AvatarAssistant_HimekoC6Ultra",
+        "SkillFunctionName": "AvatarAssistant_HimekoC6Ultra",
+        "SkillIcon": "SpriteOutput\\AvatarIconSide\\412",
+        "ParamList": [
+            "5000",
+            "1",
+            "3"
+        ]
+    }
+]

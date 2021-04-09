@@ -1,0 +1,40 @@
+[
+    {
+        "BlockID": 1,
+        "Fatigue": 10,
+        "FloorDepth": 0,
+        "FloorID": 101,
+        "GroupID": 101,
+        "RecTeamLv": 40,
+        "ThemeID": 10,
+        "FloorNameText": {
+            "hash": 749966843
+        },
+        "FloorPlayerShow": [
+            15,
+            20,
+            25,
+            30,
+            35
+        ]
+    },
+    {
+        "BlockID": 1,
+        "Fatigue": 10,
+        "FloorDepth": 1,
+        "FloorID": 102,
+        "GroupID": 101,
+        "RecTeamLv": 40,
+        "ThemeID": 10,
+        "FloorNameText": {
+            "hash": 749966844
+        },
+        "FloorPlayerShow": [
+            15,
+            20,
+            25,
+            30,
+            35
+        ]
+    }
+]

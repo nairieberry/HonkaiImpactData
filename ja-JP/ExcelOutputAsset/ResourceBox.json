@@ -1,0 +1,130 @@
+[
+    {
+        "BoxID": 1001,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310001,
+        "BoxDes": {
+            "hash": -301654824
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve01",
+        "CostMaterialList": [
+            {
+                "costId": 4,
+                "costNum": 4100
+            }
+        ]
+    },
+    {
+        "BoxID": 1002,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310003,
+        "BoxDes": {
+            "hash": -1121226736
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve01",
+        "CostMaterialList": [
+            {
+                "costId": 4,
+                "costNum": 6800
+            }
+        ]
+    },
+    {
+        "BoxID": 1005,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310007,
+        "BoxDes": {
+            "hash": -1650833122
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve01",
+        "CostMaterialList": [
+            {
+                "costId": 4,
+                "costNum": 400
+            }
+        ]
+    },
+    {
+        "BoxID": 1006,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310009,
+        "BoxDes": {
+            "hash": -1155345731
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve01",
+        "CostMaterialList": [
+            {
+                "costId": 4,
+                "costNum": 3000
+            }
+        ]
+    },
+    {
+        "BoxID": 2001,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310002,
+        "BoxDes": {
+            "hash": 1772998748
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve02",
+        "CostMaterialList": [
+            {
+                "costId": 5,
+                "costNum": 960
+            }
+        ]
+    },
+    {
+        "BoxID": 2002,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310004,
+        "BoxDes": {
+            "hash": 1330918948
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve02",
+        "CostMaterialList": [
+            {
+                "costId": 5,
+                "costNum": 2000
+            }
+        ]
+    },
+    {
+        "BoxID": 2005,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310008,
+        "BoxDes": {
+            "hash": 205456214
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve02",
+        "CostMaterialList": [
+            {
+                "costId": 5,
+                "costNum": 170
+            }
+        ]
+    },
+    {
+        "BoxID": 2006,
+        "CostHcoin": 0,
+        "CostStamina": 0,
+        "RewardID": 1310010,
+        "BoxDes": {
+            "hash": 1052723671
+        },
+        "BoxIcon": "SpriteOutput/ResourceRecoveryPanel/IconRetrieve02",
+        "CostMaterialList": [
+            {
+                "costId": 5,
+                "costNum": 760
+            }
+        ]
+    }
+]

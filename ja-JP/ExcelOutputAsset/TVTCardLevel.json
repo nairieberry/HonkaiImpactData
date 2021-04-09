@@ -1,0 +1,410 @@
+[
+    {
+        "AffectRange": 1,
+        "Level": 0,
+        "CardCost": 100,
+        "ID": 25,
+        "Description": {
+            "hash": 204997939
+        },
+        "ShortDescription": {
+            "hash": -365746229
+        },
+        "EffectFunctionName": "MP3v3_SelfAllDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114690:1"
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "Level": 1,
+        "CardCost": 100,
+        "ID": 25,
+        "Description": {
+            "hash": 204997939
+        },
+        "ShortDescription": {
+            "hash": -365746229
+        },
+        "EffectFunctionName": "MP3v3_SelfAllDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 1,
+        "Level": 0,
+        "CardCost": 60,
+        "ID": 26,
+        "Description": {
+            "hash": 233627090
+        },
+        "ShortDescription": {
+            "hash": 2132269708
+        },
+        "EffectFunctionName": "MP3v3_SpHealSpeedUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114691:1"
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "Level": 1,
+        "CardCost": 60,
+        "ID": 26,
+        "Description": {
+            "hash": 233627090
+        },
+        "ShortDescription": {
+            "hash": 2132269708
+        },
+        "EffectFunctionName": "MP3v3_SpHealSpeedUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 80,
+        "ID": 27,
+        "Description": {
+            "hash": 262256241
+        },
+        "ShortDescription": {
+            "hash": 335318349
+        },
+        "EffectFunctionName": "MP3v3_TeamAllDamageUp_15",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114692:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 80,
+        "ID": 27,
+        "Description": {
+            "hash": 262256241
+        },
+        "ShortDescription": {
+            "hash": 335318349
+        },
+        "EffectFunctionName": "MP3v3_TeamAllDamageUp_15",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 3,
+        "Level": 0,
+        "CardCost": 100,
+        "ID": 28,
+        "Description": {
+            "hash": 290885392
+        },
+        "ShortDescription": {
+            "hash": -1461633010
+        },
+        "EffectFunctionName": "MP3v3_FrozenSeed",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114693:1"
+        ]
+    },
+    {
+        "AffectRange": 3,
+        "Level": 1,
+        "CardCost": 100,
+        "ID": 28,
+        "Description": {
+            "hash": 290885392
+        },
+        "ShortDescription": {
+            "hash": -1461633010
+        },
+        "EffectFunctionName": "MP3v3_FrozenSeed",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 100,
+        "ID": 29,
+        "Description": {
+            "hash": 319514543
+        },
+        "ShortDescription": {
+            "hash": 1036382927
+        },
+        "EffectFunctionName": "MP3v3_HPDamageTakenDown",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114694:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 100,
+        "ID": 29,
+        "Description": {
+            "hash": 319514543
+        },
+        "ShortDescription": {
+            "hash": 1036382927
+        },
+        "EffectFunctionName": "MP3v3_HPDamageTakenDown",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 80,
+        "ID": 30,
+        "Description": {
+            "hash": 949355865
+        },
+        "ShortDescription": {
+            "hash": 158158693
+        },
+        "EffectFunctionName": "MP3V3_CardEnergyUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114695:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 80,
+        "ID": 30,
+        "Description": {
+            "hash": 949355865
+        },
+        "ShortDescription": {
+            "hash": 158158693
+        },
+        "EffectFunctionName": "MP3V3_CardEnergyUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 80,
+        "ID": 31,
+        "Description": {
+            "hash": 977985016
+        },
+        "ShortDescription": {
+            "hash": -1638792666
+        },
+        "EffectFunctionName": "MP3V3_DropSPMedic",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114696:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 80,
+        "ID": 31,
+        "Description": {
+            "hash": 977985016
+        },
+        "ShortDescription": {
+            "hash": -1638792666
+        },
+        "EffectFunctionName": "MP3V3_DropSPMedic",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 80,
+        "ID": 32,
+        "Description": {
+            "hash": 1006614167
+        },
+        "ShortDescription": {
+            "hash": 859223271
+        },
+        "EffectFunctionName": "MP3v3_BlackHole_30",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114697:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 80,
+        "ID": 32,
+        "Description": {
+            "hash": 1006614167
+        },
+        "ShortDescription": {
+            "hash": 859223271
+        },
+        "EffectFunctionName": "MP3v3_BlackHole_30",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 1,
+        "Level": 0,
+        "CardCost": 100,
+        "ID": 33,
+        "Description": {
+            "hash": 1035243318
+        },
+        "ShortDescription": {
+            "hash": -937728088
+        },
+        "EffectFunctionName": "MP3v3_MaxHPAllDamageUp_20",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114698:1"
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "Level": 1,
+        "CardCost": 100,
+        "ID": 33,
+        "Description": {
+            "hash": 1035243318
+        },
+        "ShortDescription": {
+            "hash": -937728088
+        },
+        "EffectFunctionName": "MP3v3_MaxHPAllDamageUp_20",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 1,
+        "Level": 0,
+        "CardCost": 120,
+        "ID": 34,
+        "Description": {
+            "hash": 1063872469
+        },
+        "ShortDescription": {
+            "hash": 1560287849
+        },
+        "EffectFunctionName": "MP3v3_EnemyDamageUpSelfDamageCut_30",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114699:1"
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "Level": 1,
+        "CardCost": 120,
+        "ID": 34,
+        "Description": {
+            "hash": 1063872469
+        },
+        "ShortDescription": {
+            "hash": 1560287849
+        },
+        "EffectFunctionName": "MP3v3_EnemyDamageUpSelfDamageCut_30",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 1,
+        "Level": 0,
+        "CardCost": 120,
+        "ID": 35,
+        "Description": {
+            "hash": 1092501620
+        },
+        "ShortDescription": {
+            "hash": -236663510
+        },
+        "EffectFunctionName": "MP3v3_AllAvatarDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114700:1"
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "Level": 1,
+        "CardCost": 120,
+        "ID": 35,
+        "Description": {
+            "hash": 1092501620
+        },
+        "ShortDescription": {
+            "hash": -236663510
+        },
+        "EffectFunctionName": "MP3v3_AllAvatarDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    },
+    {
+        "AffectRange": 2,
+        "Level": 0,
+        "CardCost": 120,
+        "ID": 36,
+        "Description": {
+            "hash": 1121130771
+        },
+        "ShortDescription": {
+            "hash": -2033614869
+        },
+        "EffectFunctionName": "MP3v3_5LayersAllDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": [
+            "114701:1"
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "Level": 1,
+        "CardCost": 120,
+        "ID": 36,
+        "Description": {
+            "hash": 1121130771
+        },
+        "ShortDescription": {
+            "hash": -2033614869
+        },
+        "EffectFunctionName": "MP3v3_5LayersAllDamageUp",
+        "CommonMaterialList": [],
+        "ParamList": [],
+        "UniqueMaterialList": []
+    }
+]

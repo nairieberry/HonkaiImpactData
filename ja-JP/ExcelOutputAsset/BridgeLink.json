@@ -1,0 +1,47 @@
+[
+    {
+        "LinkID": 1,
+        "LinkMaxLevel": 85,
+        "LinkMinLevel": 60,
+        "BeginTime": "2020-02-14 10:00:00",
+        "BridgeLinkPic": "event/Immediately/ActivityPage/3.7QiaokeliIcon_truecolor",
+        "EndTime": "2020-02-15 04:00:00",
+        "LinkParam": "<type=\"112|16\" text=\"\"/>"
+    },
+    {
+        "LinkID": 2,
+        "LinkMaxLevel": 85,
+        "LinkMinLevel": 20,
+        "BeginTime": "2020-04-17 10:00:00",
+        "BridgeLinkPic": "event/Immediately/ActivityPage/3.9DurandualIcon_truecolor",
+        "EndTime": "2020-04-20 04:00:00",
+        "LinkParam": "<type=\"81|2001\" text=\"\"/>"
+    },
+    {
+        "LinkID": 3,
+        "LinkMaxLevel": 85,
+        "LinkMinLevel": 20,
+        "BeginTime": "2020-05-01 12:00:00",
+        "BridgeLinkPic": "event/Immediately/ActivityPage/3.9ShoppingDaysRaffleIcon_truecolor",
+        "EndTime": "2020-05-03 04:00:00",
+        "LinkParam": "<type=\"112|29\" text=\"\"/>"
+    },
+    {
+        "LinkID": 4,
+        "LinkMaxLevel": 85,
+        "LinkMinLevel": 30,
+        "BeginTime": "2020-05-06 10:00:00",
+        "BridgeLinkPic": "event/Immediately/ActivityPage/3.9KingdomWarRaffleIcon_truecolor",
+        "EndTime": "2020-05-07 04:00:00",
+        "LinkParam": "<type=\"112|30\" text=\"\"/>"
+    },
+    {
+        "LinkID": 7,
+        "LinkMaxLevel": 85,
+        "LinkMinLevel": 25,
+        "BeginTime": "2020-12-11 10:00:00",
+        "BridgeLinkPic": "event/Immediately/ActivityPage/4.4RogueTowerEntryIcon_truecolor",
+        "EndTime": "2020-12-21 03:59:59",
+        "LinkParam": "<type=\"81|4010\" text=\"\"/>"
+    }
+]
