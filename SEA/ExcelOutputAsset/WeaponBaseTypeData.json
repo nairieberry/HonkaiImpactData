@@ -1,0 +1,114 @@
+[
+    {
+        "BaseType": 1,
+        "typeName": {
+            "hash": 2143688642
+        },
+        "typeNameEn": {
+            "hash": -1499514869
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/DoublePistolType",
+        "CapsulesList": [
+            3201,
+            3200
+        ]
+    },
+    {
+        "BaseType": 2,
+        "typeName": {
+            "hash": 1758225357
+        },
+        "typeNameEn": {
+            "hash": 1732422998
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/SwordType",
+        "CapsulesList": [
+            3202,
+            3200
+        ]
+    },
+    {
+        "BaseType": 3,
+        "typeName": {
+            "hash": 1479361092
+        },
+        "typeNameEn": {
+            "hash": 31836685
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/MissileType",
+        "CapsulesList": [
+            3203,
+            3200
+        ]
+    },
+    {
+        "BaseType": 4,
+        "typeName": {
+            "hash": -123739148
+        },
+        "typeNameEn": {
+            "hash": 1345765309
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/ClaymoreType",
+        "CapsulesList": [
+            3204,
+            3200
+        ]
+    },
+    {
+        "BaseType": 5,
+        "typeName": {
+            "hash": -1923214486
+        },
+        "typeNameEn": {
+            "hash": -1373181517
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/CrossType",
+        "CapsulesList": [
+            3205,
+            3200
+        ]
+    },
+    {
+        "BaseType": 6,
+        "typeName": {
+            "hash": -1261424762
+        },
+        "typeNameEn": {
+            "hash": -1048416561
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/FistType",
+        "CapsulesList": [
+            3206,
+            3200
+        ]
+    },
+    {
+        "BaseType": 7,
+        "typeName": {
+            "hash": 338604226
+        },
+        "typeNameEn": {
+            "hash": -1018851061
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/ScytheType",
+        "CapsulesList": [
+            3207,
+            3200
+        ]
+    },
+    {
+        "BaseType": 8,
+        "typeName": {
+            "hash": 2101277903
+        },
+        "typeNameEn": {
+            "hash": 693437912
+        },
+        "typeIcon": "SpriteOutput/WeaponTypeIcons/LanceType",
+        "CapsulesList": [
+            3207,
+            3201
+        ]
+    }
+]

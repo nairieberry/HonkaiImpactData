@@ -1,0 +1,112 @@
+[
+    {
+        "affixTreeNodeID": 3,
+        "id": 3,
+        "nodeNumRequire": 2,
+        "triggerMaterial": 8601,
+        "previewDesc": {
+            "hash": -79723539
+        },
+        "refineButtonDesc": {
+            "hash": 1712380644
+        },
+        "refineCost": [
+            {
+                "materialID": 8601,
+                "materialNum": 1
+            },
+            {
+                "materialID": 8101,
+                "materialNum": 300
+            }
+        ]
+    },
+    {
+        "affixTreeNodeID": 3,
+        "id": 4,
+        "nodeNumRequire": 2,
+        "triggerMaterial": 8305,
+        "previewDesc": {
+            "hash": -79723538
+        },
+        "refineButtonDesc": {
+            "hash": 1712380644
+        },
+        "refineCost": [
+            {
+                "materialID": 8305,
+                "materialNum": 1
+            },
+            {
+                "materialID": 8101,
+                "materialNum": 300
+            }
+        ]
+    },
+    {
+        "affixTreeNodeID": 3,
+        "id": 5,
+        "nodeNumRequire": 2,
+        "triggerMaterial": 8307,
+        "previewDesc": {
+            "hash": -79723537
+        },
+        "refineButtonDesc": {
+            "hash": 1712380644
+        },
+        "refineCost": [
+            {
+                "materialID": 8307,
+                "materialNum": 1
+            },
+            {
+                "materialID": 8101,
+                "materialNum": 300
+            }
+        ]
+    },
+    {
+        "affixTreeNodeID": 3,
+        "id": 6,
+        "nodeNumRequire": 2,
+        "triggerMaterial": 8306,
+        "previewDesc": {
+            "hash": -79723536
+        },
+        "refineButtonDesc": {
+            "hash": 1712380644
+        },
+        "refineCost": [
+            {
+                "materialID": 8306,
+                "materialNum": 1
+            },
+            {
+                "materialID": 8101,
+                "materialNum": 300
+            }
+        ]
+    },
+    {
+        "affixTreeNodeID": 3,
+        "id": 7,
+        "nodeNumRequire": 2,
+        "triggerMaterial": 8308,
+        "previewDesc": {
+            "hash": -79723535
+        },
+        "refineButtonDesc": {
+            "hash": 1712380644
+        },
+        "refineCost": [
+            {
+                "materialID": 8308,
+                "materialNum": 1
+            },
+            {
+                "materialID": 8101,
+                "materialNum": 300
+            }
+        ]
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380101,
+        "elfFragmentID": 370101,
+        "ElfID": 101,
+        "Index": 2,
+        "IsFlight": 0,
+        "Rarity": 3,
+        "RGBCGID": 0,
+        "ultraSkillCD": 30,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 1,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.3,
+        "FeatureBrief": {
+            "hash": 1359144503
+        },
+        "FullName": {
+            "hash": -1348940258
+        },
+        "StoryDesc": {
+            "hash": 1611414472
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.32,
+            "Z": 3.74
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 0.0
+        },
+        "AIName": "Behavior_Elf_01",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10001",
+        "ElfRegistryKey": "01",
+        "ElfUIModelPath": "Entities/Elf/Elf_01/Elf_01_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_01",
+        "LevelUpAudio": "VO_Elf_01_BloodEmbrace_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10001",
+        "selectAudio": "VO_Elf_01_BloodEmbrace_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg1",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10001",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg1",
+        "UISoundbankName": "BK_Elf_01_VO_MainMenu",
+        "CaptainSkillIDs": [],
+        "TrialStageActivityList": [],
+        "TagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": -2127232172
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 0,
+        "elfCardID": 380102,
+        "elfFragmentID": 370102,
+        "ElfID": 102,
+        "Index": 1,
+        "IsFlight": 1,
+        "Rarity": 3,
+        "RGBCGID": 0,
+        "ultraSkillCD": 40,
+        "ultraSkillSPCost": 50,
+        "UnlockStar": 1,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.1,
+        "FeatureBrief": {
+            "hash": 1359144504
+        },
+        "FullName": {
+            "hash": -1348940257
+        },
+        "StoryDesc": {
+            "hash": 1611414473
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.82,
+            "Z": 3.74
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 0.0
+        },
+        "AIName": "Behavior_Elf_02",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10002",
+        "ElfRegistryKey": "02",
+        "ElfUIModelPath": "Entities/Elf/Elf_02/Elf_02_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_02",
+        "LevelUpAudio": "VO_Elf_02_JWwings_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10002",
+        "selectAudio": "VO_Elf_02_JWwings_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg2",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10002",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg2",
+        "UISoundbankName": "BK_Elf_02_VO_MainMenu",
+        "CaptainSkillIDs": [],
+        "TrialStageActivityList": [],
+        "TagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": -2127232171
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380103,
+        "elfFragmentID": 370103,
+        "ElfID": 103,
+        "Index": 3,
+        "IsFlight": 0,
+        "Rarity": 4,
+        "RGBCGID": 0,
+        "ultraSkillCD": 30,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 2,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.55,
+        "FeatureBrief": {
+            "hash": 1359144505
+        },
+        "FullName": {
+            "hash": -1348940256
+        },
+        "StoryDesc": {
+            "hash": 1611414474
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.32,
+            "Z": 3.74
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 0.0
+        },
+        "AIName": "Behavior_Elf_03",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10003",
+        "ElfRegistryKey": "03",
+        "ElfUIModelPath": "Entities/Elf/Elf_03/Elf_03_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_03",
+        "LevelUpAudio": "VO_Elf_03_SelunesElegy_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10003",
+        "selectAudio": "VO_Elf_03_SelunesElegy_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg3",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10003",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg3",
+        "UISoundbankName": "BK_Elf_03_VO_MainMenu",
+        "CaptainSkillIDs": [
+            10309
+        ],
+        "TrialStageActivityList": [],
+        "TagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": -2127232170
+                }
+            },
+            {
+                "TagID": 1007,
+                "TagComment": {
+                    "hash": -2127232168
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380106,
+        "elfFragmentID": 370106,
+        "ElfID": 106,
+        "Index": 6,
+        "IsFlight": 1,
+        "Rarity": 4,
+        "RGBCGID": 0,
+        "ultraSkillCD": 35,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 2,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.55,
+        "FeatureBrief": {
+            "hash": 1359144508
+        },
+        "FullName": {
+            "hash": -1348940253
+        },
+        "StoryDesc": {
+            "hash": 1611414477
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.82,
+            "Z": 3.75
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 1.0
+        },
+        "AIName": "Behavior_Elf_06",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10006",
+        "ElfRegistryKey": "06",
+        "ElfUIModelPath": "Entities/Elf/Elf_06/Elf_06_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_06",
+        "LevelUpAudio": "VO_Elf_06_BookOfFuxi_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10006",
+        "selectAudio": "VO_Elf_06_BookOfFuxi_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg6",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10006",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg6",
+        "UISoundbankName": "BK_Elf_06_VO_MainMenu",
+        "CaptainSkillIDs": [
+            10603,
+            106032,
+            106033
+        ],
+        "TrialStageActivityList": [
+            37237
+        ],
+        "TagList": [
+            {
+                "TagID": 1004,
+                "TagComment": {
+                    "hash": -2127232171
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380108,
+        "elfFragmentID": 370108,
+        "ElfID": 108,
+        "Index": 8,
+        "IsFlight": 0,
+        "Rarity": 4,
+        "RGBCGID": 0,
+        "ultraSkillCD": 35,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 2,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.55,
+        "FeatureBrief": {
+            "hash": 1359144510
+        },
+        "FullName": {
+            "hash": -1348940251
+        },
+        "StoryDesc": {
+            "hash": 1611414479
+        },
+        "ElfUIModelPosition": {
+            "X": 0.165,
+            "Y": -0.22,
+            "Z": 3.75
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 1.0
+        },
+        "AIName": "Behavior_Elf_08",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10008",
+        "ElfRegistryKey": "08",
+        "ElfUIModelPath": "Entities/Elf/Elf_08/Elf_08_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_08",
+        "LevelUpAudio": "VO_Elf_08_WotanFists_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10008",
+        "selectAudio": "VO_Elf_08_WotanFists_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg8",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10008",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg8",
+        "UISoundbankName": "BK_Elf_08_VO_MainMenu",
+        "CaptainSkillIDs": [
+            10803,
+            108031,
+            108032
+        ],
+        "TrialStageActivityList": [
+            37234
+        ],
+        "TagList": [
+            {
+                "TagID": 1003,
+                "TagComment": {
+                    "hash": -2127232172
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380109,
+        "elfFragmentID": 370109,
+        "ElfID": 109,
+        "Index": 9,
+        "IsFlight": 1,
+        "Rarity": 4,
+        "RGBCGID": 0,
+        "ultraSkillCD": 35,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 2,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.55,
+        "FeatureBrief": {
+            "hash": 1359144511
+        },
+        "FullName": {
+            "hash": -1348940250
+        },
+        "StoryDesc": {
+            "hash": 1611414480
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.93,
+            "Z": 3.75
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 1.0
+        },
+        "AIName": "Behavior_Elf_09",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10009",
+        "ElfRegistryKey": "09",
+        "ElfUIModelPath": "Entities/Elf/Elf_09/Elf_09_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_09",
+        "LevelUpAudio": "VO_Elf_09_Benares_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10009",
+        "selectAudio": "VO_Elf_09_Benares_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg9",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10009",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg9",
+        "UISoundbankName": "BK_Elf_09_VO_MainMenu",
+        "CaptainSkillIDs": [
+            10903,
+            109032,
+            109033
+        ],
+        "TrialStageActivityList": [
+            37232
+        ],
+        "TagList": [
+            {
+                "TagID": 1006,
+                "TagComment": {
+                    "hash": -2127232169
+                }
+            }
+        ]
+    },
+    {
+        "AlphaCGID": 0,
+        "CarryPlayerLevel": 61,
+        "elfCardID": 380110,
+        "elfFragmentID": 370110,
+        "ElfID": 110,
+        "Index": 10,
+        "IsFlight": 1,
+        "Rarity": 4,
+        "RGBCGID": 0,
+        "ultraSkillCD": 30,
+        "ultraSkillSPCost": 75,
+        "UnlockStar": 2,
+        "attackSkillCD": 3.3,
+        "CombatPointRarity": 1.55,
+        "FeatureBrief": {
+            "hash": 1359144533
+        },
+        "FullName": {
+            "hash": -1348940228
+        },
+        "StoryDesc": {
+            "hash": 1611414502
+        },
+        "ElfUIModelPosition": {
+            "X": 0.135,
+            "Y": -0.93,
+            "Z": 3.75
+        },
+        "ElfUIModelRotation": {
+            "X": 0.0,
+            "Y": -7.2,
+            "Z": 1.0
+        },
+        "AIName": "Behavior_Elf_10",
+        "ElfChibiIcon": "SpriteOutput/AvatarChibiIcons/Elf_10010",
+        "ElfRegistryKey": "10",
+        "ElfUIModelPath": "Entities/Elf/Elf_10/Elf_10_UI",
+        "IconPath": "SpriteOutput/ElfIcon/Elf_10",
+        "LevelUpAudio": "VO_Elf_10_Ruoshui_LevelUp",
+        "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10010",
+        "selectAudio": "VO_Elf_10_Ruoshui_SwitchIn",
+        "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg10",
+        "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10010",
+        "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg10",
+        "UISoundbankName": "BK_Elf_10_VO_MainMenu",
+        "CaptainSkillIDs": [
+            11003,
+            110032
+        ],
+        "TrialStageActivityList": [
+            37254
+        ],
+        "TagList": [
+            {
+                "TagID": 1005,
+                "TagComment": {
+                    "hash": -2127232170
+                }
+            },
+            {
+                "TagID": 1018,
+                "TagComment": {
+                    "hash": -2127232136
+                }
+            }
+        ]
+    }
+]

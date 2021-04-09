@@ -1,0 +1,68 @@
+[
+    {
+        "EffectID": 1001,
+        "Duration": 5000.0,
+        "TriggerEffect": "Effect/AvatarBronya/GZ/Avatar_Bronya_GZ_Gal_Seele_Appear",
+        "TriggerPath": "Bip001"
+    },
+    {
+        "EffectID": 1002,
+        "Duration": 5000.0,
+        "TriggerEffect": "Effect/AvatarSeele/HY/Avatar_Seele_HY_Seele_Appear",
+        "TriggerPath": "Bip001"
+    },
+    {
+        "EffectID": 1003,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarDurandal/Durandal_Common_Effect/Durandal_C2_Show_Start",
+        "TriggerPath": "Bip001/Bip001 Prop2/Avatar_Durandal_C2_Weapon"
+    },
+    {
+        "EffectID": 1004,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarDurandal/Durandal_Common_Effect/Durandal_C2_Show_Land",
+        "TriggerPath": "Bip001/Bip001 Prop2/Avatar_Durandal_C2_Weapon"
+    },
+    {
+        "EffectID": 1005,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_01",
+        "TriggerPath": "ROOT"
+    },
+    {
+        "EffectID": 1006,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_02",
+        "TriggerPath": "ROOT"
+    },
+    {
+        "EffectID": 1007,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_03",
+        "TriggerPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+    },
+    {
+        "EffectID": 1008,
+        "Duration": 10000.0,
+        "TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_04",
+        "TriggerPath": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+    },
+    {
+        "EffectID": 1009,
+        "Duration": 50000.0,
+        "TriggerEffect": "Effect/AvatarMei/AC/Avatar_Mei_AC_UI_EnterEffect_05",
+        "TriggerPath": "ROOT"
+    },
+    {
+        "EffectID": 1010,
+        "Duration": 50000.0,
+        "TriggerEffect": "Effect/AvatarRita/IA/Avatar_Effect_Rita_IA_Gal13_Owl",
+        "TriggerPath": "ROOT"
+    },
+    {
+        "EffectID": 1011,
+        "Duration": 50000.0,
+        "TriggerEffect": "Effect/AvatarRita/IA/Avatar_Effect_Rita_IA_Gal13_Owl_Dress01",
+        "TriggerPath": "ROOT"
+    }
+]

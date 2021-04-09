@@ -1,0 +1,253 @@
+[
+    {
+        "LimitCount": 3,
+        "MonsterID": 101,
+        "MonsterName": "DeadWalker",
+        "Power": [
+            1.0,
+            2.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 3,
+        "MonsterID": 102,
+        "MonsterName": "DeadArcher",
+        "Power": [
+            1.0,
+            2.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 103,
+        "MonsterName": "DeadKiller",
+        "Power": [
+            1.5,
+            3.0,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default",
+            "CS_Extend"
+        ]
+    },
+    {
+        "LimitCount": 1,
+        "MonsterID": 104,
+        "MonsterName": "DeadWitch",
+        "Power": [
+            3.0,
+            4.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 105,
+        "MonsterName": "DeadCat",
+        "Power": [
+            1.5,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 106,
+        "MonsterName": "DeadGhost",
+        "Power": [
+            3.0,
+            5.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 201,
+        "MonsterName": "UlyssesWarrior",
+        "Power": [
+            1.5,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 3,
+        "MonsterID": 202,
+        "MonsterName": "UlyssesFast",
+        "Power": [
+            1.0,
+            2.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 203,
+        "MonsterName": "UlyssesRider",
+        "Power": [
+            1.5,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 204,
+        "MonsterName": "UlyssesDefend",
+        "Power": [
+            2.0,
+            3.5
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 205,
+        "MonsterName": "UlyssesThrow",
+        "Power": [
+            1.5,
+            3.0,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default",
+            "CS_Extend"
+        ]
+    },
+    {
+        "LimitCount": 1,
+        "MonsterID": 206,
+        "MonsterName": "UlyssesHalo",
+        "Power": [
+            3.0,
+            5.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 301,
+        "MonsterName": "RobotTitan",
+        "Power": [
+            2.0,
+            3.5
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 3,
+        "MonsterID": 302,
+        "MonsterName": "RobotSpider",
+        "Power": [
+            1.0,
+            2.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 1,
+        "MonsterID": 303,
+        "MonsterName": "RobotAssistant",
+        "Power": [
+            1.5,
+            2.5
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 304,
+        "MonsterName": "RobotLauncher",
+        "Power": [
+            2.0,
+            3.5
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 1,
+        "MonsterID": 305,
+        "MonsterName": "RobotDeadGal",
+        "Power": [
+            2.5,
+            4.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CS_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 306,
+        "MonsterName": "RobotTNinja",
+        "Power": [
+            3.5,
+            4.5
+        ],
+        "ConfigType": [
+            "Dsword_Default",
+            "Ddagger_Default"
+        ]
+    },
+    {
+        "LimitCount": 2,
+        "MonsterID": 307,
+        "MonsterName": "RobotTCannon",
+        "Power": [
+            1.5,
+            3.0
+        ],
+        "ConfigType": [
+            "Default",
+            "CannonShooter_Default"
+        ]
+    }
+]

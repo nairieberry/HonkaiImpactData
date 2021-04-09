@@ -1,0 +1,53 @@
+[
+    {
+        "EffectType": 1,
+        "ID": 2004,
+        "ItemMaxNum": 20,
+        "ItemType": 2,
+        "ParamsVar": 90,
+        "Rarity": 4,
+        "SubParams": 0,
+        "ItemDesc": {
+            "hash": 1579205955
+        },
+        "ItemName": {
+            "hash": 1330427273
+        },
+        "iconPath": "SpriteOutput/LevelMatrixOverviewItemIcon/MatrixItemIcon11",
+        "bits1": 0
+    },
+    {
+        "EffectType": 6,
+        "ID": 7011,
+        "ItemMaxNum": 5,
+        "ItemType": 5,
+        "ParamsVar": 20,
+        "Rarity": 3,
+        "SubParams": 10,
+        "ItemDesc": {
+            "hash": 1579354938
+        },
+        "ItemName": {
+            "hash": 1330576256
+        },
+        "iconPath": "SpriteOutput/LevelMatrixOverviewItemIcon/MatrixItemIcon09",
+        "bits1": 1
+    },
+    {
+        "EffectType": 7,
+        "ID": 7012,
+        "ItemMaxNum": 5,
+        "ItemType": 5,
+        "ParamsVar": 1,
+        "Rarity": 4,
+        "SubParams": 0,
+        "ItemDesc": {
+            "hash": 1579354939
+        },
+        "ItemName": {
+            "hash": 1330576257
+        },
+        "iconPath": "SpriteOutput/LevelMatrixOverviewItemIcon/MatrixItemIcon12",
+        "bits1": 1
+    }
+]

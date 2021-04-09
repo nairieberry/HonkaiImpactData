@@ -1,0 +1,872 @@
+[
+    {
+        "RuleID": 1001,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            106,
+            116
+        ]
+    },
+    {
+        "RuleID": 1001,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            105,
+            115
+        ]
+    },
+    {
+        "RuleID": 1001,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            104,
+            114
+        ]
+    },
+    {
+        "RuleID": 1001,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            103,
+            113
+        ]
+    },
+    {
+        "RuleID": 1001,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            102,
+            112
+        ]
+    },
+    {
+        "RuleID": 1001,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            101,
+            111
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            106,
+            116
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            105,
+            115
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            104,
+            114
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            103,
+            113
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            102,
+            112
+        ]
+    },
+    {
+        "RuleID": 1002,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            101,
+            111
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1004,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1005,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1006,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1011,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1012,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1013,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1014,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 1021,
+        "Value": 0,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 1021,
+        "Value": 20,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 1021,
+        "Value": 40,
+        "ProgressRGB": "#3c34ffff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 1021,
+        "Value": 60,
+        "ProgressRGB": "#00c3ffff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 1021,
+        "Value": 80,
+        "ProgressRGB": "#ff9900ff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 1021,
+        "Value": 100,
+        "ProgressRGB": "#fc4399ff",
+        "EffectBuffList": []
+    },
+    {
+        "RuleID": 2001,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            106,
+            116
+        ]
+    },
+    {
+        "RuleID": 2001,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            105,
+            115
+        ]
+    },
+    {
+        "RuleID": 2001,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            104,
+            114
+        ]
+    },
+    {
+        "RuleID": 2001,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            103,
+            113
+        ]
+    },
+    {
+        "RuleID": 2001,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            102,
+            112
+        ]
+    },
+    {
+        "RuleID": 2001,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            101,
+            111
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2010,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2011,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 2012,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3010,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3011,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 3012,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 0,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 20,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 40,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 60,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 80,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    },
+    {
+        "RuleID": 10000,
+        "Value": 100,
+        "ProgressRGB": "#00C3FFFF",
+        "EffectBuffList": [
+            117
+        ]
+    }
+]

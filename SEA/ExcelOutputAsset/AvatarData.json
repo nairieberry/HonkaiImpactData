@@ -1,0 +1,4910 @@
+[
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60101,
+        "avatarFragmentID": 10101,
+        "avatarID": 101,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 15,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59101,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 1,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 14,
+        "unlockStar": 1,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 20.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078634
+        },
+        "enFirstName": {
+            "hash": -1999973603
+        },
+        "enLastName": {
+            "hash": 921608931
+        },
+        "firstName": {
+            "hash": -456423994
+        },
+        "fullName": {
+            "hash": 1936337508
+        },
+        "lastName": {
+            "hash": 1109948186
+        },
+        "RomaName": {
+            "hash": 1716808469
+        },
+        "shortName": {
+            "hash": 1598160500
+        },
+        "avatarRegistryKey": "Kiana_C2_PT",
+        "DA_Name": "DAKiana_G",
+        "DA_Type": "PT_Default",
+        "FaceAnimationGroupName": "Kiana",
+        "UILevelUpVoice": "VO_M_Kia_05_LevelUp",
+        "UISelectVoice": "VO_M_Kia_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ],
+        "TagUnlockList": [
+            1010,
+            1011,
+            1012,
+            1013
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8214,
+        "ArtifactID": 102,
+        "attribute": 3,
+        "avatarCardID": 60102,
+        "avatarFragmentID": 10102,
+        "avatarID": 102,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 25,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59102,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 1,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 24,
+        "unlockStar": 2,
+        "SKL01CD": 10.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 30.0,
+        "SKL02ArtifactSP": 100.0,
+        "SKL02ArtifactSPNeed": 100.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 50.0,
+        "SKL02SPNeed": 50.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078635
+        },
+        "enFirstName": {
+            "hash": -1999973603
+        },
+        "enLastName": {
+            "hash": 921608931
+        },
+        "firstName": {
+            "hash": -456423994
+        },
+        "fullName": {
+            "hash": 1936337509
+        },
+        "lastName": {
+            "hash": 1109948186
+        },
+        "RomaName": {
+            "hash": 1716808470
+        },
+        "shortName": {
+            "hash": 1598160501
+        },
+        "avatarRegistryKey": "Kiana_C1_FX",
+        "DA_Name": "DAKiana_G",
+        "DA_Type": "FX_Default",
+        "FaceAnimationGroupName": "Kiana",
+        "UILevelUpVoice": "VO_M_Kia_04_Selected",
+        "UISelectVoice": "VO_M_Kia_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            451,
+            452,
+            453,
+            454,
+            456
+        ],
+        "TagUnlockList": [
+            1020,
+            1021,
+            1022
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60103,
+        "avatarFragmentID": 10103,
+        "avatarID": 103,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 35,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59103,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 1,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 34,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078636
+        },
+        "enFirstName": {
+            "hash": -1999973603
+        },
+        "enLastName": {
+            "hash": 921608931
+        },
+        "firstName": {
+            "hash": -456423994
+        },
+        "fullName": {
+            "hash": 1936337510
+        },
+        "lastName": {
+            "hash": 1109948186
+        },
+        "RomaName": {
+            "hash": 1716808471
+        },
+        "shortName": {
+            "hash": 1598160502
+        },
+        "avatarRegistryKey": "Kiana_C4_YN",
+        "DA_Name": "DAKiana_G",
+        "DA_Type": "YN_Default",
+        "FaceAnimationGroupName": "Kiana",
+        "UILevelUpVoice": "VO_M_Kia_04_Selected",
+        "UISelectVoice": "VO_M_Kia_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9506
+        ],
+        "skillList": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+        ],
+        "TagUnlockList": [
+            1030,
+            1031,
+            1032
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60104,
+        "avatarFragmentID": 10104,
+        "avatarID": 104,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 45,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59104,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 1,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 44,
+        "unlockStar": 2,
+        "SKL01CD": 8.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 20.0,
+        "SKL02SPNeed": 75.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078637
+        },
+        "enFirstName": {
+            "hash": -1999973603
+        },
+        "enLastName": {
+            "hash": 921608931
+        },
+        "firstName": {
+            "hash": -456423994
+        },
+        "fullName": {
+            "hash": 1936337511
+        },
+        "lastName": {
+            "hash": 1109948186
+        },
+        "RomaName": {
+            "hash": 1716808472
+        },
+        "shortName": {
+            "hash": 1598160503
+        },
+        "avatarRegistryKey": "Kiana_C3_QN",
+        "DA_Name": "DAKiana_G",
+        "DA_Type": "QN_Default",
+        "FaceAnimationGroupName": "Kiana",
+        "UILevelUpVoice": "VO_M_Kia_04_Selected",
+        "UISelectVoice": "VO_M_Kia_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ],
+        "TagUnlockList": [
+            1040,
+            1041,
+            1042,
+            1043,
+            1044
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60111,
+        "avatarFragmentID": 10111,
+        "avatarID": 111,
+        "baseAvatarID": 104,
+        "Cabin": 0,
+        "captainSkillID": 265,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59111,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 102,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 264,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078665
+        },
+        "enFirstName": {
+            "hash": -1999973597
+        },
+        "enLastName": {
+            "hash": 921608937
+        },
+        "firstName": {
+            "hash": -456423988
+        },
+        "fullName": {
+            "hash": 1936337539
+        },
+        "lastName": {
+            "hash": 1109948192
+        },
+        "RomaName": {
+            "hash": 1716808500
+        },
+        "shortName": {
+            "hash": 1598160531
+        },
+        "avatarRegistryKey": "Kallen_C1_KT",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Kallen",
+        "UILevelUpVoice": "VO_M_Kal_C1_LevelUp",
+        "UISelectVoice": "VO_M_Kal_KT_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266
+        ],
+        "TagUnlockList": [
+            1110,
+            1111
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60112,
+        "avatarFragmentID": 10112,
+        "avatarID": 112,
+        "baseAvatarID": 101,
+        "Cabin": 0,
+        "captainSkillID": 275,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59112,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 102,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 274,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 3.5,
+        "SKL02SP": 60.0,
+        "SKL02SPNeed": 60.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078666
+        },
+        "enFirstName": {
+            "hash": -1999973597
+        },
+        "enLastName": {
+            "hash": 921608937
+        },
+        "firstName": {
+            "hash": -456423988
+        },
+        "fullName": {
+            "hash": 1936337540
+        },
+        "lastName": {
+            "hash": 1109948192
+        },
+        "RomaName": {
+            "hash": 1716808501
+        },
+        "shortName": {
+            "hash": 1598160532
+        },
+        "avatarRegistryKey": "Kallen_C2_MC",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Kallen",
+        "UILevelUpVoice": "VO_M_Kal_05_LevelUp",
+        "UISelectVoice": "VO_M_Kal_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            271,
+            272,
+            273,
+            274,
+            275,
+            276
+        ],
+        "TagUnlockList": [
+            1120,
+            1121,
+            1122
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 1,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60113,
+        "avatarFragmentID": 10113,
+        "avatarID": 113,
+        "baseAvatarID": 103,
+        "Cabin": 0,
+        "captainSkillID": 345,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59113,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 1,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 344,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078667
+        },
+        "enFirstName": {
+            "hash": -1999973603
+        },
+        "enLastName": {
+            "hash": 921608931
+        },
+        "firstName": {
+            "hash": -456423994
+        },
+        "fullName": {
+            "hash": 1936337541
+        },
+        "lastName": {
+            "hash": 1109948186
+        },
+        "RomaName": {
+            "hash": 1716808502
+        },
+        "shortName": {
+            "hash": 1598160533
+        },
+        "avatarRegistryKey": "Kiana_C5_YL",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Kiana",
+        "UILevelUpVoice": "VO_M_Kia_YL_LevelUp",
+        "UISelectVoice": "VO_M_Kia_YL_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9501
+        ],
+        "skillList": [
+            341,
+            342,
+            343,
+            344,
+            345,
+            346
+        ],
+        "TagUnlockList": [
+            1130,
+            1131,
+            1132
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60114,
+        "avatarFragmentID": 10114,
+        "avatarID": 114,
+        "baseAvatarID": 102,
+        "Cabin": 0,
+        "captainSkillID": 355,
+        "classID": 1,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59114,
+        "initialWeapon": 20001,
+        "levelTutorialID": 0,
+        "roleID": 102,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 354,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 30.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113078668
+        },
+        "enFirstName": {
+            "hash": -1999973597
+        },
+        "enLastName": {
+            "hash": 921608937
+        },
+        "firstName": {
+            "hash": -456423988
+        },
+        "fullName": {
+            "hash": 1936337542
+        },
+        "lastName": {
+            "hash": 1109948192
+        },
+        "RomaName": {
+            "hash": 1716808503
+        },
+        "shortName": {
+            "hash": 1598160534
+        },
+        "avatarRegistryKey": "Kallen_C3_JK",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Kallen",
+        "UILevelUpVoice": "VO_M_Kal_05_LevelUp",
+        "UISelectVoice": "VO_M_Kal_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            351,
+            352,
+            353,
+            354,
+            355,
+            356
+        ],
+        "TagUnlockList": [
+            1140,
+            1141,
+            1142
+        ],
+        "weaponBaseTypeList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60201,
+        "avatarFragmentID": 10201,
+        "avatarID": 201,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 55,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59201,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 2,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 54,
+        "unlockStar": 1,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 50.0,
+        "SKL02SPNeed": 50.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079595
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": 1936338469
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809430
+        },
+        "shortName": {
+            "hash": 1598161461
+        },
+        "avatarRegistryKey": "Mei_C2_CK",
+        "DA_Name": "DAMei_G",
+        "DA_Type": "CK_Default",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_05_LevelUp",
+        "UISelectVoice": "VO_M_Mei_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+        ],
+        "TagUnlockList": [
+            2010,
+            2011,
+            2012,
+            2013
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8217,
+        "ArtifactID": 202,
+        "attribute": 3,
+        "avatarCardID": 60202,
+        "avatarFragmentID": 10202,
+        "avatarID": 202,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 65,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59202,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 2,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 64,
+        "unlockStar": 2,
+        "SKL01CD": 10.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 20.0,
+        "SKL02ArtifactSP": 75.0,
+        "SKL02ArtifactSPNeed": 75.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 75.0,
+        "SKL02SPNeed": 75.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079596
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": 1936338470
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809431
+        },
+        "shortName": {
+            "hash": 1598161462
+        },
+        "avatarRegistryKey": "Mei_C3_WS",
+        "DA_Name": "DAMei_G",
+        "DA_Type": "WS_Default",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_05_LevelUp",
+        "UISelectVoice": "VO_M_Mei_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            521,
+            522,
+            523,
+            524,
+            526
+        ],
+        "TagUnlockList": [
+            2020,
+            2021
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8212,
+        "ArtifactID": 203,
+        "attribute": 1,
+        "avatarCardID": 60203,
+        "avatarFragmentID": 10203,
+        "avatarID": 203,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 75,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59203,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 2,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 74,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 10.0,
+        "SKL02ArtifactSP": 20.0,
+        "SKL02ArtifactSPNeed": 100.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 20.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079597
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": 1936338471
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809432
+        },
+        "shortName": {
+            "hash": 1598161463
+        },
+        "avatarRegistryKey": "Mei_C1_DH",
+        "DA_Name": "DAMei_G",
+        "DA_Type": "DH_Default",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_05_LevelUp",
+        "UISelectVoice": "VO_M_Mei_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            401,
+            402,
+            403,
+            404,
+            406
+        ],
+        "TagUnlockList": [
+            2030,
+            2031,
+            2032,
+            2033
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60204,
+        "avatarFragmentID": 10204,
+        "avatarID": 204,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 85,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59204,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 2,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 84,
+        "unlockStar": 3,
+        "SKL01CD": 10.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079598
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": 1936338472
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809433
+        },
+        "shortName": {
+            "hash": 1598161464
+        },
+        "avatarRegistryKey": "Mei_C4_LD",
+        "DA_Name": "DAMei_G",
+        "DA_Type": "LD_Default",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_05_LevelUp",
+        "UISelectVoice": "VO_M_Mei_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+        ],
+        "TagUnlockList": [
+            2040,
+            2041
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60205,
+        "avatarFragmentID": 10205,
+        "avatarID": 205,
+        "baseAvatarID": 204,
+        "Cabin": 0,
+        "captainSkillID": 555,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59205,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 2,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 554,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 12.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079599
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": 1936338473
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809434
+        },
+        "shortName": {
+            "hash": 1598161465
+        },
+        "avatarRegistryKey": "Mei_C5_AC",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_C5_LevelUp",
+        "UISelectVoice": "VO_M_Mei_C5_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9503
+        ],
+        "skillList": [
+            551,
+            552,
+            553,
+            554,
+            555,
+            556
+        ],
+        "TagUnlockList": [
+            2050,
+            2051,
+            2052,
+            2053,
+            2054
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60211,
+        "avatarFragmentID": 10211,
+        "avatarID": 211,
+        "baseAvatarID": 201,
+        "Cabin": 0,
+        "captainSkillID": 175,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59211,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 101,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 174,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079626
+        },
+        "enFirstName": {
+            "hash": -1999973598
+        },
+        "enLastName": {
+            "hash": 921608936
+        },
+        "firstName": {
+            "hash": -456423989
+        },
+        "fullName": {
+            "hash": 1936338500
+        },
+        "lastName": {
+            "hash": 1109948191
+        },
+        "RomaName": {
+            "hash": 1716809461
+        },
+        "shortName": {
+            "hash": 1598161492
+        },
+        "avatarRegistryKey": "Sakura_C1_YS",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Sakura",
+        "UILevelUpVoice": "VO_M_Sak_05_LevelUp",
+        "UISelectVoice": "VO_M_Sak_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+        ],
+        "TagUnlockList": [
+            2110,
+            2111,
+            2112
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60212,
+        "avatarFragmentID": 10212,
+        "avatarID": 212,
+        "baseAvatarID": 202,
+        "Cabin": 0,
+        "captainSkillID": 185,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59212,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 101,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 184,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079627
+        },
+        "enFirstName": {
+            "hash": -1999973598
+        },
+        "enLastName": {
+            "hash": 921608936
+        },
+        "firstName": {
+            "hash": -456423989
+        },
+        "fullName": {
+            "hash": 1936338501
+        },
+        "lastName": {
+            "hash": 1109948191
+        },
+        "RomaName": {
+            "hash": 1716809462
+        },
+        "shortName": {
+            "hash": 1598161493
+        },
+        "avatarRegistryKey": "Sakura_C2_ZF",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Sakura",
+        "UILevelUpVoice": "VO_M_Sak_05_LevelUp",
+        "UISelectVoice": "VO_M_Sak_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186
+        ],
+        "TagUnlockList": [
+            2120,
+            2121
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60213,
+        "avatarFragmentID": 10213,
+        "avatarID": 213,
+        "baseAvatarID": 203,
+        "Cabin": 0,
+        "captainSkillID": 255,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59213,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 101,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 254,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079628
+        },
+        "enFirstName": {
+            "hash": -1999973598
+        },
+        "enLastName": {
+            "hash": 921608936
+        },
+        "firstName": {
+            "hash": -456423989
+        },
+        "fullName": {
+            "hash": 1936338502
+        },
+        "lastName": {
+            "hash": 1109948191
+        },
+        "RomaName": {
+            "hash": 1716809463
+        },
+        "shortName": {
+            "hash": 1598161494
+        },
+        "avatarRegistryKey": "Sakura_C3_GW",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Sakura",
+        "UILevelUpVoice": "VO_M_Sak_05_LevelUp",
+        "UISelectVoice": "VO_M_Sak_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
+        ],
+        "TagUnlockList": [
+            2130,
+            2131,
+            2132
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 2,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60214,
+        "avatarFragmentID": 10214,
+        "avatarID": 214,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 505,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59214,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 101,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 504,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113079629
+        },
+        "enFirstName": {
+            "hash": -1999973598
+        },
+        "enLastName": {
+            "hash": 921608936
+        },
+        "firstName": {
+            "hash": -456423989
+        },
+        "fullName": {
+            "hash": 1936338503
+        },
+        "lastName": {
+            "hash": 1109948191
+        },
+        "RomaName": {
+            "hash": 1716809464
+        },
+        "shortName": {
+            "hash": 1598161495
+        },
+        "avatarRegistryKey": "Sakura_C4_NJ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Sakura",
+        "UILevelUpVoice": "VO_M_Sak_C4_LevelUp",
+        "UISelectVoice": "VO_M_Sak_C4_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            501,
+            502,
+            503,
+            504,
+            505,
+            506,
+            507
+        ],
+        "TagUnlockList": [
+            2140,
+            2141,
+            2142
+        ],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60301,
+        "avatarFragmentID": 10301,
+        "avatarID": 301,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 95,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59301,
+        "initialWeapon": 20243,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 94,
+        "unlockStar": 1,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 50.0,
+        "SKL02SPNeed": 50.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080556
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339430
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810391
+        },
+        "shortName": {
+            "hash": 1598162422
+        },
+        "avatarRegistryKey": "Bronya_C1_ZP",
+        "DA_Name": "DABronya_G",
+        "DA_Type": "ZP_Default",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+        ],
+        "TagUnlockList": [
+            3010,
+            3011,
+            3012,
+            3013
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8213,
+        "ArtifactID": 302,
+        "attribute": 2,
+        "avatarCardID": 60302,
+        "avatarFragmentID": 10302,
+        "avatarID": 302,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 115,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59302,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 114,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 25.0,
+        "SKL02ArtifactSP": 50.0,
+        "SKL02ArtifactSPNeed": 50.0,
+        "SKL02CD": 2.0,
+        "SKL02SP": 10.0,
+        "SKL02SPNeed": 40.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080557
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339431
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810392
+        },
+        "shortName": {
+            "hash": 1598162423
+        },
+        "avatarRegistryKey": "Bronya_C2_BQ",
+        "DA_Name": "DABronya_G",
+        "DA_Type": "BQ_Default",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            411,
+            412,
+            413,
+            414,
+            416
+        ],
+        "TagUnlockList": [
+            3020,
+            3021,
+            3022,
+            3023,
+            3024
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60303,
+        "avatarFragmentID": 10303,
+        "avatarID": 303,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 105,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59303,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 104,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 75.0,
+        "SKL02SPNeed": 75.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080558
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339432
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810393
+        },
+        "shortName": {
+            "hash": 1598162424
+        },
+        "avatarRegistryKey": "Bronya_C3_JJ",
+        "DA_Name": "DABronya_G",
+        "DA_Type": "JJ_Default",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+        ],
+        "TagUnlockList": [
+            3030,
+            3031
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60304,
+        "avatarFragmentID": 10304,
+        "avatarID": 304,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 125,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59304,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 124,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 8.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080559
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339433
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810394
+        },
+        "shortName": {
+            "hash": 1598162425
+        },
+        "avatarRegistryKey": "Bronya_C4_BX",
+        "DA_Name": "DABronya_G",
+        "DA_Type": "BX_Default",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            121,
+            122,
+            123,
+            124,
+            125,
+            126
+        ],
+        "TagUnlockList": [
+            3040,
+            3041,
+            3042,
+            3043,
+            3044
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60311,
+        "avatarFragmentID": 10311,
+        "avatarID": 311,
+        "baseAvatarID": 302,
+        "Cabin": 0,
+        "captainSkillID": 235,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59311,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 234,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 8.0,
+        "SKL02SP": 55.0,
+        "SKL02SPNeed": 55.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080587
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339461
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810422
+        },
+        "shortName": {
+            "hash": 1598162453
+        },
+        "avatarRegistryKey": "Bronya_C5_XT",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ],
+        "TagUnlockList": [
+            3110,
+            3111,
+            3112,
+            3113
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60312,
+        "avatarFragmentID": 10312,
+        "avatarID": 312,
+        "baseAvatarID": 303,
+        "Cabin": 0,
+        "captainSkillID": 245,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59312,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 244,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 15.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080588
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339462
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810423
+        },
+        "shortName": {
+            "hash": 1598162454
+        },
+        "avatarRegistryKey": "Bronya_C6_HH",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+        ],
+        "TagUnlockList": [
+            3120,
+            3121
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60313,
+        "avatarFragmentID": 10313,
+        "avatarID": 313,
+        "baseAvatarID": 304,
+        "Cabin": 0,
+        "captainSkillID": 465,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59313,
+        "initialWeapon": 20081,
+        "levelTutorialID": 0,
+        "roleID": 3,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 464,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 30.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113080589
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -456423992
+        },
+        "fullName": {
+            "hash": 1936339463
+        },
+        "lastName": {
+            "hash": 1109948188
+        },
+        "RomaName": {
+            "hash": 1716810424
+        },
+        "shortName": {
+            "hash": 1598162455
+        },
+        "avatarRegistryKey": "Bronya_C7_GZ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Bronya",
+        "UILevelUpVoice": "VO_M_Bro_C7_LevelUp",
+        "UISelectVoice": "VO_M_Bro_C7_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9502
+        ],
+        "skillList": [
+            461,
+            462,
+            463,
+            464,
+            465,
+            466
+        ],
+        "TagUnlockList": [
+            3130,
+            3131,
+            3132,
+            3133
+        ],
+        "weaponBaseTypeList": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60401,
+        "avatarFragmentID": 10401,
+        "avatarID": 401,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 135,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59401,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 134,
+        "unlockStar": 2,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081517
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340391
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811352
+        },
+        "shortName": {
+            "hash": 1598163383
+        },
+        "avatarRegistryKey": "Himeko_C1_VV",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_M_Him_05_LevelUp",
+        "UISelectVoice": "VO_M_Him_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+        ],
+        "TagUnlockList": [
+            4010,
+            4011,
+            4012,
+            4013,
+            4014
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60402,
+        "avatarFragmentID": 10402,
+        "avatarID": 402,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 145,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59402,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 144,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 20.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081518
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340392
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811353
+        },
+        "shortName": {
+            "hash": 1598163384
+        },
+        "avatarRegistryKey": "Himeko_C2_NX",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_M_Him_05_LevelUp",
+        "UISelectVoice": "VO_M_Him_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "TagUnlockList": [
+            4020,
+            4021,
+            4022,
+            4023
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60403,
+        "avatarFragmentID": 10403,
+        "avatarID": 403,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 155,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59403,
+        "initialWeapon": 20121,
+        "levelTutorialID": 10010,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 154,
+        "unlockStar": 1,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 15.0,
+        "SKL02SP": 50.0,
+        "SKL02SPNeed": 50.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081519
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340393
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811354
+        },
+        "shortName": {
+            "hash": 1598163385
+        },
+        "avatarRegistryKey": "Himeko_C3_KZ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_M_Him_05_LevelUp",
+        "UISelectVoice": "VO_M_Him_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156
+        ],
+        "TagUnlockList": [
+            4030,
+            4031,
+            4032,
+            4033
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60404,
+        "avatarFragmentID": 10404,
+        "avatarID": 404,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 165,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59404,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 164,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 5.0,
+        "SKL02SP": 30.0,
+        "SKL02SPNeed": 30.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081520
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340394
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811355
+        },
+        "shortName": {
+            "hash": 1598163386
+        },
+        "avatarRegistryKey": "Himeko_C4_BZ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_M_Him_05_LevelUp",
+        "UISelectVoice": "VO_M_Him_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+        ],
+        "TagUnlockList": [
+            4040,
+            4041,
+            4042,
+            4043
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60411,
+        "avatarFragmentID": 10411,
+        "avatarID": 411,
+        "baseAvatarID": 403,
+        "Cabin": 0,
+        "captainSkillID": 335,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59411,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 334,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081548
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340422
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811383
+        },
+        "shortName": {
+            "hash": 1598163414
+        },
+        "avatarRegistryKey": "Himeko_C5_NQ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_M_Him_NQ_LevelUp",
+        "UISelectVoice": "VO_M_Him_NQ_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            331,
+            332,
+            333,
+            334,
+            335,
+            336
+        ],
+        "TagUnlockList": [
+            4110,
+            4111
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60412,
+        "avatarFragmentID": 10412,
+        "avatarID": 412,
+        "baseAvatarID": 402,
+        "Cabin": 0,
+        "captainSkillID": 375,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59412,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 4,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 374,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 30.0,
+        "SKL02SPNeed": 30.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081549
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": 1936340423
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811384
+        },
+        "shortName": {
+            "hash": 1598163415
+        },
+        "avatarRegistryKey": "Himeko_C6_SD",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Himeko",
+        "UILevelUpVoice": "VO_L_Him5_33_LevelUp",
+        "UISelectVoice": "VO_L_Him5_35_36_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9505
+        ],
+        "skillList": [
+            371,
+            372,
+            373,
+            374,
+            375,
+            376
+        ],
+        "TagUnlockList": [
+            4120,
+            4121
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60421,
+        "avatarFragmentID": 10421,
+        "avatarID": 421,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 425,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59421,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 8,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 424,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 15.0,
+        "SKL02SP": 25.0,
+        "SKL02SPNeed": 25.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081579
+        },
+        "enFirstName": {
+            "hash": -1427226778
+        },
+        "enLastName": {
+            "hash": -1494894162
+        },
+        "firstName": {
+            "hash": 539303965
+        },
+        "fullName": {
+            "hash": 1936340453
+        },
+        "lastName": {
+            "hash": 48655447
+        },
+        "RomaName": {
+            "hash": 1716811414
+        },
+        "shortName": {
+            "hash": 1598163445
+        },
+        "avatarRegistryKey": "Twins_C1_GP",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Twi1",
+        "UILevelUpVoice": "VO_M_Twi_C1_LevelUp",
+        "UISelectVoice": "VO_M_Twi_C1_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            421,
+            422,
+            423,
+            424,
+            425,
+            426
+        ],
+        "TagUnlockList": [
+            4210,
+            4211
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8218,
+        "ArtifactID": 422,
+        "attribute": 2,
+        "avatarCardID": 60422,
+        "avatarFragmentID": 10422,
+        "avatarID": 422,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 435,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59422,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 8,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 434,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 9.0,
+        "SKL02ArtifactSP": 50.0,
+        "SKL02ArtifactSPNeed": 50.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113081580
+        },
+        "enFirstName": {
+            "hash": -1427226777
+        },
+        "enLastName": {
+            "hash": -1494894162
+        },
+        "firstName": {
+            "hash": 539303966
+        },
+        "fullName": {
+            "hash": 1936340454
+        },
+        "lastName": {
+            "hash": 48655447
+        },
+        "RomaName": {
+            "hash": 1716811415
+        },
+        "shortName": {
+            "hash": 1598163446
+        },
+        "avatarRegistryKey": "Twins_C2_BS",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Twi2",
+        "UILevelUpVoice": "VO_M_Twi_C2_LevelUp",
+        "UISelectVoice": "VO_M_Twi_C2_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            581,
+            582,
+            583,
+            584,
+            586
+        ],
+        "TagUnlockList": [
+            4220,
+            4221,
+            4222
+        ],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60501,
+        "avatarFragmentID": 10501,
+        "avatarID": 501,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 195,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59501,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 194,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 75.0,
+        "SKL02SPNeed": 75.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082478
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341352
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812313
+        },
+        "shortName": {
+            "hash": 1598164344
+        },
+        "avatarRegistryKey": "Theresa_C1_YD",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_05_LevelUp",
+        "UISelectVoice": "VO_M_The_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196
+        ],
+        "TagUnlockList": [
+            5010,
+            5011,
+            5012,
+            5013
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8215,
+        "ArtifactID": 502,
+        "attribute": 3,
+        "avatarCardID": 60502,
+        "avatarFragmentID": 10502,
+        "avatarID": 502,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 205,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59502,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 204,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 25.0,
+        "SKL02ArtifactSP": 100.0,
+        "SKL02ArtifactSPNeed": 100.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 80.0,
+        "SKL02SPNeed": 80.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082479
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341353
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812314
+        },
+        "shortName": {
+            "hash": 1598164345
+        },
+        "avatarRegistryKey": "Theresa_C2_TP",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_05_LevelUp",
+        "UISelectVoice": "VO_M_The_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            471,
+            472,
+            473,
+            474,
+            476
+        ],
+        "TagUnlockList": [
+            5020,
+            5021,
+            5022,
+            5023,
+            5024
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60503,
+        "avatarFragmentID": 10503,
+        "avatarID": 503,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 215,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59503,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 214,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 6.0,
+        "SKL02SP": 20.0,
+        "SKL02SPNeed": 80.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082480
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341354
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812315
+        },
+        "shortName": {
+            "hash": 1598164346
+        },
+        "avatarRegistryKey": "Theresa_C3_FY",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_05_LevelUp",
+        "UISelectVoice": "VO_M_The_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+        ],
+        "TagUnlockList": [
+            5030,
+            5031,
+            5032,
+            5033
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60504,
+        "avatarFragmentID": 10504,
+        "avatarID": 504,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 225,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59504,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 224,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082481
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341355
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812316
+        },
+        "shortName": {
+            "hash": 1598164347
+        },
+        "avatarRegistryKey": "Theresa_C4_JX",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_05_LevelUp",
+        "UISelectVoice": "VO_M_The_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226
+        ],
+        "TagUnlockList": [
+            5040,
+            5041,
+            5042,
+            5043
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 2,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60506,
+        "avatarFragmentID": 10506,
+        "avatarID": 506,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 565,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59506,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 564,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082483
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341357
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812318
+        },
+        "shortName": {
+            "hash": 1598164349
+        },
+        "avatarRegistryKey": "Theresa_C6_ZG",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_C6_LevelUp",
+        "UISelectVoice": "VO_M_The_C6_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            561,
+            562,
+            563,
+            564,
+            565,
+            566,
+            567
+        ],
+        "TagUnlockList": [
+            5060,
+            5061,
+            5062,
+            5063,
+            5064
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60511,
+        "avatarFragmentID": 10511,
+        "avatarID": 511,
+        "baseAvatarID": 501,
+        "Cabin": 0,
+        "captainSkillID": 325,
+        "classID": 5,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59511,
+        "initialWeapon": 20430,
+        "levelTutorialID": 0,
+        "roleID": 5,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 324,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 15.0,
+        "SKL02SP": 75.0,
+        "SKL02SPNeed": 75.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113082509
+        },
+        "enFirstName": {
+            "hash": -1999973599
+        },
+        "enLastName": {
+            "hash": 921608935
+        },
+        "firstName": {
+            "hash": -456423990
+        },
+        "fullName": {
+            "hash": 1936341383
+        },
+        "lastName": {
+            "hash": 1109948190
+        },
+        "RomaName": {
+            "hash": 1716812344
+        },
+        "shortName": {
+            "hash": 1598164375
+        },
+        "avatarRegistryKey": "Theresa_C5_GM",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Theresa",
+        "UILevelUpVoice": "VO_M_The_GM_LevelUp",
+        "UISelectVoice": "VO_M_The_GM_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            321,
+            322,
+            323,
+            324,
+            325,
+            326
+        ],
+        "TagUnlockList": [
+            5110,
+            5111,
+            5112,
+            5113
+        ],
+        "weaponBaseTypeList": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 8216,
+        "ArtifactID": 601,
+        "attribute": 2,
+        "avatarCardID": 60601,
+        "avatarFragmentID": 10601,
+        "avatarID": 601,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 285,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59601,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 284,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083439
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342313
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813274
+        },
+        "shortName": {
+            "hash": 1598165305
+        },
+        "avatarRegistryKey": "Fuka_C1_FK",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_05_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            481,
+            482,
+            483,
+            484,
+            486
+        ],
+        "TagUnlockList": [
+            6010,
+            6011,
+            6012,
+            6013
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60602,
+        "avatarFragmentID": 10602,
+        "avatarID": 602,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 295,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59602,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 294,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083440
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342314
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813275
+        },
+        "shortName": {
+            "hash": 1598165306
+        },
+        "avatarRegistryKey": "Fuka_C2_NL",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_05_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            291,
+            292,
+            293,
+            294,
+            295,
+            296
+        ],
+        "TagUnlockList": [
+            6020,
+            6021,
+            6022,
+            6023,
+            6024
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60603,
+        "avatarFragmentID": 10603,
+        "avatarID": 603,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 305,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59603,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 304,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083441
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342315
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813276
+        },
+        "shortName": {
+            "hash": 1598165307
+        },
+        "avatarRegistryKey": "Fuka_C3_ND",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_05_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306
+        ],
+        "TagUnlockList": [
+            6030,
+            6031,
+            6032,
+            6033,
+            6034
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60604,
+        "avatarFragmentID": 10604,
+        "avatarID": 604,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 315,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59604,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 314,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083442
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342316
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813277
+        },
+        "shortName": {
+            "hash": 1598165308
+        },
+        "avatarRegistryKey": "Fuka_C4_JW",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_05_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_01_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            311,
+            312,
+            313,
+            314,
+            315,
+            316
+        ],
+        "TagUnlockList": [
+            6040,
+            6041,
+            6042
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60611,
+        "avatarFragmentID": 10611,
+        "avatarID": 611,
+        "baseAvatarID": 604,
+        "Cabin": 0,
+        "captainSkillID": 515,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59611,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 514,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083470
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342344
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813305
+        },
+        "shortName": {
+            "hash": 1598165336
+        },
+        "avatarRegistryKey": "Fuka_C5_IN",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_C5_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_C5_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            511,
+            512,
+            513,
+            514,
+            515,
+            516
+        ],
+        "TagUnlockList": [
+            6110,
+            6111,
+            6112,
+            6113
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 1,
+        "avatarType": 1,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60612,
+        "avatarFragmentID": 10612,
+        "avatarID": 612,
+        "baseAvatarID": 602,
+        "Cabin": 0,
+        "captainSkillID": 615,
+        "classID": 6,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59612,
+        "initialWeapon": 20611,
+        "levelTutorialID": 0,
+        "roleID": 6,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 614,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113083471
+        },
+        "enFirstName": {
+            "hash": -1999973596
+        },
+        "enLastName": {
+            "hash": 921608938
+        },
+        "firstName": {
+            "hash": -456423987
+        },
+        "fullName": {
+            "hash": 1936342345
+        },
+        "lastName": {
+            "hash": 1109948193
+        },
+        "RomaName": {
+            "hash": 1716813306
+        },
+        "shortName": {
+            "hash": 1598165337
+        },
+        "avatarRegistryKey": "Fuka_C6_FL",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Fuka",
+        "UILevelUpVoice": "VO_M_Fuk_C6_LevelUp",
+        "UISelectVoice": "VO_M_Fuk_C6_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [
+            9504
+        ],
+        "skillList": [
+            611,
+            612,
+            613,
+            614,
+            615,
+            616
+        ],
+        "TagUnlockList": [
+            6121,
+            6122,
+            6123,
+            6124,
+            6125
+        ],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60702,
+        "avatarFragmentID": 10702,
+        "avatarID": 702,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 385,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59702,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 7,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 384,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 18.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 35.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084401
+        },
+        "enFirstName": {
+            "hash": -1999973595
+        },
+        "enLastName": {
+            "hash": 921608939
+        },
+        "firstName": {
+            "hash": -456423986
+        },
+        "fullName": {
+            "hash": 1936343275
+        },
+        "lastName": {
+            "hash": 1109948194
+        },
+        "RomaName": {
+            "hash": 1716814236
+        },
+        "shortName": {
+            "hash": 1598166267
+        },
+        "avatarRegistryKey": "Rita_C2_LG",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Rita",
+        "UILevelUpVoice": "VO_L_Rit_33_LevelUp",
+        "UISelectVoice": "VO_L_Rit_34_36_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            381,
+            382,
+            383,
+            384,
+            385,
+            386
+        ],
+        "TagUnlockList": [
+            7020,
+            7021
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 2,
+        "avatarCardID": 60703,
+        "avatarFragmentID": 10703,
+        "avatarID": 703,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 365,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59703,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 7,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 364,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084402
+        },
+        "enFirstName": {
+            "hash": -1999973595
+        },
+        "enLastName": {
+            "hash": 921608939
+        },
+        "firstName": {
+            "hash": -456423986
+        },
+        "fullName": {
+            "hash": 1936343276
+        },
+        "lastName": {
+            "hash": 1109948194
+        },
+        "RomaName": {
+            "hash": 1716814237
+        },
+        "shortName": {
+            "hash": 1598166268
+        },
+        "avatarRegistryKey": "Rita_C3_NP",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Rita",
+        "UILevelUpVoice": "VO_L_Rit_33_LevelUp",
+        "UISelectVoice": "VO_L_Rit_34_36_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            361,
+            362,
+            363,
+            364,
+            365,
+            366
+        ],
+        "TagUnlockList": [
+            7030,
+            7031
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60704,
+        "avatarFragmentID": 10704,
+        "avatarID": 704,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 395,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59704,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 7,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 394,
+        "unlockStar": 3,
+        "SKL01CD": 20.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 6.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 80.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084403
+        },
+        "enFirstName": {
+            "hash": -1999973595
+        },
+        "enLastName": {
+            "hash": 921608939
+        },
+        "firstName": {
+            "hash": -456423986
+        },
+        "fullName": {
+            "hash": 1936343277
+        },
+        "lastName": {
+            "hash": 1109948194
+        },
+        "RomaName": {
+            "hash": 1716814238
+        },
+        "shortName": {
+            "hash": 1598166269
+        },
+        "avatarRegistryKey": "Rita_C4_DQ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Rita",
+        "UILevelUpVoice": "VO_L_Rit_33_LevelUp",
+        "UISelectVoice": "VO_L_Rit_34_36_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            391,
+            392,
+            393,
+            394,
+            395,
+            396
+        ],
+        "TagUnlockList": [
+            7040,
+            7041,
+            7042
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 4,
+        "avatarCardID": 60705,
+        "avatarFragmentID": 10705,
+        "avatarID": 705,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 575,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59705,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 7,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 574,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084404
+        },
+        "enFirstName": {
+            "hash": -1999973595
+        },
+        "enLastName": {
+            "hash": 921608939
+        },
+        "firstName": {
+            "hash": -456423986
+        },
+        "fullName": {
+            "hash": 1936343278
+        },
+        "lastName": {
+            "hash": 1109948194
+        },
+        "RomaName": {
+            "hash": 1716814239
+        },
+        "shortName": {
+            "hash": 1598166270
+        },
+        "avatarRegistryKey": "Rita_C5_IA",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Rita",
+        "UILevelUpVoice": "VO_M_Rit_C5_LevelUp",
+        "UISelectVoice": "VO_M_Rit_C5_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            571,
+            572,
+            573,
+            574,
+            575,
+            576
+        ],
+        "TagUnlockList": [
+            7050,
+            7051,
+            7052,
+            7053
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 4,
+        "avatarCardID": 60711,
+        "avatarFragmentID": 10711,
+        "avatarID": 711,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 445,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59711,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 9,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 444,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 125.0,
+        "SKL02SPNeed": 125.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084431
+        },
+        "enFirstName": {
+            "hash": -1869639501
+        },
+        "enLastName": {
+            "hash": -1494894163
+        },
+        "firstName": {
+            "hash": -1264241878
+        },
+        "fullName": {
+            "hash": 1936343305
+        },
+        "lastName": {
+            "hash": 48655446
+        },
+        "RomaName": {
+            "hash": 1716814266
+        },
+        "shortName": {
+            "hash": 1598166297
+        },
+        "avatarRegistryKey": "Seele_C1_QT",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Seele",
+        "UILevelUpVoice": "VO_M_See_LevelUp",
+        "UISelectVoice": "VO_M_See_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            441,
+            442,
+            443,
+            444,
+            445,
+            446
+        ],
+        "TagUnlockList": [
+            7110,
+            7111
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 4,
+        "avatarCardID": 60712,
+        "avatarFragmentID": 10712,
+        "avatarID": 712,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 495,
+        "classID": 7,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59712,
+        "initialWeapon": 20881,
+        "levelTutorialID": 0,
+        "roleID": 9,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 494,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 0.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113084432
+        },
+        "enFirstName": {
+            "hash": -1869639501
+        },
+        "enLastName": {
+            "hash": -1494894163
+        },
+        "firstName": {
+            "hash": -1264241878
+        },
+        "fullName": {
+            "hash": 1936343306
+        },
+        "lastName": {
+            "hash": 48655446
+        },
+        "RomaName": {
+            "hash": 1716814267
+        },
+        "shortName": {
+            "hash": 1598166298
+        },
+        "avatarRegistryKey": "Seele_C2_HY",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Seele",
+        "UILevelUpVoice": "VO_M_See_LevelUp",
+        "UISelectVoice": "VO_M_See_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            491,
+            492,
+            493,
+            494,
+            495,
+            496
+        ],
+        "TagUnlockList": [
+            7120,
+            7121,
+            7122
+        ],
+        "weaponBaseTypeList": [
+            7
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 4,
+        "avatarCardID": 60801,
+        "avatarFragmentID": 10801,
+        "avatarID": 801,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 535,
+        "classID": 8,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59801,
+        "initialWeapon": 21141,
+        "levelTutorialID": 10012,
+        "roleID": 10,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 534,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113085361
+        },
+        "enFirstName": {
+            "hash": -1869639498
+        },
+        "enLastName": {
+            "hash": -1494894160
+        },
+        "firstName": {
+            "hash": -1264241875
+        },
+        "fullName": {
+            "hash": 1936344235
+        },
+        "lastName": {
+            "hash": 48655449
+        },
+        "RomaName": {
+            "hash": 1716815196
+        },
+        "shortName": {
+            "hash": 1598167227
+        },
+        "avatarRegistryKey": "Durandal_C1_TJ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Durandal",
+        "UILevelUpVoice": "VO_M_Dur_C1_LevelUp",
+        "UISelectVoice": "VO_M_Dur_C1_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            531,
+            532,
+            533,
+            534,
+            535,
+            536
+        ],
+        "TagUnlockList": [
+            8010,
+            8011,
+            8012
+        ],
+        "weaponBaseTypeList": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 3,
+        "avatarCardID": 60802,
+        "avatarFragmentID": 10802,
+        "avatarID": 802,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 545,
+        "classID": 8,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59802,
+        "initialWeapon": 21141,
+        "levelTutorialID": 0,
+        "roleID": 10,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 544,
+        "unlockStar": 3,
+        "SKL01CD": 10.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 25.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113085362
+        },
+        "enFirstName": {
+            "hash": -1869639498
+        },
+        "enLastName": {
+            "hash": -1494894160
+        },
+        "firstName": {
+            "hash": -1264241875
+        },
+        "fullName": {
+            "hash": 1936344236
+        },
+        "lastName": {
+            "hash": 48655449
+        },
+        "RomaName": {
+            "hash": 1716815197
+        },
+        "shortName": {
+            "hash": 1598167228
+        },
+        "avatarRegistryKey": "Durandal_C2_GD",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Durandal",
+        "UILevelUpVoice": "VO_M_Dur_C1_LevelUp",
+        "UISelectVoice": "VO_M_Dur_C1_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            541,
+            542,
+            543,
+            544,
+            545,
+            546
+        ],
+        "TagUnlockList": [
+            8020,
+            8021,
+            8022,
+            8023
+        ],
+        "weaponBaseTypeList": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60803,
+        "avatarFragmentID": 10803,
+        "avatarID": 803,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 595,
+        "classID": 8,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59803,
+        "initialWeapon": 21141,
+        "levelTutorialID": 0,
+        "roleID": 10,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 594,
+        "unlockStar": 3,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 0.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 15.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113085363
+        },
+        "enFirstName": {
+            "hash": -1869639498
+        },
+        "enLastName": {
+            "hash": -1494894160
+        },
+        "firstName": {
+            "hash": -1264241875
+        },
+        "fullName": {
+            "hash": 1936344237
+        },
+        "lastName": {
+            "hash": 48655449
+        },
+        "RomaName": {
+            "hash": 1716815198
+        },
+        "shortName": {
+            "hash": 1598167229
+        },
+        "avatarRegistryKey": "Durandal_C3_SW",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Durandal",
+        "UILevelUpVoice": "VO_M_Dur_C1_LevelUp",
+        "UISelectVoice": "VO_M_Dur_C1_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            591,
+            592,
+            593,
+            594,
+            595,
+            596
+        ],
+        "TagUnlockList": [
+            8030,
+            8031,
+            8032,
+            8033
+        ],
+        "weaponBaseTypeList": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 2,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 1,
+        "avatarCardID": 60901,
+        "avatarFragmentID": 10901,
+        "avatarID": 901,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 605,
+        "classID": 8,
+        "CollaborationSetID": 1,
+        "DefaultDressId": 59901,
+        "initialWeapon": 21141,
+        "levelTutorialID": 0,
+        "roleID": 11,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 604,
+        "unlockStar": 2,
+        "SKL01CD": 15.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 18.0,
+        "SKL02SP": 0.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 0.0,
+        "SKL03SP": 0.0,
+        "SKL03SPNeed": 0.0,
+        "desc": {
+            "hash": 1113086322
+        },
+        "enFirstName": {
+            "hash": -1869639497
+        },
+        "enLastName": {
+            "hash": -1494894159
+        },
+        "firstName": {
+            "hash": -1264241874
+        },
+        "fullName": {
+            "hash": 1936345196
+        },
+        "lastName": {
+            "hash": 48655450
+        },
+        "RomaName": {
+            "hash": 1716816157
+        },
+        "shortName": {
+            "hash": 1598168188
+        },
+        "avatarRegistryKey": "Asuka_C1_ZT",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Asuka",
+        "UILevelUpVoice": "VO_M_Ask_LevelUp",
+        "UISelectVoice": "VO_M_Ask_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            601,
+            602,
+            603,
+            604,
+            605,
+            606,
+            607
+        ],
+        "TagUnlockList": [
+            9010,
+            9011
+        ],
+        "weaponBaseTypeList": [
+            8
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 0,
+        "avatarCardID": 61203,
+        "avatarFragmentID": 11203,
+        "avatarID": 1203,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 55,
+        "classID": 2,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59002,
+        "initialWeapon": 20041,
+        "levelTutorialID": 0,
+        "roleID": 103,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 10002,
+        "unlockStar": 1,
+        "SKL01CD": 40.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 20.0,
+        "SKL02SP": 100.0,
+        "SKL02SPNeed": 100.0,
+        "SKL03CD": 20.0,
+        "SKL03SP": 100.0,
+        "SKL03SPNeed": 100.0,
+        "desc": {
+            "hash": 145701228
+        },
+        "enFirstName": {
+            "hash": -1999973602
+        },
+        "enLastName": {
+            "hash": 921608932
+        },
+        "firstName": {
+            "hash": -456423993
+        },
+        "fullName": {
+            "hash": -103077454
+        },
+        "lastName": {
+            "hash": 1109948187
+        },
+        "RomaName": {
+            "hash": 1716809432
+        },
+        "shortName": {
+            "hash": -1996630110
+        },
+        "avatarRegistryKey": "Mei_C1_BY",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Mei",
+        "UILevelUpVoice": "VO_M_Mei_05_LevelUp",
+        "UISelectVoice": "VO_M_Mei_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            52,
+            54,
+            55,
+            10002,
+            10004,
+            10005
+        ],
+        "TagUnlockList": [],
+        "weaponBaseTypeList": [
+            2
+        ],
+        "bits1": 1
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 0,
+        "avatarCardID": 61304,
+        "avatarFragmentID": 11304,
+        "avatarID": 1304,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 55,
+        "classID": 3,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59003,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 105,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 10003,
+        "unlockStar": 1,
+        "SKL01CD": 40.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 10.0,
+        "SKL02SP": 50.0,
+        "SKL02SPNeed": 50.0,
+        "SKL03CD": 10.0,
+        "SKL03SP": 50.0,
+        "SKL03SPNeed": 50.0,
+        "desc": {
+            "hash": 145702190
+        },
+        "enFirstName": {
+            "hash": -1999973601
+        },
+        "enLastName": {
+            "hash": 921608933
+        },
+        "firstName": {
+            "hash": -1264241876
+        },
+        "fullName": {
+            "hash": -103076492
+        },
+        "lastName": {
+            "hash": 48655448
+        },
+        "RomaName": {
+            "hash": 1716810394
+        },
+        "shortName": {
+            "hash": -1996629148
+        },
+        "avatarRegistryKey": "Carol_C1_HP",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Carol",
+        "UILevelUpVoice": "VO_M_Bro_05_LevelUp",
+        "UISelectVoice": "VO_M_Bro_04_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            52,
+            54,
+            55,
+            10003,
+            10004,
+            10005
+        ],
+        "TagUnlockList": [],
+        "weaponBaseTypeList": [
+            6
+        ],
+        "bits1": 0
+    },
+    {
+        "avatarStarUpType": 0,
+        "avatarType": 0,
+        "artifactFragmentID": 0,
+        "ArtifactID": 0,
+        "attribute": 0,
+        "avatarCardID": 61411,
+        "avatarFragmentID": 11411,
+        "avatarID": 1411,
+        "baseAvatarID": 0,
+        "Cabin": 0,
+        "captainSkillID": 55,
+        "classID": 4,
+        "CollaborationSetID": 0,
+        "DefaultDressId": 59001,
+        "initialWeapon": 20121,
+        "levelTutorialID": 0,
+        "roleID": 104,
+        "SKL01Charges": 1,
+        "SKL02Charges": 0,
+        "SKL03Charges": 0,
+        "ultraSkillID": 10001,
+        "unlockStar": 1,
+        "SKL01CD": 40.0,
+        "SKL01SP": 0.0,
+        "SKL01SPNeed": 0.0,
+        "SKL02ArtifactCD": 0.0,
+        "SKL02ArtifactSP": 0.0,
+        "SKL02ArtifactSPNeed": 0.0,
+        "SKL02CD": 1.0,
+        "SKL02SP": 30.0,
+        "SKL02SPNeed": 30.0,
+        "SKL03CD": 1.0,
+        "SKL03SP": 30.0,
+        "SKL03SPNeed": 30.0,
+        "desc": {
+            "hash": 145703179
+        },
+        "enFirstName": {
+            "hash": -1999973600
+        },
+        "enLastName": {
+            "hash": 921608934
+        },
+        "firstName": {
+            "hash": -456423991
+        },
+        "fullName": {
+            "hash": -103075503
+        },
+        "lastName": {
+            "hash": 1109948189
+        },
+        "RomaName": {
+            "hash": 1716811383
+        },
+        "shortName": {
+            "hash": -1996628159
+        },
+        "avatarRegistryKey": "Adam_C1_NZ",
+        "DA_Name": "",
+        "DA_Type": "",
+        "FaceAnimationGroupName": "Adam",
+        "UILevelUpVoice": "VO_M_Him_NQ_LevelUp",
+        "UISelectVoice": "VO_M_Him_NQ_Selected",
+        "AvatarEffects": [],
+        "avatarStarSourceID": [],
+        "skillList": [
+            52,
+            54,
+            55,
+            10001,
+            10004,
+            10005
+        ],
+        "TagUnlockList": [],
+        "weaponBaseTypeList": [
+            4
+        ],
+        "bits1": 0
+    }
+]

@@ -1,0 +1,767 @@
+[
+    {
+        "ID": 1,
+        "KingdomsID": 0,
+        "PhotoType": 1,
+        "IsShow": 1,
+        "NeedCurrencyID": 0,
+        "NeedCurrencyNum": 0,
+        "NeedScore": 2000,
+        "PhotoID": 500001,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-13 10:00:00",
+        "EndTime": "2019-05-23 03:59:59"
+    },
+    {
+        "ID": 37,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 10,
+        "NeedScore": 0,
+        "PhotoID": 510001,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 38,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 120,
+        "NeedScore": 0,
+        "PhotoID": 510002,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 39,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 240,
+        "NeedScore": 0,
+        "PhotoID": 510003,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 40,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 360,
+        "NeedScore": 0,
+        "PhotoID": 510004,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 41,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 520,
+        "NeedScore": 0,
+        "PhotoID": 510005,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 42,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 700,
+        "NeedScore": 0,
+        "PhotoID": 510006,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 43,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 900,
+        "NeedScore": 0,
+        "PhotoID": 510007,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 44,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1100,
+        "NeedScore": 0,
+        "PhotoID": 510008,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 45,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1300,
+        "NeedScore": 0,
+        "PhotoID": 510009,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 46,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1500,
+        "NeedScore": 0,
+        "PhotoID": 510010,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 47,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1700,
+        "NeedScore": 0,
+        "PhotoID": 510011,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 48,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1900,
+        "NeedScore": 0,
+        "PhotoID": 510012,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 49,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 10,
+        "NeedScore": 0,
+        "PhotoID": 510013,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 50,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 120,
+        "NeedScore": 0,
+        "PhotoID": 510014,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 51,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 240,
+        "NeedScore": 0,
+        "PhotoID": 510015,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 52,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 360,
+        "NeedScore": 0,
+        "PhotoID": 510016,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 53,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 520,
+        "NeedScore": 0,
+        "PhotoID": 510017,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 54,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 700,
+        "NeedScore": 0,
+        "PhotoID": 510018,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 55,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 900,
+        "NeedScore": 0,
+        "PhotoID": 510019,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 56,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1100,
+        "NeedScore": 0,
+        "PhotoID": 510020,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 57,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1300,
+        "NeedScore": 0,
+        "PhotoID": 510021,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 58,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1500,
+        "NeedScore": 0,
+        "PhotoID": 510022,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 59,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1700,
+        "NeedScore": 0,
+        "PhotoID": 510023,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 60,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1900,
+        "NeedScore": 0,
+        "PhotoID": 510024,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 61,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 10,
+        "NeedScore": 0,
+        "PhotoID": 510025,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 62,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 120,
+        "NeedScore": 0,
+        "PhotoID": 510026,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 63,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 240,
+        "NeedScore": 0,
+        "PhotoID": 510027,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 64,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 360,
+        "NeedScore": 0,
+        "PhotoID": 510028,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 65,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 520,
+        "NeedScore": 0,
+        "PhotoID": 510029,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 66,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 700,
+        "NeedScore": 0,
+        "PhotoID": 510030,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 67,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 900,
+        "NeedScore": 0,
+        "PhotoID": 510031,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 68,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1100,
+        "NeedScore": 0,
+        "PhotoID": 510032,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 69,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1300,
+        "NeedScore": 0,
+        "PhotoID": 510033,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 70,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1500,
+        "NeedScore": 0,
+        "PhotoID": 510034,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 71,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1700,
+        "NeedScore": 0,
+        "PhotoID": 510035,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 72,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 1900,
+        "NeedScore": 0,
+        "PhotoID": 510036,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 73,
+        "KingdomsID": 0,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510037,
+        "PrePhotoID": 0,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 74,
+        "KingdomsID": 0,
+        "PhotoType": 3,
+        "IsShow": 0,
+        "NeedCurrencyID": 0,
+        "NeedCurrencyNum": 0,
+        "NeedScore": 0,
+        "PhotoID": 510038,
+        "PrePhotoID": 0,
+        "PointID": 7101,
+        "LockText": {
+            "hash": -901752124
+        },
+        "BeginTime": "2019-05-20 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 75,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510039,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 76,
+        "KingdomsID": 2,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510040,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 77,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510041,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 78,
+        "KingdomsID": 3,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510042,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 79,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510043,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    },
+    {
+        "ID": 80,
+        "KingdomsID": 1,
+        "PhotoType": 2,
+        "IsShow": 1,
+        "NeedCurrencyID": 114291,
+        "NeedCurrencyNum": 2000,
+        "NeedScore": 0,
+        "PhotoID": 510044,
+        "PrePhotoID": 510037,
+        "PointID": 0,
+        "LockText": {
+            "hash": -901752123
+        },
+        "BeginTime": "2020-05-08 04:00:00",
+        "EndTime": "2020-05-23 03:59:59"
+    }
+]

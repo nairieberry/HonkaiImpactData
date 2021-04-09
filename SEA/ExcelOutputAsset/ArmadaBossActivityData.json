@@ -1,0 +1,975 @@
+[
+    {
+        "ActivityID": 2,
+        "ShopID": 15,
+        "EndTime": "2019-11-15 03:59:59",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 3,
+        "ShopID": 15,
+        "EndTime": "2019-11-18 03:59:59",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 4,
+        "ShopID": 15,
+        "EndTime": "2019-11-21 03:59:59",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 5,
+        "ShopID": 15,
+        "EndTime": "2019-11-24 03:59:59",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 6,
+        "ShopID": 15,
+        "EndTime": "2019-11-27 03:59:59",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanelActivitySP09",
+        "StageIDList": "145254,145255,145256,145257,145258,145259,145260,145261,145262"
+    },
+    {
+        "ActivityID": 7,
+        "ShopID": 5,
+        "EndTime": "2019-12-05 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 8,
+        "ShopID": 5,
+        "EndTime": "2019-12-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 9,
+        "ShopID": 5,
+        "EndTime": "2019-12-12 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 10,
+        "ShopID": 5,
+        "EndTime": "2019-12-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 11,
+        "ShopID": 5,
+        "EndTime": "2019-12-19 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 12,
+        "ShopID": 5,
+        "EndTime": "2019-12-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 13,
+        "ShopID": 5,
+        "EndTime": "2019-12-26 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 14,
+        "ShopID": 5,
+        "EndTime": "2019-12-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 15,
+        "ShopID": 5,
+        "EndTime": "2020-01-02 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 16,
+        "ShopID": 5,
+        "EndTime": "2020-01-06 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 17,
+        "ShopID": 5,
+        "EndTime": "2020-01-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 18,
+        "ShopID": 5,
+        "EndTime": "2020-01-13 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 19,
+        "ShopID": 5,
+        "EndTime": "2020-01-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 20,
+        "ShopID": 5,
+        "EndTime": "2020-01-20 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 21,
+        "ShopID": 5,
+        "EndTime": "2020-01-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 22,
+        "ShopID": 5,
+        "EndTime": "2020-01-27 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 23,
+        "ShopID": 5,
+        "EndTime": "2020-01-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 24,
+        "ShopID": 5,
+        "EndTime": "2020-02-03 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 25,
+        "ShopID": 5,
+        "EndTime": "2020-02-06 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 26,
+        "ShopID": 5,
+        "EndTime": "2020-02-10 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 27,
+        "ShopID": 5,
+        "EndTime": "2020-02-13 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 28,
+        "ShopID": 5,
+        "EndTime": "2020-02-17 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 29,
+        "ShopID": 5,
+        "EndTime": "2020-02-20 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel1",
+        "StageIDList": "145298"
+    },
+    {
+        "ActivityID": 30,
+        "ShopID": 5,
+        "EndTime": "2020-02-24 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel1",
+        "StageIDList": "145299"
+    },
+    {
+        "ActivityID": 34,
+        "ShopID": 5,
+        "EndTime": "2020-03-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 35,
+        "ShopID": 5,
+        "EndTime": "2020-03-12 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 36,
+        "ShopID": 5,
+        "EndTime": "2020-03-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 37,
+        "ShopID": 5,
+        "EndTime": "2020-03-19 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 38,
+        "ShopID": 5,
+        "EndTime": "2020-03-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 39,
+        "ShopID": 5,
+        "EndTime": "2020-03-26 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 40,
+        "ShopID": 5,
+        "EndTime": "2020-03-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 41,
+        "ShopID": 5,
+        "EndTime": "2020-04-02 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 42,
+        "ShopID": 5,
+        "EndTime": "2020-04-06 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 43,
+        "ShopID": 5,
+        "EndTime": "2020-04-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 44,
+        "ShopID": 5,
+        "EndTime": "2020-04-13 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 45,
+        "ShopID": 5,
+        "EndTime": "2020-04-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 46,
+        "ShopID": 5,
+        "EndTime": "2020-04-20 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 47,
+        "ShopID": 5,
+        "EndTime": "2020-04-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 48,
+        "ShopID": 5,
+        "EndTime": "2020-04-27 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 49,
+        "ShopID": 5,
+        "EndTime": "2020-04-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 50,
+        "ShopID": 5,
+        "EndTime": "2020-05-04 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 51,
+        "ShopID": 5,
+        "EndTime": "2020-05-07 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 52,
+        "ShopID": 5,
+        "EndTime": "2020-05-11 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 53,
+        "ShopID": 5,
+        "EndTime": "2020-05-14 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 54,
+        "ShopID": 5,
+        "EndTime": "2020-05-18 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 55,
+        "ShopID": 5,
+        "EndTime": "2020-05-21 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 56,
+        "ShopID": 5,
+        "EndTime": "2020-05-25 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 57,
+        "ShopID": 5,
+        "EndTime": "2020-06-25 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 58,
+        "ShopID": 5,
+        "EndTime": "2020-06-29 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 59,
+        "ShopID": 5,
+        "EndTime": "2020-07-02 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 60,
+        "ShopID": 5,
+        "EndTime": "2020-07-06 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 61,
+        "ShopID": 5,
+        "EndTime": "2020-07-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 62,
+        "ShopID": 5,
+        "EndTime": "2020-07-13 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 63,
+        "ShopID": 5,
+        "EndTime": "2020-07-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 64,
+        "ShopID": 5,
+        "EndTime": "2020-07-20 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 65,
+        "ShopID": 5,
+        "EndTime": "2020-07-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 66,
+        "ShopID": 5,
+        "EndTime": "2020-07-27 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 67,
+        "ShopID": 5,
+        "EndTime": "2020-07-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 68,
+        "ShopID": 5,
+        "EndTime": "2020-08-03 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 69,
+        "ShopID": 5,
+        "EndTime": "2020-08-06 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 70,
+        "ShopID": 5,
+        "EndTime": "2020-08-10 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 71,
+        "ShopID": 5,
+        "EndTime": "2020-08-13 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 72,
+        "ShopID": 5,
+        "EndTime": "2020-08-17 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 73,
+        "ShopID": 5,
+        "EndTime": "2020-08-20 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 74,
+        "ShopID": 5,
+        "EndTime": "2020-08-24 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 75,
+        "ShopID": 5,
+        "EndTime": "2020-08-27 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 76,
+        "ShopID": 5,
+        "EndTime": "2020-08-31 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 77,
+        "ShopID": 5,
+        "EndTime": "2020-09-03 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 78,
+        "ShopID": 5,
+        "EndTime": "2020-09-07 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 79,
+        "ShopID": 5,
+        "EndTime": "2020-09-10 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 80,
+        "ShopID": 5,
+        "EndTime": "2020-09-14 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 81,
+        "ShopID": 5,
+        "EndTime": "2020-09-17 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 82,
+        "ShopID": 5,
+        "EndTime": "2020-09-21 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 83,
+        "ShopID": 5,
+        "EndTime": "2020-09-24 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 84,
+        "ShopID": 5,
+        "EndTime": "2020-09-28 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 85,
+        "ShopID": 5,
+        "EndTime": "2020-10-01 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 86,
+        "ShopID": 5,
+        "EndTime": "2020-10-05 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 87,
+        "ShopID": 5,
+        "EndTime": "2020-10-08 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 88,
+        "ShopID": 5,
+        "EndTime": "2020-10-12 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 89,
+        "ShopID": 5,
+        "EndTime": "2020-10-15 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 90,
+        "ShopID": 5,
+        "EndTime": "2020-10-19 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145295,145296,145297"
+    },
+    {
+        "ActivityID": 91,
+        "ShopID": 5,
+        "EndTime": "2020-10-22 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145254,145255,145256"
+    },
+    {
+        "ActivityID": 92,
+        "ShopID": 5,
+        "EndTime": "2020-10-26 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145257,145258,145259"
+    },
+    {
+        "ActivityID": 93,
+        "ShopID": 5,
+        "EndTime": "2020-10-29 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145260,145261,145262"
+    },
+    {
+        "ActivityID": 94,
+        "ShopID": 5,
+        "EndTime": "2020-11-02 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145277,145278,145279"
+    },
+    {
+        "ActivityID": 95,
+        "ShopID": 5,
+        "EndTime": "2020-11-05 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145280,145281,145282"
+    },
+    {
+        "ActivityID": 96,
+        "ShopID": 5,
+        "EndTime": "2020-11-09 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145283,145284,145285"
+    },
+    {
+        "ActivityID": 97,
+        "ShopID": 5,
+        "EndTime": "2020-11-12 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145286,145287,145288"
+    },
+    {
+        "ActivityID": 98,
+        "ShopID": 5,
+        "EndTime": "2020-11-16 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145289,145290,145291"
+    },
+    {
+        "ActivityID": 99,
+        "ShopID": 5,
+        "EndTime": "2020-11-19 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145292,145293,145294"
+    },
+    {
+        "ActivityID": 100,
+        "ShopID": 5,
+        "EndTime": "2020-11-23 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145360,145361,145362"
+    },
+    {
+        "ActivityID": 101,
+        "ShopID": 5,
+        "EndTime": "2020-11-26 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145363,145364,145365"
+    },
+    {
+        "ActivityID": 102,
+        "ShopID": 5,
+        "EndTime": "2020-11-30 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145366,145367,145368"
+    },
+    {
+        "ActivityID": 103,
+        "ShopID": 5,
+        "EndTime": "2020-12-03 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145369,145370,145371"
+    },
+    {
+        "ActivityID": 104,
+        "ShopID": 5,
+        "EndTime": "2020-12-07 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145372,145373,145374"
+    },
+    {
+        "ActivityID": 105,
+        "ShopID": 5,
+        "EndTime": "2020-12-10 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145375,145376,145377"
+    },
+    {
+        "ActivityID": 106,
+        "ShopID": 5,
+        "EndTime": "2020-12-14 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145378,145379,145380"
+    },
+    {
+        "ActivityID": 107,
+        "ShopID": 5,
+        "EndTime": "2020-12-17 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145381,145382,145383"
+    },
+    {
+        "ActivityID": 108,
+        "ShopID": 5,
+        "EndTime": "2020-12-21 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145384,145385,145386"
+    },
+    {
+        "ActivityID": 109,
+        "ShopID": 5,
+        "EndTime": "2020-12-24 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145387,145388,145389"
+    },
+    {
+        "ActivityID": 110,
+        "ShopID": 5,
+        "EndTime": "2020-12-28 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145390,145391,145392"
+    },
+    {
+        "ActivityID": 111,
+        "ShopID": 5,
+        "EndTime": "2020-12-31 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145393,145394,145395"
+    },
+    {
+        "ActivityID": 112,
+        "ShopID": 5,
+        "EndTime": "2021-01-04 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145396,145397,145398"
+    },
+    {
+        "ActivityID": 113,
+        "ShopID": 5,
+        "EndTime": "2021-01-07 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145360,145361,145362"
+    },
+    {
+        "ActivityID": 114,
+        "ShopID": 5,
+        "EndTime": "2021-01-11 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145363,145364,145365"
+    },
+    {
+        "ActivityID": 115,
+        "ShopID": 5,
+        "EndTime": "2021-01-14 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145366,145367,145368"
+    },
+    {
+        "ActivityID": 116,
+        "ShopID": 5,
+        "EndTime": "2021-01-18 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145369,145370,145371"
+    },
+    {
+        "ActivityID": 117,
+        "ShopID": 5,
+        "EndTime": "2021-01-21 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145372,145373,145374"
+    },
+    {
+        "ActivityID": 118,
+        "ShopID": 5,
+        "EndTime": "2021-01-25 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145375,145376,145377"
+    },
+    {
+        "ActivityID": 119,
+        "ShopID": 5,
+        "EndTime": "2021-01-28 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145378,145379,145380"
+    },
+    {
+        "ActivityID": 120,
+        "ShopID": 5,
+        "EndTime": "2021-02-01 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145381,145382,145383"
+    },
+    {
+        "ActivityID": 121,
+        "ShopID": 5,
+        "EndTime": "2021-02-04 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145384,145385,145386"
+    },
+    {
+        "ActivityID": 122,
+        "ShopID": 5,
+        "EndTime": "2021-02-08 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145387,145388,145389"
+    },
+    {
+        "ActivityID": 123,
+        "ShopID": 5,
+        "EndTime": "2021-02-11 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145390,145391,145392"
+    },
+    {
+        "ActivityID": 124,
+        "ShopID": 5,
+        "EndTime": "2021-02-15 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145393,145394,145395"
+    },
+    {
+        "ActivityID": 125,
+        "ShopID": 5,
+        "EndTime": "2021-02-18 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145396,145397,145398"
+    },
+    {
+        "ActivityID": 126,
+        "ShopID": 5,
+        "EndTime": "2021-02-22 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145360,145361,145362"
+    },
+    {
+        "ActivityID": 127,
+        "ShopID": 5,
+        "EndTime": "2021-02-25 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145363,145364,145365"
+    },
+    {
+        "ActivityID": 128,
+        "ShopID": 5,
+        "EndTime": "2021-03-01 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145366,145367,145368"
+    },
+    {
+        "ActivityID": 129,
+        "ShopID": 5,
+        "EndTime": "2021-03-04 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145369,145370,145371"
+    },
+    {
+        "ActivityID": 130,
+        "ShopID": 5,
+        "EndTime": "2021-03-08 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145372,145373,145374"
+    },
+    {
+        "ActivityID": 131,
+        "ShopID": 5,
+        "EndTime": "2021-03-11 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145375,145376,145377"
+    },
+    {
+        "ActivityID": 132,
+        "ShopID": 5,
+        "EndTime": "2021-03-15 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145378,145379,145380"
+    },
+    {
+        "ActivityID": 133,
+        "ShopID": 5,
+        "EndTime": "2021-03-18 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145381,145382,145383"
+    },
+    {
+        "ActivityID": 134,
+        "ShopID": 5,
+        "EndTime": "2021-03-22 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145384,145385,145386"
+    },
+    {
+        "ActivityID": 135,
+        "ShopID": 5,
+        "EndTime": "2021-03-25 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145387,145388,145389"
+    },
+    {
+        "ActivityID": 136,
+        "ShopID": 5,
+        "EndTime": "2021-03-29 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145390,145391,145392"
+    },
+    {
+        "ActivityID": 137,
+        "ShopID": 5,
+        "EndTime": "2021-04-01 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145393,145394,145395"
+    },
+    {
+        "ActivityID": 138,
+        "ShopID": 5,
+        "EndTime": "2021-04-05 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145396,145397,145398"
+    },
+    {
+        "ActivityID": 139,
+        "ShopID": 5,
+        "EndTime": "2021-04-08 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145360,145361,145362"
+    },
+    {
+        "ActivityID": 140,
+        "ShopID": 5,
+        "EndTime": "2021-04-12 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145363,145364,145365"
+    },
+    {
+        "ActivityID": 141,
+        "ShopID": 5,
+        "EndTime": "2021-04-15 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145366,145367,145368"
+    },
+    {
+        "ActivityID": 142,
+        "ShopID": 5,
+        "EndTime": "2021-04-19 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145369,145370,145371"
+    },
+    {
+        "ActivityID": 143,
+        "ShopID": 5,
+        "EndTime": "2021-04-22 04:00:00",
+        "LevelPanelPrefabPath": "UI/Menus/Widget/LevelPanel/LevelPanel3",
+        "StageIDList": "145372,145373,145374"
+    }
+]

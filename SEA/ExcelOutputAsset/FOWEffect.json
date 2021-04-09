@@ -1,0 +1,262 @@
+[
+    {
+        "TexHeigth": 128,
+        "TexWidth": 128,
+        "XSize": 130,
+        "ZSize": 130,
+        "CutOff": 0.0001,
+        "fogValue": 0.3,
+        "HeightRange": 2.0,
+        "Luminance": 3.5,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 45.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.9,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01.png",
+        "StageName": "Stage_PVERogue",
+        "PositionWS": [
+            -13.9,
+            5.0,
+            -77.32
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 128,
+        "TexWidth": 128,
+        "XSize": 80,
+        "ZSize": 80,
+        "CutOff": 0.0001,
+        "fogValue": 0.3,
+        "HeightRange": 2.0,
+        "Luminance": 3.5,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 45.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.9,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_PVERogue_Area01_B",
+        "PositionWS": [
+            -11.8,
+            5.0,
+            -41.3
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 80,
+        "ZSize": 80,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.13,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.5,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_mountainous_02_360",
+        "PositionWS": [
+            -20.0,
+            3.0,
+            -30.0
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 70,
+        "ZSize": 70,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.3,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.5,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_mountainous_02_360_Big",
+        "PositionWS": [
+            -20.0,
+            3.0,
+            -30.0
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 100,
+        "ZSize": 60,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.9,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_mountainous_03_360",
+        "PositionWS": [
+            -45.0,
+            3.0,
+            -30.0
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 70,
+        "ZSize": 70,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.3,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.5,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_mountainous_03_360_Big",
+        "PositionWS": [
+            -17.16,
+            2.0,
+            -28.5
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 100,
+        "ZSize": 60,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.9,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_Village_03_360_Higher",
+        "PositionWS": [
+            -45.0,
+            3.75,
+            -30.0
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 100,
+        "ZSize": 60,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 360.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.9,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Qbattle_Village_03_360_Normal",
+        "PositionWS": [
+            -45.0,
+            3.1,
+            -30.0
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 70,
+        "ZSize": 70,
+        "CutOff": 0.0001,
+        "fogValue": 0.0,
+        "HeightRange": 1.5,
+        "Luminance": 2.74,
+        "playerRadius": 0.15,
+        "PlayerSectorAngle": 45.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.5,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_PVERogue/FOWTexture01B.png",
+        "StageName": "Stage_Shoot_PVE_Tower01",
+        "PositionWS": [
+            -17.16,
+            2.0,
+            -28.5
+        ],
+        "RotationWS": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TexHeigth": 256,
+        "TexWidth": 256,
+        "XSize": 90,
+        "ZSize": 90,
+        "CutOff": 0.0001,
+        "fogValue": 0.2,
+        "HeightRange": 2.0,
+        "Luminance": 3.5,
+        "playerRadius": 0.1,
+        "PlayerSectorAngle": 45.0,
+        "StepMinValue": 0.0001,
+        "StepScale": 0.4,
+        "ImagePath": "Assets/AsbRes/Stage/Stage_Tower/FOWTexture.png",
+        "StageName": "StageTower_Part01",
+        "PositionWS": [
+            -47.3,
+            5.0,
+            -11.0
+        ],
+        "RotationWS": [
+            0.0,
+            45.0,
+            0.0
+        ]
+    }
+]

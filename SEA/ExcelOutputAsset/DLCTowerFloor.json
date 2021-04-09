@@ -1,0 +1,7416 @@
+[
+    {
+        "ConfigType": 1,
+        "Floor": 1,
+        "HardLevel": 1,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1011"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 1,
+        "HardLevel": 1,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 1,
+        "HardLevel": 101,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 1,
+        "HardLevel": 201,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 1,
+        "HardLevel": 401,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 1,
+        "HardLevel": 101,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 1,
+        "HardLevel": 1,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 1,
+        "HardLevel": 101,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 1,
+        "HardLevel": 201,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 1,
+        "HardLevel": 401,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 1,
+        "HardLevel": 1,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 1,
+        "HardLevel": 101,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 1,
+        "HardLevel": 201,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 1,
+        "HardLevel": 401,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 2,
+        "HardLevel": 2,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1012"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 2,
+        "HardLevel": 2,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1002"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 2,
+        "HardLevel": 102,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1002"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 2,
+        "HardLevel": 202,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1002"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 2,
+        "HardLevel": 402,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1002"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 2,
+        "HardLevel": 102,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 5,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 600,
+        "WarningLevel": 5,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1002"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 2,
+        "HardLevel": 3,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 2,
+        "HardLevel": 103,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 2,
+        "HardLevel": 203,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 2,
+        "HardLevel": 403,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 2,
+        "HardLevel": 3,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 2,
+        "HardLevel": 103,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 2,
+        "HardLevel": 203,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 2,
+        "HardLevel": 403,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 3,
+        "HardLevel": 3,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1013"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 3,
+        "HardLevel": 3,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 3,
+        "HardLevel": 103,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 3,
+        "HardLevel": 203,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 3,
+        "HardLevel": 403,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 3,
+        "HardLevel": 103,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 6,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 6,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1019"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 3,
+        "HardLevel": 4,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 3,
+        "HardLevel": 104,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 3,
+        "HardLevel": 204,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 3,
+        "HardLevel": 404,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 3,
+        "HardLevel": 4,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 3,
+        "HardLevel": 104,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 3,
+        "HardLevel": 204,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 3,
+        "HardLevel": 404,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 4,
+        "HardLevel": 4,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 4,
+        "HardLevel": 4,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 4,
+        "HardLevel": 104,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 4,
+        "HardLevel": 204,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 4,
+        "HardLevel": 404,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 4,
+        "HardLevel": 104,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 50,
+        "RecommendLevel": 7,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 600,
+        "WarningLevel": 7,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "1016"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 4,
+        "HardLevel": 5,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 4,
+        "HardLevel": 105,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 4,
+        "HardLevel": 205,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 4,
+        "HardLevel": 405,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 4,
+        "HardLevel": 5,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701011,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 4,
+        "HardLevel": 105,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701011,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 4,
+        "HardLevel": 205,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701011,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 4,
+        "HardLevel": 405,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701011,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 5,
+        "HardLevel": 5,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 5,
+        "HardLevel": 5,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 5,
+        "HardLevel": 105,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 5,
+        "HardLevel": 205,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 5,
+        "HardLevel": 405,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 5,
+        "HardLevel": 105,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 50,
+        "RecommendLevel": 10,
+        "Reward": 1701001,
+        "SpawnType": 1,
+        "TimeBonus": 265,
+        "WarningLevel": 8,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "4001"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 5,
+        "HardLevel": 7,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 5,
+        "HardLevel": 107,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 5,
+        "HardLevel": 207,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 5,
+        "HardLevel": 407,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 5,
+        "HardLevel": 7,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 5,
+        "HardLevel": 107,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 5,
+        "HardLevel": 207,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 5,
+        "HardLevel": 407,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 6,
+        "HardLevel": 6,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 120,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 6,
+        "HardLevel": 6,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 600,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1014"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 6,
+        "HardLevel": 106,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 600,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 6,
+        "HardLevel": 206,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 600,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 6,
+        "HardLevel": 406,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 600,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 6,
+        "HardLevel": 106,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 12,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 600,
+        "WarningLevel": 9,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 6,
+        "HardLevel": 8,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 6,
+        "HardLevel": 108,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 6,
+        "HardLevel": 208,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 6,
+        "HardLevel": 408,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 6,
+        "HardLevel": 8,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 6,
+        "HardLevel": 108,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 6,
+        "HardLevel": 208,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 6,
+        "HardLevel": 408,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 7,
+        "HardLevel": 7,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 120,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 7,
+        "HardLevel": 7,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 7,
+        "HardLevel": 107,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 7,
+        "HardLevel": 207,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 7,
+        "HardLevel": 407,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 7,
+        "HardLevel": 107,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 13,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 760,
+        "WarningLevel": 10,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 7,
+        "HardLevel": 9,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 7,
+        "HardLevel": 109,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 7,
+        "HardLevel": 209,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 7,
+        "HardLevel": 409,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 7,
+        "HardLevel": 9,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 7,
+        "HardLevel": 109,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 7,
+        "HardLevel": 209,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 7,
+        "HardLevel": 409,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 8,
+        "HardLevel": 8,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 8,
+        "HardLevel": 8,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 8,
+        "HardLevel": 108,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 8,
+        "HardLevel": 208,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 8,
+        "HardLevel": 408,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 8,
+        "HardLevel": 108,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 15,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 11,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1005"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 8,
+        "HardLevel": 10,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 8,
+        "HardLevel": 110,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 8,
+        "HardLevel": 210,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 8,
+        "HardLevel": 410,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 8,
+        "HardLevel": 10,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701012,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 8,
+        "HardLevel": 110,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701012,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 8,
+        "HardLevel": 210,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701012,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 8,
+        "HardLevel": 410,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701012,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 9,
+        "HardLevel": 9,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 9,
+        "HardLevel": 9,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 9,
+        "HardLevel": 109,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 9,
+        "HardLevel": 209,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 9,
+        "HardLevel": 409,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 9,
+        "HardLevel": 109,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 80,
+        "RecommendLevel": 16,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 12,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 9,
+        "HardLevel": 12,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 9,
+        "HardLevel": 112,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 9,
+        "HardLevel": 212,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 9,
+        "HardLevel": 412,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 9,
+        "HardLevel": 12,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 9,
+        "HardLevel": 112,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 9,
+        "HardLevel": 212,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 9,
+        "HardLevel": 412,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 10,
+        "HardLevel": 10,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 5,
+        "TimeBonus": 120,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "2007"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 10,
+        "HardLevel": 10,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 10,
+        "HardLevel": 110,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 10,
+        "HardLevel": 210,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 10,
+        "HardLevel": 410,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 10,
+        "HardLevel": 110,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 80,
+        "RecommendLevel": 18,
+        "Reward": 1701002,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1015"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 10,
+        "HardLevel": 14,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 10,
+        "HardLevel": 114,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 10,
+        "HardLevel": 214,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 10,
+        "HardLevel": 414,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 10,
+        "HardLevel": 14,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 10,
+        "HardLevel": 114,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 10,
+        "HardLevel": 214,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 10,
+        "HardLevel": 414,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 11,
+        "HardLevel": 11,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 11,
+        "HardLevel": 11,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1017"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 11,
+        "HardLevel": 111,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 11,
+        "HardLevel": 211,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 11,
+        "HardLevel": 411,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 11,
+        "HardLevel": 111,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 19,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 13,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "3010"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 11,
+        "HardLevel": 15,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2036"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 11,
+        "HardLevel": 115,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 11,
+        "HardLevel": 215,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2036"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 11,
+        "HardLevel": 415,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2037"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 11,
+        "HardLevel": 15,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701013,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2036"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 11,
+        "HardLevel": 115,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701013,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 11,
+        "HardLevel": 215,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701013,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2036"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 11,
+        "HardLevel": 415,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701013,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2037"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 12,
+        "HardLevel": 12,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 12,
+        "HardLevel": 12,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 12,
+        "HardLevel": 112,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 12,
+        "HardLevel": 212,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 12,
+        "HardLevel": 412,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 12,
+        "HardLevel": 112,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 20,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 14,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_3",
+        "Parameter": [],
+        "WaveListPool": [
+            "3011"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 12,
+        "HardLevel": 17,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1021"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 12,
+        "HardLevel": 117,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1022"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 12,
+        "HardLevel": 217,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 12,
+        "HardLevel": 417,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 12,
+        "HardLevel": 17,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1021"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 12,
+        "HardLevel": 117,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1022"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 12,
+        "HardLevel": 217,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 12,
+        "HardLevel": 417,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 13,
+        "HardLevel": 13,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1004"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 13,
+        "HardLevel": 13,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2009"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 13,
+        "HardLevel": 113,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2009"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 13,
+        "HardLevel": 213,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2009"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 13,
+        "HardLevel": 413,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2009"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 13,
+        "HardLevel": 113,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 21,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 900,
+        "WarningLevel": 15,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3012"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 13,
+        "HardLevel": 18,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 13,
+        "HardLevel": 118,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 13,
+        "HardLevel": 218,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 13,
+        "HardLevel": 418,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 13,
+        "HardLevel": 18,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 13,
+        "HardLevel": 118,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 13,
+        "HardLevel": 218,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 13,
+        "HardLevel": 418,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 14,
+        "HardLevel": 14,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2002"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 14,
+        "HardLevel": 14,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 14,
+        "HardLevel": 114,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 14,
+        "HardLevel": 214,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 14,
+        "HardLevel": 414,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2040"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 14,
+        "HardLevel": 114,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 120,
+        "RecommendLevel": 22,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 16,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3013"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 14,
+        "HardLevel": 19,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 14,
+        "HardLevel": 119,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2012"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 14,
+        "HardLevel": 219,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2038"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 14,
+        "HardLevel": 419,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 14,
+        "HardLevel": 19,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701014,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 14,
+        "HardLevel": 119,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701014,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2012"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 14,
+        "HardLevel": 219,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701014,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2038"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 14,
+        "HardLevel": 419,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701014,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 15,
+        "HardLevel": 15,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2019"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 15,
+        "HardLevel": 15,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2036"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 15,
+        "HardLevel": 115,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 15,
+        "HardLevel": 215,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2031"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 15,
+        "HardLevel": 415,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2031"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 15,
+        "HardLevel": 115,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 120,
+        "RecommendLevel": 23,
+        "Reward": 1701003,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_3",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 15,
+        "HardLevel": 21,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 15,
+        "HardLevel": 121,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 15,
+        "HardLevel": 221,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 15,
+        "HardLevel": 421,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 15,
+        "HardLevel": 21,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 15,
+        "HardLevel": 121,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 15,
+        "HardLevel": 221,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 15,
+        "HardLevel": 421,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 16,
+        "HardLevel": 16,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 120,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1001"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 16,
+        "HardLevel": 16,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 16,
+        "HardLevel": 116,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 16,
+        "HardLevel": 216,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 16,
+        "HardLevel": 416,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 16,
+        "HardLevel": 116,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 24,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 17,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1018"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 16,
+        "HardLevel": 22,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 16,
+        "HardLevel": 122,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2002"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 16,
+        "HardLevel": 222,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2005"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 16,
+        "HardLevel": 422,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 16,
+        "HardLevel": 22,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 16,
+        "HardLevel": 122,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2002"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 16,
+        "HardLevel": 222,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2005"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 16,
+        "HardLevel": 422,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 17,
+        "HardLevel": 17,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 4,
+        "TimeBonus": 120,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 17,
+        "HardLevel": 17,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1021"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 17,
+        "HardLevel": 117,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1022"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 17,
+        "HardLevel": 217,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 17,
+        "HardLevel": 417,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 17,
+        "HardLevel": 117,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 25,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 760,
+        "WarningLevel": 19,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "1022"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 17,
+        "HardLevel": 23,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 17,
+        "HardLevel": 123,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 17,
+        "HardLevel": 223,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 17,
+        "HardLevel": 423,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 17,
+        "HardLevel": 23,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701015,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 17,
+        "HardLevel": 123,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701015,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 17,
+        "HardLevel": 223,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701015,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 17,
+        "HardLevel": 423,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701015,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 18,
+        "HardLevel": 18,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 18,
+        "HardLevel": 18,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1023"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 18,
+        "HardLevel": 118,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 18,
+        "HardLevel": 218,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 18,
+        "HardLevel": 418,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 18,
+        "HardLevel": 118,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 27,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 760,
+        "WarningLevel": 20,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 18,
+        "HardLevel": 24,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2003"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 18,
+        "HardLevel": 124,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 18,
+        "HardLevel": 224,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 18,
+        "HardLevel": 424,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 18,
+        "HardLevel": 24,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2003"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 18,
+        "HardLevel": 124,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 18,
+        "HardLevel": 224,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 18,
+        "HardLevel": 424,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 19,
+        "HardLevel": 19,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2005"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 19,
+        "HardLevel": 19,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3002"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 19,
+        "HardLevel": 119,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2022"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 19,
+        "HardLevel": 219,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2030"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 19,
+        "HardLevel": 419,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2030"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 19,
+        "HardLevel": 119,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 29,
+        "Reward": 1701004,
+        "SpawnType": 1,
+        "TimeBonus": 300,
+        "WarningLevel": 21,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_2",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2022"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 19,
+        "HardLevel": 26,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 19,
+        "HardLevel": 126,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2023"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 19,
+        "HardLevel": 226,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2023"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 19,
+        "HardLevel": 426,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 19,
+        "HardLevel": 26,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 19,
+        "HardLevel": 126,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2023"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 19,
+        "HardLevel": 226,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2023"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 19,
+        "HardLevel": 426,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 20,
+        "HardLevel": 20,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 1701004,
+        "SpawnType": 5,
+        "TimeBonus": 120,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_2",
+        "Parameter": [],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 20,
+        "HardLevel": 20,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 20,
+        "HardLevel": 120,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1020"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 20,
+        "HardLevel": 220,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1021"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 20,
+        "HardLevel": 420,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1021"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 20,
+        "HardLevel": 120,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 200,
+        "RecommendLevel": 30,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 22,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3012"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 20,
+        "HardLevel": 27,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 20,
+        "HardLevel": 127,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 20,
+        "HardLevel": 227,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3009"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 20,
+        "HardLevel": 427,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 20,
+        "HardLevel": 27,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701016,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 20,
+        "HardLevel": 127,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701016,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 20,
+        "HardLevel": 227,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701016,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3009"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 20,
+        "HardLevel": 427,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701016,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 21,
+        "HardLevel": 21,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 21,
+        "HardLevel": 21,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 21,
+        "HardLevel": 121,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1024"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 21,
+        "HardLevel": 221,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 21,
+        "HardLevel": 421,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "1025"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 21,
+        "HardLevel": 121,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 31,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 1360,
+        "WarningLevel": 24,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "3013"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 21,
+        "HardLevel": 28,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 21,
+        "HardLevel": 128,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 21,
+        "HardLevel": 228,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 21,
+        "HardLevel": 428,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 21,
+        "HardLevel": 28,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 21,
+        "HardLevel": 128,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 21,
+        "HardLevel": 228,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 21,
+        "HardLevel": 428,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3001"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 22,
+        "HardLevel": 22,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 120,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2010"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 22,
+        "HardLevel": 22,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 22,
+        "HardLevel": 122,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2002"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 22,
+        "HardLevel": 222,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2005"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 22,
+        "HardLevel": 422,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_1",
+        "Parameter": [],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 22,
+        "HardLevel": 122,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 34,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 900,
+        "WarningLevel": 25,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "2002"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 22,
+        "HardLevel": 29,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 22,
+        "HardLevel": 129,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 22,
+        "HardLevel": 229,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3003"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 22,
+        "HardLevel": 429,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 22,
+        "HardLevel": 29,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 22,
+        "HardLevel": 129,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 22,
+        "HardLevel": 229,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3003"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 22,
+        "HardLevel": 429,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_7",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 23,
+        "HardLevel": 23,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "1008"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 23,
+        "HardLevel": 23,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 23,
+        "HardLevel": 123,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 23,
+        "HardLevel": 223,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 23,
+        "HardLevel": 423,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 23,
+        "HardLevel": 123,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 35,
+        "Reward": 1701005,
+        "SpawnType": 0,
+        "TimeBonus": 415,
+        "WarningLevel": 26,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "4007"
+        ]
+    },
+    {
+        "ConfigType": 1101,
+        "Floor": 23,
+        "HardLevel": 30,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 415,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "4007"
+        ]
+    },
+    {
+        "ConfigType": 1102,
+        "Floor": 23,
+        "HardLevel": 130,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1103,
+        "Floor": 23,
+        "HardLevel": 230,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1105,
+        "Floor": 23,
+        "HardLevel": 430,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 415,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "4007"
+        ]
+    },
+    {
+        "ConfigType": 1201,
+        "Floor": 23,
+        "HardLevel": 30,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 415,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "4007"
+        ]
+    },
+    {
+        "ConfigType": 1202,
+        "Floor": 23,
+        "HardLevel": 130,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1203,
+        "Floor": 23,
+        "HardLevel": 230,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1205,
+        "Floor": 23,
+        "HardLevel": 430,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 0,
+        "TimeBonus": 415,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_NoTimer",
+        "StageSection": "section_7",
+        "Parameter": [],
+        "WaveListPool": [
+            "4007"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 24,
+        "HardLevel": 24,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2013"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 24,
+        "HardLevel": 24,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2003"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 24,
+        "HardLevel": 124,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 24,
+        "HardLevel": 224,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2006"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 24,
+        "HardLevel": 424,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2004"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 24,
+        "HardLevel": 124,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 37,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 28,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            120
+        ],
+        "WaveListPool": [
+            "2001"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 25,
+        "HardLevel": 25,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 1701005,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4006"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 25,
+        "HardLevel": 25,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2013"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 25,
+        "HardLevel": 125,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2011"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 25,
+        "HardLevel": 225,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2013"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 25,
+        "HardLevel": 425,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2012"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 25,
+        "HardLevel": 125,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 300,
+        "RecommendLevel": 40,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1060,
+        "WarningLevel": 29,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "2011"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 26,
+        "HardLevel": 26,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "1007"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 26,
+        "HardLevel": 26,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 26,
+        "HardLevel": 126,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2023"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 26,
+        "HardLevel": 226,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2018"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 26,
+        "HardLevel": 426,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2024"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 26,
+        "HardLevel": 126,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 43,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 1200,
+        "WarningLevel": 30,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3010"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 27,
+        "HardLevel": 27,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Blow",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "2020"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 27,
+        "HardLevel": 27,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "3007"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 27,
+        "HardLevel": 127,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "3008"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 27,
+        "HardLevel": 227,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "3009"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 27,
+        "HardLevel": 427,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "3008"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 27,
+        "HardLevel": 127,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 1,
+        "MaxCoin": 500,
+        "RecommendLevel": 44,
+        "Reward": 1701006,
+        "SpawnType": 1,
+        "TimeBonus": 415,
+        "WarningLevel": 32,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_1",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "3011"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 28,
+        "HardLevel": 28,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "1006"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 28,
+        "HardLevel": 28,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 28,
+        "HardLevel": 128,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3002"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 28,
+        "HardLevel": 228,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3004"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 28,
+        "HardLevel": 428,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3005"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 28,
+        "HardLevel": 128,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 48,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 33,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            150
+        ],
+        "WaveListPool": [
+            "3012"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 29,
+        "HardLevel": 29,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "2014"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 29,
+        "HardLevel": 29,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3005"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 29,
+        "HardLevel": 129,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3006"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 29,
+        "HardLevel": 229,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3006"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 29,
+        "HardLevel": 429,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3006"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 29,
+        "HardLevel": 129,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 50,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 340,
+        "WarningLevel": 34,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            180
+        ],
+        "WaveListPool": [
+            "3013"
+        ]
+    },
+    {
+        "ConfigType": 1,
+        "Floor": 30,
+        "HardLevel": 30,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 120,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            300
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1001,
+        "Floor": 30,
+        "HardLevel": 30,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1002,
+        "Floor": 30,
+        "HardLevel": 130,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1003,
+        "Floor": 30,
+        "HardLevel": 230,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1005,
+        "Floor": 30,
+        "HardLevel": 430,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_InCircle",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    },
+    {
+        "ConfigType": 1006,
+        "Floor": 30,
+        "HardLevel": 130,
+        "HardLevelGroup": 202,
+        "IsCheckPoint": 0,
+        "MaxCoin": 500,
+        "RecommendLevel": 52,
+        "Reward": 0,
+        "SpawnType": 1,
+        "TimeBonus": 375,
+        "WarningLevel": 35,
+        "SpawnTypeDesc": "DLCTower_FloorDesc_Timer",
+        "StageSection": "section_5",
+        "Parameter": [
+            240
+        ],
+        "WaveListPool": [
+            "4005"
+        ]
+    }
+]

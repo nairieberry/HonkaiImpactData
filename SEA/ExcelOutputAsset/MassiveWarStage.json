@@ -1,0 +1,120 @@
+[
+    {
+        "StageID": 145601,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss180",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+        "BossIdList": [
+            1
+        ],
+        "StageInfoIdList": [
+            4,
+            5,
+            6
+        ],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1831
+            }
+        ]
+    },
+    {
+        "StageID": 145602,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss180",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_180",
+        "BossIdList": [
+            3
+        ],
+        "StageInfoIdList": [
+            4,
+            5,
+            6
+        ],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1822
+            }
+        ]
+    },
+    {
+        "StageID": 145603,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss190",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+        "BossIdList": [
+            2
+        ],
+        "StageInfoIdList": [],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1826
+            }
+        ]
+    },
+    {
+        "StageID": 145604,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss190",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_190",
+        "BossIdList": [
+            4
+        ],
+        "StageInfoIdList": [],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1826
+            }
+        ]
+    },
+    {
+        "StageID": 145605,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss230",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+        "BossIdList": [
+            5
+        ],
+        "StageInfoIdList": [
+            1,
+            2,
+            3
+        ],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1849
+            }
+        ]
+    },
+    {
+        "StageID": 145606,
+        "DamageNeedRatio": 100.0,
+        "StageImagePath": "SpriteOutput/ActPicBoss/ActPicBoss230",
+        "StageImagePathRankingPage": "SpriteOutput/OpenWorld/QuestBossIcon/BOSS_230",
+        "BossIdList": [
+            6
+        ],
+        "StageInfoIdList": [
+            1,
+            2,
+            3
+        ],
+        "MonsterWaveList": [
+            {
+                "Wave": 1,
+                "MessageID": 1,
+                "UniqueMonsterID": 1851
+            }
+        ]
+    }
+]

@@ -1,0 +1,856 @@
+[
+    {
+        "AffectRange": 7,
+        "ID": 1001,
+        "RankRange": 3,
+        "Weight": 5,
+        "Description": {
+            "hash": -308983252
+        },
+        "ItemName": {
+            "hash": -308689370
+        },
+        "ShortDescription": {
+            "hash": -570374736
+        },
+        "EffectFunctionName": "PoisionTrap",
+        "IconPath": "event/Immediately/FairEvent_Item_1001_truecolor",
+        "PrefabName": "FairEvent23",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1002,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": -1997940405
+        },
+        "ItemName": {
+            "hash": -1997646523
+        },
+        "ShortDescription": {
+            "hash": 1897124337
+        },
+        "EffectFunctionName": "CrazyFather",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1002",
+        "PrefabName": "FairEvent18",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1003,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 1969682953
+        },
+        "ItemName": {
+            "hash": 1969976835
+        },
+        "ShortDescription": {
+            "hash": -1442613261
+        },
+        "EffectFunctionName": "IceFallen",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1003",
+        "PrefabName": "FairEvent19",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420255
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1004,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 1166499997
+        },
+        "ItemName": {
+            "hash": 1166793879
+        },
+        "ShortDescription": {
+            "hash": -121631265
+        },
+        "EffectFunctionName": "HonkaiCore",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1004",
+        "PrefabName": "FairEvent24",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 10,
+        "ID": 1005,
+        "RankRange": 2,
+        "Weight": 5,
+        "Description": {
+            "hash": 621111524
+        },
+        "ItemName": {
+            "hash": 786215594
+        },
+        "ShortDescription": {
+            "hash": 938416632
+        },
+        "EffectFunctionName": "HonkaiCore",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1005",
+        "PrefabName": "FairEvent11",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 3,
+        "ID": 1006,
+        "RankRange": 3,
+        "Weight": 15,
+        "Description": {
+            "hash": 573254737
+        },
+        "ItemName": {
+            "hash": 573548619
+        },
+        "ShortDescription": {
+            "hash": 619410091
+        },
+        "EffectFunctionName": "HolyBless",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1006",
+        "PrefabName": "FairEvent17",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1007,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 309707946
+        },
+        "ItemName": {
+            "hash": 310001828
+        },
+        "ShortDescription": {
+            "hash": -882955790
+        },
+        "EffectFunctionName": "MEMissile",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1007",
+        "PrefabName": "FairEvent16",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 4,
+        "ID": 1008,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 919760311
+        },
+        "ItemName": {
+            "hash": 1084864381
+        },
+        "ShortDescription": {
+            "hash": 2041782533
+        },
+        "EffectFunctionName": "MEMissile",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1008",
+        "PrefabName": "FairEvent16_02",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 6,
+        "ID": 1009,
+        "RankRange": 2,
+        "Weight": 0,
+        "Description": {
+            "hash": 2077899304
+        },
+        "ItemName": {
+            "hash": 2078193186
+        },
+        "ShortDescription": {
+            "hash": 511603508
+        },
+        "EffectFunctionName": "Flamethrower",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1009",
+        "PrefabName": "FairEvent22",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 3,
+        "ID": 1010,
+        "RankRange": 3,
+        "Weight": 10,
+        "Description": {
+            "hash": -925386909
+        },
+        "ItemName": {
+            "hash": -925093027
+        },
+        "ShortDescription": {
+            "hash": 437584601
+        },
+        "EffectFunctionName": "Banana",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1010",
+        "PrefabName": "FairEvent10",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            }
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "ID": 1011,
+        "RankRange": 1,
+        "Weight": 10,
+        "Description": {
+            "hash": 1445877458
+        },
+        "ItemName": {
+            "hash": 1446171340
+        },
+        "ShortDescription": {
+            "hash": -2106347318
+        },
+        "EffectFunctionName": "SPBoost",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1011",
+        "PrefabName": "FairEvent13",
+        "CatchItemDialogList": [],
+        "UseItemDialogList": [
+            {
+                "hash": 242112755
+            }
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "ID": 1012,
+        "RankRange": 1,
+        "Weight": 10,
+        "Description": {
+            "hash": -214083480
+        },
+        "ItemName": {
+            "hash": -213789598
+        },
+        "ShortDescription": {
+            "hash": 1804877044
+        },
+        "EffectFunctionName": "RagePotion",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1012",
+        "PrefabName": "FairEvent14",
+        "CatchItemDialogList": [],
+        "UseItemDialogList": [
+            {
+                "hash": 1566838481
+            },
+            {
+                "hash": 1566838482
+            }
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "ID": 1013,
+        "RankRange": 1,
+        "Weight": 10,
+        "Description": {
+            "hash": 1469682923
+        },
+        "ItemName": {
+            "hash": 1469976805
+        },
+        "ShortDescription": {
+            "hash": -1559733679
+        },
+        "EffectFunctionName": "Invisible",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1013",
+        "PrefabName": "FairEvent15",
+        "CatchItemDialogList": [],
+        "UseItemDialogList": [
+            {
+                "hash": 1566838483
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1014,
+        "RankRange": 2,
+        "Weight": 0,
+        "Description": {
+            "hash": 1066356855
+        },
+        "ItemName": {
+            "hash": 1066650737
+        },
+        "ShortDescription": {
+            "hash": 1968567877
+        },
+        "EffectFunctionName": "BlackHoleBomb",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1014",
+        "PrefabName": "FairEvent20",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1015,
+        "RankRange": 2,
+        "Weight": 5,
+        "Description": {
+            "hash": -1255845311
+        },
+        "ItemName": {
+            "hash": -1255551429
+        },
+        "ShortDescription": {
+            "hash": 453739195
+        },
+        "EffectFunctionName": "Growth",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1015",
+        "PrefabName": "FairEvent21",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            },
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 1,
+        "ID": 1016,
+        "RankRange": 1,
+        "Weight": 10,
+        "Description": {
+            "hash": 687806742
+        },
+        "ItemName": {
+            "hash": 688100624
+        },
+        "ShortDescription": {
+            "hash": 1909831942
+        },
+        "EffectFunctionName": "XuanyuanBall",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1016",
+        "PrefabName": "FairEvent02",
+        "CatchItemDialogList": [],
+        "UseItemDialogList": [
+            {
+                "hash": 1566838481
+            },
+            {
+                "hash": 1566838482
+            }
+        ]
+    },
+    {
+        "AffectRange": 4,
+        "ID": 1017,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 1215052296
+        },
+        "ItemName": {
+            "hash": 1215346178
+        },
+        "ShortDescription": {
+            "hash": 647061332
+        },
+        "EffectFunctionName": "SuperDrill",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1017",
+        "PrefabName": "FairEvent12",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420255
+            },
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 8,
+        "ID": 1018,
+        "RankRange": 1,
+        "Weight": 10,
+        "Description": {
+            "hash": 1031089339
+        },
+        "ItemName": {
+            "hash": 1031383221
+        },
+        "ShortDescription": {
+            "hash": 1019421825
+        },
+        "EffectFunctionName": "BadCake",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1018",
+        "PrefabName": "FairEvent03",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 3,
+        "ID": 1019,
+        "RankRange": 3,
+        "Weight": 10,
+        "Description": {
+            "hash": 1759870546
+        },
+        "ItemName": {
+            "hash": 1760164428
+        },
+        "ShortDescription": {
+            "hash": -242665142
+        },
+        "EffectFunctionName": "FireElement",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1019",
+        "PrefabName": "FairEvent04",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1020,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": -1591757737
+        },
+        "ItemName": {
+            "hash": -1591463855
+        },
+        "ShortDescription": {
+            "hash": -70713755
+        },
+        "EffectFunctionName": "IceElement",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1020",
+        "PrefabName": "FairEvent05",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1021,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": -2047364816
+        },
+        "ItemName": {
+            "hash": -2047070934
+        },
+        "ShortDescription": {
+            "hash": -52813524
+        },
+        "EffectFunctionName": "ThunderElement",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1021",
+        "PrefabName": "FairEvent06",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420254
+            }
+        ]
+    },
+    {
+        "AffectRange": 10,
+        "ID": 1022,
+        "RankRange": 2,
+        "Weight": 5,
+        "Description": {
+            "hash": 1060267883
+        },
+        "ItemName": {
+            "hash": 1060561765
+        },
+        "ShortDescription": {
+            "hash": -292612143
+        },
+        "EffectFunctionName": "ShenNongStone",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1022",
+        "PrefabName": "FairEvent07",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 2,
+        "ID": 1023,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": 626817925
+        },
+        "ItemName": {
+            "hash": 627111807
+        },
+        "ShortDescription": {
+            "hash": -1611693065
+        },
+        "EffectFunctionName": "NvWaStone",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1023",
+        "PrefabName": "FairEvent09",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    },
+    {
+        "AffectRange": 4,
+        "ID": 1024,
+        "RankRange": 2,
+        "Weight": 10,
+        "Description": {
+            "hash": -691903629
+        },
+        "ItemName": {
+            "hash": -691609747
+        },
+        "ShortDescription": {
+            "hash": -884776759
+        },
+        "EffectFunctionName": "FuXiStone",
+        "IconPath": "SpriteOutput/InLevel/SealedIcon/1024",
+        "PrefabName": "FairEvent08",
+        "CatchItemDialogList": [
+            {
+                "hash": 2006132498
+            },
+            {
+                "hash": 2006132499
+            }
+        ],
+        "UseItemDialogList": [
+            {
+                "hash": 2011420256
+            },
+            {
+                "hash": 2011420257
+            },
+            {
+                "hash": 2011420258
+            }
+        ]
+    }
+]

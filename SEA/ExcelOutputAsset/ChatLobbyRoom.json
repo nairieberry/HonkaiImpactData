@@ -1,0 +1,63 @@
+[
+    {
+        "Type": 4,
+        "ID": 103,
+        "CameraRotation": -90.0,
+        "CameraRotationMax": -70.0,
+        "CameraRotationMin": -110.0,
+        "PlayerRotation": 90.0,
+        "Name": {
+            "hash": 1385702545
+        },
+        "StagePath": "Stage/Stage_PVERogue/Stage_PVPRogue_Area01",
+        "Weather": "Style_Stage_Q_Shoot_1",
+        "PlayerSpawnPoint": [
+            23.8,
+            0.0,
+            25.0
+        ],
+        "LeftBoardPageList": [
+            2
+        ],
+        "QAvatarList": [
+            101,
+            102,
+            103,
+            104,
+            105
+        ],
+        "ShowMissionList": [],
+        "bits1": 1
+    },
+    {
+        "Type": 1,
+        "ID": 106,
+        "CameraRotation": 270.0,
+        "CameraRotationMax": 0.0,
+        "CameraRotationMin": 0.0,
+        "PlayerRotation": 90.0,
+        "Name": {
+            "hash": 1357073394
+        },
+        "StagePath": "Stage/Stage_Lobby/Stage_Lobby_2021",
+        "Weather": "ChatLobby_Default",
+        "PlayerSpawnPoint": [
+            13.0,
+            0.0,
+            0.2
+        ],
+        "LeftBoardPageList": [
+            1
+        ],
+        "QAvatarList": [],
+        "ShowMissionList": [
+            81123,
+            81125,
+            81120,
+            81121,
+            81127,
+            81128
+        ],
+        "bits1": 0
+    }
+]

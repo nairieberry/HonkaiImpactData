@@ -1,0 +1,98 @@
+[
+    {
+        "enableStageID": 0,
+        "luaID": 1001,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-DataBase-Hard-01.lua"
+    },
+    {
+        "enableStageID": 211101,
+        "luaID": 1002,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-ChiYou-Hard-01.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 1003,
+        "weight": 7,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-DataBase-Hard-01.lua"
+    },
+    {
+        "enableStageID": 211101,
+        "luaID": 1004,
+        "weight": 3,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-ChiYou-Hard-01.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 1005,
+        "weight": 3,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-DataBase-Hard-01.lua"
+    },
+    {
+        "enableStageID": 211101,
+        "luaID": 1006,
+        "weight": 7,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-ChiYou-Hard-01.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2001,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage01.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2002,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage02.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2003,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage03.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2004,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage04.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2005,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage05.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 2006,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage06.lua"
+    },
+    {
+        "enableStageID": 213003,
+        "luaID": 2007,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage_Xuanyuan.lua"
+    },
+    {
+        "enableStageID": 212003,
+        "luaID": 2008,
+        "weight": 10,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStage_Sakura.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 3001,
+        "weight": 100,
+        "path": "Lua/Levels/RogueLikeEndless/Rogue-DataBase-Tutorial.lua"
+    },
+    {
+        "enableStageID": 0,
+        "luaID": 4001,
+        "weight": 100,
+        "path": "Lua/Levels/RogueLikeEndless/RogueBossStageTinyBoss.lua"
+    }
+]

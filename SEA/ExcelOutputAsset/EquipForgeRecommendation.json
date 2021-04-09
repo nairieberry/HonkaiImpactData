@@ -1,0 +1,410 @@
+[
+    {
+        "MaxLevel": 9,
+        "MinLevel": 1,
+        "RecommendationID": 1,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 19,
+        "MinLevel": 10,
+        "RecommendationID": 2,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 29,
+        "MinLevel": 20,
+        "RecommendationID": 3,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 39,
+        "MinLevel": 30,
+        "RecommendationID": 4,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 49,
+        "MinLevel": 40,
+        "RecommendationID": 5,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 59,
+        "MinLevel": 50,
+        "RecommendationID": 6,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 69,
+        "MinLevel": 60,
+        "RecommendationID": 7,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 79,
+        "MinLevel": 70,
+        "RecommendationID": 8,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 89,
+        "MinLevel": 80,
+        "RecommendationID": 9,
+        "RecommendNum": 3,
+        "SortType": 1,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 9,
+        "MinLevel": 1,
+        "RecommendationID": 10,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 19,
+        "MinLevel": 10,
+        "RecommendationID": 11,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 29,
+        "MinLevel": 20,
+        "RecommendationID": 12,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 39,
+        "MinLevel": 30,
+        "RecommendationID": 13,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 49,
+        "MinLevel": 40,
+        "RecommendationID": 14,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 59,
+        "MinLevel": 50,
+        "RecommendationID": 15,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 69,
+        "MinLevel": 60,
+        "RecommendationID": 16,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 79,
+        "MinLevel": 70,
+        "RecommendationID": 17,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 89,
+        "MinLevel": 80,
+        "RecommendationID": 18,
+        "RecommendNum": 3,
+        "SortType": 2,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 9,
+        "MinLevel": 1,
+        "RecommendationID": 19,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 19,
+        "MinLevel": 10,
+        "RecommendationID": 20,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 29,
+        "MinLevel": 20,
+        "RecommendationID": 21,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 39,
+        "MinLevel": 30,
+        "RecommendationID": 22,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 49,
+        "MinLevel": 40,
+        "RecommendationID": 23,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 59,
+        "MinLevel": 50,
+        "RecommendationID": 24,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 69,
+        "MinLevel": 60,
+        "RecommendationID": 25,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 79,
+        "MinLevel": 70,
+        "RecommendationID": 26,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 89,
+        "MinLevel": 80,
+        "RecommendationID": 27,
+        "RecommendNum": 3,
+        "SortType": 3,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 9,
+        "MinLevel": 1,
+        "RecommendationID": 28,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 19,
+        "MinLevel": 10,
+        "RecommendationID": 29,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 29,
+        "MinLevel": 20,
+        "RecommendationID": 30,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 39,
+        "MinLevel": 30,
+        "RecommendationID": 31,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 49,
+        "MinLevel": 40,
+        "RecommendationID": 32,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 59,
+        "MinLevel": 50,
+        "RecommendationID": 33,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            3,
+            4
+        ],
+        "bits1": 0
+    },
+    {
+        "MaxLevel": 69,
+        "MinLevel": 60,
+        "RecommendationID": 34,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 79,
+        "MinLevel": 70,
+        "RecommendationID": 35,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    },
+    {
+        "MaxLevel": 89,
+        "MinLevel": 80,
+        "RecommendationID": 36,
+        "RecommendNum": 3,
+        "SortType": 4,
+        "StarLevel": [
+            4
+        ],
+        "bits1": 1
+    }
+]

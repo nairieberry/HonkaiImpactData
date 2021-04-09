@@ -1,0 +1,74 @@
+[
+    {
+        "BuffType": 3,
+        "MPBuffID": 100,
+        "Desc": "MPBuffDesc_01",
+        "DescInDetail": "MPBuffDescInDetail_01",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_COMMON_01",
+        "Name": "MPBuffName_01"
+    },
+    {
+        "BuffType": 3,
+        "MPBuffID": 101,
+        "Desc": "MPBuffDesc_02",
+        "DescInDetail": "MPBuffDescInDetail_02",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_COMMON_02",
+        "Name": "MPBuffName_02"
+    },
+    {
+        "BuffType": 3,
+        "MPBuffID": 102,
+        "Desc": "MPBuffDesc_03",
+        "DescInDetail": "MPBuffDescInDetail_03",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_COMMON_03",
+        "Name": "MPBuffName_03"
+    },
+    {
+        "BuffType": 1,
+        "MPBuffID": 103,
+        "Desc": "MPBuffDesc_04",
+        "DescInDetail": "MPBuffDescInDetail_04",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_ATTACK_01",
+        "Name": "MPBuffName_04"
+    },
+    {
+        "BuffType": 1,
+        "MPBuffID": 104,
+        "Desc": "MPBuffDesc_05",
+        "DescInDetail": "MPBuffDescInDetail_05",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_ATTACK_02",
+        "Name": "MPBuffName_05"
+    },
+    {
+        "BuffType": 1,
+        "MPBuffID": 105,
+        "Desc": "MPBuffDesc_06",
+        "DescInDetail": "MPBuffDescInDetail_06",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_ATTACK_03",
+        "Name": "MPBuffName_06"
+    },
+    {
+        "BuffType": 2,
+        "MPBuffID": 106,
+        "Desc": "MPBuffDesc_07",
+        "DescInDetail": "MPBuffDescInDetail_07",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_SUPPORT_01",
+        "Name": "MPBuffName_07"
+    },
+    {
+        "BuffType": 2,
+        "MPBuffID": 107,
+        "Desc": "MPBuffDesc_08",
+        "DescInDetail": "MPBuffDescInDetail_08",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_SUPPORT_02",
+        "Name": "MPBuffName_08"
+    },
+    {
+        "BuffType": 2,
+        "MPBuffID": 108,
+        "Desc": "MPBuffDesc_09",
+        "DescInDetail": "MPBuffDescInDetail_09",
+        "Icon": "SpriteOutput/TwoPlusTwoMPPlay/Skill_SUPPORT_03",
+        "Name": "MPBuffName_09"
+    }
+]

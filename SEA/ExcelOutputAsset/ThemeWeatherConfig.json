@@ -1,0 +1,65 @@
+[
+    {
+        "AtmosphereConfigID": 1,
+        "ReplacePrefabConfigID": 0,
+        "WeatherID": 1,
+        "DisplayName": {
+            "hash": 899912369
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather02"
+    },
+    {
+        "AtmosphereConfigID": 2,
+        "ReplacePrefabConfigID": 0,
+        "WeatherID": 2,
+        "DisplayName": {
+            "hash": 899912370
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather05"
+    },
+    {
+        "AtmosphereConfigID": 3,
+        "ReplacePrefabConfigID": 0,
+        "WeatherID": 3,
+        "DisplayName": {
+            "hash": 899912371
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather04"
+    },
+    {
+        "AtmosphereConfigID": 0,
+        "ReplacePrefabConfigID": 4,
+        "WeatherID": 4,
+        "DisplayName": {
+            "hash": 899912372
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather02"
+    },
+    {
+        "AtmosphereConfigID": 0,
+        "ReplacePrefabConfigID": 5,
+        "WeatherID": 5,
+        "DisplayName": {
+            "hash": 899912373
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather01"
+    },
+    {
+        "AtmosphereConfigID": 0,
+        "ReplacePrefabConfigID": 6,
+        "WeatherID": 6,
+        "DisplayName": {
+            "hash": 899912374
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather01"
+    },
+    {
+        "AtmosphereConfigID": 0,
+        "ReplacePrefabConfigID": 7,
+        "WeatherID": 7,
+        "DisplayName": {
+            "hash": 899912375
+        },
+        "IconPath": "SpriteOutput/SpaceShip/Weather/IconWeather07"
+    }
+]

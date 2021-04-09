@@ -1,0 +1,2838 @@
+[
+    {
+        "BuffID": 3,
+        "SiteID": 1011,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1012,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1011
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1013,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1012
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1014,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1011
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1021,
+        "StageID": 146013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8533?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1022,
+        "StageID": 146014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8536?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1021
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1023,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1022
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1024,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1021
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1031,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1032,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1031
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1033,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1032
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1034,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1031
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1041,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1042,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1041
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1043,
+        "StageID": 146007,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8511?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1042
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1044,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1041
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1051,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1052,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1051
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1053,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1052
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1054,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1051
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1061,
+        "StageID": 146013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8533?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1062,
+        "StageID": 146014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8536?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1061
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1063,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1062
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1064,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1061
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1071,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1072,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1071
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1073,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1072
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1074,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1071
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1081,
+        "StageID": 146001,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8493?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1082,
+        "StageID": 146002,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8496?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1081
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1083,
+        "StageID": 146003,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8499?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1082
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1084,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1081
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1091,
+        "StageID": 146018,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8548?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1092,
+        "StageID": 146019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8551?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1091
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1093,
+        "StageID": 146020,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8554?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1092
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1094,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1091
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1101,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1102,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1101
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1103,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1102
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1104,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1101
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1111,
+        "StageID": 146013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8533?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1112,
+        "StageID": 146014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8536?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1111
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1113,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1112
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1114,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1111
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1121,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1122,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1121
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1123,
+        "StageID": 146007,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8511?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1122
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1124,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1121
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1131,
+        "StageID": 146013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8533?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1132,
+        "StageID": 146014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8536?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1131
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1133,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1132
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1134,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1131
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1141,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1142,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1141
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1143,
+        "StageID": 146007,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8511?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1142
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1144,
+        "StageID": 146023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1141
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1151,
+        "StageID": 146018,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8548?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1152,
+        "StageID": 146019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8551?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1151
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1153,
+        "StageID": 146020,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8554?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1152
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1154,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1151
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1161,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1162,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1161
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1163,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1162
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1164,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1161
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1171,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1172,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1171
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1173,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1172
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1174,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1171
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1181,
+        "StageID": 146001,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8493?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1182,
+        "StageID": 146002,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8496?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1181
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1183,
+        "StageID": 146003,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8499?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1182
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1184,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1181
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1191,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1192,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1191
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1193,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1192
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1194,
+        "StageID": 146021,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/9728?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1191
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1201,
+        "StageID": 146001,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8493?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1202,
+        "StageID": 146002,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8496?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1203,
+        "StageID": 146003,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8499?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1202
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1204,
+        "StageID": 146021,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/9728?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1205,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1206,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1207,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 1208,
+        "StageID": 146040,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12395?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1201
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1251,
+        "StageID": 153001,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8491?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1252,
+        "StageID": 153002,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8494?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1251
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1253,
+        "StageID": 153003,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8497?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1252
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1254,
+        "StageID": 153024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8558?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1251
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1255,
+        "StageID": 153017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8543?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1251
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1256,
+        "StageID": 153008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8513?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1251
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 1257,
+        "StageID": 146040,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12395?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1251
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1301,
+        "StageID": 146025,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10103?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1302,
+        "StageID": 146026,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10104?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1301
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1303,
+        "StageID": 146027,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10105?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1302
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1304,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1301
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1311,
+        "StageID": 146025,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10103?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1312,
+        "StageID": 146026,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10104?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1311
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1313,
+        "StageID": 146030,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10106?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1312
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1314,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1311
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1315,
+        "StageID": 146023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1311
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1316,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1311
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1317,
+        "StageID": 146027,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10105?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1312
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1318,
+        "StageID": 146047,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12405?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1312
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1351,
+        "StageID": 153025,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10089?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1352,
+        "StageID": 153026,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10091?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1351
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1353,
+        "StageID": 153030,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10093?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1352
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1354,
+        "StageID": 153027,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10092?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1352
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1355,
+        "StageID": 153023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8555?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1351
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1356,
+        "StageID": 153008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8513?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1351
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1357,
+        "StageID": 146047,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12405?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1352
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1401,
+        "StageID": 146005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8505?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1402,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1401
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1403,
+        "StageID": 146007,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8511?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1402
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1404,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1401
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1405,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1401
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1406,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1402
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1407,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1401
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1408,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1401
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1409,
+        "StageID": 146045,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12403?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1402
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1451,
+        "StageID": 153005,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8503?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1452,
+        "StageID": 153006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8506?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1451
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1453,
+        "StageID": 153007,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8509?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1452
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1454,
+        "StageID": 153004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8500?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1451
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1455,
+        "StageID": 153016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8540?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1452
+        ]
+    },
+    {
+        "BuffID": 10,
+        "SiteID": 1456,
+        "StageID": 153012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8528?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1451
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1457,
+        "StageID": 153024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8558?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1451
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1458,
+        "StageID": 146045,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12403?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1452
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1501,
+        "StageID": 146031,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10107?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1502,
+        "StageID": 146028,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10108?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1501
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1503,
+        "StageID": 146029,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10109?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1502
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1504,
+        "StageID": 146023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1501
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1505,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1501
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1506,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1501
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1551,
+        "StageID": 153031,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10094?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1552,
+        "StageID": 153028,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10095?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1551
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1553,
+        "StageID": 153029,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10096?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1552
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1554,
+        "StageID": 153008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8513?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1551
+        ]
+    },
+    {
+        "BuffID": 10,
+        "SiteID": 1555,
+        "StageID": 153012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8528?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1551
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1601,
+        "StageID": 146018,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8548?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1602,
+        "StageID": 146019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8551?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1601
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1603,
+        "StageID": 146020,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8554?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1602
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1604,
+        "StageID": 146021,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/9728?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1601
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1605,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1601
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1651,
+        "StageID": 153018,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8546?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1652,
+        "StageID": 153019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8549?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1651
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1653,
+        "StageID": 153020,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8552?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1652
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 1654,
+        "StageID": 153004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8500?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1651
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1701,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1702,
+        "StageID": 146010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8521?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1701
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1703,
+        "StageID": 146011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8524?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1702
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1704,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1701
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1705,
+        "StageID": 146023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1701
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1706,
+        "StageID": 146046,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12404?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1702
+        ]
+    },
+    {
+        "BuffID": 12,
+        "SiteID": 1707,
+        "StageID": 146041,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12396?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Paralyze4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1701
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1751,
+        "StageID": 153009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8516?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1752,
+        "StageID": 153010,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8519?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1751
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1753,
+        "StageID": 153011,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8522?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1752
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1754,
+        "StageID": 153017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8543?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1751
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1755,
+        "StageID": 153023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8555?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1751
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1756,
+        "StageID": 146046,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12404?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1752
+        ]
+    },
+    {
+        "BuffID": 12,
+        "SiteID": 1757,
+        "StageID": 146041,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12396?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Paralyze4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1751
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1801,
+        "StageID": 146013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8533?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1802,
+        "StageID": 146014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8536?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1801
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 1803,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1802
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 1804,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1801
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 1805,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1801
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1851,
+        "StageID": 153013,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8531?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1852,
+        "StageID": 153014,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8534?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1851
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1853,
+        "StageID": 153015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8537?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1852
+        ]
+    },
+    {
+        "BuffID": 10,
+        "SiteID": 1854,
+        "StageID": 153012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8528?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1851
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 1855,
+        "StageID": 146024,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8560?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1851
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1901,
+        "StageID": 146034,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11529?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1902,
+        "StageID": 146033,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1901
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 1903,
+        "StageID": 146035,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11531?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1902
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 1904,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1901
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1905,
+        "StageID": 146026,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10104?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1901
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1951,
+        "StageID": 146034,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11538?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1952,
+        "StageID": 146033,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11539?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1951
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1953,
+        "StageID": 146035,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11540?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Element3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1952
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 1954,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1951
+        ]
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 1955,
+        "StageID": 153026,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/10091?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Restraint4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            1951
+        ]
+    },
+    {
+        "BuffID": 11,
+        "SiteID": 2001,
+        "StageID": 146036,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11649?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Burn1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 11,
+        "SiteID": 2002,
+        "StageID": 146037,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11650?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Burn2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2001
+        ]
+    },
+    {
+        "BuffID": 11,
+        "SiteID": 2003,
+        "StageID": 146038,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11651?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Burn3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2002
+        ]
+    },
+    {
+        "BuffID": 11,
+        "SiteID": 2004,
+        "StageID": 146039,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/11652?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Burn3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2002
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 2005,
+        "StageID": 146022,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12482?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2001
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 2006,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2001
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 2051,
+        "StageID": 146022,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12482?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2001
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 2052,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2001
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 2101,
+        "StageID": 146042,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12388?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 2102,
+        "StageID": 146043,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12389?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2101
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 2103,
+        "StageID": 146044,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12390?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2102
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2104,
+        "StageID": 146040,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12395?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2101
+        ]
+    },
+    {
+        "BuffID": 12,
+        "SiteID": 2105,
+        "StageID": 146041,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12396?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Paralyze4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2101
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 2106,
+        "StageID": 146023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2101
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 2107,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8528?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2101
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 2151,
+        "StageID": 146042,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12388?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 2152,
+        "StageID": 146043,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12389?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2151
+        ]
+    },
+    {
+        "BuffID": 9,
+        "SiteID": 2153,
+        "StageID": 146044,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12390?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2152
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2154,
+        "StageID": 146040,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12395?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2151
+        ]
+    },
+    {
+        "BuffID": 12,
+        "SiteID": 2155,
+        "StageID": 146041,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12396?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Paralyze4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2151
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 2156,
+        "StageID": 153023,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8557?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2151
+        ]
+    },
+    {
+        "BuffID": 10,
+        "SiteID": 2157,
+        "StageID": 153012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8528?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2151
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2201,
+        "StageID": 146050,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13575?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2202,
+        "StageID": 146048,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13578?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2201
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2203,
+        "StageID": 146049,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13581?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2202
+        ]
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 2204,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2201
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 2205,
+        "StageID": 146019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8551?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2201
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2251,
+        "StageID": 146050,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13575?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2252,
+        "StageID": 146048,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13578?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2251
+        ]
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 2253,
+        "StageID": 146049,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/13581?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Kill3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2252
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 2254,
+        "StageID": 146017,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8545?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2251
+        ]
+    },
+    {
+        "BuffID": 8,
+        "SiteID": 2255,
+        "StageID": 146019,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8551?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire2",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            2251
+        ]
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 9991,
+        "StageID": 146009,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8518?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Physical1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 9992,
+        "StageID": 146006,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8508?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Thunder2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            9991
+        ]
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 9993,
+        "StageID": 146008,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8515?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Fire3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            9992
+        ]
+    },
+    {
+        "BuffID": 6,
+        "SiteID": 9994,
+        "StageID": 146012,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8530?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Far4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            9991
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 98000,
+        "StageID": 146015,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12388?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 98001,
+        "StageID": 146020,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12389?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98002,
+        "StageID": 146044,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12390?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 2,
+        "SiteID": 98003,
+        "StageID": 146035,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta4",
+        "SiteNodeName": "Area4",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 98004,
+        "StageID": 146048,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta5",
+        "SiteNodeName": "Area20",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 98005,
+        "StageID": 146049,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta6",
+        "SiteNodeName": "Area5",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98006,
+        "StageID": 146046,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12404?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta7",
+        "SiteNodeName": "Area20",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 98007,
+        "StageID": 146047,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12405?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta8",
+        "SiteNodeName": "Area6",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98008,
+        "StageID": 146011,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta9",
+        "SiteNodeName": "Area7",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 98009,
+        "StageID": 146029,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta10",
+        "SiteNodeName": "Area8",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 98010,
+        "StageID": 146007,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta11",
+        "SiteNodeName": "Area9",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 98011,
+        "StageID": 146003,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta12",
+        "SiteNodeName": "Area10",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 98012,
+        "StageID": 146030,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta13",
+        "SiteNodeName": "Area11",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 98013,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta14",
+        "SiteNodeName": "Area12",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 98014,
+        "StageID": 146050,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta4",
+        "SiteNodeName": "Area1",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 98015,
+        "StageID": 146048,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta5",
+        "SiteNodeName": "Area2",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 13,
+        "SiteID": 98016,
+        "StageID": 146049,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta6",
+        "SiteNodeName": "Area3",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98017,
+        "StageID": 146042,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12388?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta1",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98018,
+        "StageID": 146043,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12389?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta2",
+        "SiteNodeName": "Area5",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98019,
+        "StageID": 146044,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12390?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta3",
+        "SiteNodeName": "Area6",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 98020,
+        "StageID": 146047,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/12405?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta8",
+        "SiteNodeName": "Area7",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 4,
+        "SiteID": 98021,
+        "StageID": 146011,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta9",
+        "SiteNodeName": "Area8",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 98022,
+        "StageID": 146029,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta10",
+        "SiteNodeName": "Area9",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 98023,
+        "StageID": 146007,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta11",
+        "SiteNodeName": "Area10",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 98024,
+        "StageID": 146003,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta12",
+        "SiteNodeName": "Area20",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 7,
+        "SiteID": 98025,
+        "StageID": 146030,
+        "LevelEndWebLink": "",
+        "SiteName": "StageData_name_Beta13",
+        "SiteNodeName": "Area11",
+        "WebLink": "",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 3,
+        "SiteID": 98026,
+        "StageID": 146016,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8542?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Beta14",
+        "SiteNodeName": "Area12",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 145344,
+        "StageID": 146001,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8493?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice1",
+        "SiteNodeName": "Area1",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": []
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 145345,
+        "StageID": 146002,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8496?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice2",
+        "SiteNodeName": "Area2",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            145344
+        ]
+    },
+    {
+        "BuffID": 1,
+        "SiteID": 145346,
+        "StageID": 146003,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8499?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Ice3",
+        "SiteNodeName": "Area3",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            145345
+        ]
+    },
+    {
+        "BuffID": 5,
+        "SiteID": 145347,
+        "StageID": 146004,
+        "LevelEndWebLink": "https://bh3.mihoyo.com/gl/arena/pass/8502?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "SiteName": "StageData_name_Quantum4",
+        "SiteNodeName": "Area4",
+        "WebLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "PreSiteList": [
+            145344
+        ]
+    }
+]

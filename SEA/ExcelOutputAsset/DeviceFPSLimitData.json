@@ -1,0 +1,40 @@
+[
+    {
+        "TargetFPS": 30,
+        "DisplayTextID": {
+            "hash": -1301277503
+        },
+        "DeviceWhiteList": []
+    },
+    {
+        "TargetFPS": 60,
+        "DisplayTextID": {
+            "hash": -1301277410
+        },
+        "DeviceWhiteList": []
+    },
+    {
+        "TargetFPS": 90,
+        "DisplayTextID": {
+            "hash": -1301277317
+        },
+        "DeviceWhiteList": [
+            "PC",
+            "ASUSASUS_I005D_ADRENO(TM)660",
+            "ASUSASUS_I005DA_ADRENO(TM)660",
+            "ASUSASUS_I005DB_ADRENO(TM)660",
+            "ASUSASUS_I005DC_ADRENO(TM)660",
+            "ASUSZS673KS_ADRENO(TM)660",
+            "LENOVOLENOVOL70081_ADRENO(TM)660"
+        ]
+    },
+    {
+        "TargetFPS": 120,
+        "DisplayTextID": {
+            "hash": -1684898741
+        },
+        "DeviceWhiteList": [
+            "PC"
+        ]
+    }
+]

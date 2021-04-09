@@ -1,0 +1,3740 @@
+[
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 70,
+        "during": 0,
+        "HP": 73,
+        "indexID": 999,
+        "medalID": 101001,
+        "prop1ID": 301020,
+        "prop2ID": 301014,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 1.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157670
+        },
+        "medalGet": {
+            "hash": -966559569
+        },
+        "medalTitle": {
+            "hash": -897822291
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101001",
+        "imagePath": "SpriteOutput/MedalFigures/101001",
+        "smallPath": "SpriteOutput/MedalSmall/101001"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 89,
+        "during": 0,
+        "HP": 41,
+        "indexID": 998,
+        "medalID": 101002,
+        "prop1ID": 301007,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157671
+        },
+        "medalGet": {
+            "hash": -966559568
+        },
+        "medalTitle": {
+            "hash": -897822290
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101002",
+        "imagePath": "SpriteOutput/MedalFigures/101002",
+        "smallPath": "SpriteOutput/MedalSmall/101002"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 8,
+        "defence": 61,
+        "during": 0,
+        "HP": 55,
+        "indexID": 997,
+        "medalID": 101003,
+        "prop1ID": 301009,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157672
+        },
+        "medalGet": {
+            "hash": -966559567
+        },
+        "medalTitle": {
+            "hash": -897822289
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101003",
+        "imagePath": "SpriteOutput/MedalFigures/101003",
+        "smallPath": "SpriteOutput/MedalSmall/101003"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 57,
+        "during": 0,
+        "HP": 78,
+        "indexID": 996,
+        "medalID": 101004,
+        "prop1ID": 301010,
+        "prop2ID": 301004,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.05,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157673
+        },
+        "medalGet": {
+            "hash": -966559566
+        },
+        "medalTitle": {
+            "hash": -897822288
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101004",
+        "imagePath": "SpriteOutput/MedalFigures/101004",
+        "smallPath": "SpriteOutput/MedalSmall/101004"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 32,
+        "during": 0,
+        "HP": 48,
+        "indexID": 995,
+        "medalID": 101005,
+        "prop1ID": 0,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157674
+        },
+        "medalGet": {
+            "hash": -966559565
+        },
+        "medalTitle": {
+            "hash": -897822287
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101005",
+        "imagePath": "SpriteOutput/MedalFigures/101005",
+        "smallPath": "SpriteOutput/MedalSmall/101005"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 20,
+        "during": 0,
+        "HP": 51,
+        "indexID": 993,
+        "medalID": 101007,
+        "prop1ID": 301001,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157676
+        },
+        "medalGet": {
+            "hash": -966559563
+        },
+        "medalTitle": {
+            "hash": -897822285
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101007",
+        "imagePath": "SpriteOutput/MedalFigures/101007",
+        "smallPath": "SpriteOutput/MedalSmall/101007"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 59,
+        "during": 0,
+        "HP": 83,
+        "indexID": 992,
+        "medalID": 101008,
+        "prop1ID": 301011,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157677
+        },
+        "medalGet": {
+            "hash": -966559562
+        },
+        "medalTitle": {
+            "hash": -897822284
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101008",
+        "imagePath": "SpriteOutput/MedalFigures/101008",
+        "smallPath": "SpriteOutput/MedalSmall/101008"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 30,
+        "during": 0,
+        "HP": 72,
+        "indexID": 991,
+        "medalID": 101009,
+        "prop1ID": 301011,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157678
+        },
+        "medalGet": {
+            "hash": -966559561
+        },
+        "medalTitle": {
+            "hash": -897822283
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101009",
+        "imagePath": "SpriteOutput/MedalFigures/101009",
+        "smallPath": "SpriteOutput/MedalSmall/101009"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 38,
+        "during": 0,
+        "HP": 55,
+        "indexID": 990,
+        "medalID": 101010,
+        "prop1ID": 301006,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.1,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157700
+        },
+        "medalGet": {
+            "hash": -966559539
+        },
+        "medalTitle": {
+            "hash": -897822261
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101010",
+        "imagePath": "SpriteOutput/MedalFigures/101010",
+        "smallPath": "SpriteOutput/MedalSmall/101010"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 36,
+        "during": 0,
+        "HP": 42,
+        "indexID": 989,
+        "medalID": 101011,
+        "prop1ID": 0,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157701
+        },
+        "medalGet": {
+            "hash": -966559538
+        },
+        "medalTitle": {
+            "hash": -897822260
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101011",
+        "imagePath": "SpriteOutput/MedalFigures/101011",
+        "smallPath": "SpriteOutput/MedalSmall/101011"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 47,
+        "during": 0,
+        "HP": 41,
+        "indexID": 988,
+        "medalID": 101012,
+        "prop1ID": 301002,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157702
+        },
+        "medalGet": {
+            "hash": -966559537
+        },
+        "medalTitle": {
+            "hash": -897822259
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101012",
+        "imagePath": "SpriteOutput/MedalFigures/101012",
+        "smallPath": "SpriteOutput/MedalSmall/101012"
+    },
+    {
+        "attack": 8,
+        "combat": 0,
+        "critical": 1,
+        "defence": 79,
+        "during": 0,
+        "HP": 104,
+        "indexID": 987,
+        "medalID": 101013,
+        "prop1ID": 301020,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157703
+        },
+        "medalGet": {
+            "hash": -966559536
+        },
+        "medalTitle": {
+            "hash": -897822258
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101013",
+        "imagePath": "SpriteOutput/MedalFigures/101013",
+        "smallPath": "SpriteOutput/MedalSmall/101013"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 45,
+        "during": 0,
+        "HP": 83,
+        "indexID": 986,
+        "medalID": 101014,
+        "prop1ID": 301013,
+        "prop2ID": 301006,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.06,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157704
+        },
+        "medalGet": {
+            "hash": -966559535
+        },
+        "medalTitle": {
+            "hash": -897822257
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101014",
+        "imagePath": "SpriteOutput/MedalFigures/101014",
+        "smallPath": "SpriteOutput/MedalSmall/101014"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 54,
+        "during": 0,
+        "HP": 76,
+        "indexID": 985,
+        "medalID": 101015,
+        "prop1ID": 301013,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157705
+        },
+        "medalGet": {
+            "hash": -966559534
+        },
+        "medalTitle": {
+            "hash": -897822256
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101015",
+        "imagePath": "SpriteOutput/MedalFigures/101015",
+        "smallPath": "SpriteOutput/MedalSmall/101015"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 65,
+        "during": 0,
+        "HP": 67,
+        "indexID": 984,
+        "medalID": 101016,
+        "prop1ID": 301003,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157706
+        },
+        "medalGet": {
+            "hash": -966559533
+        },
+        "medalTitle": {
+            "hash": -897822255
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101016",
+        "imagePath": "SpriteOutput/MedalFigures/101016",
+        "smallPath": "SpriteOutput/MedalSmall/101016"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 59,
+        "during": 0,
+        "HP": 83,
+        "indexID": 983,
+        "medalID": 101017,
+        "prop1ID": 301003,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157707
+        },
+        "medalGet": {
+            "hash": -966559532
+        },
+        "medalTitle": {
+            "hash": -897822254
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101017",
+        "imagePath": "SpriteOutput/MedalFigures/101017",
+        "smallPath": "SpriteOutput/MedalSmall/101017"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 57,
+        "during": 129600,
+        "HP": 78,
+        "indexID": 981,
+        "medalID": 101019,
+        "prop1ID": 301025,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157709
+        },
+        "medalGet": {
+            "hash": -966559530
+        },
+        "medalTitle": {
+            "hash": -897822252
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101019",
+        "imagePath": "SpriteOutput/MedalFigures/101019",
+        "smallPath": "SpriteOutput/MedalSmall/101019"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 53,
+        "during": 129600,
+        "HP": 73,
+        "indexID": 980,
+        "medalID": 101020,
+        "prop1ID": 301025,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157731
+        },
+        "medalGet": {
+            "hash": -966559508
+        },
+        "medalTitle": {
+            "hash": -897822230
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101020",
+        "imagePath": "SpriteOutput/MedalFigures/101020",
+        "smallPath": "SpriteOutput/MedalSmall/101020"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 49,
+        "during": 43200,
+        "HP": 67,
+        "indexID": 979,
+        "medalID": 101021,
+        "prop1ID": 301025,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157732
+        },
+        "medalGet": {
+            "hash": -966559507
+        },
+        "medalTitle": {
+            "hash": -897822229
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101021",
+        "imagePath": "SpriteOutput/MedalFigures/101021",
+        "smallPath": "SpriteOutput/MedalSmall/101021"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 1,
+        "defence": 32,
+        "during": 0,
+        "HP": 31,
+        "indexID": 978,
+        "medalID": 101022,
+        "prop1ID": 301025,
+        "prop2ID": 301029,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 80.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157733
+        },
+        "medalGet": {
+            "hash": -966559506
+        },
+        "medalTitle": {
+            "hash": -897822228
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101022",
+        "imagePath": "SpriteOutput/MedalFigures/101022",
+        "smallPath": "SpriteOutput/MedalSmall/101022"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 66,
+        "during": 86400,
+        "HP": 73,
+        "indexID": 977,
+        "medalID": 101023,
+        "prop1ID": 301015,
+        "prop2ID": 301025,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 3.0,
+        "prop1param2": 3.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.015,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157734
+        },
+        "medalGet": {
+            "hash": -966559505
+        },
+        "medalTitle": {
+            "hash": -897822227
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101023",
+        "imagePath": "SpriteOutput/MedalFigures/101023",
+        "smallPath": "SpriteOutput/MedalSmall/101023"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 27,
+        "during": 0,
+        "HP": 51,
+        "indexID": 976,
+        "medalID": 101024,
+        "prop1ID": 301014,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.5,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157735
+        },
+        "medalGet": {
+            "hash": -966559504
+        },
+        "medalTitle": {
+            "hash": -897822226
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101024",
+        "imagePath": "SpriteOutput/MedalFigures/101024",
+        "smallPath": "SpriteOutput/MedalSmall/101024"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 19,
+        "during": 0,
+        "HP": 27,
+        "indexID": 975,
+        "medalID": 101025,
+        "prop1ID": 301029,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 50.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157736
+        },
+        "medalGet": {
+            "hash": -966559503
+        },
+        "medalTitle": {
+            "hash": -897822225
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101025",
+        "imagePath": "SpriteOutput/MedalFigures/101025",
+        "smallPath": "SpriteOutput/MedalSmall/101025"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 65,
+        "during": 0,
+        "HP": 45,
+        "indexID": 974,
+        "medalID": 101026,
+        "prop1ID": 301007,
+        "prop2ID": 301031,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 30.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157737
+        },
+        "medalGet": {
+            "hash": -966559502
+        },
+        "medalTitle": {
+            "hash": -897822224
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101026",
+        "imagePath": "SpriteOutput/MedalFigures/101026",
+        "smallPath": "SpriteOutput/MedalSmall/101026"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 34,
+        "during": 0,
+        "HP": 47,
+        "indexID": 973,
+        "medalID": 101027,
+        "prop1ID": 301002,
+        "prop2ID": 301032,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 5.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157738
+        },
+        "medalGet": {
+            "hash": -966559501
+        },
+        "medalTitle": {
+            "hash": -897822223
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101027",
+        "imagePath": "SpriteOutput/MedalFigures/101027",
+        "smallPath": "SpriteOutput/MedalSmall/101027"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 81,
+        "during": 0,
+        "HP": 90,
+        "indexID": 972,
+        "medalID": 101028,
+        "prop1ID": 301018,
+        "prop2ID": 301006,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.06,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157739
+        },
+        "medalGet": {
+            "hash": -966559500
+        },
+        "medalTitle": {
+            "hash": -897822222
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101028",
+        "imagePath": "SpriteOutput/MedalFigures/101028",
+        "smallPath": "SpriteOutput/MedalSmall/101028"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 49,
+        "during": 0,
+        "HP": 69,
+        "indexID": 971,
+        "medalID": 101029,
+        "prop1ID": 301018,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157740
+        },
+        "medalGet": {
+            "hash": -966559499
+        },
+        "medalTitle": {
+            "hash": -897822221
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101029",
+        "imagePath": "SpriteOutput/MedalFigures/101029",
+        "smallPath": "SpriteOutput/MedalSmall/101029"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 53,
+        "during": 10080,
+        "HP": 73,
+        "indexID": 975,
+        "medalID": 101030,
+        "prop1ID": 301027,
+        "prop2ID": 301020,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157762
+        },
+        "medalGet": {
+            "hash": -966559477
+        },
+        "medalTitle": {
+            "hash": -897822199
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101030",
+        "imagePath": "SpriteOutput/MedalFigures/101030",
+        "smallPath": "SpriteOutput/MedalSmall/101030"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 57,
+        "during": 10080,
+        "HP": 78,
+        "indexID": 974,
+        "medalID": 101031,
+        "prop1ID": 301027,
+        "prop2ID": 301020,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.015,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157763
+        },
+        "medalGet": {
+            "hash": -966559476
+        },
+        "medalTitle": {
+            "hash": -897822198
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101031",
+        "imagePath": "SpriteOutput/MedalFigures/101031",
+        "smallPath": "SpriteOutput/MedalSmall/101031"
+    },
+    {
+        "attack": 6,
+        "combat": 0,
+        "critical": 7,
+        "defence": 26,
+        "during": 10080,
+        "HP": 55,
+        "indexID": 975,
+        "medalID": 101032,
+        "prop1ID": 301014,
+        "prop2ID": 301037,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 1.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.025,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157764
+        },
+        "medalGet": {
+            "hash": -966559475
+        },
+        "medalTitle": {
+            "hash": -897822197
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101032",
+        "imagePath": "SpriteOutput/MedalFigures/101032",
+        "smallPath": "SpriteOutput/MedalSmall/101032"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 40,
+        "during": 0,
+        "HP": 38,
+        "indexID": 976,
+        "medalID": 101033,
+        "prop1ID": 301023,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157765
+        },
+        "medalGet": {
+            "hash": -966559474
+        },
+        "medalTitle": {
+            "hash": -897822196
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101033",
+        "imagePath": "SpriteOutput/MedalFigures/101033",
+        "smallPath": "SpriteOutput/MedalSmall/101033"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 27,
+        "during": 0,
+        "HP": 76,
+        "indexID": 977,
+        "medalID": 101034,
+        "prop1ID": 301011,
+        "prop2ID": 301006,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.025,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.04,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157766
+        },
+        "medalGet": {
+            "hash": -966559473
+        },
+        "medalTitle": {
+            "hash": -897822195
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101034",
+        "imagePath": "SpriteOutput/MedalFigures/101034",
+        "smallPath": "SpriteOutput/MedalSmall/101034"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 25,
+        "during": 0,
+        "HP": 73,
+        "indexID": 978,
+        "medalID": 101035,
+        "prop1ID": 301032,
+        "prop2ID": 301031,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 4.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 35.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157767
+        },
+        "medalGet": {
+            "hash": -966559472
+        },
+        "medalTitle": {
+            "hash": -897822194
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101035",
+        "imagePath": "SpriteOutput/MedalFigures/101035",
+        "smallPath": "SpriteOutput/MedalSmall/101035"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 81,
+        "during": 10080,
+        "HP": 55,
+        "indexID": 979,
+        "medalID": 101036,
+        "prop1ID": 301008,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.025,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.025,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157768
+        },
+        "medalGet": {
+            "hash": -966559471
+        },
+        "medalTitle": {
+            "hash": -897822193
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101036",
+        "imagePath": "SpriteOutput/MedalFigures/101036",
+        "smallPath": "SpriteOutput/MedalSmall/101036"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 61,
+        "during": 10080,
+        "HP": 138,
+        "indexID": 980,
+        "medalID": 101037,
+        "prop1ID": 301030,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 100.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157769
+        },
+        "medalGet": {
+            "hash": -966559470
+        },
+        "medalTitle": {
+            "hash": -897822192
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101037",
+        "imagePath": "SpriteOutput/MedalFigures/101037",
+        "smallPath": "SpriteOutput/MedalSmall/101037"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 70,
+        "during": 0,
+        "HP": 73,
+        "indexID": 981,
+        "medalID": 101038,
+        "prop1ID": 0,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157770
+        },
+        "medalGet": {
+            "hash": -966559469
+        },
+        "medalTitle": {
+            "hash": -897822191
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101038",
+        "imagePath": "SpriteOutput/MedalFigures/101038",
+        "smallPath": "SpriteOutput/MedalSmall/101038"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 59,
+        "during": 0,
+        "HP": 62,
+        "indexID": 982,
+        "medalID": 101039,
+        "prop1ID": 0,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 3,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157771
+        },
+        "medalGet": {
+            "hash": -966559468
+        },
+        "medalTitle": {
+            "hash": -897822190
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101039",
+        "imagePath": "SpriteOutput/MedalFigures/101039",
+        "smallPath": "SpriteOutput/MedalSmall/101039"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 77,
+        "during": 0,
+        "HP": 80,
+        "indexID": 983,
+        "medalID": 101040,
+        "prop1ID": 301008,
+        "prop2ID": 301016,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.015,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157793
+        },
+        "medalGet": {
+            "hash": -966559446
+        },
+        "medalTitle": {
+            "hash": -897822168
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101040",
+        "imagePath": "SpriteOutput/MedalFigures/101040",
+        "smallPath": "SpriteOutput/MedalSmall/101040"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 6,
+        "defence": 70,
+        "during": 0,
+        "HP": 60,
+        "indexID": 985,
+        "medalID": 101042,
+        "prop1ID": 301025,
+        "prop2ID": 301015,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.012,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 3.0,
+        "prop2param2": 1.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157795
+        },
+        "medalGet": {
+            "hash": -966559444
+        },
+        "medalTitle": {
+            "hash": -897822166
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101042",
+        "imagePath": "SpriteOutput/MedalFigures/101042",
+        "smallPath": "SpriteOutput/MedalSmall/101042"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 8,
+        "defence": 69,
+        "during": 0,
+        "HP": 67,
+        "indexID": 986,
+        "medalID": 101043,
+        "prop1ID": 301025,
+        "prop2ID": 301015,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.025,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 3.0,
+        "prop2param2": 1.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157796
+        },
+        "medalGet": {
+            "hash": -966559443
+        },
+        "medalTitle": {
+            "hash": -897822165
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101043",
+        "imagePath": "SpriteOutput/MedalFigures/101043",
+        "smallPath": "SpriteOutput/MedalSmall/101043"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 37,
+        "during": 0,
+        "HP": 52,
+        "indexID": 987,
+        "medalID": 101044,
+        "prop1ID": 301005,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157797
+        },
+        "medalGet": {
+            "hash": -966559442
+        },
+        "medalTitle": {
+            "hash": -897822164
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101044",
+        "imagePath": "SpriteOutput/MedalFigures/101044",
+        "smallPath": "SpriteOutput/MedalSmall/101044"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 61,
+        "during": 0,
+        "HP": 56,
+        "indexID": 988,
+        "medalID": 101045,
+        "prop1ID": 301016,
+        "prop2ID": 301006,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157798
+        },
+        "medalGet": {
+            "hash": -966559441
+        },
+        "medalTitle": {
+            "hash": -897822163
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101045",
+        "imagePath": "SpriteOutput/MedalFigures/101045",
+        "smallPath": "SpriteOutput/MedalSmall/101045"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 46,
+        "during": 0,
+        "HP": 51,
+        "indexID": 989,
+        "medalID": 101046,
+        "prop1ID": 301010,
+        "prop2ID": 301007,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157799
+        },
+        "medalGet": {
+            "hash": -966559440
+        },
+        "medalTitle": {
+            "hash": -897822162
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101046",
+        "imagePath": "SpriteOutput/MedalFigures/101046",
+        "smallPath": "SpriteOutput/MedalSmall/101046"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 66,
+        "during": 0,
+        "HP": 80,
+        "indexID": 990,
+        "medalID": 101047,
+        "prop1ID": 301002,
+        "prop2ID": 301020,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157800
+        },
+        "medalGet": {
+            "hash": -966559439
+        },
+        "medalTitle": {
+            "hash": -897822161
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101047",
+        "imagePath": "SpriteOutput/MedalFigures/101047",
+        "smallPath": "SpriteOutput/MedalSmall/101047"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 7,
+        "defence": 36,
+        "during": 0,
+        "HP": 70,
+        "indexID": 991,
+        "medalID": 101048,
+        "prop1ID": 301009,
+        "prop2ID": 301027,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157801
+        },
+        "medalGet": {
+            "hash": -966559438
+        },
+        "medalTitle": {
+            "hash": -897822160
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101048",
+        "imagePath": "SpriteOutput/MedalFigures/101048",
+        "smallPath": "SpriteOutput/MedalSmall/101048"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 66,
+        "during": 0,
+        "HP": 80,
+        "indexID": 992,
+        "medalID": 101049,
+        "prop1ID": 301033,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157802
+        },
+        "medalGet": {
+            "hash": -966559437
+        },
+        "medalTitle": {
+            "hash": -897822159
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101049",
+        "imagePath": "SpriteOutput/MedalFigures/101049",
+        "smallPath": "SpriteOutput/MedalSmall/101049"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 31,
+        "during": 0,
+        "HP": 69,
+        "indexID": 993,
+        "medalID": 101050,
+        "prop1ID": 301002,
+        "prop2ID": 301020,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157824
+        },
+        "medalGet": {
+            "hash": -966559415
+        },
+        "medalTitle": {
+            "hash": -897822137
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101050",
+        "imagePath": "SpriteOutput/MedalFigures/101050",
+        "smallPath": "SpriteOutput/MedalSmall/101050"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 48,
+        "during": 0,
+        "HP": 61,
+        "indexID": 994,
+        "medalID": 101051,
+        "prop1ID": 301032,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 5.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157825
+        },
+        "medalGet": {
+            "hash": -966559414
+        },
+        "medalTitle": {
+            "hash": -897822136
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101051",
+        "imagePath": "SpriteOutput/MedalFigures/101051",
+        "smallPath": "SpriteOutput/MedalSmall/101051"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 1,
+        "defence": 46,
+        "during": 0,
+        "HP": 43,
+        "indexID": 995,
+        "medalID": 101052,
+        "prop1ID": 301012,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157826
+        },
+        "medalGet": {
+            "hash": -966559413
+        },
+        "medalTitle": {
+            "hash": -897822135
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101052",
+        "imagePath": "SpriteOutput/MedalFigures/101052",
+        "smallPath": "SpriteOutput/MedalSmall/101052"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 47,
+        "during": 40320,
+        "HP": 62,
+        "indexID": 995,
+        "medalID": 101053,
+        "prop1ID": 301007,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.005,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157827
+        },
+        "medalGet": {
+            "hash": -966559412
+        },
+        "medalTitle": {
+            "hash": -897822134
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101053",
+        "imagePath": "SpriteOutput/MedalFigures/101053",
+        "smallPath": "SpriteOutput/MedalSmall/101053"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 51,
+        "during": 40320,
+        "HP": 67,
+        "indexID": 995,
+        "medalID": 101054,
+        "prop1ID": 301007,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157828
+        },
+        "medalGet": {
+            "hash": -966559411
+        },
+        "medalTitle": {
+            "hash": -897822133
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101054",
+        "imagePath": "SpriteOutput/MedalFigures/101054",
+        "smallPath": "SpriteOutput/MedalSmall/101054"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 55,
+        "during": 40320,
+        "HP": 72,
+        "indexID": 995,
+        "medalID": 101055,
+        "prop1ID": 301007,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.015,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157829
+        },
+        "medalGet": {
+            "hash": -966559410
+        },
+        "medalTitle": {
+            "hash": -897822132
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101055",
+        "imagePath": "SpriteOutput/MedalFigures/101055",
+        "smallPath": "SpriteOutput/MedalSmall/101055"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 7,
+        "defence": 60,
+        "during": 40320,
+        "HP": 78,
+        "indexID": 995,
+        "medalID": 101056,
+        "prop1ID": 301007,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.025,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157830
+        },
+        "medalGet": {
+            "hash": -966559409
+        },
+        "medalTitle": {
+            "hash": -897822131
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101056",
+        "imagePath": "SpriteOutput/MedalFigures/101056",
+        "smallPath": "SpriteOutput/MedalSmall/101056"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 38,
+        "during": 0,
+        "HP": 54,
+        "indexID": 995,
+        "medalID": 101057,
+        "prop1ID": 301015,
+        "prop2ID": 301034,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 3.0,
+        "prop1param2": 2.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 5.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157831
+        },
+        "medalGet": {
+            "hash": -966559408
+        },
+        "medalTitle": {
+            "hash": -897822130
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101057",
+        "imagePath": "SpriteOutput/MedalFigures/101057",
+        "smallPath": "SpriteOutput/MedalSmall/101057"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 41,
+        "during": 0,
+        "HP": 58,
+        "indexID": 995,
+        "medalID": 101058,
+        "prop1ID": 301015,
+        "prop2ID": 301034,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 3.0,
+        "prop1param2": 3.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 5.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157832
+        },
+        "medalGet": {
+            "hash": -966559407
+        },
+        "medalTitle": {
+            "hash": -897822129
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101058",
+        "imagePath": "SpriteOutput/MedalFigures/101058",
+        "smallPath": "SpriteOutput/MedalSmall/101058"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 49,
+        "during": 0,
+        "HP": 85,
+        "indexID": 990,
+        "medalID": 101059,
+        "prop1ID": 301021,
+        "prop2ID": 301010,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.05,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157833
+        },
+        "medalGet": {
+            "hash": -966559406
+        },
+        "medalTitle": {
+            "hash": -897822128
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101059",
+        "imagePath": "SpriteOutput/MedalFigures/101059",
+        "smallPath": "SpriteOutput/MedalSmall/101059"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 49,
+        "during": 0,
+        "HP": 50,
+        "indexID": 990,
+        "medalID": 101060,
+        "prop1ID": 301011,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157855
+        },
+        "medalGet": {
+            "hash": -966559384
+        },
+        "medalTitle": {
+            "hash": -897822106
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101060",
+        "imagePath": "SpriteOutput/MedalFigures/101060",
+        "smallPath": "SpriteOutput/MedalSmall/101060"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 47,
+        "during": 0,
+        "HP": 63,
+        "indexID": 990,
+        "medalID": 101061,
+        "prop1ID": 301002,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157856
+        },
+        "medalGet": {
+            "hash": -966559383
+        },
+        "medalTitle": {
+            "hash": -897822105
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101061",
+        "imagePath": "SpriteOutput/MedalFigures/101061",
+        "smallPath": "SpriteOutput/MedalSmall/101061"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 51,
+        "during": 0,
+        "HP": 57,
+        "indexID": 990,
+        "medalID": 101062,
+        "prop1ID": 301003,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157857
+        },
+        "medalGet": {
+            "hash": -966559382
+        },
+        "medalTitle": {
+            "hash": -897822104
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101062",
+        "imagePath": "SpriteOutput/MedalFigures/101062",
+        "smallPath": "SpriteOutput/MedalSmall/101062"
+    },
+    {
+        "attack": 8,
+        "combat": 0,
+        "critical": 2,
+        "defence": 24,
+        "during": 0,
+        "HP": 80,
+        "indexID": 990,
+        "medalID": 101063,
+        "prop1ID": 301020,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157858
+        },
+        "medalGet": {
+            "hash": -966559381
+        },
+        "medalTitle": {
+            "hash": -897822103
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101063",
+        "imagePath": "SpriteOutput/MedalFigures/101063",
+        "smallPath": "SpriteOutput/MedalSmall/101063"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 3,
+        "defence": 62,
+        "during": 0,
+        "HP": 82,
+        "indexID": 990,
+        "medalID": 101064,
+        "prop1ID": 301005,
+        "prop2ID": 301023,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157859
+        },
+        "medalGet": {
+            "hash": -966559380
+        },
+        "medalTitle": {
+            "hash": -897822102
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101064",
+        "imagePath": "SpriteOutput/MedalFigures/101064",
+        "smallPath": "SpriteOutput/MedalSmall/101064"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 23,
+        "during": 0,
+        "HP": 68,
+        "indexID": 990,
+        "medalID": 101065,
+        "prop1ID": 301018,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157860
+        },
+        "medalGet": {
+            "hash": -966559379
+        },
+        "medalTitle": {
+            "hash": -897822101
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101065",
+        "imagePath": "SpriteOutput/MedalFigures/101065",
+        "smallPath": "SpriteOutput/MedalSmall/101065"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 37,
+        "during": 0,
+        "HP": 72,
+        "indexID": 990,
+        "medalID": 101066,
+        "prop1ID": 301021,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157861
+        },
+        "medalGet": {
+            "hash": -966559378
+        },
+        "medalTitle": {
+            "hash": -897822100
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101066",
+        "imagePath": "SpriteOutput/MedalFigures/101066",
+        "smallPath": "SpriteOutput/MedalSmall/101066"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 25,
+        "during": 0,
+        "HP": 94,
+        "indexID": 990,
+        "medalID": 101067,
+        "prop1ID": 301027,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157862
+        },
+        "medalGet": {
+            "hash": -966559377
+        },
+        "medalTitle": {
+            "hash": -897822099
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101067",
+        "imagePath": "SpriteOutput/MedalFigures/101067",
+        "smallPath": "SpriteOutput/MedalSmall/101067"
+    },
+    {
+        "attack": 8,
+        "combat": 0,
+        "critical": 3,
+        "defence": 24,
+        "during": 0,
+        "HP": 109,
+        "indexID": 990,
+        "medalID": 101068,
+        "prop1ID": 301009,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157863
+        },
+        "medalGet": {
+            "hash": -966559376
+        },
+        "medalTitle": {
+            "hash": -897822098
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101068",
+        "imagePath": "SpriteOutput/MedalFigures/101068",
+        "smallPath": "SpriteOutput/MedalSmall/101068"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 6,
+        "defence": 86,
+        "during": 10080,
+        "HP": 59,
+        "indexID": 979,
+        "medalID": 101069,
+        "prop1ID": 301008,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.025,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157864
+        },
+        "medalGet": {
+            "hash": -966559375
+        },
+        "medalTitle": {
+            "hash": -897822097
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101069",
+        "imagePath": "SpriteOutput/MedalFigures/101069",
+        "smallPath": "SpriteOutput/MedalSmall/101069"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 31,
+        "during": 0,
+        "HP": 77,
+        "indexID": 987,
+        "medalID": 101070,
+        "prop1ID": 301010,
+        "prop2ID": 301031,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 15.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157886
+        },
+        "medalGet": {
+            "hash": -966559353
+        },
+        "medalTitle": {
+            "hash": -897822075
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101070",
+        "imagePath": "SpriteOutput/MedalFigures/101070",
+        "smallPath": "SpriteOutput/MedalSmall/101070"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 75,
+        "during": 129600,
+        "HP": 62,
+        "indexID": 987,
+        "medalID": 101071,
+        "prop1ID": 301006,
+        "prop2ID": 301016,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.05,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157887
+        },
+        "medalGet": {
+            "hash": -966559352
+        },
+        "medalTitle": {
+            "hash": -897822074
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101071",
+        "imagePath": "SpriteOutput/MedalFigures/101071",
+        "smallPath": "SpriteOutput/MedalSmall/101071"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 57,
+        "during": 0,
+        "HP": 53,
+        "indexID": 987,
+        "medalID": 101072,
+        "prop1ID": 301004,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157888
+        },
+        "medalGet": {
+            "hash": -966559351
+        },
+        "medalTitle": {
+            "hash": -897822073
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101072",
+        "imagePath": "SpriteOutput/MedalFigures/101072",
+        "smallPath": "SpriteOutput/MedalSmall/101072"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 46,
+        "during": 0,
+        "HP": 34,
+        "indexID": 987,
+        "medalID": 101073,
+        "prop1ID": 301022,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 2,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157889
+        },
+        "medalGet": {
+            "hash": -966559350
+        },
+        "medalTitle": {
+            "hash": -897822072
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101073",
+        "imagePath": "SpriteOutput/MedalFigures/101073",
+        "smallPath": "SpriteOutput/MedalSmall/101073"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 48,
+        "during": 0,
+        "HP": 93,
+        "indexID": 987,
+        "medalID": 101074,
+        "prop1ID": 301020,
+        "prop2ID": 301031,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 35.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157890
+        },
+        "medalGet": {
+            "hash": -966559349
+        },
+        "medalTitle": {
+            "hash": -897822071
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101074",
+        "imagePath": "SpriteOutput/MedalFigures/101074",
+        "smallPath": "SpriteOutput/MedalSmall/101074"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 48,
+        "during": 0,
+        "HP": 78,
+        "indexID": 987,
+        "medalID": 101075,
+        "prop1ID": 301035,
+        "prop2ID": 301036,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 2.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157891
+        },
+        "medalGet": {
+            "hash": -966559348
+        },
+        "medalTitle": {
+            "hash": -897822070
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101075",
+        "imagePath": "SpriteOutput/MedalFigures/101075",
+        "smallPath": "SpriteOutput/MedalSmall/101075"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 27,
+        "during": 10080,
+        "HP": 29,
+        "indexID": 979,
+        "medalID": 101076,
+        "prop1ID": 301009,
+        "prop2ID": 301014,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 2,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 2.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157892
+        },
+        "medalGet": {
+            "hash": -966559347
+        },
+        "medalTitle": {
+            "hash": -897822069
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101076",
+        "imagePath": "SpriteOutput/MedalFigures/101076",
+        "smallPath": "SpriteOutput/MedalSmall/101076"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 22,
+        "during": 43200,
+        "HP": 48,
+        "indexID": 979,
+        "medalID": 101077,
+        "prop1ID": 301009,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 1,
+        "timeType": 2,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157893
+        },
+        "medalGet": {
+            "hash": -966559346
+        },
+        "medalTitle": {
+            "hash": -897822068
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101077",
+        "imagePath": "SpriteOutput/MedalFigures/101077",
+        "smallPath": "SpriteOutput/MedalSmall/101077"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 44,
+        "during": 0,
+        "HP": 24,
+        "indexID": 987,
+        "medalID": 101078,
+        "prop1ID": 301013,
+        "prop2ID": 301005,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 2,
+        "timeType": 1,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157894
+        },
+        "medalGet": {
+            "hash": -966559345
+        },
+        "medalTitle": {
+            "hash": -897822067
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101078",
+        "imagePath": "SpriteOutput/MedalFigures/101078",
+        "smallPath": "SpriteOutput/MedalSmall/101078"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 51,
+        "during": 10080,
+        "HP": 57,
+        "indexID": 970,
+        "medalID": 101079,
+        "prop1ID": 301008,
+        "prop2ID": 301021,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.02,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157895
+        },
+        "medalGet": {
+            "hash": -966559344
+        },
+        "medalTitle": {
+            "hash": -897822066
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101079",
+        "imagePath": "SpriteOutput/MedalFigures/101079",
+        "smallPath": "SpriteOutput/MedalSmall/101079"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 22,
+        "during": 10080,
+        "HP": 48,
+        "indexID": 970,
+        "medalID": 101080,
+        "prop1ID": 301008,
+        "prop2ID": 301028,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 0.02,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157917
+        },
+        "medalGet": {
+            "hash": -966559322
+        },
+        "medalTitle": {
+            "hash": -897822044
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101080",
+        "imagePath": "SpriteOutput/MedalFigures/101080",
+        "smallPath": "SpriteOutput/MedalSmall/101080"
+    },
+    {
+        "attack": 6,
+        "combat": 0,
+        "critical": 6,
+        "defence": 26,
+        "during": 10080,
+        "HP": 28,
+        "indexID": 974,
+        "medalID": 101083,
+        "prop1ID": 301014,
+        "prop2ID": 301037,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 2,
+        "prop1param1": 1.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.025,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157920
+        },
+        "medalGet": {
+            "hash": -966559319
+        },
+        "medalTitle": {
+            "hash": -897822041
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101083",
+        "imagePath": "SpriteOutput/MedalFigures/101083",
+        "smallPath": "SpriteOutput/MedalSmall/101083"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 5,
+        "defence": 71,
+        "during": 0,
+        "HP": 75,
+        "indexID": 999,
+        "medalID": 101084,
+        "prop1ID": 301020,
+        "prop2ID": 301014,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 1.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157921
+        },
+        "medalGet": {
+            "hash": -966559318
+        },
+        "medalTitle": {
+            "hash": -897822040
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101084",
+        "imagePath": "SpriteOutput/MedalFigures/101084",
+        "smallPath": "SpriteOutput/MedalSmall/101084"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 38,
+        "during": 0,
+        "HP": 60,
+        "indexID": 993,
+        "medalID": 101085,
+        "prop1ID": 301027,
+        "prop2ID": 301009,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157922
+        },
+        "medalGet": {
+            "hash": -966559317
+        },
+        "medalTitle": {
+            "hash": -897822039
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101085",
+        "imagePath": "SpriteOutput/MedalFigures/101085",
+        "smallPath": "SpriteOutput/MedalSmall/101085"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 4,
+        "defence": 15,
+        "during": 0,
+        "HP": 51,
+        "indexID": 993,
+        "medalID": 101086,
+        "prop1ID": 301027,
+        "prop2ID": 301008,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.015,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157923
+        },
+        "medalGet": {
+            "hash": -966559316
+        },
+        "medalTitle": {
+            "hash": -897822038
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101086",
+        "imagePath": "SpriteOutput/MedalFigures/101086",
+        "smallPath": "SpriteOutput/MedalSmall/101086"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 15,
+        "during": 0,
+        "HP": 69,
+        "indexID": 993,
+        "medalID": 101087,
+        "prop1ID": 301015,
+        "prop2ID": 301021,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 3.0,
+        "prop1param2": 3.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.01,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157924
+        },
+        "medalGet": {
+            "hash": -966559315
+        },
+        "medalTitle": {
+            "hash": -897822037
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 0
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101087",
+        "imagePath": "SpriteOutput/MedalFigures/101087",
+        "smallPath": "SpriteOutput/MedalSmall/101087"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 31,
+        "during": 0,
+        "HP": 34,
+        "indexID": 993,
+        "medalID": 101088,
+        "prop1ID": 301020,
+        "prop2ID": 301001,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 1,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157925
+        },
+        "medalGet": {
+            "hash": -966559314
+        },
+        "medalTitle": {
+            "hash": -897822036
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101088",
+        "imagePath": "SpriteOutput/MedalFigures/101088",
+        "smallPath": "SpriteOutput/MedalSmall/101088"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 60,
+        "during": 0,
+        "HP": 48,
+        "indexID": 993,
+        "medalID": 101089,
+        "prop1ID": 301025,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 1,
+        "timeType": 1,
+        "prop1param1": 0.012,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157926
+        },
+        "medalGet": {
+            "hash": -966559313
+        },
+        "medalTitle": {
+            "hash": -897822035
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101089",
+        "imagePath": "SpriteOutput/MedalFigures/101089",
+        "smallPath": "SpriteOutput/MedalSmall/101089"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 44,
+        "during": 0,
+        "HP": 29,
+        "indexID": 987,
+        "medalID": 101090,
+        "prop1ID": 301011,
+        "prop2ID": 301012,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 1,
+        "SP": 2,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.03,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427157948
+        },
+        "medalGet": {
+            "hash": -966559291
+        },
+        "medalTitle": {
+            "hash": -897822013
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/101090",
+        "imagePath": "SpriteOutput/MedalFigures/101090",
+        "smallPath": "SpriteOutput/MedalSmall/101090"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 20,
+        "during": 0,
+        "HP": 51,
+        "indexID": 993,
+        "medalID": 102001,
+        "prop1ID": 301001,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427187461
+        },
+        "medalGet": {
+            "hash": -966529778
+        },
+        "medalTitle": {
+            "hash": -897792500
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/102001",
+        "imagePath": "SpriteOutput/MedalFigures/102001",
+        "smallPath": "SpriteOutput/MedalSmall/102001"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 27,
+        "during": 0,
+        "HP": 36,
+        "indexID": 995,
+        "medalID": 102002,
+        "prop1ID": 0,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.0,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427187462
+        },
+        "medalGet": {
+            "hash": -966529777
+        },
+        "medalTitle": {
+            "hash": -897792499
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/102002",
+        "imagePath": "SpriteOutput/MedalFigures/102002",
+        "smallPath": "SpriteOutput/MedalSmall/102002"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 2,
+        "defence": 77,
+        "during": 0,
+        "HP": 34,
+        "indexID": 995,
+        "medalID": 102003,
+        "prop1ID": 301012,
+        "prop2ID": 301031,
+        "prop3ID": 0,
+        "rarity": 5,
+        "show": 0,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.01,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 20.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427187463
+        },
+        "medalGet": {
+            "hash": -966529776
+        },
+        "medalTitle": {
+            "hash": -897792498
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/102003",
+        "imagePath": "SpriteOutput/MedalFigures/102003",
+        "smallPath": "SpriteOutput/MedalSmall/102003"
+    },
+    {
+        "attack": 0,
+        "combat": 0,
+        "critical": 0,
+        "defence": 20,
+        "during": 0,
+        "HP": 51,
+        "indexID": 993,
+        "medalID": 103001,
+        "prop1ID": 301001,
+        "prop2ID": 0,
+        "prop3ID": 0,
+        "rarity": 4,
+        "show": 1,
+        "SP": 0,
+        "timeType": 1,
+        "prop1param1": 0.03,
+        "prop1param2": 0.0,
+        "prop1param3": 0.0,
+        "prop2param1": 0.0,
+        "prop2param2": 0.0,
+        "prop2param3": 0.0,
+        "prop3param1": 0.0,
+        "prop3param2": 0.0,
+        "prop3param3": 0.0,
+        "medalDescription": {
+            "hash": 427217252
+        },
+        "medalGet": {
+            "hash": -966499987
+        },
+        "medalTitle": {
+            "hash": -897762709
+        },
+        "ShowTime": {
+            "_remoteTimeStampValue": 23587200
+        },
+        "EndTime": "0",
+        "iconPath": "SpriteOutput/MedalIcons/103001",
+        "imagePath": "SpriteOutput/MedalFigures/103001",
+        "smallPath": "SpriteOutput/MedalSmall/103001"
+    }
+]

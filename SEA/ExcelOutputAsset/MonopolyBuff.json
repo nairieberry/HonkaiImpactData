@@ -1,0 +1,29 @@
+[
+    {
+        "BuffID": 1,
+        "BuffDesc": "Monopoly_Pet1_Desc",
+        "BuffIcon": "SpriteOutput/AvatarChibiIcons/Elf_10002",
+        "BuffName": "Monopoly_Pet1_Text",
+        "Para": "4",
+        "PetJoinText": "Pet1_Join_Text",
+        "PetLeaveText": "Pet1_Leave_Text"
+    },
+    {
+        "BuffID": 2,
+        "BuffDesc": "Monopoly_Pet2_Desc",
+        "BuffIcon": "SpriteOutput/AvatarChibiIcons/Elf_10001",
+        "BuffName": "Monopoly_Pet2_Text",
+        "Para": "20",
+        "PetJoinText": "Pet2_Join_Text",
+        "PetLeaveText": "Pet2_Leave_Text"
+    },
+    {
+        "BuffID": 3,
+        "BuffDesc": "Monopoly_Pet3_Desc",
+        "BuffIcon": "SpriteOutput/AvatarChibiIcons/Elf_10003",
+        "BuffName": "Monopoly_Pet3_Text",
+        "Para": "114040,114041",
+        "PetJoinText": "Pet3_Join_Text",
+        "PetLeaveText": "Pet3_Leave_Text"
+    }
+]

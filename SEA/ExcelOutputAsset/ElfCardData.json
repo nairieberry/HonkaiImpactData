@@ -1,0 +1,134 @@
+[
+    {
+        "CardID": 380101,
+        "ElfID": 101,
+        "GachaDisplayRarity": 4,
+        "Rarity": 3,
+        "DisplayDescription": {
+            "hash": -1543080490
+        },
+        "DisplayTitle": {
+            "hash": 237469389
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10001",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10001",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [
+            8.0,
+            6.0,
+            640.0,
+            340.0
+        ]
+    },
+    {
+        "CardID": 380102,
+        "ElfID": 102,
+        "GachaDisplayRarity": 4,
+        "Rarity": 3,
+        "DisplayDescription": {
+            "hash": -1543080489
+        },
+        "DisplayTitle": {
+            "hash": 237469390
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10002",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10002",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [
+            8.0,
+            -18.0,
+            320.0,
+            380.0
+        ]
+    },
+    {
+        "CardID": 380103,
+        "ElfID": 103,
+        "GachaDisplayRarity": 15,
+        "Rarity": 4,
+        "DisplayDescription": {
+            "hash": -1543080488
+        },
+        "DisplayTitle": {
+            "hash": 237469391
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10003",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10003",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [
+            -4.0,
+            -49.0,
+            700.0,
+            400.0
+        ]
+    },
+    {
+        "CardID": 380106,
+        "ElfID": 106,
+        "GachaDisplayRarity": 15,
+        "Rarity": 4,
+        "DisplayDescription": {
+            "hash": -1543080485
+        },
+        "DisplayTitle": {
+            "hash": 237469394
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10006",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10006",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [
+            4.0,
+            -54.0,
+            660.0,
+            360.0
+        ]
+    },
+    {
+        "CardID": 380108,
+        "ElfID": 108,
+        "GachaDisplayRarity": 15,
+        "Rarity": 4,
+        "DisplayDescription": {
+            "hash": -1543080483
+        },
+        "DisplayTitle": {
+            "hash": 237469396
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10008",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10008",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": []
+    },
+    {
+        "CardID": 380109,
+        "ElfID": 109,
+        "GachaDisplayRarity": 15,
+        "Rarity": 4,
+        "DisplayDescription": {
+            "hash": -1543080482
+        },
+        "DisplayTitle": {
+            "hash": 237469397
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10009",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10009",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": []
+    },
+    {
+        "CardID": 380110,
+        "ElfID": 110,
+        "GachaDisplayRarity": 15,
+        "Rarity": 4,
+        "DisplayDescription": {
+            "hash": -1543080460
+        },
+        "DisplayTitle": {
+            "hash": 237469419
+        },
+        "IconPath": "SpriteOutput/ElfCardIcons/Elf_10010",
+        "ImagePath": "SpriteOutput/ElfCardFigures/Elf_10010",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": []
+    }
+]

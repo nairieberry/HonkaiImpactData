@@ -1,0 +1,63 @@
+[
+    {
+        "ShowLevel": 0,
+        "Sort": 1,
+        "SubPage": 1,
+        "IconPath": "",
+        "SubPageName": "SubPageName_1",
+        "Currencies": [
+            915
+        ],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "bits1": 1
+    },
+    {
+        "ShowLevel": 0,
+        "Sort": 2,
+        "SubPage": 2,
+        "IconPath": "",
+        "SubPageName": "SubPageName_2",
+        "Currencies": [
+            915
+        ],
+        "SortList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "bits1": 1
+    },
+    {
+        "ShowLevel": 40,
+        "Sort": 3,
+        "SubPage": 3,
+        "IconPath": "",
+        "SubPageName": "PageName_6",
+        "Currencies": [
+            9004,
+            9003,
+            7032
+        ],
+        "SortList": [
+            2,
+            3,
+            4
+        ],
+        "GenerationFilter": [
+            "G"
+        ],
+        "bits1": 1
+    }
+]

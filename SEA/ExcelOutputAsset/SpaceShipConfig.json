@@ -1,0 +1,22 @@
+[
+    {
+        "SpaceShipID": 0,
+        "ResPath": "Stage/MainMenu_SpaceShip/MainMenu_SpaceShip",
+        "bits1": 1
+    },
+    {
+        "SpaceShipID": 100,
+        "ResPath": "Stage/MainMenu_SpaceShip/EVA/MainMenu_SpaceShip",
+        "bits1": 0
+    },
+    {
+        "SpaceShipID": 101,
+        "ResPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip",
+        "bits1": 0
+    },
+    {
+        "SpaceShipID": 102,
+        "ResPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity",
+        "bits1": 0
+    }
+]

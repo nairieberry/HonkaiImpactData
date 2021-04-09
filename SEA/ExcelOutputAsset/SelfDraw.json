@@ -1,0 +1,35 @@
+[
+    {
+        "DrawLimit": 4,
+        "SelfDrawId": 1001,
+        "SelfDrawTime": 15,
+        "SelfDrawCardList": [
+            101,
+            102,
+            103,
+            105
+        ]
+    },
+    {
+        "DrawLimit": 4,
+        "SelfDrawId": 1002,
+        "SelfDrawTime": 15,
+        "SelfDrawCardList": [
+            101,
+            102,
+            103,
+            104
+        ]
+    },
+    {
+        "DrawLimit": 4,
+        "SelfDrawId": 2001,
+        "SelfDrawTime": 15,
+        "SelfDrawCardList": [
+            201,
+            202,
+            203,
+            205
+        ]
+    }
+]

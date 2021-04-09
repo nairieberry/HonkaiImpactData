@@ -1,0 +1,478 @@
+[
+    {
+        "ID": 1,
+        "MaxMatchNum": 0,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123501,
+        "StageStartReadyTime": 5,
+        "StageType": 1,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 10.0,
+        "StageBtnName": {
+            "hash": 600966354
+        },
+        "StageDesc": {
+            "hash": -420831558
+        },
+        "StageName": {
+            "hash": 402427316
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-01-17 00:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2017-10-23 00:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 2,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123502,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831557
+        },
+        "StageName": {
+            "hash": 402427317
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-10-24 09:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-10-23 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 3,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123503,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831558
+        },
+        "StageName": {
+            "hash": 402427316
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-10-26 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-10-25 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 4,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123504,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831558
+        },
+        "StageName": {
+            "hash": 402427316
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-10-28 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-10-27 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 5,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123504,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831556
+        },
+        "StageName": {
+            "hash": 402427318
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-02-08 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2018-02-02 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 6,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123505,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831556
+        },
+        "StageName": {
+            "hash": 402427318
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-02-02 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2018-01-30 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 7,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123506,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831556
+        },
+        "StageName": {
+            "hash": 402427318
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-01-30 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2018-01-22 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 1001,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123502,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831558
+        },
+        "StageName": {
+            "hash": 402427316
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-10-30 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-10-29 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 1002,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123503,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831557
+        },
+        "StageName": {
+            "hash": 402427317
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-11-02 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-11-01 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 1003,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123504,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -420831556
+        },
+        "StageName": {
+            "hash": 402427318
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2017-11-04 02:00:00",
+        "OpenDayTime": "10:00:00",
+        "OpenTime": "2017-11-03 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicSnowField14",
+        "bits1": 1
+    },
+    {
+        "ID": 1004,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123505,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846600
+        },
+        "StageName": {
+            "hash": -409625282
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-02-15 02:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2018-02-09 12:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicFairMode01",
+        "bits1": 1
+    },
+    {
+        "ID": 1005,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123504,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846599
+        },
+        "StageName": {
+            "hash": -409625281
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-02-17 02:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2018-02-15 12:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicFairMode01",
+        "bits1": 1
+    },
+    {
+        "ID": 1006,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123506,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846599
+        },
+        "StageName": {
+            "hash": -409625281
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-02-23 02:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2018-02-17 12:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicFairMode01",
+        "bits1": 1
+    },
+    {
+        "ID": 1007,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123506,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846599
+        },
+        "StageName": {
+            "hash": -409625281
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2019-02-23 02:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2018-03-28 12:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicFairMode01",
+        "bits1": 1
+    },
+    {
+        "ID": 1010,
+        "MaxMatchNum": 2,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123506,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846599
+        },
+        "StageName": {
+            "hash": -409625281
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-06-10 02:00:00",
+        "OpenDayTime": "12:00:00",
+        "OpenTime": "2018-05-01 08:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicFairMode01",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicFairMode01",
+        "bits1": 1
+    },
+    {
+        "ID": 1016,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123511,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846565
+        },
+        "StageName": {
+            "hash": -409625280
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-11-12 02:00:00",
+        "OpenDayTime": "08:00:00",
+        "OpenTime": "2018-11-09 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicShipOutside03",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicShipOurside03",
+        "bits1": 0
+    },
+    {
+        "ID": 1017,
+        "MaxMatchNum": 5,
+        "MaxRaceTime": 300,
+        "MaxTurn": 1,
+        "RewardGroup": 101,
+        "StageID": 123512,
+        "StageStartReadyTime": 20,
+        "StageType": 2,
+        "LobbyEndDelayTime": 5.0,
+        "StageEndDelayTime": 5.0,
+        "StageBtnName": {
+            "hash": 463486321
+        },
+        "StageDesc": {
+            "hash": -160846564
+        },
+        "StageName": {
+            "hash": -409625280
+        },
+        "CloseDayTime": "26:00:00",
+        "CloseTime": "2018-11-20 02:00:00",
+        "OpenDayTime": "08:00:00",
+        "OpenTime": "2018-11-12 10:00:00",
+        "StageBGImagePath": "SpriteOutput/ChapterBg/BgPicShipOutside03",
+        "StageImagePath": "SpriteOutput/LevelDetailPic/ScenePicShipOurside03",
+        "bits1": 0
+    }
+]

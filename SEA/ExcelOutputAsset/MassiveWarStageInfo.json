@@ -1,0 +1,32 @@
+[
+    {
+        "StageInfoId": 1,
+        "DescriptionText": "StageInfo_1",
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Ice"
+    },
+    {
+        "StageInfoId": 2,
+        "DescriptionText": "StageInfo_2",
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_HighFreq"
+    },
+    {
+        "StageInfoId": 3,
+        "DescriptionText": "StageInfo_3",
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Frozen"
+    },
+    {
+        "StageInfoId": 4,
+        "DescriptionText": "StageInfo_4",
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Smash"
+    },
+    {
+        "StageInfoId": 5,
+        "DescriptionText": "StageInfo_5",
+        "IconPath": "SpriteOutput/AvatarAttrIcons/AvatarLiangZi"
+    },
+    {
+        "StageInfoId": 6,
+        "DescriptionText": "StageInfo_6",
+        "IconPath": "SpriteOutput/StateIcon/NewStateIcon/State_Physical"
+    }
+]

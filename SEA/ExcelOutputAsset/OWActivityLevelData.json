@@ -1,0 +1,67 @@
+[
+    {
+        "Level": 1,
+        "LevelReward": 0,
+        "NeedExp": 11000,
+        "OWActivityID": 1002,
+        "LevelDescText": {
+            "hash": 1339156879
+        },
+        "LevelNameText": {
+            "hash": 1090378197
+        },
+        "LevelIconPath": "SpriteOutput/SkillIcons/Step1"
+    },
+    {
+        "Level": 2,
+        "LevelReward": 954041,
+        "NeedExp": 12000,
+        "OWActivityID": 1002,
+        "LevelDescText": {
+            "hash": 1339156880
+        },
+        "LevelNameText": {
+            "hash": 1090378198
+        },
+        "LevelIconPath": "SpriteOutput/SkillIcons/Step2"
+    },
+    {
+        "Level": 3,
+        "LevelReward": 954042,
+        "NeedExp": 13000,
+        "OWActivityID": 1002,
+        "LevelDescText": {
+            "hash": 1339156881
+        },
+        "LevelNameText": {
+            "hash": 1090378199
+        },
+        "LevelIconPath": "SpriteOutput/SkillIcons/Step3"
+    },
+    {
+        "Level": 4,
+        "LevelReward": 954043,
+        "NeedExp": 14000,
+        "OWActivityID": 1002,
+        "LevelDescText": {
+            "hash": 1339156882
+        },
+        "LevelNameText": {
+            "hash": 1090378200
+        },
+        "LevelIconPath": "SpriteOutput/SkillIcons/Step4"
+    },
+    {
+        "Level": 5,
+        "LevelReward": 954044,
+        "NeedExp": 0,
+        "OWActivityID": 1002,
+        "LevelDescText": {
+            "hash": 1339156883
+        },
+        "LevelNameText": {
+            "hash": 1090378201
+        },
+        "LevelIconPath": "SpriteOutput/SkillIcons/Step5"
+    }
+]

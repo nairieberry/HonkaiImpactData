@@ -1,0 +1,54 @@
+[
+    {
+        "PhaseID": 107,
+        "BonusRenown": 5,
+        "BuffID": 1,
+        "ID": 1,
+        "RewardID": 1452104,
+        "UIIndex": "Area01",
+        "PointList": [
+            7004,
+            7005,
+            7010
+        ]
+    },
+    {
+        "PhaseID": 107,
+        "BonusRenown": 5,
+        "BuffID": 1,
+        "ID": 2,
+        "RewardID": 1452104,
+        "UIIndex": "Area02",
+        "PointList": [
+            7006,
+            7007,
+            7011
+        ]
+    },
+    {
+        "PhaseID": 107,
+        "BonusRenown": 5,
+        "BuffID": 1,
+        "ID": 3,
+        "RewardID": 1452104,
+        "UIIndex": "Area03",
+        "PointList": [
+            7008,
+            7009,
+            7012
+        ]
+    },
+    {
+        "PhaseID": 107,
+        "BonusRenown": 6,
+        "BuffID": 1,
+        "ID": 4,
+        "RewardID": 1452104,
+        "UIIndex": "Area04",
+        "PointList": [
+            7019,
+            7020,
+            7021
+        ]
+    }
+]

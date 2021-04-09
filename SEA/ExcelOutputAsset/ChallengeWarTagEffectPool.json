@@ -1,0 +1,480 @@
+[
+    {
+        "PoolType": 1,
+        "SeriesID": 1,
+        "TagID": 1010,
+        "DisplayText": "ChallengeWarTagEffect_Display_1",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            100,
+            101,
+            102
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 2,
+        "TagID": 1017,
+        "DisplayText": "ChallengeWarTagEffect_Display_2",
+        "RequireList": [
+            3,
+            5
+        ],
+        "BuffList": [
+            103,
+            104
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 3,
+        "TagID": 1006,
+        "DisplayText": "ChallengeWarTagEffect_Display_3",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            105,
+            106,
+            107
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 4,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_4",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            108,
+            109
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 5,
+        "TagID": 1010,
+        "DisplayText": "ChallengeWarTagEffect_Display_1",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            100,
+            101,
+            102
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 6,
+        "TagID": 1017,
+        "DisplayText": "ChallengeWarTagEffect_Display_2",
+        "RequireList": [
+            3,
+            5
+        ],
+        "BuffList": [
+            103,
+            104
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 7,
+        "TagID": 1006,
+        "DisplayText": "ChallengeWarTagEffect_Display_3",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            105,
+            106,
+            107
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 8,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_4",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            108,
+            109
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 9,
+        "TagID": 1006,
+        "DisplayText": "ChallengeWarTagEffect_Display_9",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            200,
+            201,
+            202
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 10,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_10",
+        "RequireList": [
+            1,
+            3
+        ],
+        "BuffList": [
+            203,
+            204
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 2,
+        "SeriesID": 11,
+        "TagID": 0,
+        "DisplayText": "ChallengeWarTagEffect_Display_11",
+        "RequireList": [
+            50,
+            80
+        ],
+        "BuffList": [
+            205,
+            206
+        ],
+        "RequireParam": [],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 12,
+        "TagID": 1006,
+        "DisplayText": "ChallengeWarTagEffect_Display_9",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            207,
+            208,
+            209
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 20,
+        "TagID": 1018,
+        "DisplayText": "ChallengeWarTagEffect_Display_20",
+        "RequireList": [
+            1,
+            2,
+            3
+        ],
+        "BuffList": [
+            216,
+            217,
+            218
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 21,
+        "TagID": 1017,
+        "DisplayText": "ChallengeWarTagEffect_Display_21",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            213,
+            214,
+            215
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 22,
+        "TagID": 1012,
+        "DisplayText": "ChallengeWarTagEffect_Display_22",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            210,
+            211,
+            212
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 25,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_25",
+        "RequireList": [
+            1,
+            3
+        ],
+        "BuffList": [
+            233,
+            234
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 26,
+        "TagID": 1008,
+        "DisplayText": "ChallengeWarTagEffect_Display_26",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            230,
+            231,
+            232
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 27,
+        "TagID": 1017,
+        "DisplayText": "ChallengeWarTagEffect_Display_27",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            235,
+            236,
+            237
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 30,
+        "TagID": 1021,
+        "DisplayText": "ChallengeWarTagEffect_Display_30",
+        "RequireList": [
+            2,
+            3,
+            5
+        ],
+        "BuffList": [
+            240,
+            241,
+            242
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 31,
+        "TagID": 1007,
+        "DisplayText": "ChallengeWarTagEffect_Display_31",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            243,
+            244
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 35,
+        "TagID": 1021,
+        "DisplayText": "ChallengeWarTagEffect_Display_35",
+        "RequireList": [
+            2,
+            4,
+            6
+        ],
+        "BuffList": [
+            220,
+            221,
+            222
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 36,
+        "TagID": 1019,
+        "DisplayText": "ChallengeWarTagEffect_Display_36",
+        "RequireList": [
+            2
+        ],
+        "BuffList": [
+            223
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 3,
+        "SeriesID": 37,
+        "TagID": 0,
+        "DisplayText": "ChallengeWarTagEffect_Display_25",
+        "RequireList": [
+            1,
+            3
+        ],
+        "BuffList": [
+            233,
+            234
+        ],
+        "RequireParam": [
+            101,
+            102,
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 40,
+        "TagID": 1021,
+        "DisplayText": "ChallengeWarTagEffect_Display_40",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            245,
+            246
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 41,
+        "TagID": 1010,
+        "DisplayText": "ChallengeWarTagEffect_Display_41",
+        "RequireList": [
+            1,
+            2,
+            3
+        ],
+        "BuffList": [
+            248,
+            249,
+            250
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 42,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_42",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            108,
+            109
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 45,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_42",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            108,
+            109
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    },
+    {
+        "PoolType": 1,
+        "SeriesID": 46,
+        "TagID": 1020,
+        "DisplayText": "ChallengeWarTagEffect_Display_42",
+        "RequireList": [
+            2,
+            4
+        ],
+        "BuffList": [
+            108,
+            109
+        ],
+        "RequireParam": [],
+        "bits1": 1
+    }
+]

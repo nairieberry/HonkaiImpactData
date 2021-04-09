@@ -1,0 +1,8306 @@
+[
+    {
+        "BuffLevelID": 1,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30,
+        "HPValue": 50
+    },
+    {
+        "BuffLevelID": 2,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 60,
+        "HPValue": 100
+    },
+    {
+        "BuffLevelID": 3,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 90,
+        "HPValue": 150
+    },
+    {
+        "BuffLevelID": 4,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 120,
+        "HPValue": 200
+    },
+    {
+        "BuffLevelID": 5,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 150,
+        "HPValue": 250
+    },
+    {
+        "BuffLevelID": 6,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 180,
+        "HPValue": 300
+    },
+    {
+        "BuffLevelID": 7,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 210,
+        "HPValue": 350
+    },
+    {
+        "BuffLevelID": 8,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 240,
+        "HPValue": 400
+    },
+    {
+        "BuffLevelID": 9,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 270,
+        "HPValue": 450
+    },
+    {
+        "BuffLevelID": 10,
+        "MonopolyID": 1,
+        "SpecialText1": 1,
+        "SpecialText2": 0,
+        "ATKValue": 300,
+        "HPValue": 500
+    },
+    {
+        "BuffLevelID": 11,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 330,
+        "HPValue": 550
+    },
+    {
+        "BuffLevelID": 12,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 360,
+        "HPValue": 600
+    },
+    {
+        "BuffLevelID": 13,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 390,
+        "HPValue": 650
+    },
+    {
+        "BuffLevelID": 14,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 420,
+        "HPValue": 700
+    },
+    {
+        "BuffLevelID": 15,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 450,
+        "HPValue": 750
+    },
+    {
+        "BuffLevelID": 16,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 480,
+        "HPValue": 800
+    },
+    {
+        "BuffLevelID": 17,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 510,
+        "HPValue": 850
+    },
+    {
+        "BuffLevelID": 18,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 540,
+        "HPValue": 900
+    },
+    {
+        "BuffLevelID": 19,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 570,
+        "HPValue": 950
+    },
+    {
+        "BuffLevelID": 20,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 600,
+        "HPValue": 1000
+    },
+    {
+        "BuffLevelID": 21,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 630,
+        "HPValue": 1050
+    },
+    {
+        "BuffLevelID": 22,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 660,
+        "HPValue": 1100
+    },
+    {
+        "BuffLevelID": 23,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 690,
+        "HPValue": 1150
+    },
+    {
+        "BuffLevelID": 24,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 720,
+        "HPValue": 1200
+    },
+    {
+        "BuffLevelID": 25,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 750,
+        "HPValue": 1250
+    },
+    {
+        "BuffLevelID": 26,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 780,
+        "HPValue": 1300
+    },
+    {
+        "BuffLevelID": 27,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 810,
+        "HPValue": 1350
+    },
+    {
+        "BuffLevelID": 28,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 2,
+        "ATKValue": 840,
+        "HPValue": 1400
+    },
+    {
+        "BuffLevelID": 29,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 870,
+        "HPValue": 1450
+    },
+    {
+        "BuffLevelID": 30,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 900,
+        "HPValue": 1500
+    },
+    {
+        "BuffLevelID": 31,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 930,
+        "HPValue": 1550
+    },
+    {
+        "BuffLevelID": 32,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 960,
+        "HPValue": 1600
+    },
+    {
+        "BuffLevelID": 33,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 990,
+        "HPValue": 1650
+    },
+    {
+        "BuffLevelID": 34,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1020,
+        "HPValue": 1700
+    },
+    {
+        "BuffLevelID": 35,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1050,
+        "HPValue": 1750
+    },
+    {
+        "BuffLevelID": 36,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1080,
+        "HPValue": 1800
+    },
+    {
+        "BuffLevelID": 37,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1110,
+        "HPValue": 1850
+    },
+    {
+        "BuffLevelID": 38,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1140,
+        "HPValue": 1900
+    },
+    {
+        "BuffLevelID": 39,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1170,
+        "HPValue": 1950
+    },
+    {
+        "BuffLevelID": 40,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1200,
+        "HPValue": 2000
+    },
+    {
+        "BuffLevelID": 41,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1230,
+        "HPValue": 2050
+    },
+    {
+        "BuffLevelID": 42,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1260,
+        "HPValue": 2100
+    },
+    {
+        "BuffLevelID": 43,
+        "MonopolyID": 1,
+        "SpecialText1": 3,
+        "SpecialText2": 0,
+        "ATKValue": 1290,
+        "HPValue": 2150
+    },
+    {
+        "BuffLevelID": 44,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1320,
+        "HPValue": 2200
+    },
+    {
+        "BuffLevelID": 45,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1350,
+        "HPValue": 2250
+    },
+    {
+        "BuffLevelID": 46,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1380,
+        "HPValue": 2300
+    },
+    {
+        "BuffLevelID": 47,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1410,
+        "HPValue": 2350
+    },
+    {
+        "BuffLevelID": 48,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1440,
+        "HPValue": 2400
+    },
+    {
+        "BuffLevelID": 49,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1470,
+        "HPValue": 2450
+    },
+    {
+        "BuffLevelID": 50,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1500,
+        "HPValue": 2500
+    },
+    {
+        "BuffLevelID": 51,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1530,
+        "HPValue": 2550
+    },
+    {
+        "BuffLevelID": 52,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1560,
+        "HPValue": 2600
+    },
+    {
+        "BuffLevelID": 53,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1590,
+        "HPValue": 2650
+    },
+    {
+        "BuffLevelID": 54,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1620,
+        "HPValue": 2700
+    },
+    {
+        "BuffLevelID": 55,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1650,
+        "HPValue": 2750
+    },
+    {
+        "BuffLevelID": 56,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1680,
+        "HPValue": 2800
+    },
+    {
+        "BuffLevelID": 57,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1710,
+        "HPValue": 2850
+    },
+    {
+        "BuffLevelID": 58,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1740,
+        "HPValue": 2900
+    },
+    {
+        "BuffLevelID": 59,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1770,
+        "HPValue": 2950
+    },
+    {
+        "BuffLevelID": 60,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1800,
+        "HPValue": 3000
+    },
+    {
+        "BuffLevelID": 61,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1830,
+        "HPValue": 3050
+    },
+    {
+        "BuffLevelID": 62,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1860,
+        "HPValue": 3100
+    },
+    {
+        "BuffLevelID": 63,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1890,
+        "HPValue": 3150
+    },
+    {
+        "BuffLevelID": 64,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1920,
+        "HPValue": 3200
+    },
+    {
+        "BuffLevelID": 65,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1950,
+        "HPValue": 3250
+    },
+    {
+        "BuffLevelID": 66,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 1980,
+        "HPValue": 3300
+    },
+    {
+        "BuffLevelID": 67,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2010,
+        "HPValue": 3350
+    },
+    {
+        "BuffLevelID": 68,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2040,
+        "HPValue": 3400
+    },
+    {
+        "BuffLevelID": 69,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2070,
+        "HPValue": 3450
+    },
+    {
+        "BuffLevelID": 70,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2100,
+        "HPValue": 3500
+    },
+    {
+        "BuffLevelID": 71,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2130,
+        "HPValue": 3550
+    },
+    {
+        "BuffLevelID": 72,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2160,
+        "HPValue": 3600
+    },
+    {
+        "BuffLevelID": 73,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2190,
+        "HPValue": 3650
+    },
+    {
+        "BuffLevelID": 74,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2220,
+        "HPValue": 3700
+    },
+    {
+        "BuffLevelID": 75,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2250,
+        "HPValue": 3750
+    },
+    {
+        "BuffLevelID": 76,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2280,
+        "HPValue": 3800
+    },
+    {
+        "BuffLevelID": 77,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2310,
+        "HPValue": 3850
+    },
+    {
+        "BuffLevelID": 78,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2340,
+        "HPValue": 3900
+    },
+    {
+        "BuffLevelID": 79,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 4,
+        "ATKValue": 2370,
+        "HPValue": 3950
+    },
+    {
+        "BuffLevelID": 80,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2400,
+        "HPValue": 4000
+    },
+    {
+        "BuffLevelID": 81,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2430,
+        "HPValue": 4050
+    },
+    {
+        "BuffLevelID": 82,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2460,
+        "HPValue": 4100
+    },
+    {
+        "BuffLevelID": 83,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2490,
+        "HPValue": 4150
+    },
+    {
+        "BuffLevelID": 84,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2520,
+        "HPValue": 4200
+    },
+    {
+        "BuffLevelID": 85,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2550,
+        "HPValue": 4250
+    },
+    {
+        "BuffLevelID": 86,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2580,
+        "HPValue": 4300
+    },
+    {
+        "BuffLevelID": 87,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2610,
+        "HPValue": 4350
+    },
+    {
+        "BuffLevelID": 88,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2640,
+        "HPValue": 4400
+    },
+    {
+        "BuffLevelID": 89,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2670,
+        "HPValue": 4450
+    },
+    {
+        "BuffLevelID": 90,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2700,
+        "HPValue": 4500
+    },
+    {
+        "BuffLevelID": 91,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2730,
+        "HPValue": 4550
+    },
+    {
+        "BuffLevelID": 92,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2760,
+        "HPValue": 4600
+    },
+    {
+        "BuffLevelID": 93,
+        "MonopolyID": 1,
+        "SpecialText1": 5,
+        "SpecialText2": 0,
+        "ATKValue": 2790,
+        "HPValue": 4650
+    },
+    {
+        "BuffLevelID": 94,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2820,
+        "HPValue": 4700
+    },
+    {
+        "BuffLevelID": 95,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2850,
+        "HPValue": 4750
+    },
+    {
+        "BuffLevelID": 96,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2880,
+        "HPValue": 4800
+    },
+    {
+        "BuffLevelID": 97,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2910,
+        "HPValue": 4850
+    },
+    {
+        "BuffLevelID": 98,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2940,
+        "HPValue": 4900
+    },
+    {
+        "BuffLevelID": 99,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 2970,
+        "HPValue": 4950
+    },
+    {
+        "BuffLevelID": 100,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3000,
+        "HPValue": 5000
+    },
+    {
+        "BuffLevelID": 101,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3030,
+        "HPValue": 5050
+    },
+    {
+        "BuffLevelID": 102,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3060,
+        "HPValue": 5100
+    },
+    {
+        "BuffLevelID": 103,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3090,
+        "HPValue": 5150
+    },
+    {
+        "BuffLevelID": 104,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3120,
+        "HPValue": 5200
+    },
+    {
+        "BuffLevelID": 105,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3150,
+        "HPValue": 5250
+    },
+    {
+        "BuffLevelID": 106,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3180,
+        "HPValue": 5300
+    },
+    {
+        "BuffLevelID": 107,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3210,
+        "HPValue": 5350
+    },
+    {
+        "BuffLevelID": 108,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3240,
+        "HPValue": 5400
+    },
+    {
+        "BuffLevelID": 109,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3270,
+        "HPValue": 5450
+    },
+    {
+        "BuffLevelID": 110,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3300,
+        "HPValue": 5500
+    },
+    {
+        "BuffLevelID": 111,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3330,
+        "HPValue": 5550
+    },
+    {
+        "BuffLevelID": 112,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3360,
+        "HPValue": 5600
+    },
+    {
+        "BuffLevelID": 113,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3390,
+        "HPValue": 5650
+    },
+    {
+        "BuffLevelID": 114,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3420,
+        "HPValue": 5700
+    },
+    {
+        "BuffLevelID": 115,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3450,
+        "HPValue": 5750
+    },
+    {
+        "BuffLevelID": 116,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3480,
+        "HPValue": 5800
+    },
+    {
+        "BuffLevelID": 117,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3510,
+        "HPValue": 5850
+    },
+    {
+        "BuffLevelID": 118,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3540,
+        "HPValue": 5900
+    },
+    {
+        "BuffLevelID": 119,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3570,
+        "HPValue": 5950
+    },
+    {
+        "BuffLevelID": 120,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3600,
+        "HPValue": 6000
+    },
+    {
+        "BuffLevelID": 121,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3630,
+        "HPValue": 6050
+    },
+    {
+        "BuffLevelID": 122,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3660,
+        "HPValue": 6100
+    },
+    {
+        "BuffLevelID": 123,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3690,
+        "HPValue": 6150
+    },
+    {
+        "BuffLevelID": 124,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3720,
+        "HPValue": 6200
+    },
+    {
+        "BuffLevelID": 125,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3750,
+        "HPValue": 6250
+    },
+    {
+        "BuffLevelID": 126,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 6,
+        "ATKValue": 3780,
+        "HPValue": 6300
+    },
+    {
+        "BuffLevelID": 127,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3810,
+        "HPValue": 6350
+    },
+    {
+        "BuffLevelID": 128,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3840,
+        "HPValue": 6400
+    },
+    {
+        "BuffLevelID": 129,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3870,
+        "HPValue": 6450
+    },
+    {
+        "BuffLevelID": 130,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3900,
+        "HPValue": 6500
+    },
+    {
+        "BuffLevelID": 131,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3930,
+        "HPValue": 6550
+    },
+    {
+        "BuffLevelID": 132,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3960,
+        "HPValue": 6600
+    },
+    {
+        "BuffLevelID": 133,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 3990,
+        "HPValue": 6650
+    },
+    {
+        "BuffLevelID": 134,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4020,
+        "HPValue": 6700
+    },
+    {
+        "BuffLevelID": 135,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4050,
+        "HPValue": 6750
+    },
+    {
+        "BuffLevelID": 136,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4080,
+        "HPValue": 6800
+    },
+    {
+        "BuffLevelID": 137,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4110,
+        "HPValue": 6850
+    },
+    {
+        "BuffLevelID": 138,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4140,
+        "HPValue": 6900
+    },
+    {
+        "BuffLevelID": 139,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4170,
+        "HPValue": 6950
+    },
+    {
+        "BuffLevelID": 140,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4200,
+        "HPValue": 7000
+    },
+    {
+        "BuffLevelID": 141,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4230,
+        "HPValue": 7050
+    },
+    {
+        "BuffLevelID": 142,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4260,
+        "HPValue": 7100
+    },
+    {
+        "BuffLevelID": 143,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4290,
+        "HPValue": 7150
+    },
+    {
+        "BuffLevelID": 144,
+        "MonopolyID": 1,
+        "SpecialText1": 7,
+        "SpecialText2": 0,
+        "ATKValue": 4320,
+        "HPValue": 7200
+    },
+    {
+        "BuffLevelID": 145,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4350,
+        "HPValue": 7250
+    },
+    {
+        "BuffLevelID": 146,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4380,
+        "HPValue": 7300
+    },
+    {
+        "BuffLevelID": 147,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4410,
+        "HPValue": 7350
+    },
+    {
+        "BuffLevelID": 148,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4440,
+        "HPValue": 7400
+    },
+    {
+        "BuffLevelID": 149,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4470,
+        "HPValue": 7450
+    },
+    {
+        "BuffLevelID": 150,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4500,
+        "HPValue": 7500
+    },
+    {
+        "BuffLevelID": 151,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4530,
+        "HPValue": 7550
+    },
+    {
+        "BuffLevelID": 152,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4560,
+        "HPValue": 7600
+    },
+    {
+        "BuffLevelID": 153,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4590,
+        "HPValue": 7650
+    },
+    {
+        "BuffLevelID": 154,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4620,
+        "HPValue": 7700
+    },
+    {
+        "BuffLevelID": 155,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4650,
+        "HPValue": 7750
+    },
+    {
+        "BuffLevelID": 156,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4680,
+        "HPValue": 7800
+    },
+    {
+        "BuffLevelID": 157,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4710,
+        "HPValue": 7850
+    },
+    {
+        "BuffLevelID": 158,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4740,
+        "HPValue": 7900
+    },
+    {
+        "BuffLevelID": 159,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4770,
+        "HPValue": 7950
+    },
+    {
+        "BuffLevelID": 160,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4800,
+        "HPValue": 8000
+    },
+    {
+        "BuffLevelID": 161,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4830,
+        "HPValue": 8050
+    },
+    {
+        "BuffLevelID": 162,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4860,
+        "HPValue": 8100
+    },
+    {
+        "BuffLevelID": 163,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4890,
+        "HPValue": 8150
+    },
+    {
+        "BuffLevelID": 164,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4920,
+        "HPValue": 8200
+    },
+    {
+        "BuffLevelID": 165,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4950,
+        "HPValue": 8250
+    },
+    {
+        "BuffLevelID": 166,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 4980,
+        "HPValue": 8300
+    },
+    {
+        "BuffLevelID": 167,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5010,
+        "HPValue": 8350
+    },
+    {
+        "BuffLevelID": 168,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5040,
+        "HPValue": 8400
+    },
+    {
+        "BuffLevelID": 169,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5070,
+        "HPValue": 8450
+    },
+    {
+        "BuffLevelID": 170,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5100,
+        "HPValue": 8500
+    },
+    {
+        "BuffLevelID": 171,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5130,
+        "HPValue": 8550
+    },
+    {
+        "BuffLevelID": 172,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5160,
+        "HPValue": 8600
+    },
+    {
+        "BuffLevelID": 173,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5190,
+        "HPValue": 8650
+    },
+    {
+        "BuffLevelID": 174,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5220,
+        "HPValue": 8700
+    },
+    {
+        "BuffLevelID": 175,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5250,
+        "HPValue": 8750
+    },
+    {
+        "BuffLevelID": 176,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5280,
+        "HPValue": 8800
+    },
+    {
+        "BuffLevelID": 177,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5310,
+        "HPValue": 8850
+    },
+    {
+        "BuffLevelID": 178,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5340,
+        "HPValue": 8900
+    },
+    {
+        "BuffLevelID": 179,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5370,
+        "HPValue": 8950
+    },
+    {
+        "BuffLevelID": 180,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5400,
+        "HPValue": 9000
+    },
+    {
+        "BuffLevelID": 181,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5430,
+        "HPValue": 9050
+    },
+    {
+        "BuffLevelID": 182,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5460,
+        "HPValue": 9100
+    },
+    {
+        "BuffLevelID": 183,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5490,
+        "HPValue": 9150
+    },
+    {
+        "BuffLevelID": 184,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5520,
+        "HPValue": 9200
+    },
+    {
+        "BuffLevelID": 185,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5550,
+        "HPValue": 9250
+    },
+    {
+        "BuffLevelID": 186,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5580,
+        "HPValue": 9300
+    },
+    {
+        "BuffLevelID": 187,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5610,
+        "HPValue": 9350
+    },
+    {
+        "BuffLevelID": 188,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5640,
+        "HPValue": 9400
+    },
+    {
+        "BuffLevelID": 189,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5670,
+        "HPValue": 9450
+    },
+    {
+        "BuffLevelID": 190,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5700,
+        "HPValue": 9500
+    },
+    {
+        "BuffLevelID": 191,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5730,
+        "HPValue": 9550
+    },
+    {
+        "BuffLevelID": 192,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5760,
+        "HPValue": 9600
+    },
+    {
+        "BuffLevelID": 193,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5790,
+        "HPValue": 9650
+    },
+    {
+        "BuffLevelID": 194,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5820,
+        "HPValue": 9700
+    },
+    {
+        "BuffLevelID": 195,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5850,
+        "HPValue": 9750
+    },
+    {
+        "BuffLevelID": 196,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5880,
+        "HPValue": 9800
+    },
+    {
+        "BuffLevelID": 197,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5910,
+        "HPValue": 9850
+    },
+    {
+        "BuffLevelID": 198,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5940,
+        "HPValue": 9900
+    },
+    {
+        "BuffLevelID": 199,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 5970,
+        "HPValue": 9950
+    },
+    {
+        "BuffLevelID": 200,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6000,
+        "HPValue": 10000
+    },
+    {
+        "BuffLevelID": 201,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6030,
+        "HPValue": 10050
+    },
+    {
+        "BuffLevelID": 202,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6060,
+        "HPValue": 10100
+    },
+    {
+        "BuffLevelID": 203,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6090,
+        "HPValue": 10150
+    },
+    {
+        "BuffLevelID": 204,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6120,
+        "HPValue": 10200
+    },
+    {
+        "BuffLevelID": 205,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6150,
+        "HPValue": 10250
+    },
+    {
+        "BuffLevelID": 206,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6180,
+        "HPValue": 10300
+    },
+    {
+        "BuffLevelID": 207,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6210,
+        "HPValue": 10350
+    },
+    {
+        "BuffLevelID": 208,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6240,
+        "HPValue": 10400
+    },
+    {
+        "BuffLevelID": 209,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6270,
+        "HPValue": 10450
+    },
+    {
+        "BuffLevelID": 210,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6300,
+        "HPValue": 10500
+    },
+    {
+        "BuffLevelID": 211,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6330,
+        "HPValue": 10550
+    },
+    {
+        "BuffLevelID": 212,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6360,
+        "HPValue": 10600
+    },
+    {
+        "BuffLevelID": 213,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6390,
+        "HPValue": 10650
+    },
+    {
+        "BuffLevelID": 214,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6420,
+        "HPValue": 10700
+    },
+    {
+        "BuffLevelID": 215,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6450,
+        "HPValue": 10750
+    },
+    {
+        "BuffLevelID": 216,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6480,
+        "HPValue": 10800
+    },
+    {
+        "BuffLevelID": 217,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6510,
+        "HPValue": 10850
+    },
+    {
+        "BuffLevelID": 218,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6540,
+        "HPValue": 10900
+    },
+    {
+        "BuffLevelID": 219,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6570,
+        "HPValue": 10950
+    },
+    {
+        "BuffLevelID": 220,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6600,
+        "HPValue": 11000
+    },
+    {
+        "BuffLevelID": 221,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6630,
+        "HPValue": 11050
+    },
+    {
+        "BuffLevelID": 222,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6660,
+        "HPValue": 11100
+    },
+    {
+        "BuffLevelID": 223,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6690,
+        "HPValue": 11150
+    },
+    {
+        "BuffLevelID": 224,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6720,
+        "HPValue": 11200
+    },
+    {
+        "BuffLevelID": 225,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6750,
+        "HPValue": 11250
+    },
+    {
+        "BuffLevelID": 226,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6780,
+        "HPValue": 11300
+    },
+    {
+        "BuffLevelID": 227,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6810,
+        "HPValue": 11350
+    },
+    {
+        "BuffLevelID": 228,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6840,
+        "HPValue": 11400
+    },
+    {
+        "BuffLevelID": 229,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6870,
+        "HPValue": 11450
+    },
+    {
+        "BuffLevelID": 230,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6900,
+        "HPValue": 11500
+    },
+    {
+        "BuffLevelID": 231,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6930,
+        "HPValue": 11550
+    },
+    {
+        "BuffLevelID": 232,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6960,
+        "HPValue": 11600
+    },
+    {
+        "BuffLevelID": 233,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 6990,
+        "HPValue": 11650
+    },
+    {
+        "BuffLevelID": 234,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7020,
+        "HPValue": 11700
+    },
+    {
+        "BuffLevelID": 235,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7050,
+        "HPValue": 11750
+    },
+    {
+        "BuffLevelID": 236,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7080,
+        "HPValue": 11800
+    },
+    {
+        "BuffLevelID": 237,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7110,
+        "HPValue": 11850
+    },
+    {
+        "BuffLevelID": 238,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7140,
+        "HPValue": 11900
+    },
+    {
+        "BuffLevelID": 239,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7170,
+        "HPValue": 11950
+    },
+    {
+        "BuffLevelID": 240,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7200,
+        "HPValue": 12000
+    },
+    {
+        "BuffLevelID": 241,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7230,
+        "HPValue": 12050
+    },
+    {
+        "BuffLevelID": 242,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7260,
+        "HPValue": 12100
+    },
+    {
+        "BuffLevelID": 243,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7290,
+        "HPValue": 12150
+    },
+    {
+        "BuffLevelID": 244,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7320,
+        "HPValue": 12200
+    },
+    {
+        "BuffLevelID": 245,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7350,
+        "HPValue": 12250
+    },
+    {
+        "BuffLevelID": 246,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7380,
+        "HPValue": 12300
+    },
+    {
+        "BuffLevelID": 247,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7410,
+        "HPValue": 12350
+    },
+    {
+        "BuffLevelID": 248,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7440,
+        "HPValue": 12400
+    },
+    {
+        "BuffLevelID": 249,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7470,
+        "HPValue": 12450
+    },
+    {
+        "BuffLevelID": 250,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7500,
+        "HPValue": 12500
+    },
+    {
+        "BuffLevelID": 251,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7530,
+        "HPValue": 12550
+    },
+    {
+        "BuffLevelID": 252,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7560,
+        "HPValue": 12600
+    },
+    {
+        "BuffLevelID": 253,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7590,
+        "HPValue": 12650
+    },
+    {
+        "BuffLevelID": 254,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7620,
+        "HPValue": 12700
+    },
+    {
+        "BuffLevelID": 255,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7650,
+        "HPValue": 12750
+    },
+    {
+        "BuffLevelID": 256,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7680,
+        "HPValue": 12800
+    },
+    {
+        "BuffLevelID": 257,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7710,
+        "HPValue": 12850
+    },
+    {
+        "BuffLevelID": 258,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7740,
+        "HPValue": 12900
+    },
+    {
+        "BuffLevelID": 259,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7770,
+        "HPValue": 12950
+    },
+    {
+        "BuffLevelID": 260,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7800,
+        "HPValue": 13000
+    },
+    {
+        "BuffLevelID": 261,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7830,
+        "HPValue": 13050
+    },
+    {
+        "BuffLevelID": 262,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7860,
+        "HPValue": 13100
+    },
+    {
+        "BuffLevelID": 263,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7890,
+        "HPValue": 13150
+    },
+    {
+        "BuffLevelID": 264,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7920,
+        "HPValue": 13200
+    },
+    {
+        "BuffLevelID": 265,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7950,
+        "HPValue": 13250
+    },
+    {
+        "BuffLevelID": 266,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 7980,
+        "HPValue": 13300
+    },
+    {
+        "BuffLevelID": 267,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8010,
+        "HPValue": 13350
+    },
+    {
+        "BuffLevelID": 268,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8040,
+        "HPValue": 13400
+    },
+    {
+        "BuffLevelID": 269,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8070,
+        "HPValue": 13450
+    },
+    {
+        "BuffLevelID": 270,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8100,
+        "HPValue": 13500
+    },
+    {
+        "BuffLevelID": 271,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8130,
+        "HPValue": 13550
+    },
+    {
+        "BuffLevelID": 272,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8160,
+        "HPValue": 13600
+    },
+    {
+        "BuffLevelID": 273,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8190,
+        "HPValue": 13650
+    },
+    {
+        "BuffLevelID": 274,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8220,
+        "HPValue": 13700
+    },
+    {
+        "BuffLevelID": 275,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8250,
+        "HPValue": 13750
+    },
+    {
+        "BuffLevelID": 276,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8280,
+        "HPValue": 13800
+    },
+    {
+        "BuffLevelID": 277,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8310,
+        "HPValue": 13850
+    },
+    {
+        "BuffLevelID": 278,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8340,
+        "HPValue": 13900
+    },
+    {
+        "BuffLevelID": 279,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8370,
+        "HPValue": 13950
+    },
+    {
+        "BuffLevelID": 280,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8400,
+        "HPValue": 14000
+    },
+    {
+        "BuffLevelID": 281,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8430,
+        "HPValue": 14050
+    },
+    {
+        "BuffLevelID": 282,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8460,
+        "HPValue": 14100
+    },
+    {
+        "BuffLevelID": 283,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8490,
+        "HPValue": 14150
+    },
+    {
+        "BuffLevelID": 284,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8520,
+        "HPValue": 14200
+    },
+    {
+        "BuffLevelID": 285,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8550,
+        "HPValue": 14250
+    },
+    {
+        "BuffLevelID": 286,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8580,
+        "HPValue": 14300
+    },
+    {
+        "BuffLevelID": 287,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8610,
+        "HPValue": 14350
+    },
+    {
+        "BuffLevelID": 288,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8640,
+        "HPValue": 14400
+    },
+    {
+        "BuffLevelID": 289,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8670,
+        "HPValue": 14450
+    },
+    {
+        "BuffLevelID": 290,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8700,
+        "HPValue": 14500
+    },
+    {
+        "BuffLevelID": 291,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8730,
+        "HPValue": 14550
+    },
+    {
+        "BuffLevelID": 292,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8760,
+        "HPValue": 14600
+    },
+    {
+        "BuffLevelID": 293,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8790,
+        "HPValue": 14650
+    },
+    {
+        "BuffLevelID": 294,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8820,
+        "HPValue": 14700
+    },
+    {
+        "BuffLevelID": 295,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8850,
+        "HPValue": 14750
+    },
+    {
+        "BuffLevelID": 296,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8880,
+        "HPValue": 14800
+    },
+    {
+        "BuffLevelID": 297,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8910,
+        "HPValue": 14850
+    },
+    {
+        "BuffLevelID": 298,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8940,
+        "HPValue": 14900
+    },
+    {
+        "BuffLevelID": 299,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 8970,
+        "HPValue": 14950
+    },
+    {
+        "BuffLevelID": 300,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9000,
+        "HPValue": 15000
+    },
+    {
+        "BuffLevelID": 301,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9030,
+        "HPValue": 15050
+    },
+    {
+        "BuffLevelID": 302,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9060,
+        "HPValue": 15100
+    },
+    {
+        "BuffLevelID": 303,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9090,
+        "HPValue": 15150
+    },
+    {
+        "BuffLevelID": 304,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9120,
+        "HPValue": 15200
+    },
+    {
+        "BuffLevelID": 305,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9150,
+        "HPValue": 15250
+    },
+    {
+        "BuffLevelID": 306,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9180,
+        "HPValue": 15300
+    },
+    {
+        "BuffLevelID": 307,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9210,
+        "HPValue": 15350
+    },
+    {
+        "BuffLevelID": 308,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9240,
+        "HPValue": 15400
+    },
+    {
+        "BuffLevelID": 309,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9270,
+        "HPValue": 15450
+    },
+    {
+        "BuffLevelID": 310,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9300,
+        "HPValue": 15500
+    },
+    {
+        "BuffLevelID": 311,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9330,
+        "HPValue": 15550
+    },
+    {
+        "BuffLevelID": 312,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9360,
+        "HPValue": 15600
+    },
+    {
+        "BuffLevelID": 313,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9390,
+        "HPValue": 15650
+    },
+    {
+        "BuffLevelID": 314,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9420,
+        "HPValue": 15700
+    },
+    {
+        "BuffLevelID": 315,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9450,
+        "HPValue": 15750
+    },
+    {
+        "BuffLevelID": 316,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9480,
+        "HPValue": 15800
+    },
+    {
+        "BuffLevelID": 317,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9510,
+        "HPValue": 15850
+    },
+    {
+        "BuffLevelID": 318,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9540,
+        "HPValue": 15900
+    },
+    {
+        "BuffLevelID": 319,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9570,
+        "HPValue": 15950
+    },
+    {
+        "BuffLevelID": 320,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9600,
+        "HPValue": 16000
+    },
+    {
+        "BuffLevelID": 321,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9630,
+        "HPValue": 16050
+    },
+    {
+        "BuffLevelID": 322,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9660,
+        "HPValue": 16100
+    },
+    {
+        "BuffLevelID": 323,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9690,
+        "HPValue": 16150
+    },
+    {
+        "BuffLevelID": 324,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9720,
+        "HPValue": 16200
+    },
+    {
+        "BuffLevelID": 325,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9750,
+        "HPValue": 16250
+    },
+    {
+        "BuffLevelID": 326,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9780,
+        "HPValue": 16300
+    },
+    {
+        "BuffLevelID": 327,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9810,
+        "HPValue": 16350
+    },
+    {
+        "BuffLevelID": 328,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9840,
+        "HPValue": 16400
+    },
+    {
+        "BuffLevelID": 329,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9870,
+        "HPValue": 16450
+    },
+    {
+        "BuffLevelID": 330,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9900,
+        "HPValue": 16500
+    },
+    {
+        "BuffLevelID": 331,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9930,
+        "HPValue": 16550
+    },
+    {
+        "BuffLevelID": 332,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9960,
+        "HPValue": 16600
+    },
+    {
+        "BuffLevelID": 333,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 9990,
+        "HPValue": 16650
+    },
+    {
+        "BuffLevelID": 334,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10020,
+        "HPValue": 16700
+    },
+    {
+        "BuffLevelID": 335,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10050,
+        "HPValue": 16750
+    },
+    {
+        "BuffLevelID": 336,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10080,
+        "HPValue": 16800
+    },
+    {
+        "BuffLevelID": 337,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10110,
+        "HPValue": 16850
+    },
+    {
+        "BuffLevelID": 338,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10140,
+        "HPValue": 16900
+    },
+    {
+        "BuffLevelID": 339,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10170,
+        "HPValue": 16950
+    },
+    {
+        "BuffLevelID": 340,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10200,
+        "HPValue": 17000
+    },
+    {
+        "BuffLevelID": 341,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10230,
+        "HPValue": 17050
+    },
+    {
+        "BuffLevelID": 342,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10260,
+        "HPValue": 17100
+    },
+    {
+        "BuffLevelID": 343,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10290,
+        "HPValue": 17150
+    },
+    {
+        "BuffLevelID": 344,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10320,
+        "HPValue": 17200
+    },
+    {
+        "BuffLevelID": 345,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10350,
+        "HPValue": 17250
+    },
+    {
+        "BuffLevelID": 346,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10380,
+        "HPValue": 17300
+    },
+    {
+        "BuffLevelID": 347,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10410,
+        "HPValue": 17350
+    },
+    {
+        "BuffLevelID": 348,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10440,
+        "HPValue": 17400
+    },
+    {
+        "BuffLevelID": 349,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10470,
+        "HPValue": 17450
+    },
+    {
+        "BuffLevelID": 350,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10500,
+        "HPValue": 17500
+    },
+    {
+        "BuffLevelID": 351,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10530,
+        "HPValue": 17550
+    },
+    {
+        "BuffLevelID": 352,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10560,
+        "HPValue": 17600
+    },
+    {
+        "BuffLevelID": 353,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10590,
+        "HPValue": 17650
+    },
+    {
+        "BuffLevelID": 354,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10620,
+        "HPValue": 17700
+    },
+    {
+        "BuffLevelID": 355,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10650,
+        "HPValue": 17750
+    },
+    {
+        "BuffLevelID": 356,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10680,
+        "HPValue": 17800
+    },
+    {
+        "BuffLevelID": 357,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10710,
+        "HPValue": 17850
+    },
+    {
+        "BuffLevelID": 358,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10740,
+        "HPValue": 17900
+    },
+    {
+        "BuffLevelID": 359,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10770,
+        "HPValue": 17950
+    },
+    {
+        "BuffLevelID": 360,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10800,
+        "HPValue": 18000
+    },
+    {
+        "BuffLevelID": 361,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10830,
+        "HPValue": 18050
+    },
+    {
+        "BuffLevelID": 362,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10860,
+        "HPValue": 18100
+    },
+    {
+        "BuffLevelID": 363,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10890,
+        "HPValue": 18150
+    },
+    {
+        "BuffLevelID": 364,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10920,
+        "HPValue": 18200
+    },
+    {
+        "BuffLevelID": 365,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10950,
+        "HPValue": 18250
+    },
+    {
+        "BuffLevelID": 366,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 10980,
+        "HPValue": 18300
+    },
+    {
+        "BuffLevelID": 367,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11010,
+        "HPValue": 18350
+    },
+    {
+        "BuffLevelID": 368,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11040,
+        "HPValue": 18400
+    },
+    {
+        "BuffLevelID": 369,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11070,
+        "HPValue": 18450
+    },
+    {
+        "BuffLevelID": 370,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11100,
+        "HPValue": 18500
+    },
+    {
+        "BuffLevelID": 371,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11130,
+        "HPValue": 18550
+    },
+    {
+        "BuffLevelID": 372,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11160,
+        "HPValue": 18600
+    },
+    {
+        "BuffLevelID": 373,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11190,
+        "HPValue": 18650
+    },
+    {
+        "BuffLevelID": 374,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11220,
+        "HPValue": 18700
+    },
+    {
+        "BuffLevelID": 375,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11250,
+        "HPValue": 18750
+    },
+    {
+        "BuffLevelID": 376,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11280,
+        "HPValue": 18800
+    },
+    {
+        "BuffLevelID": 377,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11310,
+        "HPValue": 18850
+    },
+    {
+        "BuffLevelID": 378,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11340,
+        "HPValue": 18900
+    },
+    {
+        "BuffLevelID": 379,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11370,
+        "HPValue": 18950
+    },
+    {
+        "BuffLevelID": 380,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11400,
+        "HPValue": 19000
+    },
+    {
+        "BuffLevelID": 381,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11430,
+        "HPValue": 19050
+    },
+    {
+        "BuffLevelID": 382,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11460,
+        "HPValue": 19100
+    },
+    {
+        "BuffLevelID": 383,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11490,
+        "HPValue": 19150
+    },
+    {
+        "BuffLevelID": 384,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11520,
+        "HPValue": 19200
+    },
+    {
+        "BuffLevelID": 385,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11550,
+        "HPValue": 19250
+    },
+    {
+        "BuffLevelID": 386,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11580,
+        "HPValue": 19300
+    },
+    {
+        "BuffLevelID": 387,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11610,
+        "HPValue": 19350
+    },
+    {
+        "BuffLevelID": 388,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11640,
+        "HPValue": 19400
+    },
+    {
+        "BuffLevelID": 389,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11670,
+        "HPValue": 19450
+    },
+    {
+        "BuffLevelID": 390,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11700,
+        "HPValue": 19500
+    },
+    {
+        "BuffLevelID": 391,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11730,
+        "HPValue": 19550
+    },
+    {
+        "BuffLevelID": 392,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11760,
+        "HPValue": 19600
+    },
+    {
+        "BuffLevelID": 393,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11790,
+        "HPValue": 19650
+    },
+    {
+        "BuffLevelID": 394,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11820,
+        "HPValue": 19700
+    },
+    {
+        "BuffLevelID": 395,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11850,
+        "HPValue": 19750
+    },
+    {
+        "BuffLevelID": 396,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11880,
+        "HPValue": 19800
+    },
+    {
+        "BuffLevelID": 397,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11910,
+        "HPValue": 19850
+    },
+    {
+        "BuffLevelID": 398,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11940,
+        "HPValue": 19900
+    },
+    {
+        "BuffLevelID": 399,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 11970,
+        "HPValue": 19950
+    },
+    {
+        "BuffLevelID": 400,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12000,
+        "HPValue": 20000
+    },
+    {
+        "BuffLevelID": 401,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12030,
+        "HPValue": 20050
+    },
+    {
+        "BuffLevelID": 402,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12060,
+        "HPValue": 20100
+    },
+    {
+        "BuffLevelID": 403,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12090,
+        "HPValue": 20150
+    },
+    {
+        "BuffLevelID": 404,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12120,
+        "HPValue": 20200
+    },
+    {
+        "BuffLevelID": 405,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12150,
+        "HPValue": 20250
+    },
+    {
+        "BuffLevelID": 406,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12180,
+        "HPValue": 20300
+    },
+    {
+        "BuffLevelID": 407,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12210,
+        "HPValue": 20350
+    },
+    {
+        "BuffLevelID": 408,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12240,
+        "HPValue": 20400
+    },
+    {
+        "BuffLevelID": 409,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12270,
+        "HPValue": 20450
+    },
+    {
+        "BuffLevelID": 410,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12300,
+        "HPValue": 20500
+    },
+    {
+        "BuffLevelID": 411,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12330,
+        "HPValue": 20550
+    },
+    {
+        "BuffLevelID": 412,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12360,
+        "HPValue": 20600
+    },
+    {
+        "BuffLevelID": 413,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12390,
+        "HPValue": 20650
+    },
+    {
+        "BuffLevelID": 414,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12420,
+        "HPValue": 20700
+    },
+    {
+        "BuffLevelID": 415,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12450,
+        "HPValue": 20750
+    },
+    {
+        "BuffLevelID": 416,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12480,
+        "HPValue": 20800
+    },
+    {
+        "BuffLevelID": 417,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12510,
+        "HPValue": 20850
+    },
+    {
+        "BuffLevelID": 418,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12540,
+        "HPValue": 20900
+    },
+    {
+        "BuffLevelID": 419,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12570,
+        "HPValue": 20950
+    },
+    {
+        "BuffLevelID": 420,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12600,
+        "HPValue": 21000
+    },
+    {
+        "BuffLevelID": 421,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12630,
+        "HPValue": 21050
+    },
+    {
+        "BuffLevelID": 422,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12660,
+        "HPValue": 21100
+    },
+    {
+        "BuffLevelID": 423,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12690,
+        "HPValue": 21150
+    },
+    {
+        "BuffLevelID": 424,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12720,
+        "HPValue": 21200
+    },
+    {
+        "BuffLevelID": 425,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12750,
+        "HPValue": 21250
+    },
+    {
+        "BuffLevelID": 426,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12780,
+        "HPValue": 21300
+    },
+    {
+        "BuffLevelID": 427,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12810,
+        "HPValue": 21350
+    },
+    {
+        "BuffLevelID": 428,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12840,
+        "HPValue": 21400
+    },
+    {
+        "BuffLevelID": 429,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12870,
+        "HPValue": 21450
+    },
+    {
+        "BuffLevelID": 430,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12900,
+        "HPValue": 21500
+    },
+    {
+        "BuffLevelID": 431,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12930,
+        "HPValue": 21550
+    },
+    {
+        "BuffLevelID": 432,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12960,
+        "HPValue": 21600
+    },
+    {
+        "BuffLevelID": 433,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 12990,
+        "HPValue": 21650
+    },
+    {
+        "BuffLevelID": 434,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13020,
+        "HPValue": 21700
+    },
+    {
+        "BuffLevelID": 435,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13050,
+        "HPValue": 21750
+    },
+    {
+        "BuffLevelID": 436,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13080,
+        "HPValue": 21800
+    },
+    {
+        "BuffLevelID": 437,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13110,
+        "HPValue": 21850
+    },
+    {
+        "BuffLevelID": 438,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13140,
+        "HPValue": 21900
+    },
+    {
+        "BuffLevelID": 439,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13170,
+        "HPValue": 21950
+    },
+    {
+        "BuffLevelID": 440,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13200,
+        "HPValue": 22000
+    },
+    {
+        "BuffLevelID": 441,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13230,
+        "HPValue": 22050
+    },
+    {
+        "BuffLevelID": 442,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13260,
+        "HPValue": 22100
+    },
+    {
+        "BuffLevelID": 443,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13290,
+        "HPValue": 22150
+    },
+    {
+        "BuffLevelID": 444,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13320,
+        "HPValue": 22200
+    },
+    {
+        "BuffLevelID": 445,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13350,
+        "HPValue": 22250
+    },
+    {
+        "BuffLevelID": 446,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13380,
+        "HPValue": 22300
+    },
+    {
+        "BuffLevelID": 447,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13410,
+        "HPValue": 22350
+    },
+    {
+        "BuffLevelID": 448,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13440,
+        "HPValue": 22400
+    },
+    {
+        "BuffLevelID": 449,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13470,
+        "HPValue": 22450
+    },
+    {
+        "BuffLevelID": 450,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13500,
+        "HPValue": 22500
+    },
+    {
+        "BuffLevelID": 451,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13530,
+        "HPValue": 22550
+    },
+    {
+        "BuffLevelID": 452,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13560,
+        "HPValue": 22600
+    },
+    {
+        "BuffLevelID": 453,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13590,
+        "HPValue": 22650
+    },
+    {
+        "BuffLevelID": 454,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13620,
+        "HPValue": 22700
+    },
+    {
+        "BuffLevelID": 455,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13650,
+        "HPValue": 22750
+    },
+    {
+        "BuffLevelID": 456,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13680,
+        "HPValue": 22800
+    },
+    {
+        "BuffLevelID": 457,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13710,
+        "HPValue": 22850
+    },
+    {
+        "BuffLevelID": 458,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13740,
+        "HPValue": 22900
+    },
+    {
+        "BuffLevelID": 459,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13770,
+        "HPValue": 22950
+    },
+    {
+        "BuffLevelID": 460,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13800,
+        "HPValue": 23000
+    },
+    {
+        "BuffLevelID": 461,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13830,
+        "HPValue": 23050
+    },
+    {
+        "BuffLevelID": 462,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13860,
+        "HPValue": 23100
+    },
+    {
+        "BuffLevelID": 463,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13890,
+        "HPValue": 23150
+    },
+    {
+        "BuffLevelID": 464,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13920,
+        "HPValue": 23200
+    },
+    {
+        "BuffLevelID": 465,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13950,
+        "HPValue": 23250
+    },
+    {
+        "BuffLevelID": 466,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 13980,
+        "HPValue": 23300
+    },
+    {
+        "BuffLevelID": 467,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14010,
+        "HPValue": 23350
+    },
+    {
+        "BuffLevelID": 468,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14040,
+        "HPValue": 23400
+    },
+    {
+        "BuffLevelID": 469,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14070,
+        "HPValue": 23450
+    },
+    {
+        "BuffLevelID": 470,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14100,
+        "HPValue": 23500
+    },
+    {
+        "BuffLevelID": 471,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14130,
+        "HPValue": 23550
+    },
+    {
+        "BuffLevelID": 472,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14160,
+        "HPValue": 23600
+    },
+    {
+        "BuffLevelID": 473,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14190,
+        "HPValue": 23650
+    },
+    {
+        "BuffLevelID": 474,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14220,
+        "HPValue": 23700
+    },
+    {
+        "BuffLevelID": 475,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14250,
+        "HPValue": 23750
+    },
+    {
+        "BuffLevelID": 476,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14280,
+        "HPValue": 23800
+    },
+    {
+        "BuffLevelID": 477,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14310,
+        "HPValue": 23850
+    },
+    {
+        "BuffLevelID": 478,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14340,
+        "HPValue": 23900
+    },
+    {
+        "BuffLevelID": 479,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14370,
+        "HPValue": 23950
+    },
+    {
+        "BuffLevelID": 480,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14400,
+        "HPValue": 24000
+    },
+    {
+        "BuffLevelID": 481,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14430,
+        "HPValue": 24050
+    },
+    {
+        "BuffLevelID": 482,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14460,
+        "HPValue": 24100
+    },
+    {
+        "BuffLevelID": 483,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14490,
+        "HPValue": 24150
+    },
+    {
+        "BuffLevelID": 484,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14520,
+        "HPValue": 24200
+    },
+    {
+        "BuffLevelID": 485,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14550,
+        "HPValue": 24250
+    },
+    {
+        "BuffLevelID": 486,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14580,
+        "HPValue": 24300
+    },
+    {
+        "BuffLevelID": 487,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14610,
+        "HPValue": 24350
+    },
+    {
+        "BuffLevelID": 488,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14640,
+        "HPValue": 24400
+    },
+    {
+        "BuffLevelID": 489,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14670,
+        "HPValue": 24450
+    },
+    {
+        "BuffLevelID": 490,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14700,
+        "HPValue": 24500
+    },
+    {
+        "BuffLevelID": 491,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14730,
+        "HPValue": 24550
+    },
+    {
+        "BuffLevelID": 492,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14760,
+        "HPValue": 24600
+    },
+    {
+        "BuffLevelID": 493,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14790,
+        "HPValue": 24650
+    },
+    {
+        "BuffLevelID": 494,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14820,
+        "HPValue": 24700
+    },
+    {
+        "BuffLevelID": 495,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14850,
+        "HPValue": 24750
+    },
+    {
+        "BuffLevelID": 496,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14880,
+        "HPValue": 24800
+    },
+    {
+        "BuffLevelID": 497,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14910,
+        "HPValue": 24850
+    },
+    {
+        "BuffLevelID": 498,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14940,
+        "HPValue": 24900
+    },
+    {
+        "BuffLevelID": 499,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 14970,
+        "HPValue": 24950
+    },
+    {
+        "BuffLevelID": 500,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15000,
+        "HPValue": 25000
+    },
+    {
+        "BuffLevelID": 501,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15030,
+        "HPValue": 25050
+    },
+    {
+        "BuffLevelID": 502,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15060,
+        "HPValue": 25100
+    },
+    {
+        "BuffLevelID": 503,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15090,
+        "HPValue": 25150
+    },
+    {
+        "BuffLevelID": 504,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15120,
+        "HPValue": 25200
+    },
+    {
+        "BuffLevelID": 505,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15150,
+        "HPValue": 25250
+    },
+    {
+        "BuffLevelID": 506,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15180,
+        "HPValue": 25300
+    },
+    {
+        "BuffLevelID": 507,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15210,
+        "HPValue": 25350
+    },
+    {
+        "BuffLevelID": 508,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15240,
+        "HPValue": 25400
+    },
+    {
+        "BuffLevelID": 509,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15270,
+        "HPValue": 25450
+    },
+    {
+        "BuffLevelID": 510,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15300,
+        "HPValue": 25500
+    },
+    {
+        "BuffLevelID": 511,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15330,
+        "HPValue": 25550
+    },
+    {
+        "BuffLevelID": 512,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15360,
+        "HPValue": 25600
+    },
+    {
+        "BuffLevelID": 513,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15390,
+        "HPValue": 25650
+    },
+    {
+        "BuffLevelID": 514,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15420,
+        "HPValue": 25700
+    },
+    {
+        "BuffLevelID": 515,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15450,
+        "HPValue": 25750
+    },
+    {
+        "BuffLevelID": 516,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15480,
+        "HPValue": 25800
+    },
+    {
+        "BuffLevelID": 517,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15510,
+        "HPValue": 25850
+    },
+    {
+        "BuffLevelID": 518,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15540,
+        "HPValue": 25900
+    },
+    {
+        "BuffLevelID": 519,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15570,
+        "HPValue": 25950
+    },
+    {
+        "BuffLevelID": 520,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15600,
+        "HPValue": 26000
+    },
+    {
+        "BuffLevelID": 521,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15630,
+        "HPValue": 26050
+    },
+    {
+        "BuffLevelID": 522,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15660,
+        "HPValue": 26100
+    },
+    {
+        "BuffLevelID": 523,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15690,
+        "HPValue": 26150
+    },
+    {
+        "BuffLevelID": 524,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15720,
+        "HPValue": 26200
+    },
+    {
+        "BuffLevelID": 525,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15750,
+        "HPValue": 26250
+    },
+    {
+        "BuffLevelID": 526,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15780,
+        "HPValue": 26300
+    },
+    {
+        "BuffLevelID": 527,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15810,
+        "HPValue": 26350
+    },
+    {
+        "BuffLevelID": 528,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15840,
+        "HPValue": 26400
+    },
+    {
+        "BuffLevelID": 529,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15870,
+        "HPValue": 26450
+    },
+    {
+        "BuffLevelID": 530,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15900,
+        "HPValue": 26500
+    },
+    {
+        "BuffLevelID": 531,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15930,
+        "HPValue": 26550
+    },
+    {
+        "BuffLevelID": 532,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15960,
+        "HPValue": 26600
+    },
+    {
+        "BuffLevelID": 533,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 15990,
+        "HPValue": 26650
+    },
+    {
+        "BuffLevelID": 534,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16020,
+        "HPValue": 26700
+    },
+    {
+        "BuffLevelID": 535,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16050,
+        "HPValue": 26750
+    },
+    {
+        "BuffLevelID": 536,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16080,
+        "HPValue": 26800
+    },
+    {
+        "BuffLevelID": 537,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16110,
+        "HPValue": 26850
+    },
+    {
+        "BuffLevelID": 538,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16140,
+        "HPValue": 26900
+    },
+    {
+        "BuffLevelID": 539,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16170,
+        "HPValue": 26950
+    },
+    {
+        "BuffLevelID": 540,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16200,
+        "HPValue": 27000
+    },
+    {
+        "BuffLevelID": 541,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16230,
+        "HPValue": 27050
+    },
+    {
+        "BuffLevelID": 542,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16260,
+        "HPValue": 27100
+    },
+    {
+        "BuffLevelID": 543,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16290,
+        "HPValue": 27150
+    },
+    {
+        "BuffLevelID": 544,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16320,
+        "HPValue": 27200
+    },
+    {
+        "BuffLevelID": 545,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16350,
+        "HPValue": 27250
+    },
+    {
+        "BuffLevelID": 546,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16380,
+        "HPValue": 27300
+    },
+    {
+        "BuffLevelID": 547,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16410,
+        "HPValue": 27350
+    },
+    {
+        "BuffLevelID": 548,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16440,
+        "HPValue": 27400
+    },
+    {
+        "BuffLevelID": 549,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16470,
+        "HPValue": 27450
+    },
+    {
+        "BuffLevelID": 550,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16500,
+        "HPValue": 27500
+    },
+    {
+        "BuffLevelID": 551,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16530,
+        "HPValue": 27550
+    },
+    {
+        "BuffLevelID": 552,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16560,
+        "HPValue": 27600
+    },
+    {
+        "BuffLevelID": 553,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16590,
+        "HPValue": 27650
+    },
+    {
+        "BuffLevelID": 554,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16620,
+        "HPValue": 27700
+    },
+    {
+        "BuffLevelID": 555,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16650,
+        "HPValue": 27750
+    },
+    {
+        "BuffLevelID": 556,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16680,
+        "HPValue": 27800
+    },
+    {
+        "BuffLevelID": 557,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16710,
+        "HPValue": 27850
+    },
+    {
+        "BuffLevelID": 558,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16740,
+        "HPValue": 27900
+    },
+    {
+        "BuffLevelID": 559,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16770,
+        "HPValue": 27950
+    },
+    {
+        "BuffLevelID": 560,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16800,
+        "HPValue": 28000
+    },
+    {
+        "BuffLevelID": 561,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16830,
+        "HPValue": 28050
+    },
+    {
+        "BuffLevelID": 562,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16860,
+        "HPValue": 28100
+    },
+    {
+        "BuffLevelID": 563,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16890,
+        "HPValue": 28150
+    },
+    {
+        "BuffLevelID": 564,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16920,
+        "HPValue": 28200
+    },
+    {
+        "BuffLevelID": 565,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16950,
+        "HPValue": 28250
+    },
+    {
+        "BuffLevelID": 566,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 16980,
+        "HPValue": 28300
+    },
+    {
+        "BuffLevelID": 567,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17010,
+        "HPValue": 28350
+    },
+    {
+        "BuffLevelID": 568,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17040,
+        "HPValue": 28400
+    },
+    {
+        "BuffLevelID": 569,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17070,
+        "HPValue": 28450
+    },
+    {
+        "BuffLevelID": 570,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17100,
+        "HPValue": 28500
+    },
+    {
+        "BuffLevelID": 571,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17130,
+        "HPValue": 28550
+    },
+    {
+        "BuffLevelID": 572,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17160,
+        "HPValue": 28600
+    },
+    {
+        "BuffLevelID": 573,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17190,
+        "HPValue": 28650
+    },
+    {
+        "BuffLevelID": 574,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17220,
+        "HPValue": 28700
+    },
+    {
+        "BuffLevelID": 575,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17250,
+        "HPValue": 28750
+    },
+    {
+        "BuffLevelID": 576,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17280,
+        "HPValue": 28800
+    },
+    {
+        "BuffLevelID": 577,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17310,
+        "HPValue": 28850
+    },
+    {
+        "BuffLevelID": 578,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17340,
+        "HPValue": 28900
+    },
+    {
+        "BuffLevelID": 579,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17370,
+        "HPValue": 28950
+    },
+    {
+        "BuffLevelID": 580,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17400,
+        "HPValue": 29000
+    },
+    {
+        "BuffLevelID": 581,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17430,
+        "HPValue": 29050
+    },
+    {
+        "BuffLevelID": 582,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17460,
+        "HPValue": 29100
+    },
+    {
+        "BuffLevelID": 583,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17490,
+        "HPValue": 29150
+    },
+    {
+        "BuffLevelID": 584,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17520,
+        "HPValue": 29200
+    },
+    {
+        "BuffLevelID": 585,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17550,
+        "HPValue": 29250
+    },
+    {
+        "BuffLevelID": 586,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17580,
+        "HPValue": 29300
+    },
+    {
+        "BuffLevelID": 587,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17610,
+        "HPValue": 29350
+    },
+    {
+        "BuffLevelID": 588,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17640,
+        "HPValue": 29400
+    },
+    {
+        "BuffLevelID": 589,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17670,
+        "HPValue": 29450
+    },
+    {
+        "BuffLevelID": 590,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17700,
+        "HPValue": 29500
+    },
+    {
+        "BuffLevelID": 591,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17730,
+        "HPValue": 29550
+    },
+    {
+        "BuffLevelID": 592,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17760,
+        "HPValue": 29600
+    },
+    {
+        "BuffLevelID": 593,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17790,
+        "HPValue": 29650
+    },
+    {
+        "BuffLevelID": 594,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17820,
+        "HPValue": 29700
+    },
+    {
+        "BuffLevelID": 595,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17850,
+        "HPValue": 29750
+    },
+    {
+        "BuffLevelID": 596,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17880,
+        "HPValue": 29800
+    },
+    {
+        "BuffLevelID": 597,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17910,
+        "HPValue": 29850
+    },
+    {
+        "BuffLevelID": 598,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17940,
+        "HPValue": 29900
+    },
+    {
+        "BuffLevelID": 599,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 17970,
+        "HPValue": 29950
+    },
+    {
+        "BuffLevelID": 600,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18000,
+        "HPValue": 30000
+    },
+    {
+        "BuffLevelID": 601,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18030,
+        "HPValue": 30050
+    },
+    {
+        "BuffLevelID": 602,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18060,
+        "HPValue": 30100
+    },
+    {
+        "BuffLevelID": 603,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18090,
+        "HPValue": 30150
+    },
+    {
+        "BuffLevelID": 604,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18120,
+        "HPValue": 30200
+    },
+    {
+        "BuffLevelID": 605,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18150,
+        "HPValue": 30250
+    },
+    {
+        "BuffLevelID": 606,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18180,
+        "HPValue": 30300
+    },
+    {
+        "BuffLevelID": 607,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18210,
+        "HPValue": 30350
+    },
+    {
+        "BuffLevelID": 608,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18240,
+        "HPValue": 30400
+    },
+    {
+        "BuffLevelID": 609,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18270,
+        "HPValue": 30450
+    },
+    {
+        "BuffLevelID": 610,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18300,
+        "HPValue": 30500
+    },
+    {
+        "BuffLevelID": 611,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18330,
+        "HPValue": 30550
+    },
+    {
+        "BuffLevelID": 612,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18360,
+        "HPValue": 30600
+    },
+    {
+        "BuffLevelID": 613,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18390,
+        "HPValue": 30650
+    },
+    {
+        "BuffLevelID": 614,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18420,
+        "HPValue": 30700
+    },
+    {
+        "BuffLevelID": 615,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18450,
+        "HPValue": 30750
+    },
+    {
+        "BuffLevelID": 616,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18480,
+        "HPValue": 30800
+    },
+    {
+        "BuffLevelID": 617,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18510,
+        "HPValue": 30850
+    },
+    {
+        "BuffLevelID": 618,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18540,
+        "HPValue": 30900
+    },
+    {
+        "BuffLevelID": 619,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18570,
+        "HPValue": 30950
+    },
+    {
+        "BuffLevelID": 620,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18600,
+        "HPValue": 31000
+    },
+    {
+        "BuffLevelID": 621,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18630,
+        "HPValue": 31050
+    },
+    {
+        "BuffLevelID": 622,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18660,
+        "HPValue": 31100
+    },
+    {
+        "BuffLevelID": 623,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18690,
+        "HPValue": 31150
+    },
+    {
+        "BuffLevelID": 624,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18720,
+        "HPValue": 31200
+    },
+    {
+        "BuffLevelID": 625,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18750,
+        "HPValue": 31250
+    },
+    {
+        "BuffLevelID": 626,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18780,
+        "HPValue": 31300
+    },
+    {
+        "BuffLevelID": 627,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18810,
+        "HPValue": 31350
+    },
+    {
+        "BuffLevelID": 628,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18840,
+        "HPValue": 31400
+    },
+    {
+        "BuffLevelID": 629,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18870,
+        "HPValue": 31450
+    },
+    {
+        "BuffLevelID": 630,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18900,
+        "HPValue": 31500
+    },
+    {
+        "BuffLevelID": 631,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18930,
+        "HPValue": 31550
+    },
+    {
+        "BuffLevelID": 632,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18960,
+        "HPValue": 31600
+    },
+    {
+        "BuffLevelID": 633,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 18990,
+        "HPValue": 31650
+    },
+    {
+        "BuffLevelID": 634,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19020,
+        "HPValue": 31700
+    },
+    {
+        "BuffLevelID": 635,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19050,
+        "HPValue": 31750
+    },
+    {
+        "BuffLevelID": 636,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19080,
+        "HPValue": 31800
+    },
+    {
+        "BuffLevelID": 637,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19110,
+        "HPValue": 31850
+    },
+    {
+        "BuffLevelID": 638,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19140,
+        "HPValue": 31900
+    },
+    {
+        "BuffLevelID": 639,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19170,
+        "HPValue": 31950
+    },
+    {
+        "BuffLevelID": 640,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19200,
+        "HPValue": 32000
+    },
+    {
+        "BuffLevelID": 641,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19230,
+        "HPValue": 32050
+    },
+    {
+        "BuffLevelID": 642,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19260,
+        "HPValue": 32100
+    },
+    {
+        "BuffLevelID": 643,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19290,
+        "HPValue": 32150
+    },
+    {
+        "BuffLevelID": 644,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19320,
+        "HPValue": 32200
+    },
+    {
+        "BuffLevelID": 645,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19350,
+        "HPValue": 32250
+    },
+    {
+        "BuffLevelID": 646,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19380,
+        "HPValue": 32300
+    },
+    {
+        "BuffLevelID": 647,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19410,
+        "HPValue": 32350
+    },
+    {
+        "BuffLevelID": 648,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19440,
+        "HPValue": 32400
+    },
+    {
+        "BuffLevelID": 649,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19470,
+        "HPValue": 32450
+    },
+    {
+        "BuffLevelID": 650,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19500,
+        "HPValue": 32500
+    },
+    {
+        "BuffLevelID": 651,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19530,
+        "HPValue": 32550
+    },
+    {
+        "BuffLevelID": 652,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19560,
+        "HPValue": 32600
+    },
+    {
+        "BuffLevelID": 653,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19590,
+        "HPValue": 32650
+    },
+    {
+        "BuffLevelID": 654,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19620,
+        "HPValue": 32700
+    },
+    {
+        "BuffLevelID": 655,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19650,
+        "HPValue": 32750
+    },
+    {
+        "BuffLevelID": 656,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19680,
+        "HPValue": 32800
+    },
+    {
+        "BuffLevelID": 657,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19710,
+        "HPValue": 32850
+    },
+    {
+        "BuffLevelID": 658,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19740,
+        "HPValue": 32900
+    },
+    {
+        "BuffLevelID": 659,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19770,
+        "HPValue": 32950
+    },
+    {
+        "BuffLevelID": 660,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19800,
+        "HPValue": 33000
+    },
+    {
+        "BuffLevelID": 661,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19830,
+        "HPValue": 33050
+    },
+    {
+        "BuffLevelID": 662,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19860,
+        "HPValue": 33100
+    },
+    {
+        "BuffLevelID": 663,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19890,
+        "HPValue": 33150
+    },
+    {
+        "BuffLevelID": 664,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19920,
+        "HPValue": 33200
+    },
+    {
+        "BuffLevelID": 665,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19950,
+        "HPValue": 33250
+    },
+    {
+        "BuffLevelID": 666,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 19980,
+        "HPValue": 33300
+    },
+    {
+        "BuffLevelID": 667,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20010,
+        "HPValue": 33350
+    },
+    {
+        "BuffLevelID": 668,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20040,
+        "HPValue": 33400
+    },
+    {
+        "BuffLevelID": 669,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20070,
+        "HPValue": 33450
+    },
+    {
+        "BuffLevelID": 670,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20100,
+        "HPValue": 33500
+    },
+    {
+        "BuffLevelID": 671,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20130,
+        "HPValue": 33550
+    },
+    {
+        "BuffLevelID": 672,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20160,
+        "HPValue": 33600
+    },
+    {
+        "BuffLevelID": 673,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20190,
+        "HPValue": 33650
+    },
+    {
+        "BuffLevelID": 674,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20220,
+        "HPValue": 33700
+    },
+    {
+        "BuffLevelID": 675,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20250,
+        "HPValue": 33750
+    },
+    {
+        "BuffLevelID": 676,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20280,
+        "HPValue": 33800
+    },
+    {
+        "BuffLevelID": 677,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20310,
+        "HPValue": 33850
+    },
+    {
+        "BuffLevelID": 678,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20340,
+        "HPValue": 33900
+    },
+    {
+        "BuffLevelID": 679,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20370,
+        "HPValue": 33950
+    },
+    {
+        "BuffLevelID": 680,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20400,
+        "HPValue": 34000
+    },
+    {
+        "BuffLevelID": 681,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20430,
+        "HPValue": 34050
+    },
+    {
+        "BuffLevelID": 682,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20460,
+        "HPValue": 34100
+    },
+    {
+        "BuffLevelID": 683,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20490,
+        "HPValue": 34150
+    },
+    {
+        "BuffLevelID": 684,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20520,
+        "HPValue": 34200
+    },
+    {
+        "BuffLevelID": 685,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20550,
+        "HPValue": 34250
+    },
+    {
+        "BuffLevelID": 686,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20580,
+        "HPValue": 34300
+    },
+    {
+        "BuffLevelID": 687,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20610,
+        "HPValue": 34350
+    },
+    {
+        "BuffLevelID": 688,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20640,
+        "HPValue": 34400
+    },
+    {
+        "BuffLevelID": 689,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20670,
+        "HPValue": 34450
+    },
+    {
+        "BuffLevelID": 690,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20700,
+        "HPValue": 34500
+    },
+    {
+        "BuffLevelID": 691,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20730,
+        "HPValue": 34550
+    },
+    {
+        "BuffLevelID": 692,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20760,
+        "HPValue": 34600
+    },
+    {
+        "BuffLevelID": 693,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20790,
+        "HPValue": 34650
+    },
+    {
+        "BuffLevelID": 694,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20820,
+        "HPValue": 34700
+    },
+    {
+        "BuffLevelID": 695,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20850,
+        "HPValue": 34750
+    },
+    {
+        "BuffLevelID": 696,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20880,
+        "HPValue": 34800
+    },
+    {
+        "BuffLevelID": 697,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20910,
+        "HPValue": 34850
+    },
+    {
+        "BuffLevelID": 698,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20940,
+        "HPValue": 34900
+    },
+    {
+        "BuffLevelID": 699,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 20970,
+        "HPValue": 34950
+    },
+    {
+        "BuffLevelID": 700,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21000,
+        "HPValue": 35000
+    },
+    {
+        "BuffLevelID": 701,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21030,
+        "HPValue": 35050
+    },
+    {
+        "BuffLevelID": 702,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21060,
+        "HPValue": 35100
+    },
+    {
+        "BuffLevelID": 703,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21090,
+        "HPValue": 35150
+    },
+    {
+        "BuffLevelID": 704,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21120,
+        "HPValue": 35200
+    },
+    {
+        "BuffLevelID": 705,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21150,
+        "HPValue": 35250
+    },
+    {
+        "BuffLevelID": 706,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21180,
+        "HPValue": 35300
+    },
+    {
+        "BuffLevelID": 707,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21210,
+        "HPValue": 35350
+    },
+    {
+        "BuffLevelID": 708,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21240,
+        "HPValue": 35400
+    },
+    {
+        "BuffLevelID": 709,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21270,
+        "HPValue": 35450
+    },
+    {
+        "BuffLevelID": 710,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21300,
+        "HPValue": 35500
+    },
+    {
+        "BuffLevelID": 711,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21330,
+        "HPValue": 35550
+    },
+    {
+        "BuffLevelID": 712,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21360,
+        "HPValue": 35600
+    },
+    {
+        "BuffLevelID": 713,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21390,
+        "HPValue": 35650
+    },
+    {
+        "BuffLevelID": 714,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21420,
+        "HPValue": 35700
+    },
+    {
+        "BuffLevelID": 715,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21450,
+        "HPValue": 35750
+    },
+    {
+        "BuffLevelID": 716,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21480,
+        "HPValue": 35800
+    },
+    {
+        "BuffLevelID": 717,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21510,
+        "HPValue": 35850
+    },
+    {
+        "BuffLevelID": 718,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21540,
+        "HPValue": 35900
+    },
+    {
+        "BuffLevelID": 719,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21570,
+        "HPValue": 35950
+    },
+    {
+        "BuffLevelID": 720,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21600,
+        "HPValue": 36000
+    },
+    {
+        "BuffLevelID": 721,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21630,
+        "HPValue": 36050
+    },
+    {
+        "BuffLevelID": 722,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21660,
+        "HPValue": 36100
+    },
+    {
+        "BuffLevelID": 723,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21690,
+        "HPValue": 36150
+    },
+    {
+        "BuffLevelID": 724,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21720,
+        "HPValue": 36200
+    },
+    {
+        "BuffLevelID": 725,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21750,
+        "HPValue": 36250
+    },
+    {
+        "BuffLevelID": 726,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21780,
+        "HPValue": 36300
+    },
+    {
+        "BuffLevelID": 727,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21810,
+        "HPValue": 36350
+    },
+    {
+        "BuffLevelID": 728,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21840,
+        "HPValue": 36400
+    },
+    {
+        "BuffLevelID": 729,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21870,
+        "HPValue": 36450
+    },
+    {
+        "BuffLevelID": 730,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21900,
+        "HPValue": 36500
+    },
+    {
+        "BuffLevelID": 731,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21930,
+        "HPValue": 36550
+    },
+    {
+        "BuffLevelID": 732,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21960,
+        "HPValue": 36600
+    },
+    {
+        "BuffLevelID": 733,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 21990,
+        "HPValue": 36650
+    },
+    {
+        "BuffLevelID": 734,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22020,
+        "HPValue": 36700
+    },
+    {
+        "BuffLevelID": 735,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22050,
+        "HPValue": 36750
+    },
+    {
+        "BuffLevelID": 736,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22080,
+        "HPValue": 36800
+    },
+    {
+        "BuffLevelID": 737,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22110,
+        "HPValue": 36850
+    },
+    {
+        "BuffLevelID": 738,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22140,
+        "HPValue": 36900
+    },
+    {
+        "BuffLevelID": 739,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22170,
+        "HPValue": 36950
+    },
+    {
+        "BuffLevelID": 740,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22200,
+        "HPValue": 37000
+    },
+    {
+        "BuffLevelID": 741,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22230,
+        "HPValue": 37050
+    },
+    {
+        "BuffLevelID": 742,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22260,
+        "HPValue": 37100
+    },
+    {
+        "BuffLevelID": 743,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22290,
+        "HPValue": 37150
+    },
+    {
+        "BuffLevelID": 744,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22320,
+        "HPValue": 37200
+    },
+    {
+        "BuffLevelID": 745,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22350,
+        "HPValue": 37250
+    },
+    {
+        "BuffLevelID": 746,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22380,
+        "HPValue": 37300
+    },
+    {
+        "BuffLevelID": 747,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22410,
+        "HPValue": 37350
+    },
+    {
+        "BuffLevelID": 748,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22440,
+        "HPValue": 37400
+    },
+    {
+        "BuffLevelID": 749,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22470,
+        "HPValue": 37450
+    },
+    {
+        "BuffLevelID": 750,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22500,
+        "HPValue": 37500
+    },
+    {
+        "BuffLevelID": 751,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22530,
+        "HPValue": 37550
+    },
+    {
+        "BuffLevelID": 752,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22560,
+        "HPValue": 37600
+    },
+    {
+        "BuffLevelID": 753,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22590,
+        "HPValue": 37650
+    },
+    {
+        "BuffLevelID": 754,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22620,
+        "HPValue": 37700
+    },
+    {
+        "BuffLevelID": 755,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22650,
+        "HPValue": 37750
+    },
+    {
+        "BuffLevelID": 756,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22680,
+        "HPValue": 37800
+    },
+    {
+        "BuffLevelID": 757,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22710,
+        "HPValue": 37850
+    },
+    {
+        "BuffLevelID": 758,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22740,
+        "HPValue": 37900
+    },
+    {
+        "BuffLevelID": 759,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22770,
+        "HPValue": 37950
+    },
+    {
+        "BuffLevelID": 760,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22800,
+        "HPValue": 38000
+    },
+    {
+        "BuffLevelID": 761,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22830,
+        "HPValue": 38050
+    },
+    {
+        "BuffLevelID": 762,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22860,
+        "HPValue": 38100
+    },
+    {
+        "BuffLevelID": 763,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22890,
+        "HPValue": 38150
+    },
+    {
+        "BuffLevelID": 764,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22920,
+        "HPValue": 38200
+    },
+    {
+        "BuffLevelID": 765,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22950,
+        "HPValue": 38250
+    },
+    {
+        "BuffLevelID": 766,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 22980,
+        "HPValue": 38300
+    },
+    {
+        "BuffLevelID": 767,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23010,
+        "HPValue": 38350
+    },
+    {
+        "BuffLevelID": 768,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23040,
+        "HPValue": 38400
+    },
+    {
+        "BuffLevelID": 769,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23070,
+        "HPValue": 38450
+    },
+    {
+        "BuffLevelID": 770,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23100,
+        "HPValue": 38500
+    },
+    {
+        "BuffLevelID": 771,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23130,
+        "HPValue": 38550
+    },
+    {
+        "BuffLevelID": 772,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23160,
+        "HPValue": 38600
+    },
+    {
+        "BuffLevelID": 773,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23190,
+        "HPValue": 38650
+    },
+    {
+        "BuffLevelID": 774,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23220,
+        "HPValue": 38700
+    },
+    {
+        "BuffLevelID": 775,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23250,
+        "HPValue": 38750
+    },
+    {
+        "BuffLevelID": 776,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23280,
+        "HPValue": 38800
+    },
+    {
+        "BuffLevelID": 777,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23310,
+        "HPValue": 38850
+    },
+    {
+        "BuffLevelID": 778,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23340,
+        "HPValue": 38900
+    },
+    {
+        "BuffLevelID": 779,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23370,
+        "HPValue": 38950
+    },
+    {
+        "BuffLevelID": 780,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23400,
+        "HPValue": 39000
+    },
+    {
+        "BuffLevelID": 781,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23430,
+        "HPValue": 39050
+    },
+    {
+        "BuffLevelID": 782,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23460,
+        "HPValue": 39100
+    },
+    {
+        "BuffLevelID": 783,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23490,
+        "HPValue": 39150
+    },
+    {
+        "BuffLevelID": 784,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23520,
+        "HPValue": 39200
+    },
+    {
+        "BuffLevelID": 785,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23550,
+        "HPValue": 39250
+    },
+    {
+        "BuffLevelID": 786,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23580,
+        "HPValue": 39300
+    },
+    {
+        "BuffLevelID": 787,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23610,
+        "HPValue": 39350
+    },
+    {
+        "BuffLevelID": 788,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23640,
+        "HPValue": 39400
+    },
+    {
+        "BuffLevelID": 789,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23670,
+        "HPValue": 39450
+    },
+    {
+        "BuffLevelID": 790,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23700,
+        "HPValue": 39500
+    },
+    {
+        "BuffLevelID": 791,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23730,
+        "HPValue": 39550
+    },
+    {
+        "BuffLevelID": 792,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23760,
+        "HPValue": 39600
+    },
+    {
+        "BuffLevelID": 793,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23790,
+        "HPValue": 39650
+    },
+    {
+        "BuffLevelID": 794,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23820,
+        "HPValue": 39700
+    },
+    {
+        "BuffLevelID": 795,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23850,
+        "HPValue": 39750
+    },
+    {
+        "BuffLevelID": 796,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23880,
+        "HPValue": 39800
+    },
+    {
+        "BuffLevelID": 797,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23910,
+        "HPValue": 39850
+    },
+    {
+        "BuffLevelID": 798,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23940,
+        "HPValue": 39900
+    },
+    {
+        "BuffLevelID": 799,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 23970,
+        "HPValue": 39950
+    },
+    {
+        "BuffLevelID": 800,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24000,
+        "HPValue": 40000
+    },
+    {
+        "BuffLevelID": 801,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24030,
+        "HPValue": 40050
+    },
+    {
+        "BuffLevelID": 802,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24060,
+        "HPValue": 40100
+    },
+    {
+        "BuffLevelID": 803,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24090,
+        "HPValue": 40150
+    },
+    {
+        "BuffLevelID": 804,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24120,
+        "HPValue": 40200
+    },
+    {
+        "BuffLevelID": 805,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24150,
+        "HPValue": 40250
+    },
+    {
+        "BuffLevelID": 806,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24180,
+        "HPValue": 40300
+    },
+    {
+        "BuffLevelID": 807,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24210,
+        "HPValue": 40350
+    },
+    {
+        "BuffLevelID": 808,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24240,
+        "HPValue": 40400
+    },
+    {
+        "BuffLevelID": 809,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24270,
+        "HPValue": 40450
+    },
+    {
+        "BuffLevelID": 810,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24300,
+        "HPValue": 40500
+    },
+    {
+        "BuffLevelID": 811,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24330,
+        "HPValue": 40550
+    },
+    {
+        "BuffLevelID": 812,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24360,
+        "HPValue": 40600
+    },
+    {
+        "BuffLevelID": 813,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24390,
+        "HPValue": 40650
+    },
+    {
+        "BuffLevelID": 814,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24420,
+        "HPValue": 40700
+    },
+    {
+        "BuffLevelID": 815,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24450,
+        "HPValue": 40750
+    },
+    {
+        "BuffLevelID": 816,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24480,
+        "HPValue": 40800
+    },
+    {
+        "BuffLevelID": 817,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24510,
+        "HPValue": 40850
+    },
+    {
+        "BuffLevelID": 818,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24540,
+        "HPValue": 40900
+    },
+    {
+        "BuffLevelID": 819,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24570,
+        "HPValue": 40950
+    },
+    {
+        "BuffLevelID": 820,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24600,
+        "HPValue": 41000
+    },
+    {
+        "BuffLevelID": 821,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24630,
+        "HPValue": 41050
+    },
+    {
+        "BuffLevelID": 822,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24660,
+        "HPValue": 41100
+    },
+    {
+        "BuffLevelID": 823,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24690,
+        "HPValue": 41150
+    },
+    {
+        "BuffLevelID": 824,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24720,
+        "HPValue": 41200
+    },
+    {
+        "BuffLevelID": 825,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24750,
+        "HPValue": 41250
+    },
+    {
+        "BuffLevelID": 826,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24780,
+        "HPValue": 41300
+    },
+    {
+        "BuffLevelID": 827,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24810,
+        "HPValue": 41350
+    },
+    {
+        "BuffLevelID": 828,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24840,
+        "HPValue": 41400
+    },
+    {
+        "BuffLevelID": 829,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24870,
+        "HPValue": 41450
+    },
+    {
+        "BuffLevelID": 830,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24900,
+        "HPValue": 41500
+    },
+    {
+        "BuffLevelID": 831,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24930,
+        "HPValue": 41550
+    },
+    {
+        "BuffLevelID": 832,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24960,
+        "HPValue": 41600
+    },
+    {
+        "BuffLevelID": 833,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 24990,
+        "HPValue": 41650
+    },
+    {
+        "BuffLevelID": 834,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25020,
+        "HPValue": 41700
+    },
+    {
+        "BuffLevelID": 835,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25050,
+        "HPValue": 41750
+    },
+    {
+        "BuffLevelID": 836,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25080,
+        "HPValue": 41800
+    },
+    {
+        "BuffLevelID": 837,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25110,
+        "HPValue": 41850
+    },
+    {
+        "BuffLevelID": 838,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25140,
+        "HPValue": 41900
+    },
+    {
+        "BuffLevelID": 839,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25170,
+        "HPValue": 41950
+    },
+    {
+        "BuffLevelID": 840,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25200,
+        "HPValue": 42000
+    },
+    {
+        "BuffLevelID": 841,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25230,
+        "HPValue": 42050
+    },
+    {
+        "BuffLevelID": 842,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25260,
+        "HPValue": 42100
+    },
+    {
+        "BuffLevelID": 843,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25290,
+        "HPValue": 42150
+    },
+    {
+        "BuffLevelID": 844,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25320,
+        "HPValue": 42200
+    },
+    {
+        "BuffLevelID": 845,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25350,
+        "HPValue": 42250
+    },
+    {
+        "BuffLevelID": 846,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25380,
+        "HPValue": 42300
+    },
+    {
+        "BuffLevelID": 847,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25410,
+        "HPValue": 42350
+    },
+    {
+        "BuffLevelID": 848,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25440,
+        "HPValue": 42400
+    },
+    {
+        "BuffLevelID": 849,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25470,
+        "HPValue": 42450
+    },
+    {
+        "BuffLevelID": 850,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25500,
+        "HPValue": 42500
+    },
+    {
+        "BuffLevelID": 851,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25530,
+        "HPValue": 42550
+    },
+    {
+        "BuffLevelID": 852,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25560,
+        "HPValue": 42600
+    },
+    {
+        "BuffLevelID": 853,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25590,
+        "HPValue": 42650
+    },
+    {
+        "BuffLevelID": 854,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25620,
+        "HPValue": 42700
+    },
+    {
+        "BuffLevelID": 855,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25650,
+        "HPValue": 42750
+    },
+    {
+        "BuffLevelID": 856,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25680,
+        "HPValue": 42800
+    },
+    {
+        "BuffLevelID": 857,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25710,
+        "HPValue": 42850
+    },
+    {
+        "BuffLevelID": 858,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25740,
+        "HPValue": 42900
+    },
+    {
+        "BuffLevelID": 859,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25770,
+        "HPValue": 42950
+    },
+    {
+        "BuffLevelID": 860,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25800,
+        "HPValue": 43000
+    },
+    {
+        "BuffLevelID": 861,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25830,
+        "HPValue": 43050
+    },
+    {
+        "BuffLevelID": 862,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25860,
+        "HPValue": 43100
+    },
+    {
+        "BuffLevelID": 863,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25890,
+        "HPValue": 43150
+    },
+    {
+        "BuffLevelID": 864,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25920,
+        "HPValue": 43200
+    },
+    {
+        "BuffLevelID": 865,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25950,
+        "HPValue": 43250
+    },
+    {
+        "BuffLevelID": 866,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 25980,
+        "HPValue": 43300
+    },
+    {
+        "BuffLevelID": 867,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26010,
+        "HPValue": 43350
+    },
+    {
+        "BuffLevelID": 868,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26040,
+        "HPValue": 43400
+    },
+    {
+        "BuffLevelID": 869,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26070,
+        "HPValue": 43450
+    },
+    {
+        "BuffLevelID": 870,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26100,
+        "HPValue": 43500
+    },
+    {
+        "BuffLevelID": 871,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26130,
+        "HPValue": 43550
+    },
+    {
+        "BuffLevelID": 872,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26160,
+        "HPValue": 43600
+    },
+    {
+        "BuffLevelID": 873,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26190,
+        "HPValue": 43650
+    },
+    {
+        "BuffLevelID": 874,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26220,
+        "HPValue": 43700
+    },
+    {
+        "BuffLevelID": 875,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26250,
+        "HPValue": 43750
+    },
+    {
+        "BuffLevelID": 876,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26280,
+        "HPValue": 43800
+    },
+    {
+        "BuffLevelID": 877,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26310,
+        "HPValue": 43850
+    },
+    {
+        "BuffLevelID": 878,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26340,
+        "HPValue": 43900
+    },
+    {
+        "BuffLevelID": 879,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26370,
+        "HPValue": 43950
+    },
+    {
+        "BuffLevelID": 880,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26400,
+        "HPValue": 44000
+    },
+    {
+        "BuffLevelID": 881,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26430,
+        "HPValue": 44050
+    },
+    {
+        "BuffLevelID": 882,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26460,
+        "HPValue": 44100
+    },
+    {
+        "BuffLevelID": 883,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26490,
+        "HPValue": 44150
+    },
+    {
+        "BuffLevelID": 884,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26520,
+        "HPValue": 44200
+    },
+    {
+        "BuffLevelID": 885,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26550,
+        "HPValue": 44250
+    },
+    {
+        "BuffLevelID": 886,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26580,
+        "HPValue": 44300
+    },
+    {
+        "BuffLevelID": 887,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26610,
+        "HPValue": 44350
+    },
+    {
+        "BuffLevelID": 888,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26640,
+        "HPValue": 44400
+    },
+    {
+        "BuffLevelID": 889,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26670,
+        "HPValue": 44450
+    },
+    {
+        "BuffLevelID": 890,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26700,
+        "HPValue": 44500
+    },
+    {
+        "BuffLevelID": 891,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26730,
+        "HPValue": 44550
+    },
+    {
+        "BuffLevelID": 892,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26760,
+        "HPValue": 44600
+    },
+    {
+        "BuffLevelID": 893,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26790,
+        "HPValue": 44650
+    },
+    {
+        "BuffLevelID": 894,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26820,
+        "HPValue": 44700
+    },
+    {
+        "BuffLevelID": 895,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26850,
+        "HPValue": 44750
+    },
+    {
+        "BuffLevelID": 896,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26880,
+        "HPValue": 44800
+    },
+    {
+        "BuffLevelID": 897,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26910,
+        "HPValue": 44850
+    },
+    {
+        "BuffLevelID": 898,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26940,
+        "HPValue": 44900
+    },
+    {
+        "BuffLevelID": 899,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 26970,
+        "HPValue": 44950
+    },
+    {
+        "BuffLevelID": 900,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27000,
+        "HPValue": 45000
+    },
+    {
+        "BuffLevelID": 901,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27030,
+        "HPValue": 45050
+    },
+    {
+        "BuffLevelID": 902,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27060,
+        "HPValue": 45100
+    },
+    {
+        "BuffLevelID": 903,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27090,
+        "HPValue": 45150
+    },
+    {
+        "BuffLevelID": 904,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27120,
+        "HPValue": 45200
+    },
+    {
+        "BuffLevelID": 905,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27150,
+        "HPValue": 45250
+    },
+    {
+        "BuffLevelID": 906,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27180,
+        "HPValue": 45300
+    },
+    {
+        "BuffLevelID": 907,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27210,
+        "HPValue": 45350
+    },
+    {
+        "BuffLevelID": 908,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27240,
+        "HPValue": 45400
+    },
+    {
+        "BuffLevelID": 909,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27270,
+        "HPValue": 45450
+    },
+    {
+        "BuffLevelID": 910,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27300,
+        "HPValue": 45500
+    },
+    {
+        "BuffLevelID": 911,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27330,
+        "HPValue": 45550
+    },
+    {
+        "BuffLevelID": 912,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27360,
+        "HPValue": 45600
+    },
+    {
+        "BuffLevelID": 913,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27390,
+        "HPValue": 45650
+    },
+    {
+        "BuffLevelID": 914,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27420,
+        "HPValue": 45700
+    },
+    {
+        "BuffLevelID": 915,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27450,
+        "HPValue": 45750
+    },
+    {
+        "BuffLevelID": 916,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27480,
+        "HPValue": 45800
+    },
+    {
+        "BuffLevelID": 917,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27510,
+        "HPValue": 45850
+    },
+    {
+        "BuffLevelID": 918,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27540,
+        "HPValue": 45900
+    },
+    {
+        "BuffLevelID": 919,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27570,
+        "HPValue": 45950
+    },
+    {
+        "BuffLevelID": 920,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27600,
+        "HPValue": 46000
+    },
+    {
+        "BuffLevelID": 921,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27630,
+        "HPValue": 46050
+    },
+    {
+        "BuffLevelID": 922,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27660,
+        "HPValue": 46100
+    },
+    {
+        "BuffLevelID": 923,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27690,
+        "HPValue": 46150
+    },
+    {
+        "BuffLevelID": 924,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27720,
+        "HPValue": 46200
+    },
+    {
+        "BuffLevelID": 925,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27750,
+        "HPValue": 46250
+    },
+    {
+        "BuffLevelID": 926,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27780,
+        "HPValue": 46300
+    },
+    {
+        "BuffLevelID": 927,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27810,
+        "HPValue": 46350
+    },
+    {
+        "BuffLevelID": 928,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27840,
+        "HPValue": 46400
+    },
+    {
+        "BuffLevelID": 929,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27870,
+        "HPValue": 46450
+    },
+    {
+        "BuffLevelID": 930,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27900,
+        "HPValue": 46500
+    },
+    {
+        "BuffLevelID": 931,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27930,
+        "HPValue": 46550
+    },
+    {
+        "BuffLevelID": 932,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27960,
+        "HPValue": 46600
+    },
+    {
+        "BuffLevelID": 933,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 27990,
+        "HPValue": 46650
+    },
+    {
+        "BuffLevelID": 934,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28020,
+        "HPValue": 46700
+    },
+    {
+        "BuffLevelID": 935,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28050,
+        "HPValue": 46750
+    },
+    {
+        "BuffLevelID": 936,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28080,
+        "HPValue": 46800
+    },
+    {
+        "BuffLevelID": 937,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28110,
+        "HPValue": 46850
+    },
+    {
+        "BuffLevelID": 938,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28140,
+        "HPValue": 46900
+    },
+    {
+        "BuffLevelID": 939,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28170,
+        "HPValue": 46950
+    },
+    {
+        "BuffLevelID": 940,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28200,
+        "HPValue": 47000
+    },
+    {
+        "BuffLevelID": 941,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28230,
+        "HPValue": 47050
+    },
+    {
+        "BuffLevelID": 942,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28260,
+        "HPValue": 47100
+    },
+    {
+        "BuffLevelID": 943,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28290,
+        "HPValue": 47150
+    },
+    {
+        "BuffLevelID": 944,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28320,
+        "HPValue": 47200
+    },
+    {
+        "BuffLevelID": 945,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28350,
+        "HPValue": 47250
+    },
+    {
+        "BuffLevelID": 946,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28380,
+        "HPValue": 47300
+    },
+    {
+        "BuffLevelID": 947,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28410,
+        "HPValue": 47350
+    },
+    {
+        "BuffLevelID": 948,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28440,
+        "HPValue": 47400
+    },
+    {
+        "BuffLevelID": 949,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28470,
+        "HPValue": 47450
+    },
+    {
+        "BuffLevelID": 950,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28500,
+        "HPValue": 47500
+    },
+    {
+        "BuffLevelID": 951,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28530,
+        "HPValue": 47550
+    },
+    {
+        "BuffLevelID": 952,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28560,
+        "HPValue": 47600
+    },
+    {
+        "BuffLevelID": 953,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28590,
+        "HPValue": 47650
+    },
+    {
+        "BuffLevelID": 954,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28620,
+        "HPValue": 47700
+    },
+    {
+        "BuffLevelID": 955,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28650,
+        "HPValue": 47750
+    },
+    {
+        "BuffLevelID": 956,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28680,
+        "HPValue": 47800
+    },
+    {
+        "BuffLevelID": 957,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28710,
+        "HPValue": 47850
+    },
+    {
+        "BuffLevelID": 958,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28740,
+        "HPValue": 47900
+    },
+    {
+        "BuffLevelID": 959,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28770,
+        "HPValue": 47950
+    },
+    {
+        "BuffLevelID": 960,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28800,
+        "HPValue": 48000
+    },
+    {
+        "BuffLevelID": 961,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28830,
+        "HPValue": 48050
+    },
+    {
+        "BuffLevelID": 962,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28860,
+        "HPValue": 48100
+    },
+    {
+        "BuffLevelID": 963,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28890,
+        "HPValue": 48150
+    },
+    {
+        "BuffLevelID": 964,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28920,
+        "HPValue": 48200
+    },
+    {
+        "BuffLevelID": 965,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28950,
+        "HPValue": 48250
+    },
+    {
+        "BuffLevelID": 966,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 28980,
+        "HPValue": 48300
+    },
+    {
+        "BuffLevelID": 967,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29010,
+        "HPValue": 48350
+    },
+    {
+        "BuffLevelID": 968,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29040,
+        "HPValue": 48400
+    },
+    {
+        "BuffLevelID": 969,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29070,
+        "HPValue": 48450
+    },
+    {
+        "BuffLevelID": 970,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29100,
+        "HPValue": 48500
+    },
+    {
+        "BuffLevelID": 971,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29130,
+        "HPValue": 48550
+    },
+    {
+        "BuffLevelID": 972,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29160,
+        "HPValue": 48600
+    },
+    {
+        "BuffLevelID": 973,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29190,
+        "HPValue": 48650
+    },
+    {
+        "BuffLevelID": 974,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29220,
+        "HPValue": 48700
+    },
+    {
+        "BuffLevelID": 975,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29250,
+        "HPValue": 48750
+    },
+    {
+        "BuffLevelID": 976,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29280,
+        "HPValue": 48800
+    },
+    {
+        "BuffLevelID": 977,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29310,
+        "HPValue": 48850
+    },
+    {
+        "BuffLevelID": 978,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29340,
+        "HPValue": 48900
+    },
+    {
+        "BuffLevelID": 979,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29370,
+        "HPValue": 48950
+    },
+    {
+        "BuffLevelID": 980,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29400,
+        "HPValue": 49000
+    },
+    {
+        "BuffLevelID": 981,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29430,
+        "HPValue": 49050
+    },
+    {
+        "BuffLevelID": 982,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29460,
+        "HPValue": 49100
+    },
+    {
+        "BuffLevelID": 983,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29490,
+        "HPValue": 49150
+    },
+    {
+        "BuffLevelID": 984,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29520,
+        "HPValue": 49200
+    },
+    {
+        "BuffLevelID": 985,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29550,
+        "HPValue": 49250
+    },
+    {
+        "BuffLevelID": 986,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29580,
+        "HPValue": 49300
+    },
+    {
+        "BuffLevelID": 987,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29610,
+        "HPValue": 49350
+    },
+    {
+        "BuffLevelID": 988,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29640,
+        "HPValue": 49400
+    },
+    {
+        "BuffLevelID": 989,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29670,
+        "HPValue": 49450
+    },
+    {
+        "BuffLevelID": 990,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29700,
+        "HPValue": 49500
+    },
+    {
+        "BuffLevelID": 991,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29730,
+        "HPValue": 49550
+    },
+    {
+        "BuffLevelID": 992,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29760,
+        "HPValue": 49600
+    },
+    {
+        "BuffLevelID": 993,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29790,
+        "HPValue": 49650
+    },
+    {
+        "BuffLevelID": 994,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29820,
+        "HPValue": 49700
+    },
+    {
+        "BuffLevelID": 995,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29850,
+        "HPValue": 49750
+    },
+    {
+        "BuffLevelID": 996,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29880,
+        "HPValue": 49800
+    },
+    {
+        "BuffLevelID": 997,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29910,
+        "HPValue": 49850
+    },
+    {
+        "BuffLevelID": 998,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29940,
+        "HPValue": 49900
+    },
+    {
+        "BuffLevelID": 999,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 29970,
+        "HPValue": 49950
+    },
+    {
+        "BuffLevelID": 1000,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30000,
+        "HPValue": 50000
+    },
+    {
+        "BuffLevelID": 1001,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30030,
+        "HPValue": 50050
+    },
+    {
+        "BuffLevelID": 1002,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30060,
+        "HPValue": 50100
+    },
+    {
+        "BuffLevelID": 1003,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30090,
+        "HPValue": 50150
+    },
+    {
+        "BuffLevelID": 1004,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30120,
+        "HPValue": 50200
+    },
+    {
+        "BuffLevelID": 1005,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30150,
+        "HPValue": 50250
+    },
+    {
+        "BuffLevelID": 1006,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30180,
+        "HPValue": 50300
+    },
+    {
+        "BuffLevelID": 1007,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30210,
+        "HPValue": 50350
+    },
+    {
+        "BuffLevelID": 1008,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30240,
+        "HPValue": 50400
+    },
+    {
+        "BuffLevelID": 1009,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30270,
+        "HPValue": 50450
+    },
+    {
+        "BuffLevelID": 1010,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30300,
+        "HPValue": 50500
+    },
+    {
+        "BuffLevelID": 1011,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30330,
+        "HPValue": 50550
+    },
+    {
+        "BuffLevelID": 1012,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30360,
+        "HPValue": 50600
+    },
+    {
+        "BuffLevelID": 1013,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30390,
+        "HPValue": 50650
+    },
+    {
+        "BuffLevelID": 1014,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30420,
+        "HPValue": 50700
+    },
+    {
+        "BuffLevelID": 1015,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30450,
+        "HPValue": 50750
+    },
+    {
+        "BuffLevelID": 1016,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30480,
+        "HPValue": 50800
+    },
+    {
+        "BuffLevelID": 1017,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30510,
+        "HPValue": 50850
+    },
+    {
+        "BuffLevelID": 1018,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30540,
+        "HPValue": 50900
+    },
+    {
+        "BuffLevelID": 1019,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30570,
+        "HPValue": 50950
+    },
+    {
+        "BuffLevelID": 1020,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30600,
+        "HPValue": 51000
+    },
+    {
+        "BuffLevelID": 1021,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30630,
+        "HPValue": 51050
+    },
+    {
+        "BuffLevelID": 1022,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30660,
+        "HPValue": 51100
+    },
+    {
+        "BuffLevelID": 1023,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30690,
+        "HPValue": 51150
+    },
+    {
+        "BuffLevelID": 1024,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30720,
+        "HPValue": 51200
+    },
+    {
+        "BuffLevelID": 1025,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30750,
+        "HPValue": 51250
+    },
+    {
+        "BuffLevelID": 1026,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30780,
+        "HPValue": 51300
+    },
+    {
+        "BuffLevelID": 1027,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30810,
+        "HPValue": 51350
+    },
+    {
+        "BuffLevelID": 1028,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30840,
+        "HPValue": 51400
+    },
+    {
+        "BuffLevelID": 1029,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30870,
+        "HPValue": 51450
+    },
+    {
+        "BuffLevelID": 1030,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30900,
+        "HPValue": 51500
+    },
+    {
+        "BuffLevelID": 1031,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30930,
+        "HPValue": 51550
+    },
+    {
+        "BuffLevelID": 1032,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30960,
+        "HPValue": 51600
+    },
+    {
+        "BuffLevelID": 1033,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 30990,
+        "HPValue": 51650
+    },
+    {
+        "BuffLevelID": 1034,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 31020,
+        "HPValue": 51700
+    },
+    {
+        "BuffLevelID": 1035,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 31050,
+        "HPValue": 51750
+    },
+    {
+        "BuffLevelID": 1036,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 31080,
+        "HPValue": 51800
+    },
+    {
+        "BuffLevelID": 1037,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 31110,
+        "HPValue": 51850
+    },
+    {
+        "BuffLevelID": 1038,
+        "MonopolyID": 1,
+        "SpecialText1": 0,
+        "SpecialText2": 0,
+        "ATKValue": 31140,
+        "HPValue": 51900
+    }
+]

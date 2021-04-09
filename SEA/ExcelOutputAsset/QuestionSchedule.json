@@ -1,0 +1,32 @@
+[
+    {
+        "QuestionID": 1,
+        "ScheduleID": 1,
+        "CloseTime": "2019-10-18 03:59:59",
+        "OpenTime": "2019-09-26 08:00:00"
+    },
+    {
+        "QuestionID": 1,
+        "ScheduleID": 2,
+        "CloseTime": "2019-10-25 03:59:59",
+        "OpenTime": "2019-10-18 08:00:00"
+    },
+    {
+        "QuestionID": 1,
+        "ScheduleID": 3,
+        "CloseTime": "2019-11-01 03:59:59",
+        "OpenTime": "2019-10-25 08:00:00"
+    },
+    {
+        "QuestionID": 1,
+        "ScheduleID": 4,
+        "CloseTime": "2019-11-08 03:59:59",
+        "OpenTime": "2019-11-01 08:00:00"
+    },
+    {
+        "QuestionID": 1,
+        "ScheduleID": 5,
+        "CloseTime": "2019-11-15 03:59:59",
+        "OpenTime": "2019-11-08 08:00:00"
+    }
+]
