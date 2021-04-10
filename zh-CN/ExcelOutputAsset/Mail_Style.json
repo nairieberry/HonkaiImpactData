@@ -1,0 +1,23 @@
+[
+    {
+        "DeleteConfirm": 0,
+        "MailStyle": 0,
+        "BaseColor": "MailBgBlue",
+        "SelectColor": "MailLightBlue",
+        "bits1": 1
+    },
+    {
+        "DeleteConfirm": 1,
+        "MailStyle": 1,
+        "BaseColor": "MailBgPurple",
+        "SelectColor": "MailLightPurple",
+        "bits1": 0
+    },
+    {
+        "DeleteConfirm": 2,
+        "MailStyle": 2,
+        "BaseColor": "MailBgPurple",
+        "SelectColor": "MailLightPurple",
+        "bits1": 0
+    }
+]

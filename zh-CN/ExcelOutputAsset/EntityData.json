@@ -1,0 +1,962 @@
+[
+    {
+        "EntityID": 1,
+        "ModelID": 2013,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 2,
+        "ModelID": 2037,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 3,
+        "ModelID": 2163,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 4,
+        "ModelID": 106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 5,
+        "ModelID": 2030,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 10,
+        "ModelID": 2169,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 11,
+        "ModelID": 1403,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 15,
+        "ModelID": 2036,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 30,
+        "ModelID": 106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 31,
+        "ModelID": 2032,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 32,
+        "ModelID": 2136,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 40,
+        "ModelID": 401,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 41,
+        "ModelID": 401,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 42,
+        "ModelID": 401,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 43,
+        "ModelID": 401,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 44,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 45,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 46,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 47,
+        "ModelID": 107,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 48,
+        "ModelID": 2183,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 49,
+        "ModelID": 2001,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 50,
+        "ModelID": 2164,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 51,
+        "ModelID": 2144,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 60,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 70,
+        "ModelID": 2031,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 71,
+        "ModelID": 341,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 72,
+        "ModelID": 342,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyMonster"
+    },
+    {
+        "EntityID": 90,
+        "ModelID": 2156,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 91,
+        "ModelID": 1625,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 92,
+        "ModelID": 1628,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 93,
+        "ModelID": 1631,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 94,
+        "ModelID": 1624,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 95,
+        "ModelID": 1625,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 96,
+        "ModelID": 1628,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 97,
+        "ModelID": 1631,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 98,
+        "ModelID": 1624,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 100,
+        "ModelID": 2108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 101,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 102,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 103,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 104,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 105,
+        "ModelID": 1633,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 106,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 107,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 110,
+        "ModelID": 2150,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 111,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 112,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 113,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 114,
+        "ModelID": 2150,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 115,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 116,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 117,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 118,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 119,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 120,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 121,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 122,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 123,
+        "ModelID": 2150,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 124,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 125,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 126,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 127,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 130,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 131,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 132,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 133,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 134,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 140,
+        "ModelID": 2186,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 141,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 142,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 143,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 144,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 145,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 146,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 147,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 148,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 149,
+        "ModelID": 1675,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 150,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 151,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 152,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 153,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 154,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 155,
+        "ModelID": 1671,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 156,
+        "ModelID": 1671,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 157,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 158,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 159,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 161,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 162,
+        "ModelID": 1667,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 163,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 164,
+        "ModelID": 1668,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 165,
+        "ModelID": 1627,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 166,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 167,
+        "ModelID": 2186,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 168,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 171,
+        "ModelID": 2186,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 172,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 173,
+        "ModelID": 2150,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 174,
+        "ModelID": 2184,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 200,
+        "ModelID": 1622,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyEmpty"
+    },
+    {
+        "EntityID": 301,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 302,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 303,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 304,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 305,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 306,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 307,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 311,
+        "ModelID": 1624,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 312,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 313,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 314,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 315,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 316,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 317,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 318,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 319,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 320,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 321,
+        "ModelID": 1628,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 322,
+        "ModelID": 1628,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 323,
+        "ModelID": 1628,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 324,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 325,
+        "ModelID": 1670,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 326,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 327,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 328,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 329,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 330,
+        "ModelID": 1624,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 331,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 332,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 333,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 334,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 335,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 336,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 411,
+        "ModelID": 1621,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 412,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 413,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 414,
+        "ModelID": 1673,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 415,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 416,
+        "ModelID": 1674,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 417,
+        "ModelID": 1634,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 418,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 419,
+        "ModelID": 2106,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 430,
+        "ModelID": 1632,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 431,
+        "ModelID": 1675,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 432,
+        "ModelID": 1632,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 433,
+        "ModelID": 1675,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 434,
+        "ModelID": 1632,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 435,
+        "ModelID": 1621,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 440,
+        "ModelID": 2184,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 500,
+        "ModelID": 528,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 501,
+        "ModelID": 109,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 502,
+        "ModelID": 2156,
+        "JsonFile": "MonsterWithBarrier",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 503,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 504,
+        "ModelID": 108,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 505,
+        "ModelID": 528,
+        "JsonFile": "PushableBox",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 506,
+        "ModelID": 328,
+        "JsonFile": "PushableBall",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 507,
+        "ModelID": 528,
+        "JsonFile": "PushableBox",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 508,
+        "ModelID": 328,
+        "JsonFile": "monster1",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 509,
+        "ModelID": 446,
+        "JsonFile": "PushableBall",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    },
+    {
+        "EntityID": 510,
+        "ModelID": 446,
+        "JsonFile": "PushableBox",
+        "MonopolyJsonFile": "MonopolyTouchableMonster"
+    }
+]

@@ -1,0 +1,1732 @@
+[
+    {
+        "buffID": 1,
+        "buffIDGroup": 11,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 2,
+        "buffIDGroup": 11,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 3,
+        "buffIDGroup": 11,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 4,
+        "buffIDGroup": 11,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 5,
+        "buffIDGroup": 11,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 6,
+        "buffIDGroup": 11,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 7,
+        "buffIDGroup": 11,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 8,
+        "buffIDGroup": 11,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -709354236
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ChargeAbilityDamageAdd_T_2"
+    },
+    {
+        "buffID": 9,
+        "buffIDGroup": 11,
+        "stagePos": 7,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 10,
+        "buffIDGroup": 11,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 11,
+        "buffIDGroup": 11,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 12,
+        "buffIDGroup": 11,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1224559110
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElementalDamageUp_T"
+    },
+    {
+        "buffID": 13,
+        "buffIDGroup": 12,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 14,
+        "buffIDGroup": 12,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 15,
+        "buffIDGroup": 12,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 16,
+        "buffIDGroup": 12,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 17,
+        "buffIDGroup": 12,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 18,
+        "buffIDGroup": 12,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 19,
+        "buffIDGroup": 12,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 20,
+        "buffIDGroup": 12,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 21,
+        "buffIDGroup": 12,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 22,
+        "buffIDGroup": 12,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -709354236
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ChargeAbilityDamageAdd_T_2"
+    },
+    {
+        "buffID": 23,
+        "buffIDGroup": 12,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 24,
+        "buffIDGroup": 12,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 25,
+        "buffIDGroup": 12,
+        "stagePos": 11,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 26,
+        "buffIDGroup": 12,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 27,
+        "buffIDGroup": 12,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1224559110
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElementalDamageUp_T"
+    },
+    {
+        "buffID": 28,
+        "buffIDGroup": 13,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 29,
+        "buffIDGroup": 13,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 30,
+        "buffIDGroup": 13,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 31,
+        "buffIDGroup": 13,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 32,
+        "buffIDGroup": 13,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 33,
+        "buffIDGroup": 13,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 34,
+        "buffIDGroup": 13,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 35,
+        "buffIDGroup": 13,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 36,
+        "buffIDGroup": 13,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 37,
+        "buffIDGroup": 13,
+        "stagePos": 9,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 38,
+        "buffIDGroup": 13,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 39,
+        "buffIDGroup": 13,
+        "stagePos": 10,
+        "textmap": {
+            "hash": -709354236
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ChargeAbilityDamageAdd_T_2"
+    },
+    {
+        "buffID": 40,
+        "buffIDGroup": 13,
+        "stagePos": 11,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 41,
+        "buffIDGroup": 13,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 42,
+        "buffIDGroup": 13,
+        "stagePos": 13,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 43,
+        "buffIDGroup": 13,
+        "stagePos": 14,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 44,
+        "buffIDGroup": 13,
+        "stagePos": 15,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 45,
+        "buffIDGroup": 13,
+        "stagePos": 15,
+        "textmap": {
+            "hash": 1224559110
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElementalDamageUp_T"
+    },
+    {
+        "buffID": 46,
+        "buffIDGroup": 21,
+        "stagePos": 1,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 47,
+        "buffIDGroup": 21,
+        "stagePos": 2,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 48,
+        "buffIDGroup": 21,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 49,
+        "buffIDGroup": 21,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 50,
+        "buffIDGroup": 21,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 51,
+        "buffIDGroup": 21,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 52,
+        "buffIDGroup": 21,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 53,
+        "buffIDGroup": 21,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 54,
+        "buffIDGroup": 21,
+        "stagePos": 7,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 55,
+        "buffIDGroup": 21,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 56,
+        "buffIDGroup": 21,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 57,
+        "buffIDGroup": 21,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 58,
+        "buffIDGroup": 22,
+        "stagePos": 1,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 59,
+        "buffIDGroup": 22,
+        "stagePos": 2,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 60,
+        "buffIDGroup": 22,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 61,
+        "buffIDGroup": 22,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 62,
+        "buffIDGroup": 22,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 63,
+        "buffIDGroup": 22,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 64,
+        "buffIDGroup": 22,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 65,
+        "buffIDGroup": 22,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 66,
+        "buffIDGroup": 22,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 67,
+        "buffIDGroup": 22,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 68,
+        "buffIDGroup": 22,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 69,
+        "buffIDGroup": 22,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 70,
+        "buffIDGroup": 22,
+        "stagePos": 11,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 71,
+        "buffIDGroup": 22,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 72,
+        "buffIDGroup": 22,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 73,
+        "buffIDGroup": 23,
+        "stagePos": 1,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 74,
+        "buffIDGroup": 23,
+        "stagePos": 2,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 75,
+        "buffIDGroup": 23,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 76,
+        "buffIDGroup": 23,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 77,
+        "buffIDGroup": 23,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 78,
+        "buffIDGroup": 23,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 79,
+        "buffIDGroup": 23,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 80,
+        "buffIDGroup": 23,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 81,
+        "buffIDGroup": 23,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 82,
+        "buffIDGroup": 23,
+        "stagePos": 9,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 83,
+        "buffIDGroup": 23,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 84,
+        "buffIDGroup": 23,
+        "stagePos": 10,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 85,
+        "buffIDGroup": 23,
+        "stagePos": 11,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 86,
+        "buffIDGroup": 23,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 87,
+        "buffIDGroup": 23,
+        "stagePos": 13,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 88,
+        "buffIDGroup": 23,
+        "stagePos": 14,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 89,
+        "buffIDGroup": 23,
+        "stagePos": 15,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 90,
+        "buffIDGroup": 23,
+        "stagePos": 15,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 91,
+        "buffIDGroup": 31,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 92,
+        "buffIDGroup": 31,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 93,
+        "buffIDGroup": 31,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 94,
+        "buffIDGroup": 31,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 95,
+        "buffIDGroup": 31,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 96,
+        "buffIDGroup": 31,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 97,
+        "buffIDGroup": 31,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 98,
+        "buffIDGroup": 31,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 99,
+        "buffIDGroup": 31,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 100,
+        "buffIDGroup": 31,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 101,
+        "buffIDGroup": 31,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 102,
+        "buffIDGroup": 31,
+        "stagePos": 9,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 103,
+        "buffIDGroup": 32,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 104,
+        "buffIDGroup": 32,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 105,
+        "buffIDGroup": 32,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 106,
+        "buffIDGroup": 32,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 107,
+        "buffIDGroup": 32,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 108,
+        "buffIDGroup": 32,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 109,
+        "buffIDGroup": 32,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 110,
+        "buffIDGroup": 32,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 111,
+        "buffIDGroup": 32,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 112,
+        "buffIDGroup": 32,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 113,
+        "buffIDGroup": 32,
+        "stagePos": 9,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 114,
+        "buffIDGroup": 32,
+        "stagePos": 10,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 115,
+        "buffIDGroup": 32,
+        "stagePos": 11,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 116,
+        "buffIDGroup": 32,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 117,
+        "buffIDGroup": 32,
+        "stagePos": 12,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 118,
+        "buffIDGroup": 33,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 119,
+        "buffIDGroup": 33,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 120,
+        "buffIDGroup": 33,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 121,
+        "buffIDGroup": 33,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 122,
+        "buffIDGroup": 33,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 123,
+        "buffIDGroup": 33,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 124,
+        "buffIDGroup": 33,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 125,
+        "buffIDGroup": 33,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 126,
+        "buffIDGroup": 33,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 127,
+        "buffIDGroup": 33,
+        "stagePos": 9,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 128,
+        "buffIDGroup": 33,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 129,
+        "buffIDGroup": 33,
+        "stagePos": 10,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 130,
+        "buffIDGroup": 33,
+        "stagePos": 11,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 131,
+        "buffIDGroup": 33,
+        "stagePos": 12,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 132,
+        "buffIDGroup": 33,
+        "stagePos": 13,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 133,
+        "buffIDGroup": 33,
+        "stagePos": 14,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 134,
+        "buffIDGroup": 33,
+        "stagePos": 15,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 135,
+        "buffIDGroup": 33,
+        "stagePos": 15,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 136,
+        "buffIDGroup": 90,
+        "stagePos": 1,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 137,
+        "buffIDGroup": 90,
+        "stagePos": 2,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 138,
+        "buffIDGroup": 90,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 139,
+        "buffIDGroup": 90,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 140,
+        "buffIDGroup": 90,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 141,
+        "buffIDGroup": 90,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 142,
+        "buffIDGroup": 90,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 143,
+        "buffIDGroup": 90,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 144,
+        "buffIDGroup": 90,
+        "stagePos": 7,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 145,
+        "buffIDGroup": 90,
+        "stagePos": 8,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 146,
+        "buffIDGroup": 90,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 147,
+        "buffIDGroup": 90,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    },
+    {
+        "buffID": 1000,
+        "buffIDGroup": 99,
+        "stagePos": 1,
+        "textmap": {
+            "hash": 544627412
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ComboDamageIncrease_T"
+    },
+    {
+        "buffID": 1001,
+        "buffIDGroup": 99,
+        "stagePos": 2,
+        "textmap": {
+            "hash": -343528774
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T"
+    },
+    {
+        "buffID": 1002,
+        "buffIDGroup": 99,
+        "stagePos": 3,
+        "textmap": {
+            "hash": 1515573859
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncreaseRangedDown_T"
+    },
+    {
+        "buffID": 1003,
+        "buffIDGroup": 99,
+        "stagePos": 4,
+        "textmap": {
+            "hash": 945941765
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElementalDamageUpOtherDamageDown_T"
+    },
+    {
+        "buffID": 1004,
+        "buffIDGroup": 99,
+        "stagePos": 5,
+        "textmap": {
+            "hash": 909542894
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T"
+    },
+    {
+        "buffID": 1005,
+        "buffIDGroup": 99,
+        "stagePos": 6,
+        "textmap": {
+            "hash": 96604865
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "QTEDamageUp_T"
+    },
+    {
+        "buffID": 1006,
+        "buffIDGroup": 99,
+        "stagePos": 7,
+        "textmap": {
+            "hash": -1247231994
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SummonCreatureDamageIncrease_T"
+    },
+    {
+        "buffID": 1007,
+        "buffIDGroup": 99,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -998723462
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WitchTimeDamageIncrease_T"
+    },
+    {
+        "buffID": 1008,
+        "buffIDGroup": 99,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 1009,
+        "buffIDGroup": 99,
+        "stagePos": 10,
+        "textmap": {
+            "hash": 1532256958
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncreaseOtherDown_T"
+    },
+    {
+        "buffID": 1010,
+        "buffIDGroup": 99,
+        "stagePos": 11,
+        "textmap": {
+            "hash": -58838639
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ChargeAbilityDamageAdd_T"
+    },
+    {
+        "buffID": 1011,
+        "buffIDGroup": 99,
+        "stagePos": 12,
+        "textmap": {
+            "hash": -1572442427
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T"
+    },
+    {
+        "buffID": 1012,
+        "buffIDGroup": 99,
+        "stagePos": 13,
+        "textmap": {
+            "hash": 825397464
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "AttachDebuffDamageUp_T"
+    },
+    {
+        "buffID": 1013,
+        "buffIDGroup": 99,
+        "stagePos": 1,
+        "textmap": {
+            "hash": -599064182
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ComboDamageIncrease_T_5"
+    },
+    {
+        "buffID": 1014,
+        "buffIDGroup": 99,
+        "stagePos": 2,
+        "textmap": {
+            "hash": 581332973
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MeleeDamageIncrease_T_2"
+    },
+    {
+        "buffID": 1015,
+        "buffIDGroup": 99,
+        "stagePos": 3,
+        "textmap": {
+            "hash": -1776530176
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "RangedDamageIncrease_T_2"
+    },
+    {
+        "buffID": 1016,
+        "buffIDGroup": 99,
+        "stagePos": 4,
+        "textmap": {
+            "hash": -253398388
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "SPupByAttack_T"
+    },
+    {
+        "buffID": 1017,
+        "buffIDGroup": 99,
+        "stagePos": 5,
+        "textmap": {
+            "hash": -1652002252
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "QTEDamageUp_T_2"
+    },
+    {
+        "buffID": 1018,
+        "buffIDGroup": 99,
+        "stagePos": 6,
+        "textmap": {
+            "hash": -998723462
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WitchTimeDamageIncrease_T"
+    },
+    {
+        "buffID": 1019,
+        "buffIDGroup": 99,
+        "stagePos": 7,
+        "textmap": {
+            "hash": 1160930878
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "WeakPointDamageIncrease_T"
+    },
+    {
+        "buffID": 1020,
+        "buffIDGroup": 99,
+        "stagePos": 8,
+        "textmap": {
+            "hash": -709354236
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ChargeAbilityDamageAdd_T_2"
+    },
+    {
+        "buffID": 1021,
+        "buffIDGroup": 99,
+        "stagePos": 9,
+        "textmap": {
+            "hash": 711318840
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "MonsterThrowWeekPoint_T_2"
+    },
+    {
+        "buffID": 1022,
+        "buffIDGroup": 99,
+        "stagePos": 10,
+        "textmap": {
+            "hash": -2102604255
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "UltradeModeDamageModify_T_2"
+    },
+    {
+        "buffID": 1023,
+        "buffIDGroup": 99,
+        "stagePos": 11,
+        "textmap": {
+            "hash": 1224559110
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElementalDamageUp_T"
+    },
+    {
+        "buffID": 1024,
+        "buffIDGroup": 99,
+        "stagePos": 12,
+        "textmap": {
+            "hash": -1044361090
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "ElfDamageUp_T"
+    },
+    {
+        "buffID": 1025,
+        "buffIDGroup": 99,
+        "stagePos": 12,
+        "textmap": {
+            "hash": 1215912870
+        },
+        "buffIcon": "SpriteOutput/StateIcon/State_Event",
+        "buffTag": "DamageIncrease_T"
+    }
+]

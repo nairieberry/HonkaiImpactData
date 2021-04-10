@@ -1,0 +1,6692 @@
+[
+    {
+        "ElfSkillID": 10101,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10102,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10103,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10201,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10202,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10203,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10203,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10203
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10203,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10203
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10203,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 56600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10203
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10301,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10302,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10303,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10304,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10301
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10304,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10304
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10304,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10304
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10304,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10304
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10304,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 134400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10304
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10305,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 44800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10304
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10305,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 59700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10305
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10305,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10305
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10305,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10305
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10305,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10305
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10306,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10302
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10306,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10306
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10306,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10306
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10306,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10306
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10306,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 134400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10306
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10307,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10302
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10307,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10307
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10307,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10307
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10307,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10307
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10307,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 134400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10307
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10308,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10303
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10308,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10308
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10308,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10308
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10308,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10308
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10308,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 134400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10308
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10309,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10308
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10309,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10309
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10309,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10309
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10309,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10309
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10309,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 134400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 10309
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10310,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 29900,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 3
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10310,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 44800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10310
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10310,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 59700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10310
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10310,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10310
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10311,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 29900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10310
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 3
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10311,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 44800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10311
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10311,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 59700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10311
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10311,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10311
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10312,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 29900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10311
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 3
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10312,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 44800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10312
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10312,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 59700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10312
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10312,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10312
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10313,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10312
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10313,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10313
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10313,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10313
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10313,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10313
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10314,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 74600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10309
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10314,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 89600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10314
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10314,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 104500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10314
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10314,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 119400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10314
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10601,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10602,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10603,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 15
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10604,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10604,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10604
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10604,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 10604
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10604,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 10604
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10801,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10802,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10803,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10804,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10901,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10902,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 10903,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 10904,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 11001,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 11002,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 0,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": []
+    },
+    {
+        "ElfSkillID": 11003,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 11004,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10101
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 85000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 95600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 101011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101011,
+        "elfSkillLv": 6,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 70,
+        "ScoinCost": 106200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 101011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101021,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10102
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101021,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101021,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 85000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 95600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 101022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101022,
+        "elfSkillLv": 6,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 70,
+        "ScoinCost": 106200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 101022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10103
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 85000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 95600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 101031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101031,
+        "elfSkillLv": 6,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 70,
+        "ScoinCost": 106200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 101031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 31900,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 42500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101033,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 31900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101033,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 42500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101033,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101033,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101034,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 31900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101034,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 42500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101034,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101034,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101035,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 53100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101035,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 63700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 101035
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101035,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 74300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 101035
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 101035,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 85000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 101035
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 21200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10201
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 28300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 35400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 102011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 102011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 65,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 102011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 21200,
+        "LevelUpPreSkill": [],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 28300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 35400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102031,
+        "elfSkillLv": 6,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 70,
+        "ScoinCost": 56600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 21200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 28300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 35400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102032,
+        "elfSkillLv": 6,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 70,
+        "ScoinCost": 56600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 21200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 28300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 35400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102033,
+        "elfSkillLv": 6,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 70,
+        "ScoinCost": 56600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 21200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 28300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 102034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 35400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 102034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 42400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 102034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 49500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 102034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 102034,
+        "elfSkillLv": 6,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 70,
+        "ScoinCost": 56600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 102034
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 36300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10601
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 65,
+        "ScoinCost": 145100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106012,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 36300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106012,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106012,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106013,
+        "elfSkillLv": 1,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 0,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106013,
+        "elfSkillLv": 2,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 50,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106013,
+        "elfSkillLv": 3,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 55,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106013,
+        "elfSkillLv": 4,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 60,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106013,
+        "elfSkillLv": 5,
+        "LevelUpStar": 1,
+        "NeedElfLevel": 65,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106021,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 36300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10602
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106021,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106021,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106022,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106022,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106022,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106022,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106022,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10603
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106031,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 145100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106031,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 163200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 18
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106032,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 126900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 14
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 145100,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 163200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 106033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 18
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106033,
+        "elfSkillLv": 6,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 70,
+        "ScoinCost": 181300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 5,
+                "SkillID": 106033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 20
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106041,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 36300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10604
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 4
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106041,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106041,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106042,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 54400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106042,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 72500,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 106042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106042,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 90700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 106042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 106042,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 108800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 106042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 12
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10801
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108012,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108012,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108012,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108013,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108013,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108013,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108013,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 155800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 17
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108013,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 175300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 19
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108021,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10802
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108021,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108021,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108022,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108022,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108022,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108022,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108022,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108023,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108023,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108023,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10803
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108031,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108031,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108032,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108041,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 58400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10804
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 6
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108041,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 77900,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108041,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108042,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 97400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108042,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 116800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 108042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108042,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 136300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 108042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108042,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 155800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 108042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 17
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 108042,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 175300,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 108042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 19
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10901
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 109011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109012,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109012,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109012,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109012,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109012,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 147700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 109012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109013,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109013,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109013,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109013,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109013,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 147700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 109013
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109021,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10902
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109021,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109021,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109022,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109022,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109022,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109022,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109023,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 12
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109023,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109023,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109023,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109023,
+        "elfSkillLv": 5,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 65,
+        "ScoinCost": 147700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 109023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10903
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109032,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 109032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109033,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109033,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109033,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109033,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109033
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109041,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 10904
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109041,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109041,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109041,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109042,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109042,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 109042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109042,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 109042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 109042,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 109042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110011,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 11001
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110011,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110011,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110011,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110011,
+        "elfSkillLv": 5,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 65,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 110011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110012,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110011
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110012,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110012,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110012,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110012,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 147700,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 110012
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 16
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 5
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110021,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 11002
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110021,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110021,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110022,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110021
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110022,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110022,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110022,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110023,
+        "elfSkillLv": 1,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110022
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110023,
+        "elfSkillLv": 2,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110023,
+        "elfSkillLv": 3,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 3
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110023,
+        "elfSkillLv": 4,
+        "LevelUpStar": 7,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110023
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 15
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 4
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110031,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 11003
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110031,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110031,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110032,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110031
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110032,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110032,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 9
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110032,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110032,
+        "elfSkillLv": 5,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 65,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 4,
+                "SkillID": 110032
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110041,
+        "elfSkillLv": 1,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 0,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 11004
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 5
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110041,
+        "elfSkillLv": 2,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 50,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 7
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110041,
+        "elfSkillLv": 3,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 55,
+        "ScoinCost": 114800,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110041,
+        "elfSkillLv": 4,
+        "LevelUpStar": 2,
+        "NeedElfLevel": 60,
+        "ScoinCost": 131200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 1
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110042,
+        "elfSkillLv": 1,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 0,
+        "ScoinCost": 49200,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110041
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 8
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 7
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110042,
+        "elfSkillLv": 2,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 50,
+        "ScoinCost": 65600,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 1,
+                "SkillID": 110042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 10
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110042,
+        "elfSkillLv": 3,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 55,
+        "ScoinCost": 82000,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 2,
+                "SkillID": 110042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 11
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    },
+    {
+        "ElfSkillID": 110042,
+        "elfSkillLv": 4,
+        "LevelUpStar": 4,
+        "NeedElfLevel": 60,
+        "ScoinCost": 98400,
+        "LevelUpPreSkill": [
+            {
+                "Lv": 3,
+                "SkillID": 110042
+            }
+        ],
+        "LevelUpMaterialList": [
+            {
+                "MaterialID": 2008,
+                "Number": 13
+            },
+            {
+                "MaterialID": 8641,
+                "Number": 2
+            }
+        ]
+    }
+]

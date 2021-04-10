@@ -1,0 +1,22 @@
+[
+    {
+        "FatherID": 1,
+        "ID": 0,
+        "TabName": "ReplayLobby_ExBoss_SubTab_GameFriends"
+    },
+    {
+        "FatherID": 1,
+        "ID": 1,
+        "TabName": "ReplayLobby_ExBoss_SubTab_FleetMembers"
+    },
+    {
+        "FatherID": 2,
+        "ID": 2,
+        "TabName": "ReplayLobby_ExBoss_Save"
+    },
+    {
+        "FatherID": 2,
+        "ID": 3,
+        "TabName": "ReplayLobby_ExBoss_Download"
+    }
+]

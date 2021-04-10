@@ -1,0 +1,164 @@
+[
+    {
+        "faqListID": 1001,
+        "descText": {
+            "hash": -203420639
+        },
+        "titleText": {
+            "hash": -1233585862
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Valkyrja",
+        "relatedFaqID": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1006,
+            1007
+        ]
+    },
+    {
+        "faqListID": 1002,
+        "descText": {
+            "hash": -203420638
+        },
+        "titleText": {
+            "hash": -1233585861
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Weapon",
+        "relatedFaqID": [
+            2001,
+            2004,
+            2006,
+            2007,
+            2008,
+            2009
+        ]
+    },
+    {
+        "faqListID": 1003,
+        "descText": {
+            "hash": -203420637
+        },
+        "titleText": {
+            "hash": -1233585860
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Stigmata",
+        "relatedFaqID": [
+            3001,
+            3003,
+            3004,
+            3005,
+            3006,
+            3007
+        ]
+    },
+    {
+        "faqListID": 1004,
+        "descText": {
+            "hash": -203420636
+        },
+        "titleText": {
+            "hash": -1233585859
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Combat",
+        "relatedFaqID": [
+            4001,
+            4002,
+            4003,
+            4004,
+            4005,
+            4006,
+            4007,
+            4008
+        ]
+    },
+    {
+        "faqListID": 1005,
+        "descText": {
+            "hash": -203420635
+        },
+        "titleText": {
+            "hash": -1233585858
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Upgrade",
+        "relatedFaqID": [
+            5001,
+            5002,
+            5003,
+            5004
+        ]
+    },
+    {
+        "faqListID": 1006,
+        "descText": {
+            "hash": -203420634
+        },
+        "titleText": {
+            "hash": -1233585857
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Friend",
+        "relatedFaqID": [
+            6001,
+            6002,
+            6003,
+            6005
+        ]
+    },
+    {
+        "faqListID": 1007,
+        "descText": {
+            "hash": -203420633
+        },
+        "titleText": {
+            "hash": -1233585856
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_SC",
+        "relatedFaqID": [
+            7001,
+            7002,
+            7003,
+            7004,
+            7005
+        ]
+    },
+    {
+        "faqListID": 1008,
+        "descText": {
+            "hash": -203420632
+        },
+        "titleText": {
+            "hash": -1233585855
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_HC",
+        "relatedFaqID": [
+            8001,
+            8002,
+            8003,
+            8004
+        ]
+    },
+    {
+        "faqListID": 1009,
+        "descText": {
+            "hash": -203420631
+        },
+        "titleText": {
+            "hash": -1233585854
+        },
+        "faqBGIcon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_BG",
+        "icon": "SpriteOutput/NewbieGuide/InstructionsIcon/IconFE_Guide",
+        "relatedFaqID": [
+            9001,
+            9002
+        ]
+    }
+]

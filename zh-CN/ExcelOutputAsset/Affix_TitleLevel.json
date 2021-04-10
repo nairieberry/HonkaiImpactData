@@ -1,0 +1,237 @@
+[
+    {
+        "breakExpNeed": 2000,
+        "inheritNeedCoin": 1000,
+        "qualityId": 1,
+        "resetNeedCoin": 500,
+        "breakMaterialNeed": [
+            {
+                "item1": 8302,
+                "item2": 2
+            }
+        ],
+        "disjointGetMaterials": [],
+        "inheritItemNeed": [
+            {
+                "item1": 8201,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 1
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 4000,
+        "inheritNeedCoin": 5000,
+        "qualityId": 2,
+        "resetNeedCoin": 1000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8202,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8202,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8202,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 1
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 8000,
+        "inheritNeedCoin": 10000,
+        "qualityId": 3,
+        "resetNeedCoin": 1500,
+        "breakMaterialNeed": [
+            {
+                "item1": 8203,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8203,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8203,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 1
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 14000,
+        "inheritNeedCoin": 20000,
+        "qualityId": 4,
+        "resetNeedCoin": 2000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8204,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8204,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8204,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 1
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 22000,
+        "inheritNeedCoin": 40000,
+        "qualityId": 5,
+        "resetNeedCoin": 3000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8205,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8205,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8205,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 1
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 32000,
+        "inheritNeedCoin": 60000,
+        "qualityId": 6,
+        "resetNeedCoin": 5000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8206,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8206,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8206,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 2
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 44000,
+        "inheritNeedCoin": 80000,
+        "qualityId": 7,
+        "resetNeedCoin": 8000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8207,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8207,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8207,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 2
+            }
+        ]
+    },
+    {
+        "breakExpNeed": 58000,
+        "inheritNeedCoin": 100000,
+        "qualityId": 8,
+        "resetNeedCoin": 10000,
+        "breakMaterialNeed": [
+            {
+                "item1": 8208,
+                "item2": 3
+            }
+        ],
+        "disjointGetMaterials": [
+            {
+                "item1": 8208,
+                "item2": 1
+            }
+        ],
+        "inheritItemNeed": [
+            {
+                "item1": 8208,
+                "item2": 1
+            }
+        ],
+        "resetItemNeed": [
+            {
+                "item1": 8002,
+                "item2": 3
+            }
+        ]
+    }
+]

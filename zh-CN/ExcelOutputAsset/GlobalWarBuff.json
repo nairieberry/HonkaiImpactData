@@ -1,0 +1,44 @@
+[
+    {
+        "BuffID": 1,
+        "BuffDesc": {
+            "hash": 551300204
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_DLCBurn"
+    },
+    {
+        "BuffID": 2,
+        "BuffDesc": {
+            "hash": 551300205
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_DLCVulnerable"
+    },
+    {
+        "BuffID": 3,
+        "BuffDesc": {
+            "hash": 551300206
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Frozen"
+    },
+    {
+        "BuffID": 4,
+        "BuffDesc": {
+            "hash": 551300207
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_FukaC2Kiva"
+    },
+    {
+        "BuffID": 5,
+        "BuffDesc": {
+            "hash": 551300208
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_FragileAddDuration"
+    },
+    {
+        "BuffID": 6,
+        "BuffDesc": {
+            "hash": 551300209
+        },
+        "BuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Fragile"
+    }
+]

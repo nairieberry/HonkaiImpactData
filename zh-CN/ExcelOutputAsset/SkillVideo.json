@@ -1,0 +1,74 @@
+[
+    {
+        "AvatarID": 101,
+        "ID": 1,
+        "SkillID": 12,
+        "SkillType": 0,
+        "SubSkillID": 0,
+        "TutoriallevelID": 901101,
+        "TutorialVideoID": 1,
+        "TutorialDesc": {
+            "hash": 0
+        }
+    },
+    {
+        "AvatarID": 101,
+        "ID": 2,
+        "SkillID": 0,
+        "SkillType": 1,
+        "SubSkillID": 104,
+        "TutoriallevelID": 901007,
+        "TutorialVideoID": 2,
+        "TutorialDesc": {
+            "hash": 1094048618
+        }
+    },
+    {
+        "AvatarID": 201,
+        "ID": 3,
+        "SkillID": 52,
+        "SkillType": 0,
+        "SubSkillID": 0,
+        "TutoriallevelID": 901102,
+        "TutorialVideoID": 3,
+        "TutorialDesc": {
+            "hash": 0
+        }
+    },
+    {
+        "AvatarID": 201,
+        "ID": 4,
+        "SkillID": 0,
+        "SkillType": 1,
+        "SubSkillID": 504,
+        "TutoriallevelID": 901007,
+        "TutorialVideoID": 4,
+        "TutorialDesc": {
+            "hash": 1094048619
+        }
+    },
+    {
+        "AvatarID": 301,
+        "ID": 5,
+        "SkillID": 91,
+        "SkillType": 0,
+        "SubSkillID": 0,
+        "TutoriallevelID": 901103,
+        "TutorialVideoID": 5,
+        "TutorialDesc": {
+            "hash": 0
+        }
+    },
+    {
+        "AvatarID": 301,
+        "ID": 6,
+        "SkillID": 0,
+        "SkillType": 1,
+        "SubSkillID": 904,
+        "TutoriallevelID": 901104,
+        "TutorialVideoID": 6,
+        "TutorialDesc": {
+            "hash": 1094048620
+        }
+    }
+]

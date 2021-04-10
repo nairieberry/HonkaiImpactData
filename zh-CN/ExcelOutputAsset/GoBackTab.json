@@ -1,0 +1,130 @@
+[
+    {
+        "SortId": 1,
+        "TabID": 1,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconLimitRegression",
+        "TabName": "Returnee_Limitedpage_Name",
+        "OpenScheduleList": []
+    },
+    {
+        "SortId": 2,
+        "TabID": 2,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeMainTab",
+        "TabName": "Returnee_Mainpage_Name",
+        "OpenScheduleList": []
+    },
+    {
+        "SortId": 3,
+        "TabID": 3,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeSignInTab",
+        "TabName": "Returnee_LoginReward_Name",
+        "OpenScheduleList": [
+            1015,
+            1016,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022,
+            1023,
+            1024,
+            1025,
+            1026,
+            1027
+        ]
+    },
+    {
+        "SortId": 4,
+        "TabID": 4,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeMissionTab",
+        "TabName": "Returnee_Mission_Name",
+        "OpenScheduleList": [
+            1012,
+            1013,
+            1014,
+            1015,
+            1016,
+            1017,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022,
+            1023,
+            1024,
+            1025,
+            1026,
+            1027
+        ]
+    },
+    {
+        "SortId": 9,
+        "TabID": 5,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeRecommendTab",
+        "TabName": "Returnee_Recommend_Name",
+        "OpenScheduleList": []
+    },
+    {
+        "SortId": 6,
+        "TabID": 6,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeShopTab",
+        "TabName": "Returnee_Shop_Name",
+        "OpenScheduleList": [
+            1015,
+            1016,
+            1019,
+            1021,
+            1023,
+            1025,
+            1026
+        ]
+    },
+    {
+        "SortId": 10,
+        "TabID": 7,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeSocialTab",
+        "TabName": "Returnee_Social_Name",
+        "OpenScheduleList": []
+    },
+    {
+        "SortId": 5,
+        "TabID": 8,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeMainTab",
+        "TabName": "Returnee_Gacha_Name",
+        "OpenScheduleList": [
+            1013,
+            1014,
+            1017
+        ]
+    },
+    {
+        "SortId": 8,
+        "TabID": 9,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconReturneeMainTab",
+        "TabName": "Returnee_Resource_Name",
+        "OpenScheduleList": []
+    },
+    {
+        "SortId": 11,
+        "TabID": 11,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconInLoginTab",
+        "TabName": "Returnee_Weblink_Name",
+        "OpenScheduleList": [
+            1025,
+            1026,
+            1027
+        ]
+    },
+    {
+        "SortId": 7,
+        "TabID": 12,
+        "TabIcon": "SpriteOutput/IntegrationTabIcons/IconCartTab",
+        "TabName": "Returnee_Mall_Name",
+        "OpenScheduleList": [
+            1021,
+            1023,
+            1025,
+            1026
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "BackgroundCGID": 44070,
+        "CGID": 0,
+        "ClientExchangeCoinID": 114652,
+        "CurrencyID": 114653,
+        "CurrencyMax": 100000,
+        "DanmakuID": 100,
+        "GlobalRewardMinCurrency": 0,
+        "ID": 103,
+        "PerformID": 8,
+        "PlotID": 40838,
+        "RewardShowID": 11,
+        "ShopType": 302,
+        "TicketDailyMax": 5,
+        "TicketID": 114651,
+        "GachaLink": "<type=\"112|39\" text=\"\"/>",
+        "PhotoOpenTime": "2020-10-08 03:59:59",
+        "WebLink": "http://bh3.mihoyo.com/gl/activity/detail/8391/?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "AreaList": [
+            11
+        ],
+        "Tutorial": [
+            {
+                "Content": "Tutorial_4thAnv_Desc_1001",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/4thAnvTutorial01",
+                "Title": "Tutorial_4thAnv_Title_1001"
+            },
+            {
+                "Content": "Tutorial_4thAnv_Desc_1002",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/4thAnvTutorial02",
+                "Title": "Tutorial_4thAnv_Title_1002"
+            },
+            {
+                "Content": "Tutorial_4thAnv_Desc_1003",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/4thAnvTutorial03",
+                "Title": "Tutorial_4thAnv_Title_1003"
+            },
+            {
+                "Content": "Tutorial_4thAnv_Desc_1004",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/4thAnvTutorial04",
+                "Title": "Tutorial_4thAnv_Title_1004"
+            },
+            {
+                "Content": "Tutorial_4thAnv_Desc_1005",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/4thAnvTutorial05",
+                "Title": "Tutorial_4thAnv_Title_1005"
+            }
+        ],
+        "MissionList": [
+            84138,
+            84129,
+            84130,
+            84131,
+            84132,
+            84133,
+            84134,
+            84110,
+            84111,
+            84112,
+            84113,
+            84114,
+            84115,
+            84116,
+            84117,
+            84118,
+            84119,
+            84120,
+            84121,
+            84122,
+            84123,
+            84124,
+            84125,
+            84148,
+            84150
+        ],
+        "IsolatePointList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    }
+]

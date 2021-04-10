@@ -1,0 +1,29 @@
+[
+    {
+        "Operation": 2,
+        "Key": 901,
+        "Param": 1,
+        "RpgID": 1100,
+        "ValueModID": 1,
+        "EntityIDList": [],
+        "bits1": 1
+    },
+    {
+        "Operation": 1,
+        "Key": 902,
+        "Param": 1,
+        "RpgID": 1100,
+        "ValueModID": 2,
+        "EntityIDList": [],
+        "bits1": 1
+    },
+    {
+        "Operation": 8,
+        "Key": 901,
+        "Param": 903,
+        "RpgID": 1100,
+        "ValueModID": 3,
+        "EntityIDList": [],
+        "bits1": 1
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "EntranceID": 1,
+        "LinkType": 0,
+        "Weight": 2,
+        "DescText": {
+            "hash": 1078304443
+        },
+        "EntranceText": {
+            "hash": 1435038956
+        },
+        "IconPath": "event/Immediately/MeiWarmUp/IntroduceIcon_truecolor",
+        "LinkUrl": "0",
+        "LinkParams": [
+            0
+        ]
+    },
+    {
+        "EntranceID": 2,
+        "LinkType": 63,
+        "Weight": 1,
+        "DescText": {
+            "hash": 0
+        },
+        "EntranceText": {
+            "hash": 1435038957
+        },
+        "IconPath": "event/Immediately/MeiWarmUp/StageIcon_truecolor",
+        "LinkUrl": "0",
+        "LinkParams": [
+            40000059
+        ]
+    }
+]

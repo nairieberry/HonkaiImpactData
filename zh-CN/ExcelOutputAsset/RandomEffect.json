@@ -1,0 +1,1322 @@
+[
+    {
+        "EffectID": 1,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524353
+        },
+        "EffectText": {
+            "hash": 1785335459
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 2,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524354
+        },
+        "EffectText": {
+            "hash": 1785335460
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 3,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524355
+        },
+        "EffectText": {
+            "hash": 1785335461
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 4,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524356
+        },
+        "EffectText": {
+            "hash": 1785335462
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 5,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524357
+        },
+        "EffectText": {
+            "hash": 1785335463
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 6,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524358
+        },
+        "EffectText": {
+            "hash": 1785335464
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 7,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524359
+        },
+        "EffectText": {
+            "hash": 1785335465
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff06",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff06"
+    },
+    {
+        "EffectID": 8,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524360
+        },
+        "EffectText": {
+            "hash": 1785335466
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 9,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1609524361
+        },
+        "EffectText": {
+            "hash": 1785335467
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 10,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352561
+        },
+        "EffectText": {
+            "hash": -489175571
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 11,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352560
+        },
+        "EffectText": {
+            "hash": -489175570
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 12,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352559
+        },
+        "EffectText": {
+            "hash": -489175569
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 13,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352558
+        },
+        "EffectText": {
+            "hash": -489175568
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 14,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352557
+        },
+        "EffectText": {
+            "hash": -489175567
+        },
+        "EffectColor": "#4FC3E2FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 15,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352556
+        },
+        "EffectText": {
+            "hash": -489175566
+        },
+        "EffectColor": "#4FC3E3FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 16,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352555
+        },
+        "EffectText": {
+            "hash": -489175565
+        },
+        "EffectColor": "#4FC3E4FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 17,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352554
+        },
+        "EffectText": {
+            "hash": -489175564
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 18,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352553
+        },
+        "EffectText": {
+            "hash": -489175563
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 19,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352552
+        },
+        "EffectText": {
+            "hash": -489175562
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 20,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352530
+        },
+        "EffectText": {
+            "hash": -489175540
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff04",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff04"
+    },
+    {
+        "EffectID": 21,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352529
+        },
+        "EffectText": {
+            "hash": -489175539
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 22,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352528
+        },
+        "EffectText": {
+            "hash": -489175538
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack"
+    },
+    {
+        "EffectID": 23,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352527
+        },
+        "EffectText": {
+            "hash": -489175537
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 24,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352526
+        },
+        "EffectText": {
+            "hash": -489175536
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover"
+    },
+    {
+        "EffectID": 25,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352525
+        },
+        "EffectText": {
+            "hash": -489175535
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover"
+    },
+    {
+        "EffectID": 26,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352524
+        },
+        "EffectText": {
+            "hash": -489175534
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004",
+        "StageEffectIcon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004"
+    },
+    {
+        "EffectID": 27,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352523
+        },
+        "EffectText": {
+            "hash": -489175533
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004",
+        "StageEffectIcon": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004"
+    },
+    {
+        "EffectID": 28,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352522
+        },
+        "EffectText": {
+            "hash": -489175532
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 29,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352521
+        },
+        "EffectText": {
+            "hash": -489175531
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 30,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352499
+        },
+        "EffectText": {
+            "hash": -489175509
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 31,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352498
+        },
+        "EffectText": {
+            "hash": -489175508
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack"
+    },
+    {
+        "EffectID": 32,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352497
+        },
+        "EffectText": {
+            "hash": -489175507
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 33,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352496
+        },
+        "EffectText": {
+            "hash": -489175506
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack"
+    },
+    {
+        "EffectID": 34,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352495
+        },
+        "EffectText": {
+            "hash": -489175505
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 35,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352494
+        },
+        "EffectText": {
+            "hash": -489175504
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack"
+    },
+    {
+        "EffectID": 36,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352493
+        },
+        "EffectText": {
+            "hash": -489175503
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 37,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352492
+        },
+        "EffectText": {
+            "hash": -489175502
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 38,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352491
+        },
+        "EffectText": {
+            "hash": -489175501
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 39,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352490
+        },
+        "EffectText": {
+            "hash": -489175500
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+        "StageEffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum"
+    },
+    {
+        "EffectID": 40,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352468
+        },
+        "EffectText": {
+            "hash": -489175478
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff01",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff01"
+    },
+    {
+        "EffectID": 41,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352467
+        },
+        "EffectText": {
+            "hash": -489175477
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 42,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352466
+        },
+        "EffectText": {
+            "hash": -489175476
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 43,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352465
+        },
+        "EffectText": {
+            "hash": -489175475
+        },
+        "EffectColor": "#4FC3E5FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff05"
+    },
+    {
+        "EffectID": 44,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 3,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352464
+        },
+        "EffectText": {
+            "hash": -489175474
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+        "StageEffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics"
+    },
+    {
+        "EffectID": 45,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352463
+        },
+        "EffectText": {
+            "hash": -1946191294
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp"
+    },
+    {
+        "EffectID": 46,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352462
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration"
+    },
+    {
+        "EffectID": 47,
+        "EffectMaxLevel": 3,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352461
+        },
+        "EffectText": {
+            "hash": -1946191294
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk"
+    },
+    {
+        "EffectID": 48,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352460
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp"
+    },
+    {
+        "EffectID": 49,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352459
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration"
+    },
+    {
+        "EffectID": 50,
+        "EffectMaxLevel": 3,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352437
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk"
+    },
+    {
+        "EffectID": 51,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352436
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_ChargeAttackUp"
+    },
+    {
+        "EffectID": 52,
+        "EffectMaxLevel": 2,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352435
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AlliedCriticalUpDuration"
+    },
+    {
+        "EffectID": 53,
+        "EffectMaxLevel": 3,
+        "EffectQuality": 4,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": -1644352434
+        },
+        "EffectText": {
+            "hash": -1946190333
+        },
+        "EffectColor": "#4FC3E6FF",
+        "EffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk",
+        "StageEffectIcon": "SpriteOutput/InLevel/BuffIcon/Buff_Sakura_NJ_ExChargeAtk"
+    },
+    {
+        "EffectID": 100,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678209
+        },
+        "EffectText": {
+            "hash": 2015426531
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 101,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678210
+        },
+        "EffectText": {
+            "hash": 2015426532
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 102,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678211
+        },
+        "EffectText": {
+            "hash": 2015426533
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 103,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678212
+        },
+        "EffectText": {
+            "hash": 2015426534
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 104,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678213
+        },
+        "EffectText": {
+            "hash": 2015426535
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/OpenWorld/QuestBossIcon/SP_010_SP_014",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 105,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678214
+        },
+        "EffectText": {
+            "hash": 2015426536
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 106,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678215
+        },
+        "EffectText": {
+            "hash": 2015426537
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 107,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678216
+        },
+        "EffectText": {
+            "hash": 2015426538
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 108,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678217
+        },
+        "EffectText": {
+            "hash": 2015426539
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 109,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678218
+        },
+        "EffectText": {
+            "hash": 2015426540
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 110,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678240
+        },
+        "EffectText": {
+            "hash": 2015426562
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 111,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 4,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678241
+        },
+        "EffectText": {
+            "hash": 2015426563
+        },
+        "EffectColor": "#C74FE1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 112,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 2,
+        "EffectName": {
+            "hash": 564678242
+        },
+        "EffectText": {
+            "hash": 2015426564
+        },
+        "EffectColor": "#F2BA55FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 1001,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894913
+        },
+        "EffectText": {
+            "hash": -1704155617
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_FireAttack"
+    },
+    {
+        "EffectID": 1002,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894914
+        },
+        "EffectText": {
+            "hash": -1704155616
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_IceAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_IceAttack"
+    },
+    {
+        "EffectID": 1003,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894915
+        },
+        "EffectText": {
+            "hash": -1704155615
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack"
+    },
+    {
+        "EffectID": 1004,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894916
+        },
+        "EffectText": {
+            "hash": -1704155614
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_GreatIceAttack",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_GreatIceAttack"
+    },
+    {
+        "EffectID": 1005,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894917
+        },
+        "EffectText": {
+            "hash": -1704155613
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackScaleUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackScaleUp"
+    },
+    {
+        "EffectID": 1006,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894918
+        },
+        "EffectText": {
+            "hash": -1704155612
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackBlock",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackBlock"
+    },
+    {
+        "EffectID": 1007,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894919
+        },
+        "EffectText": {
+            "hash": -1704155611
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 1008,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894920
+        },
+        "EffectText": {
+            "hash": -1704155610
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackScaleUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackScaleUp"
+    },
+    {
+        "EffectID": 1009,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894921
+        },
+        "EffectText": {
+            "hash": -1704155609
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackThrough",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_AttackThrough"
+    },
+    {
+        "EffectID": 1010,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894943
+        },
+        "EffectText": {
+            "hash": -1704155587
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DamageUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DamageUp"
+    },
+    {
+        "EffectID": 1011,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894944
+        },
+        "EffectText": {
+            "hash": -1704155586
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LuckUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LuckUp"
+    },
+    {
+        "EffectID": 1012,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894945
+        },
+        "EffectText": {
+            "hash": -1704155585
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 1013,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894946
+        },
+        "EffectText": {
+            "hash": -1704155584
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_HealByKill",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_HealByKill"
+    },
+    {
+        "EffectID": 1014,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894947
+        },
+        "EffectText": {
+            "hash": -1704155583
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_HpUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_HpUp"
+    },
+    {
+        "EffectID": 1015,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894948
+        },
+        "EffectText": {
+            "hash": -1704155582
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_Recover"
+    },
+    {
+        "EffectID": 1016,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894949
+        },
+        "EffectText": {
+            "hash": -1704155581
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_EscapeTimeDown",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_EscapeTimeDown"
+    },
+    {
+        "EffectID": 1017,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894950
+        },
+        "EffectText": {
+            "hash": -1704155580
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 1018,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894951
+        },
+        "EffectText": {
+            "hash": -1704155579
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff03",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff03"
+    },
+    {
+        "EffectID": 1019,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894952
+        },
+        "EffectText": {
+            "hash": -1704155578
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_BulletUp",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_BulletUp"
+    },
+    {
+        "EffectID": 1020,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894974
+        },
+        "EffectText": {
+            "hash": -1704155556
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathFire",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathFire"
+    },
+    {
+        "EffectID": 1021,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894975
+        },
+        "EffectText": {
+            "hash": -1704155555
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathFrozen",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathFrozen"
+    },
+    {
+        "EffectID": 1022,
+        "EffectMaxLevel": 1,
+        "EffectQuality": 5,
+        "EffectType": 1,
+        "EffectName": {
+            "hash": 1153894976
+        },
+        "EffectText": {
+            "hash": -1704155554
+        },
+        "EffectColor": "#4FC3E1FF",
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathLighting",
+        "StageEffectIcon": "SpriteOutput/RandomBuff/RandomBuff_DeathLighting"
+    }
+]

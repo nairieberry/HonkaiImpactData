@@ -1,0 +1,1452 @@
+[
+    {
+        "areaId": 102,
+        "isOutSide": 1,
+        "sectionID": 1000,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_OutSide",
+        "coordinateList": [
+            -4.3,
+            0.0,
+            -4.0
+        ],
+        "coordinateOffsetList": [
+            35.0,
+            0.0,
+            37.0
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 102,
+        "isOutSide": 0,
+        "sectionID": 1001,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_1F",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 102,
+        "isOutSide": 0,
+        "sectionID": 1002,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_2F",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 102,
+        "isOutSide": 0,
+        "sectionID": 1003,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_3F",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 102,
+        "isOutSide": 0,
+        "sectionID": 1004,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_4F",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 102,
+        "isOutSide": 0,
+        "sectionID": 1005,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap03",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map03_4F",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 101,
+        "isOutSide": 1,
+        "sectionID": 1010,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap01",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map01_OutSide",
+        "coordinateList": [
+            -1.571,
+            0.0,
+            -1.288
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 201,
+        "isOutSide": 1,
+        "sectionID": 1020,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap04",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap04",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map04_OutSide",
+        "coordinateList": [
+            1.71428,
+            1.0,
+            1.6
+        ],
+        "coordinateOffsetList": [
+            -25.0,
+            0.0,
+            44.0
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 202,
+        "isOutSide": 1,
+        "sectionID": 1030,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap05",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map05_OutSide",
+        "coordinateList": [
+            1.775,
+            1.0,
+            1.79222226
+        ],
+        "coordinateOffsetList": [
+            -32.5,
+            0.0,
+            14.80967
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 203,
+        "isOutSide": 1,
+        "sectionID": 1040,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap05",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map05_OutSide",
+        "coordinateList": [
+            1.775,
+            1.0,
+            1.79222226
+        ],
+        "coordinateOffsetList": [
+            -32.5,
+            0.0,
+            14.80967
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 1111,
+        "isOutSide": 1,
+        "sectionID": 1051,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap07",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap07",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map07_OutSide",
+        "coordinateList": [
+            -1.6592,
+            1.0,
+            -1.68751
+        ],
+        "coordinateOffsetList": [
+            671.1123,
+            0.0,
+            103.514847
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 1121,
+        "isOutSide": 1,
+        "sectionID": 1052,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap07",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap07",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map07_OutSide",
+        "coordinateList": [
+            -1.6592,
+            1.0,
+            -1.68751
+        ],
+        "coordinateOffsetList": [
+            671.1123,
+            0.0,
+            103.514847
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 1131,
+        "isOutSide": 1,
+        "sectionID": 1053,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap07",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap07",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map07_OutSide",
+        "coordinateList": [
+            -1.6592,
+            1.0,
+            -1.68751
+        ],
+        "coordinateOffsetList": [
+            671.1123,
+            0.0,
+            103.514847
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 1141,
+        "isOutSide": 1,
+        "sectionID": 1054,
+        "rotationOffset": 0.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/OWMap07",
+        "spawnPointAssetPath": "Data/OpenWorld/OWMap07",
+        "uiAssetPath": "SpriteOutput/OpenWorld/Map/Floor/OW_Map07_OutSide",
+        "coordinateList": [
+            -1.6592,
+            1.0,
+            -1.68751
+        ],
+        "coordinateOffsetList": [
+            671.1123,
+            0.0,
+            103.514847
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3011,
+        "isOutSide": 1,
+        "sectionID": 1060,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap01",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map01",
+        "coordinateList": [
+            3.08671,
+            1.0,
+            3.001871
+        ],
+        "coordinateOffsetList": [
+            21.64767,
+            0.0,
+            -21.03272
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3012,
+        "isOutSide": 1,
+        "sectionID": 1061,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap02",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap02",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map02",
+        "coordinateList": [
+            3.422627,
+            1.0,
+            3.36386
+        ],
+        "coordinateOffsetList": [
+            12.0148,
+            0.0,
+            1.324522
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3013,
+        "isOutSide": 1,
+        "sectionID": 1062,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap03",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map03",
+        "coordinateList": [
+            3.867288,
+            1.0,
+            3.609895
+        ],
+        "coordinateOffsetList": [
+            4.149231,
+            0.0,
+            -34.35238
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3014,
+        "isOutSide": 1,
+        "sectionID": 1063,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap04",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap04",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map04",
+        "coordinateList": [
+            8.489785,
+            1.0,
+            8.046192
+        ],
+        "coordinateOffsetList": [
+            -0.2710833,
+            0.0,
+            1.133179
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3015,
+        "isOutSide": 1,
+        "sectionID": 1064,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap_BOSS",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map05",
+        "coordinateList": [
+            5.971326,
+            1.0,
+            5.916268
+        ],
+        "coordinateOffsetList": [
+            0.5293689,
+            0.0,
+            0.5336344
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 3016,
+        "isOutSide": 1,
+        "sectionID": 1065,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap_BOSS",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map05",
+        "coordinateList": [
+            5.971326,
+            1.0,
+            5.916268
+        ],
+        "coordinateOffsetList": [
+            0.5293689,
+            0.0,
+            0.5336344
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 3017,
+        "isOutSide": 1,
+        "sectionID": 1066,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap_BOSS",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map05",
+        "coordinateList": [
+            5.971326,
+            1.0,
+            5.916268
+        ],
+        "coordinateOffsetList": [
+            0.5293689,
+            0.0,
+            0.5336344
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 3018,
+        "isOutSide": 1,
+        "sectionID": 1067,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap_BOSS",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map05",
+        "coordinateList": [
+            5.971326,
+            1.0,
+            5.916268
+        ],
+        "coordinateOffsetList": [
+            0.5293689,
+            0.0,
+            0.5336344
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 3021,
+        "isOutSide": 1,
+        "sectionID": 1070,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap01",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map01",
+        "coordinateList": [
+            3.08671,
+            1.0,
+            3.001871
+        ],
+        "coordinateOffsetList": [
+            21.64767,
+            0.0,
+            -21.03272
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3022,
+        "isOutSide": 1,
+        "sectionID": 1071,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap02",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap02",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map02",
+        "coordinateList": [
+            3.422627,
+            1.0,
+            3.36386
+        ],
+        "coordinateOffsetList": [
+            12.0148,
+            0.0,
+            1.324522
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3023,
+        "isOutSide": 1,
+        "sectionID": 1072,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap03",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap03",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map03",
+        "coordinateList": [
+            3.867288,
+            1.0,
+            3.609895
+        ],
+        "coordinateOffsetList": [
+            4.149231,
+            0.0,
+            -34.35238
+        ],
+        "mapSize": [
+            760.0,
+            760.0
+        ]
+    },
+    {
+        "areaId": 3024,
+        "isOutSide": 1,
+        "sectionID": 1074,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWEndlessMap/OWEndlessMap05",
+        "spawnPointAssetPath": "Data/OpenWorld/OWEndlessMap_BOSS",
+        "uiAssetPath": "SpriteOutput/OWEndless/Map/OWEndless_Map05",
+        "coordinateList": [
+            5.971326,
+            1.0,
+            5.916268
+        ],
+        "coordinateOffsetList": [
+            0.5293689,
+            0.0,
+            0.5336344
+        ],
+        "mapSize": [
+            512.0,
+            512.0
+        ]
+    },
+    {
+        "areaId": 4011,
+        "isOutSide": 1,
+        "sectionID": 1101,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_Explore",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4012,
+        "isOutSide": 1,
+        "sectionID": 1111,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_Explore",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4022,
+        "isOutSide": 1,
+        "sectionID": 1112,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4023,
+        "isOutSide": 1,
+        "sectionID": 1113,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4024,
+        "isOutSide": 1,
+        "sectionID": 1114,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4025,
+        "isOutSide": 1,
+        "sectionID": 1115,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4026,
+        "isOutSide": 1,
+        "sectionID": 1116,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4027,
+        "isOutSide": 1,
+        "sectionID": 1117,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4028,
+        "isOutSide": 1,
+        "sectionID": 1118,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4029,
+        "isOutSide": 1,
+        "sectionID": 1119,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4030,
+        "isOutSide": 1,
+        "sectionID": 1120,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4031,
+        "isOutSide": 1,
+        "sectionID": 1121,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4101,
+        "isOutSide": 1,
+        "sectionID": 1122,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4102,
+        "isOutSide": 1,
+        "sectionID": 1123,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4103,
+        "isOutSide": 1,
+        "sectionID": 1124,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4104,
+        "isOutSide": 1,
+        "sectionID": 1125,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4105,
+        "isOutSide": 1,
+        "sectionID": 1126,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4106,
+        "isOutSide": 1,
+        "sectionID": 1127,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4107,
+        "isOutSide": 1,
+        "sectionID": 1128,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4108,
+        "isOutSide": 1,
+        "sectionID": 1129,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4109,
+        "isOutSide": 1,
+        "sectionID": 1130,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4110,
+        "isOutSide": 1,
+        "sectionID": 1131,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4111,
+        "isOutSide": 1,
+        "sectionID": 1132,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4112,
+        "isOutSide": 1,
+        "sectionID": 1133,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4113,
+        "isOutSide": 1,
+        "sectionID": 1134,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4114,
+        "isOutSide": 1,
+        "sectionID": 1135,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4115,
+        "isOutSide": 1,
+        "sectionID": 1136,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4116,
+        "isOutSide": 1,
+        "sectionID": 1137,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4032,
+        "isOutSide": 1,
+        "sectionID": 1138,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 4211,
+        "isOutSide": 1,
+        "sectionID": 1139,
+        "rotationOffset": 180.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": 0.0,
+        "mapPrefabPath": "UI/OWMap/DLCMapInLevel01",
+        "spawnPointAssetPath": "Data/OpenWorld/OWDLCMap_DLC_City_new",
+        "uiAssetPath": "SpriteOutput/DLC/Map/DLCMap01",
+        "coordinateList": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "coordinateOffsetList": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "mapSize": [
+            1024.0,
+            590.0
+        ]
+    },
+    {
+        "areaId": 5010,
+        "isOutSide": 1,
+        "sectionID": 1140,
+        "rotationOffset": 90.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": -90.0,
+        "mapPrefabPath": "UI/3D/AvatarActivityBronyaC8/GeneralMap",
+        "spawnPointAssetPath": "Data/OpenWorld/OW_ArcCity_SPBronya",
+        "uiAssetPath": "SpriteOutput/AvatarActivityBronyaC8/OWmap01",
+        "coordinateList": [
+            2.15,
+            2.15,
+            2.15
+        ],
+        "coordinateOffsetList": [
+            -128.3951,
+            133.3333,
+            0.0
+        ],
+        "mapSize": [
+            2048.0,
+            2048.0
+        ]
+    },
+    {
+        "areaId": 5011,
+        "isOutSide": 1,
+        "sectionID": 1141,
+        "rotationOffset": 90.0,
+        "rotationSign": -1.0,
+        "sitePanelRotation": -90.0,
+        "mapPrefabPath": "UI/3D/AvatarActivityBronyaC8/GeneralMap",
+        "spawnPointAssetPath": "Data/OpenWorld/OW_ArcCity_SPBronya",
+        "uiAssetPath": "SpriteOutput/AvatarActivityBronyaC8/OWmap01",
+        "coordinateList": [
+            2.15,
+            2.15,
+            2.15
+        ],
+        "coordinateOffsetList": [
+            -128.3951,
+            133.3333,
+            0.0
+        ],
+        "mapSize": [
+            2048.0,
+            2048.0
+        ]
+    }
+]

@@ -1,0 +1,1106 @@
+[
+    {
+        "BuffType": 4,
+        "ID": 3000,
+        "bossRushBuffDes": {
+            "hash": -1047037918
+        },
+        "bossRushBuffName": {
+            "hash": 1808025177
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1000",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "BuffType": 4,
+        "ID": 3001,
+        "bossRushBuffDes": {
+            "hash": -1047037917
+        },
+        "bossRushBuffName": {
+            "hash": 1808025178
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1001",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Lord"
+    },
+    {
+        "BuffType": 4,
+        "ID": 3002,
+        "bossRushBuffDes": {
+            "hash": -1047037916
+        },
+        "bossRushBuffName": {
+            "hash": 1808025179
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1002",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Wizard"
+    },
+    {
+        "BuffType": 4,
+        "ID": 3003,
+        "bossRushBuffDes": {
+            "hash": -1047037915
+        },
+        "bossRushBuffName": {
+            "hash": 1808025180
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1003",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Shelter"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3004,
+        "bossRushBuffDes": {
+            "hash": -1047037914
+        },
+        "bossRushBuffName": {
+            "hash": 1808025181
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1004",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_TrashIce"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3005,
+        "bossRushBuffDes": {
+            "hash": -1047037913
+        },
+        "bossRushBuffName": {
+            "hash": 1808025182
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1005",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Nether"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3006,
+        "bossRushBuffDes": {
+            "hash": -1047037912
+        },
+        "bossRushBuffName": {
+            "hash": 1808025183
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1006",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_InverseTimeSpace"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3007,
+        "bossRushBuffDes": {
+            "hash": -1047037911
+        },
+        "bossRushBuffName": {
+            "hash": 1808025184
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1007",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3008,
+        "bossRushBuffDes": {
+            "hash": -1047037910
+        },
+        "bossRushBuffName": {
+            "hash": 1808025185
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1008",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3009,
+        "bossRushBuffDes": {
+            "hash": -1047037909
+        },
+        "bossRushBuffName": {
+            "hash": 1808025186
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1009",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3010,
+        "bossRushBuffDes": {
+            "hash": -1047037887
+        },
+        "bossRushBuffName": {
+            "hash": 1808025208
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1010",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_SpeedDown"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3011,
+        "bossRushBuffDes": {
+            "hash": -1047037886
+        },
+        "bossRushBuffName": {
+            "hash": 1808025209
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1011",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3012,
+        "bossRushBuffDes": {
+            "hash": -1047037885
+        },
+        "bossRushBuffName": {
+            "hash": 1808025210
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1012",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Integrity"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3013,
+        "bossRushBuffDes": {
+            "hash": -1047037884
+        },
+        "bossRushBuffName": {
+            "hash": 1808025211
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1013",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_LightShield"
+    },
+    {
+        "BuffType": 2,
+        "ID": 3014,
+        "bossRushBuffDes": {
+            "hash": -1047037883
+        },
+        "bossRushBuffName": {
+            "hash": 1808025212
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1014",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 2,
+        "ID": 3015,
+        "bossRushBuffDes": {
+            "hash": -1047037882
+        },
+        "bossRushBuffName": {
+            "hash": 1808025213
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1015",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Hide"
+    },
+    {
+        "BuffType": 2,
+        "ID": 3016,
+        "bossRushBuffDes": {
+            "hash": -1047037881
+        },
+        "bossRushBuffName": {
+            "hash": 1808025214
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1016",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Curse"
+    },
+    {
+        "BuffType": 2,
+        "ID": 3017,
+        "bossRushBuffDes": {
+            "hash": -1047037880
+        },
+        "bossRushBuffName": {
+            "hash": 1808025215
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1017",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast"
+    },
+    {
+        "BuffType": 3,
+        "ID": 3018,
+        "bossRushBuffDes": {
+            "hash": -1047037879
+        },
+        "bossRushBuffName": {
+            "hash": 1808025216
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1018",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bramble"
+    },
+    {
+        "BuffType": 3,
+        "ID": 3019,
+        "bossRushBuffDes": {
+            "hash": -1047037878
+        },
+        "bossRushBuffName": {
+            "hash": 1808025217
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1019",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Bless"
+    },
+    {
+        "BuffType": 3,
+        "ID": 3020,
+        "bossRushBuffDes": {
+            "hash": -1047037856
+        },
+        "bossRushBuffName": {
+            "hash": 1808025239
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1020",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 3,
+        "ID": 3021,
+        "bossRushBuffDes": {
+            "hash": -1047037855
+        },
+        "bossRushBuffName": {
+            "hash": 1808025240
+        },
+        "bossRushAbilityName": "ElfBossRush_ElfHealSP",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3022,
+        "bossRushBuffDes": {
+            "hash": -1047037854
+        },
+        "bossRushBuffName": {
+            "hash": 1808025241
+        },
+        "bossRushAbilityName": "ElfBossRush_ElfDamageUp",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Integrity"
+    },
+    {
+        "BuffType": 1,
+        "ID": 3023,
+        "bossRushBuffDes": {
+            "hash": -1047037853
+        },
+        "bossRushBuffName": {
+            "hash": 1808025242
+        },
+        "bossRushAbilityName": "ElfBossRush_ElfCDRatio",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Fast"
+    },
+    {
+        "BuffType": 5,
+        "ID": 3101,
+        "bossRushBuffDes": {
+            "hash": -1047036956
+        },
+        "bossRushBuffName": {
+            "hash": 1808026139
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 5,
+        "ID": 3102,
+        "bossRushBuffDes": {
+            "hash": -1047036955
+        },
+        "bossRushBuffName": {
+            "hash": 1808026140
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 5,
+        "ID": 3103,
+        "bossRushBuffDes": {
+            "hash": -1047036954
+        },
+        "bossRushBuffName": {
+            "hash": 1808026141
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 5,
+        "ID": 3104,
+        "bossRushBuffDes": {
+            "hash": -1047036953
+        },
+        "bossRushBuffName": {
+            "hash": 1808026142
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 5,
+        "ID": 3105,
+        "bossRushBuffDes": {
+            "hash": -1047036952
+        },
+        "bossRushBuffName": {
+            "hash": 1808026143
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3111,
+        "bossRushBuffDes": {
+            "hash": -1047036925
+        },
+        "bossRushBuffName": {
+            "hash": 1808026170
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1031",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3112,
+        "bossRushBuffDes": {
+            "hash": -1047036924
+        },
+        "bossRushBuffName": {
+            "hash": 1808026171
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1032",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3113,
+        "bossRushBuffDes": {
+            "hash": -1047036923
+        },
+        "bossRushBuffName": {
+            "hash": 1808026172
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1036",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3114,
+        "bossRushBuffDes": {
+            "hash": -1047036922
+        },
+        "bossRushBuffName": {
+            "hash": 1808026173
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1037",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Eternity"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3115,
+        "bossRushBuffDes": {
+            "hash": -1047036921
+        },
+        "bossRushBuffName": {
+            "hash": 1808026174
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3116,
+        "bossRushBuffDes": {
+            "hash": -1047036920
+        },
+        "bossRushBuffName": {
+            "hash": 1808026175
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3117,
+        "bossRushBuffDes": {
+            "hash": -1047036919
+        },
+        "bossRushBuffName": {
+            "hash": 1808026176
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3118,
+        "bossRushBuffDes": {
+            "hash": -1047036918
+        },
+        "bossRushBuffName": {
+            "hash": 1808026177
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 6,
+        "ID": 3119,
+        "bossRushBuffDes": {
+            "hash": -1047036917
+        },
+        "bossRushBuffName": {
+            "hash": 1808026178
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3121,
+        "bossRushBuffDes": {
+            "hash": -1047036894
+        },
+        "bossRushBuffName": {
+            "hash": 1808026201
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1038",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3122,
+        "bossRushBuffDes": {
+            "hash": -1047036893
+        },
+        "bossRushBuffName": {
+            "hash": 1808026202
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1039",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3123,
+        "bossRushBuffDes": {
+            "hash": -1047036892
+        },
+        "bossRushBuffName": {
+            "hash": 1808026203
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1040",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3124,
+        "bossRushBuffDes": {
+            "hash": -1047036891
+        },
+        "bossRushBuffName": {
+            "hash": 1808026204
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1041",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Rampage"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3125,
+        "bossRushBuffDes": {
+            "hash": -1047036890
+        },
+        "bossRushBuffName": {
+            "hash": 1808026205
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3126,
+        "bossRushBuffDes": {
+            "hash": -1047036889
+        },
+        "bossRushBuffName": {
+            "hash": 1808026206
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3127,
+        "bossRushBuffDes": {
+            "hash": -1047036888
+        },
+        "bossRushBuffName": {
+            "hash": 1808026207
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3128,
+        "bossRushBuffDes": {
+            "hash": -1047036887
+        },
+        "bossRushBuffName": {
+            "hash": 1808026208
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 7,
+        "ID": 3129,
+        "bossRushBuffDes": {
+            "hash": -1047036886
+        },
+        "bossRushBuffName": {
+            "hash": 1808026209
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3131,
+        "bossRushBuffDes": {
+            "hash": -1047036863
+        },
+        "bossRushBuffName": {
+            "hash": 1808026232
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1042",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3132,
+        "bossRushBuffDes": {
+            "hash": -1047036862
+        },
+        "bossRushBuffName": {
+            "hash": 1808026233
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1043",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3133,
+        "bossRushBuffDes": {
+            "hash": -1047036861
+        },
+        "bossRushBuffName": {
+            "hash": 1808026234
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1044",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3134,
+        "bossRushBuffDes": {
+            "hash": -1047036860
+        },
+        "bossRushBuffName": {
+            "hash": 1808026235
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1045",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Excite"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3135,
+        "bossRushBuffDes": {
+            "hash": -1047036859
+        },
+        "bossRushBuffName": {
+            "hash": 1808026236
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3136,
+        "bossRushBuffDes": {
+            "hash": -1047036858
+        },
+        "bossRushBuffName": {
+            "hash": 1808026237
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3137,
+        "bossRushBuffDes": {
+            "hash": -1047036857
+        },
+        "bossRushBuffName": {
+            "hash": 1808026238
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3138,
+        "bossRushBuffDes": {
+            "hash": -1047036856
+        },
+        "bossRushBuffName": {
+            "hash": 1808026239
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 8,
+        "ID": 3139,
+        "bossRushBuffDes": {
+            "hash": -1047036855
+        },
+        "bossRushBuffName": {
+            "hash": 1808026240
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3141,
+        "bossRushBuffDes": {
+            "hash": -1047036832
+        },
+        "bossRushBuffName": {
+            "hash": 1808026263
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1034",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Split"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3142,
+        "bossRushBuffDes": {
+            "hash": -1047036831
+        },
+        "bossRushBuffName": {
+            "hash": 1808026264
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1026",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Split"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3143,
+        "bossRushBuffDes": {
+            "hash": -1047036830
+        },
+        "bossRushBuffName": {
+            "hash": 1808026265
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1033",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Split"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3144,
+        "bossRushBuffDes": {
+            "hash": -1047036829
+        },
+        "bossRushBuffName": {
+            "hash": 1808026266
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1035",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Split"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3145,
+        "bossRushBuffDes": {
+            "hash": -1047036828
+        },
+        "bossRushBuffName": {
+            "hash": 1808026267
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3146,
+        "bossRushBuffDes": {
+            "hash": -1047036827
+        },
+        "bossRushBuffName": {
+            "hash": 1808026268
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3147,
+        "bossRushBuffDes": {
+            "hash": -1047036826
+        },
+        "bossRushBuffName": {
+            "hash": 1808026269
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3148,
+        "bossRushBuffDes": {
+            "hash": -1047036825
+        },
+        "bossRushBuffName": {
+            "hash": 1808026270
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 9,
+        "ID": 3149,
+        "bossRushBuffDes": {
+            "hash": -1047036824
+        },
+        "bossRushBuffName": {
+            "hash": 1808026271
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3151,
+        "bossRushBuffDes": {
+            "hash": -1047036801
+        },
+        "bossRushBuffName": {
+            "hash": 1808026294
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1046",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Phantom"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3152,
+        "bossRushBuffDes": {
+            "hash": -1047036800
+        },
+        "bossRushBuffName": {
+            "hash": 1808026295
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1047",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Phantom"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3153,
+        "bossRushBuffDes": {
+            "hash": -1047036799
+        },
+        "bossRushBuffName": {
+            "hash": 1808026296
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1048",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Phantom"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3154,
+        "bossRushBuffDes": {
+            "hash": -1047036798
+        },
+        "bossRushBuffName": {
+            "hash": 1808026297
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1049",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Phantom"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3155,
+        "bossRushBuffDes": {
+            "hash": -1047036797
+        },
+        "bossRushBuffName": {
+            "hash": 1808026298
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3156,
+        "bossRushBuffDes": {
+            "hash": -1047036796
+        },
+        "bossRushBuffName": {
+            "hash": 1808026299
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3157,
+        "bossRushBuffDes": {
+            "hash": -1047036795
+        },
+        "bossRushBuffName": {
+            "hash": 1808026300
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3158,
+        "bossRushBuffDes": {
+            "hash": -1047036794
+        },
+        "bossRushBuffName": {
+            "hash": 1808026301
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 10,
+        "ID": 3159,
+        "bossRushBuffDes": {
+            "hash": -1047036793
+        },
+        "bossRushBuffName": {
+            "hash": 1808026302
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3161,
+        "bossRushBuffDes": {
+            "hash": -1047036770
+        },
+        "bossRushBuffName": {
+            "hash": 1808026325
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1050",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3162,
+        "bossRushBuffDes": {
+            "hash": -1047036769
+        },
+        "bossRushBuffName": {
+            "hash": 1808026326
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1051",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3163,
+        "bossRushBuffDes": {
+            "hash": -1047036768
+        },
+        "bossRushBuffName": {
+            "hash": 1808026327
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1052",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3164,
+        "bossRushBuffDes": {
+            "hash": -1047036767
+        },
+        "bossRushBuffName": {
+            "hash": 1808026328
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1053",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_GatherEnergy"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3165,
+        "bossRushBuffDes": {
+            "hash": -1047036766
+        },
+        "bossRushBuffName": {
+            "hash": 1808026329
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3166,
+        "bossRushBuffDes": {
+            "hash": -1047036765
+        },
+        "bossRushBuffName": {
+            "hash": 1808026330
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3167,
+        "bossRushBuffDes": {
+            "hash": -1047036764
+        },
+        "bossRushBuffName": {
+            "hash": 1808026331
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3168,
+        "bossRushBuffDes": {
+            "hash": -1047036763
+        },
+        "bossRushBuffName": {
+            "hash": 1808026332
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 11,
+        "ID": 3169,
+        "bossRushBuffDes": {
+            "hash": -1047036762
+        },
+        "bossRushBuffName": {
+            "hash": 1808026333
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3171,
+        "bossRushBuffDes": {
+            "hash": -1047036739
+        },
+        "bossRushBuffName": {
+            "hash": 1808026356
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1054",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3172,
+        "bossRushBuffDes": {
+            "hash": -1047036738
+        },
+        "bossRushBuffName": {
+            "hash": 1808026357
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1055",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3173,
+        "bossRushBuffDes": {
+            "hash": -1047036737
+        },
+        "bossRushBuffName": {
+            "hash": 1808026358
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1056",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3174,
+        "bossRushBuffDes": {
+            "hash": -1047036736
+        },
+        "bossRushBuffName": {
+            "hash": 1808026359
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1057",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Boss1"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3175,
+        "bossRushBuffDes": {
+            "hash": -1047036735
+        },
+        "bossRushBuffName": {
+            "hash": 1808026360
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1030",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3176,
+        "bossRushBuffDes": {
+            "hash": -1047036734
+        },
+        "bossRushBuffName": {
+            "hash": 1808026361
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1025",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3177,
+        "bossRushBuffDes": {
+            "hash": -1047036733
+        },
+        "bossRushBuffName": {
+            "hash": 1808026362
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1027",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3178,
+        "bossRushBuffDes": {
+            "hash": -1047036732
+        },
+        "bossRushBuffName": {
+            "hash": 1808026363
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1028",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    },
+    {
+        "BuffType": 12,
+        "ID": 3179,
+        "bossRushBuffDes": {
+            "hash": -1047036731
+        },
+        "bossRushBuffName": {
+            "hash": 1808026364
+        },
+        "bossRushAbilityName": "Level_BossRush_Buff_1029",
+        "iconPath": "SpriteOutput/InLevel/EliteIcon/Elite_Power"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "EvaluateDialogID": 1,
+        "ID": 1,
+        "IsEnable": 1,
+        "Param1": [
+            2
+        ],
+        "Param2": [
+            1
+        ],
+        "Param3": [
+            1
+        ],
+        "ChannelList": [
+            "ios"
+        ]
+    },
+    {
+        "EvaluateDialogID": 1,
+        "ID": 2,
+        "IsEnable": 1,
+        "Param1": [
+            3,
+            12,
+            10
+        ],
+        "Param2": [
+            2
+        ],
+        "Param3": [
+            0
+        ],
+        "ChannelList": [
+            "ios"
+        ]
+    },
+    {
+        "EvaluateDialogID": 1,
+        "ID": 3,
+        "IsEnable": 1,
+        "Param1": [
+            5
+        ],
+        "Param2": [
+            30
+        ],
+        "Param3": [
+            0
+        ],
+        "ChannelList": [
+            "ios"
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "BuffGoodsID": 716298,
+        "ID": 1,
+        "Level": 1,
+        "RequireBuffMaterialID": 116621,
+        "Desc": {
+            "hash": -1303654987
+        },
+        "Name": {
+            "hash": 1403291823
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_004"
+    },
+    {
+        "BuffGoodsID": 716299,
+        "ID": 1,
+        "Level": 2,
+        "RequireBuffMaterialID": 116622,
+        "Desc": {
+            "hash": -1303654986
+        },
+        "Name": {
+            "hash": 1403291824
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_Weapon_08"
+    },
+    {
+        "BuffGoodsID": 716300,
+        "ID": 1,
+        "Level": 3,
+        "RequireBuffMaterialID": 116623,
+        "Desc": {
+            "hash": -1303654985
+        },
+        "Name": {
+            "hash": 1403291825
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Carrier_FlyDown"
+    },
+    {
+        "BuffGoodsID": 716301,
+        "ID": 1,
+        "Level": 4,
+        "RequireBuffMaterialID": 116624,
+        "Desc": {
+            "hash": -1303654984
+        },
+        "Name": {
+            "hash": 1403291826
+        },
+        "IconPath": "SpriteOutput/SkillIcons/Skill_Bronya_C7_002"
+    },
+    {
+        "BuffGoodsID": 716302,
+        "ID": 1,
+        "Level": 5,
+        "RequireBuffMaterialID": 116625,
+        "Desc": {
+            "hash": -1303654983
+        },
+        "Name": {
+            "hash": 1403291827
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/Chat_Lobby_ChangeTarget"
+    },
+    {
+        "BuffGoodsID": 716303,
+        "ID": 2,
+        "Level": 1,
+        "RequireBuffMaterialID": 116626,
+        "Desc": {
+            "hash": -1302731466
+        },
+        "Name": {
+            "hash": 1404215344
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41114"
+    },
+    {
+        "BuffGoodsID": 716304,
+        "ID": 2,
+        "Level": 2,
+        "RequireBuffMaterialID": 116627,
+        "Desc": {
+            "hash": -1302731465
+        },
+        "Name": {
+            "hash": 1404215345
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_41115"
+    },
+    {
+        "BuffGoodsID": 716305,
+        "ID": 2,
+        "Level": 3,
+        "RequireBuffMaterialID": 116628,
+        "Desc": {
+            "hash": -1302731464
+        },
+        "Name": {
+            "hash": 1404215346
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/HealHP"
+    },
+    {
+        "BuffGoodsID": 716306,
+        "ID": 2,
+        "Level": 4,
+        "RequireBuffMaterialID": 116629,
+        "Desc": {
+            "hash": -1302731463
+        },
+        "Name": {
+            "hash": 1404215347
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Restraint"
+    },
+    {
+        "BuffGoodsID": 716307,
+        "ID": 2,
+        "Level": 5,
+        "RequireBuffMaterialID": 116630,
+        "Desc": {
+            "hash": -1302731462
+        },
+        "Name": {
+            "hash": 1404215348
+        },
+        "IconPath": "SpriteOutput/SkillIcons/Skill_Seele_QT_004"
+    },
+    {
+        "BuffGoodsID": 716308,
+        "ID": 3,
+        "Level": 1,
+        "RequireBuffMaterialID": 116631,
+        "Desc": {
+            "hash": -1301807945
+        },
+        "Name": {
+            "hash": 1405138865
+        },
+        "IconPath": "SpriteOutput/SubSkillIcons/Skill_Nagative_StartUp01"
+    },
+    {
+        "BuffGoodsID": 716309,
+        "ID": 3,
+        "Level": 2,
+        "RequireBuffMaterialID": 116632,
+        "Desc": {
+            "hash": -1301807944
+        },
+        "Name": {
+            "hash": 1405138866
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Mei_Skill_A1"
+    },
+    {
+        "BuffGoodsID": 716310,
+        "ID": 3,
+        "Level": 3,
+        "RequireBuffMaterialID": 116633,
+        "Desc": {
+            "hash": -1301807943
+        },
+        "Name": {
+            "hash": 1405138867
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/Skill_Carrier_TakeOff"
+    },
+    {
+        "BuffGoodsID": 716311,
+        "ID": 3,
+        "Level": 4,
+        "RequireBuffMaterialID": 116634,
+        "Desc": {
+            "hash": -1301807942
+        },
+        "Name": {
+            "hash": 1405138868
+        },
+        "IconPath": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage"
+    },
+    {
+        "BuffGoodsID": 716312,
+        "ID": 3,
+        "Level": 5,
+        "RequireBuffMaterialID": 116635,
+        "Desc": {
+            "hash": -1301807941
+        },
+        "Name": {
+            "hash": 1405138869
+        },
+        "IconPath": "SpriteOutput/SkillIcons/Skill_Seele_C2_004"
+    }
+]

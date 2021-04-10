@@ -1,0 +1,149 @@
+[
+    {
+        "EffectID": 45,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/HealHP",
+        "EffectName": "RandomStage_Name_45",
+        "EffectText": "RandomStage_Text_45_1"
+    },
+    {
+        "EffectID": 45,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/HealHP",
+        "EffectName": "RandomStage_Name_45",
+        "EffectText": "RandomStage_Text_45_2"
+    },
+    {
+        "EffectID": 46,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack",
+        "EffectName": "RandomStage_Name_46",
+        "EffectText": "RandomStage_Text_46_1"
+    },
+    {
+        "EffectID": 46,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_LightingAttack",
+        "EffectName": "RandomStage_Name_46",
+        "EffectText": "RandomStage_Text_46_2"
+    },
+    {
+        "EffectID": 47,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+        "EffectName": "RandomStage_Name_47",
+        "EffectText": "RandomStage_Text_47_1"
+    },
+    {
+        "EffectID": 47,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+        "EffectName": "RandomStage_Name_47",
+        "EffectText": "RandomStage_Text_47_2"
+    },
+    {
+        "EffectID": 47,
+        "EffectLevel": 3,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Quantum",
+        "EffectName": "RandomStage_Name_47",
+        "EffectText": "RandomStage_Text_47_3"
+    },
+    {
+        "EffectID": 48,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+        "EffectName": "RandomStage_Name_48",
+        "EffectText": "RandomStage_Text_48_1"
+    },
+    {
+        "EffectID": 48,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+        "EffectName": "RandomStage_Name_48",
+        "EffectText": "RandomStage_Text_48_2"
+    },
+    {
+        "EffectID": 49,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_IceAttack",
+        "EffectName": "RandomStage_Name_49",
+        "EffectText": "RandomStage_Text_49_1"
+    },
+    {
+        "EffectID": 49,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff_IceAttack",
+        "EffectName": "RandomStage_Name_49",
+        "EffectText": "RandomStage_Text_49_2"
+    },
+    {
+        "EffectID": 50,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "EffectName": "RandomStage_Name_50",
+        "EffectText": "RandomStage_Text_50_1"
+    },
+    {
+        "EffectID": 50,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "EffectName": "RandomStage_Name_50",
+        "EffectText": "RandomStage_Text_50_2"
+    },
+    {
+        "EffectID": 50,
+        "EffectLevel": 3,
+        "EffectIcon": "SpriteOutput/RandomBuff/RandomBuff05",
+        "EffectName": "RandomStage_Name_50",
+        "EffectText": "RandomStage_Text_50_3"
+    },
+    {
+        "EffectID": 51,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+        "EffectName": "RandomStage_Name_51",
+        "EffectText": "RandomStage_Text_51_1"
+    },
+    {
+        "EffectID": 51,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Physics",
+        "EffectName": "RandomStage_Name_51",
+        "EffectText": "RandomStage_Text_51_2"
+    },
+    {
+        "EffectID": 52,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+        "EffectName": "RandomStage_Name_52",
+        "EffectText": "RandomStage_Text_52_1"
+    },
+    {
+        "EffectID": 52,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Damage",
+        "EffectName": "RandomStage_Name_52",
+        "EffectText": "RandomStage_Text_52_2"
+    },
+    {
+        "EffectID": 53,
+        "EffectLevel": 1,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+        "EffectName": "RandomStage_Name_53",
+        "EffectText": "RandomStage_Text_53_1"
+    },
+    {
+        "EffectID": 53,
+        "EffectLevel": 2,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+        "EffectName": "RandomStage_Name_53",
+        "EffectText": "RandomStage_Text_53_2"
+    },
+    {
+        "EffectID": 53,
+        "EffectLevel": 3,
+        "EffectIcon": "SpriteOutput/SkillIconsInLevel/QTEndless_Element",
+        "EffectName": "RandomStage_Name_53",
+        "EffectText": "RandomStage_Text_53_3"
+    }
+]

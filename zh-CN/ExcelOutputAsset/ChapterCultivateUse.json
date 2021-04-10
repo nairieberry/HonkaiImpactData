@@ -1,0 +1,106 @@
+[
+    {
+        "UseType": 0,
+        "ChapterID": 21,
+        "ID": 1,
+        "CultivateIDList": [
+            101,
+            102,
+            103
+        ],
+        "CultivateUseIDList": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "UseType": 1,
+        "ChapterID": 21,
+        "ID": 2,
+        "CultivateIDList": [
+            401,
+            402
+        ],
+        "CultivateUseIDList": [
+            4
+        ]
+    },
+    {
+        "UseType": 0,
+        "ChapterID": 22,
+        "ID": 3,
+        "CultivateIDList": [
+            201,
+            202,
+            203
+        ],
+        "CultivateUseIDList": [
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "UseType": 1,
+        "ChapterID": 22,
+        "ID": 4,
+        "CultivateIDList": [
+            801,
+            802
+        ],
+        "CultivateUseIDList": [
+            8
+        ]
+    },
+    {
+        "UseType": 0,
+        "ChapterID": 23,
+        "ID": 5,
+        "CultivateIDList": [
+            301,
+            302,
+            303
+        ],
+        "CultivateUseIDList": [
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "UseType": 0,
+        "ChapterID": 24,
+        "ID": 6,
+        "CultivateIDList": [
+            401,
+            402,
+            403
+        ],
+        "CultivateUseIDList": [
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "UseType": 0,
+        "ChapterID": 25,
+        "ID": 7,
+        "CultivateIDList": [
+            501,
+            502
+        ],
+        "CultivateUseIDList": [
+            15,
+            16
+        ]
+    },
+    {
+        "UseType": 2,
+        "ChapterID": 26,
+        "ID": 8,
+        "CultivateIDList": [],
+        "CultivateUseIDList": []
+    }
+]

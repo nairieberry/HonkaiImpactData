@@ -1,0 +1,38 @@
+[
+    {
+        "MaxScore": 100,
+        "MinScore": 90,
+        "RankID": 1,
+        "ShowWarningHint": 0,
+        "RankColor": "#00C3FFFF",
+        "RankName": "CreditRankName_1",
+        "WarningHint": ""
+    },
+    {
+        "MaxScore": 89,
+        "MinScore": 75,
+        "RankID": 2,
+        "ShowWarningHint": 0,
+        "RankColor": "#FFDD3EFF",
+        "RankName": "CreditRankName_2",
+        "WarningHint": ""
+    },
+    {
+        "MaxScore": 74,
+        "MinScore": 60,
+        "RankID": 3,
+        "ShowWarningHint": 1,
+        "RankColor": "#FF8080FF",
+        "RankName": "CreditRankName_3",
+        "WarningHint": "WarningHintCreditRank_3"
+    },
+    {
+        "MaxScore": 59,
+        "MinScore": 0,
+        "RankID": 4,
+        "ShowWarningHint": 1,
+        "RankColor": "#FF8080FF",
+        "RankName": "CreditRankName_4",
+        "WarningHint": "WarningHintCreditRank_4"
+    }
+]

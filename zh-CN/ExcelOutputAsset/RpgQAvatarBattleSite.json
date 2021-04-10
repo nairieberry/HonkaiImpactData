@@ -1,0 +1,62 @@
+[
+    {
+        "FinishBattleKill": 6,
+        "BeatKillNum": 5,
+        "BeatRemainTime": 20,
+        "SiteId": 14401,
+        "WinCondition": 2,
+        "BattleTimeMax": 200,
+        "BGM": "KingdomWarPhaseOne",
+        "DieEffect": "TiledGame_Effect_CreateObj_PVP",
+        "GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+        "GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1"
+    },
+    {
+        "FinishBattleKill": 12,
+        "BeatKillNum": 11,
+        "BeatRemainTime": 20,
+        "SiteId": 14402,
+        "WinCondition": 1,
+        "BattleTimeMax": 200,
+        "BGM": "KingdomWarPhaseOne",
+        "DieEffect": "TiledGame_Effect_CreateObj_PVP",
+        "GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+        "GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1"
+    },
+    {
+        "FinishBattleKill": 15,
+        "BeatKillNum": 14,
+        "BeatRemainTime": 20,
+        "SiteId": 14403,
+        "WinCondition": 1,
+        "BattleTimeMax": 220,
+        "BGM": "KingdomWarPhaseOne",
+        "DieEffect": "TiledGame_Effect_CreateObj_PVP",
+        "GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+        "GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1"
+    },
+    {
+        "FinishBattleKill": 12,
+        "BeatKillNum": 11,
+        "BeatRemainTime": 20,
+        "SiteId": 14404,
+        "WinCondition": 1,
+        "BattleTimeMax": 200,
+        "BGM": "KingdomWarPhaseOne",
+        "DieEffect": "TiledGame_Effect_CreateObj_PVP",
+        "GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+        "GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1"
+    },
+    {
+        "FinishBattleKill": 9,
+        "BeatKillNum": 5,
+        "BeatRemainTime": 20,
+        "SiteId": 14405,
+        "WinCondition": 1,
+        "BattleTimeMax": 200,
+        "BGM": "KingdomWarPhaseOne",
+        "DieEffect": "TiledGame_Effect_CreateObj_PVP",
+        "GadgetBuffIcon": "SpriteOutput/InLevel/BuffIcon/Buff_AtkDfUp",
+        "GadgetBuffName": "QAVATAR_BUFF_AttackUp_Stackable1"
+    }
+]

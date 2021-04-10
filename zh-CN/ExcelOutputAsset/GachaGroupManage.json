@@ -1,0 +1,113 @@
+[
+    {
+        "GachaGroupID": 1,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Home_Icon",
+        "GachaGroupName": "GachaGroupName_1",
+        "GachaTypeList": [
+            20,
+            23
+        ]
+    },
+    {
+        "GachaGroupID": 2,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Accurate_Icon",
+        "GachaGroupName": "GachaGroupName_2",
+        "GachaTypeList": [
+            3,
+            12
+        ]
+    },
+    {
+        "GachaGroupID": 3,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Expansion_Icon",
+        "GachaGroupName": "GachaGroupName_3",
+        "GachaTypeList": [
+            5,
+            7
+        ]
+    },
+    {
+        "GachaGroupID": 4,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Activity_Icon",
+        "GachaGroupName": "GachaGroupName_4",
+        "GachaTypeList": [
+            4,
+            6,
+            15,
+            27,
+            28,
+            29,
+            25
+        ]
+    },
+    {
+        "GachaGroupID": 5,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Clothing_Icon",
+        "GachaGroupName": "Menu_Chat_Label_GACHA_CONTROLLABLE_BOX2",
+        "GachaTypeList": [
+            14
+        ]
+    },
+    {
+        "GachaGroupID": 6,
+        "GachaGroupIconPath": "",
+        "GachaGroupName": "GachaGroupName_6",
+        "GachaTypeList": [
+            8,
+            16,
+            17
+        ]
+    },
+    {
+        "GachaGroupID": 7,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Optional_Icon",
+        "GachaGroupName": "GachaGroupName_7",
+        "GachaTypeList": [
+            18,
+            19
+        ]
+    },
+    {
+        "GachaGroupID": 8,
+        "GachaGroupIconPath": "",
+        "GachaGroupName": "GachaGroupName_8",
+        "GachaTypeList": [
+            21,
+            22
+        ]
+    },
+    {
+        "GachaGroupID": 9,
+        "GachaGroupIconPath": "",
+        "GachaGroupName": "GachaGroupName_9",
+        "GachaTypeList": [
+            24
+        ]
+    },
+    {
+        "GachaGroupID": 11,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Doll_Icon",
+        "GachaGroupName": "Menu_Chat_Label_GACHA_ELF_1",
+        "GachaTypeList": [
+            26
+        ]
+    },
+    {
+        "GachaGroupID": 12,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Home_Icon",
+        "GachaGroupName": "Menu_Chat_Label_GACHA_NEWBIE_1",
+        "GachaTypeList": [
+            31,
+            33,
+            34
+        ]
+    },
+    {
+        "GachaGroupID": 13,
+        "GachaGroupIconPath": "SpriteOutput/Gacha/GaChaIcon/Activity_Icon",
+        "GachaGroupName": "",
+        "GachaTypeList": [
+            30
+        ]
+    }
+]

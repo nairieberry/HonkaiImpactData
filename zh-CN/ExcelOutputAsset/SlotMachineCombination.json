@@ -1,0 +1,461 @@
+[
+    {
+        "CombinationID": 2001,
+        "EffectLevel": 4,
+        "Combination": [
+            {
+                "Count": 3,
+                "IconID": 8
+            }
+        ],
+        "CombinationNumList": []
+    },
+    {
+        "CombinationID": 2002,
+        "EffectLevel": 1,
+        "Combination": [
+            {
+                "Count": 1,
+                "IconID": 4
+            },
+            {
+                "Count": 1,
+                "IconID": 5
+            },
+            {
+                "Count": 1,
+                "IconID": 6
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2003,
+        "EffectLevel": 1,
+        "Combination": [
+            {
+                "Count": 1,
+                "IconID": 4
+            },
+            {
+                "Count": 1,
+                "IconID": 5
+            },
+            {
+                "Count": 1,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2004,
+        "EffectLevel": 1,
+        "Combination": [
+            {
+                "Count": 1,
+                "IconID": 5
+            },
+            {
+                "Count": 1,
+                "IconID": 6
+            },
+            {
+                "Count": 1,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2005,
+        "EffectLevel": 1,
+        "Combination": [
+            {
+                "Count": 1,
+                "IconID": 4
+            },
+            {
+                "Count": 1,
+                "IconID": 6
+            },
+            {
+                "Count": 1,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 0,
+                "Tier3": 0
+            },
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2006,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 5
+            },
+            {
+                "Count": 1,
+                "IconID": 6
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 50,
+                "Tier3": 0
+            },
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2007,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 4
+            },
+            {
+                "Count": 1,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 500,
+                "Tier3": 0
+            },
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2008,
+        "EffectLevel": 3,
+        "Combination": [
+            {
+                "Count": 3,
+                "IconID": 6
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 4,
+                "Tier3": 8
+            }
+        ]
+    },
+    {
+        "CombinationID": 2009,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 6
+            },
+            {
+                "Count": 1,
+                "IconID": 5
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 4,
+                "Tier3": 0
+            },
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2010,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 7
+            },
+            {
+                "Count": 1,
+                "IconID": 4
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 2,
+                "Tier3": 0
+            },
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2011,
+        "EffectLevel": 3,
+        "Combination": [
+            {
+                "Count": 3,
+                "IconID": 5
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 50,
+                "Tier3": 100
+            }
+        ]
+    },
+    {
+        "CombinationID": 2012,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 4
+            },
+            {
+                "Count": 1,
+                "IconID": 6
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 500,
+                "Tier3": 0
+            },
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2013,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 5
+            },
+            {
+                "Count": 1,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 50,
+                "Tier3": 0
+            },
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2014,
+        "EffectLevel": 3,
+        "Combination": [
+            {
+                "Count": 3,
+                "IconID": 7
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 2,
+                "Tier3": 4
+            }
+        ]
+    },
+    {
+        "CombinationID": 2015,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 6
+            },
+            {
+                "Count": 1,
+                "IconID": 4
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 6,
+                "Tier1": 2,
+                "Tier2": 4,
+                "Tier3": 0
+            },
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2016,
+        "EffectLevel": 2,
+        "Combination": [
+            {
+                "Count": 2,
+                "IconID": 7
+            },
+            {
+                "Count": 1,
+                "IconID": 5
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 7,
+                "Tier1": 1,
+                "Tier2": 2,
+                "Tier3": 0
+            },
+            {
+                "IconID": 5,
+                "Tier1": 25,
+                "Tier2": 0,
+                "Tier3": 0
+            }
+        ]
+    },
+    {
+        "CombinationID": 2017,
+        "EffectLevel": 3,
+        "Combination": [
+            {
+                "Count": 3,
+                "IconID": 4
+            }
+        ],
+        "CombinationNumList": [
+            {
+                "IconID": 4,
+                "Tier1": 250,
+                "Tier2": 500,
+                "Tier3": 1000
+            }
+        ]
+    }
+]

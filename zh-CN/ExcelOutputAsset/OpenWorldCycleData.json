@@ -1,0 +1,132 @@
+[
+    {
+        "cycle": 1,
+        "cycleMap": 1,
+        "EntranceScene": 0,
+        "finishreward": 965022,
+        "level": 18,
+        "needstory": 0,
+        "CycleName": {
+            "hash": 1640279404
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_1",
+        "hardLvKey": "cycle1HardLv"
+    },
+    {
+        "cycle": 2,
+        "cycleMap": 1,
+        "EntranceScene": 0,
+        "finishreward": 965023,
+        "level": 30,
+        "needstory": 111,
+        "CycleName": {
+            "hash": 1640279405
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_1",
+        "hardLvKey": "cycle2HardLv"
+    },
+    {
+        "cycle": 3,
+        "cycleMap": 1,
+        "EntranceScene": 0,
+        "finishreward": 965024,
+        "level": 35,
+        "needstory": 207,
+        "CycleName": {
+            "hash": 1640279406
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_1",
+        "hardLvKey": "cycle3HardLv"
+    },
+    {
+        "cycle": 4,
+        "cycleMap": 1,
+        "EntranceScene": 1,
+        "finishreward": 965050,
+        "level": 42,
+        "needstory": 308,
+        "CycleName": {
+            "hash": 1640279407
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_1",
+        "hardLvKey": "cycle4HardLv"
+    },
+    {
+        "cycle": 11,
+        "cycleMap": 2,
+        "EntranceScene": 1,
+        "finishreward": 965061,
+        "level": 50,
+        "needstory": 308,
+        "CycleName": {
+            "hash": -690945979
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_2",
+        "hardLvKey": "cycle5HardLv"
+    },
+    {
+        "cycle": 12,
+        "cycleMap": 2,
+        "EntranceScene": 1,
+        "finishreward": 965062,
+        "level": 50,
+        "needstory": 513,
+        "CycleName": {
+            "hash": -690945978
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_2",
+        "hardLvKey": "cycle5HardLv"
+    },
+    {
+        "cycle": 13,
+        "cycleMap": 2,
+        "EntranceScene": 1,
+        "finishreward": 965063,
+        "level": 50,
+        "needstory": 606,
+        "CycleName": {
+            "hash": -690945977
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_2",
+        "hardLvKey": "cycle5HardLv"
+    },
+    {
+        "cycle": 14,
+        "cycleMap": 2,
+        "EntranceScene": 1,
+        "finishreward": 965064,
+        "level": 50,
+        "needstory": 703,
+        "CycleName": {
+            "hash": -690945976
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_2",
+        "hardLvKey": "cycle5HardLv"
+    },
+    {
+        "cycle": 41,
+        "cycleMap": 401,
+        "EntranceScene": 0,
+        "finishreward": 965022,
+        "level": 15,
+        "needstory": 0,
+        "CycleName": {
+            "hash": -690945886
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_3",
+        "hardLvKey": "cycle1HardLv"
+    },
+    {
+        "cycle": 51,
+        "cycleMap": 501,
+        "EntranceScene": 0,
+        "finishreward": 0,
+        "level": 15,
+        "needstory": 0,
+        "CycleName": {
+            "hash": -690945886
+        },
+        "EntranceImg1": "SpriteOutput/WorldMap/Entry/OWTask_3",
+        "hardLvKey": "cycle1HardLv"
+    }
+]

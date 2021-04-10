@@ -1,0 +1,422 @@
+[
+    {
+        "BtnType": 1,
+        "ChannelSettingType": 0,
+        "EntranceId": 101,
+        "LinkType": 70,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 1,
+        "RedHintUiType": 1,
+        "UrlType": 0,
+        "Weight": 15,
+        "EntranceText": {
+            "hash": 1460557660
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppColletion",
+        "LinkParams": "0",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 1,
+        "ChannelSettingType": 0,
+        "EntranceId": 102,
+        "LinkType": 70,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 13,
+        "RedHintUiType": 1,
+        "UrlType": 0,
+        "Weight": 18,
+        "EntranceText": {
+            "hash": 1460557661
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppAchievement",
+        "LinkParams": "6",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 103,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 17,
+        "RedHintUiType": 1,
+        "UrlType": 1,
+        "Weight": 1,
+        "EntranceText": {
+            "hash": 1460557662
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppAichanAssis",
+        "LinkParams": "",
+        "LinkUrl": "https://webstatic.mihoyo.com/bh3/event/im-service/index.html?im_out=false&sign_type=2&auth_appid=im_ccs&authkey_ver=1&win_direction=portrait&game_biz=bh3_cn"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 105,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 5,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 10,
+        "EntranceText": {
+            "hash": 1460557664
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppComic",
+        "LinkParams": "",
+        "LinkUrl": "https://comic.bh3.com/app/"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 106,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 6,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 8,
+        "EntranceText": {
+            "hash": 1460557665
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppGoods",
+        "LinkParams": "",
+        "LinkUrl": "https://equity.tmall.com/tm?agentId=982640&_bind=true&bc_fl_src=tmall_market_llb_1_1147264&llbPlatform=_pube&llbOsd=1"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 107,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 7,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 18,
+        "EntranceText": {
+            "hash": 1460557666
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppNovel",
+        "LinkParams": "",
+        "LinkUrl": "https://event.bh3.com/avgAntiEntropy/index.php?_uid=1&_time=1&from=bh3"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 108,
+        "LinkType": 74,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 8,
+        "RedHintUiType": 2,
+        "UrlType": 0,
+        "Weight": 16,
+        "EntranceText": {
+            "hash": 1460557667
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppDataRoom",
+        "LinkParams": "3",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 109,
+        "LinkType": 35,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 9,
+        "RedHintUiType": 2,
+        "UrlType": 0,
+        "Weight": 12,
+        "EntranceText": {
+            "hash": 1460557668
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppNotice",
+        "LinkParams": "",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 110,
+        "LinkType": 74,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 10,
+        "RedHintUiType": 2,
+        "UrlType": 0,
+        "Weight": 16,
+        "EntranceText": {
+            "hash": 1460557690
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppNewbieGuidpng",
+        "LinkParams": "2",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 3,
+        "EntranceId": 111,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 11,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 13,
+        "EntranceText": {
+            "hash": 1460557691
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppFeedBack",
+        "LinkParams": "",
+        "LinkUrl": "https://m.bbs.mihoyo.com/bh3/?sign_type=2&authkey_ver=1&auth_appid=community"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 1,
+        "EntranceId": 112,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 11,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 13,
+        "EntranceText": {
+            "hash": 1460557692
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppOfficialSite",
+        "LinkParams": "",
+        "LinkUrl": "https://bbs.mihoyo.com/bh3/?sign_type=2&authkey_ver=1&auth_appid=community"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 113,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 10,
+        "RedHintUiType": 2,
+        "UrlType": 1,
+        "Weight": 6,
+        "EntranceText": {
+            "hash": 1460557693
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppGuideSite",
+        "LinkParams": "",
+        "LinkUrl": "https://bh3.mihoyo.com/gl/?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 114,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 10,
+        "RedHintMainPage": 0,
+        "RedHintType": 8,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 14,
+        "EntranceText": {
+            "hash": 1460557694
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppWeeklyReport",
+        "LinkParams": "",
+        "LinkUrl": "https://webstatic.mihoyo.com/bh3/weekly/index.html#/weekly?sign_type=2&authkey_ver=1&auth_appid=mihoyo_bh3_weekly"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 115,
+        "LinkType": 59,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 10,
+        "RedHintUiType": 2,
+        "UrlType": 0,
+        "Weight": 6,
+        "EntranceText": {
+            "hash": 1460557695
+        },
+        "EntranceBeginTime": "2020-08-20 10:00:00",
+        "EntranceEndTime": "2020-09-26 04:00:00",
+        "EntranceIconPath": "event/Immediately/IconVersionActivity/IconAppVersion",
+        "LinkParams": "",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 120,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 3,
+        "RedHintUiType": 2,
+        "UrlType": 1,
+        "Weight": 4,
+        "EntranceText": {
+            "hash": 1460557721
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "event/Immediately/IconAppReward",
+        "LinkParams": "",
+        "LinkUrl": "https://webstatic.mihoyo.com/bh3/event/around-event/index.html?game_biz=bh3_cn&sign_type=2&authkey_ver=1&auth_appid=derivative_tools_ccs"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 121,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 5,
+        "RedHintUiType": 2,
+        "UrlType": 2,
+        "Weight": 17,
+        "EntranceText": {
+            "hash": 1460557722
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "event/Immediately/IconAppCreate",
+        "LinkParams": "",
+        "LinkUrl": "https://bh3.biligame.com/czzdt-dw-h5"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 122,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 20,
+        "RedHintMainPage": 0,
+        "RedHintType": 5,
+        "RedHintUiType": 2,
+        "UrlType": 1,
+        "Weight": 5,
+        "EntranceText": {
+            "hash": 1460557723
+        },
+        "EntranceBeginTime": "2020-01-17 12:00:00",
+        "EntranceEndTime": "2020-01-31 12:00:00",
+        "EntranceIconPath": "event/Immediately/IconAppWeb",
+        "LinkParams": "",
+        "LinkUrl": "https://webstatic.mihoyo.com/bh3/event/e20200110new/index.html?sign_type=2&authkey_ver=1&auth_appid=e20200110new&fullscreen=1&back=1"
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 123,
+        "LinkType": 116,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 1,
+        "RedHintType": 15,
+        "RedHintUiType": 1,
+        "UrlType": 0,
+        "Weight": 15,
+        "EntranceText": {
+            "hash": 1460557724
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppDownload",
+        "LinkParams": "0",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 124,
+        "LinkType": 117,
+        "MaxLv": 99,
+        "MinLv": 20,
+        "RedHintMainPage": 1,
+        "RedHintType": 16,
+        "RedHintUiType": 3,
+        "UrlType": 0,
+        "Weight": 7,
+        "EntranceText": {
+            "hash": 1460557725
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2019-05-15 04:00:00",
+        "EntranceIconPath": "event/Immediately/IconSuperSignIn",
+        "LinkParams": "0",
+        "LinkUrl": ""
+    },
+    {
+        "BtnType": 2,
+        "ChannelSettingType": 0,
+        "EntranceId": 125,
+        "LinkType": 0,
+        "MaxLv": 99,
+        "MinLv": 6,
+        "RedHintMainPage": 0,
+        "RedHintType": 5,
+        "RedHintUiType": 2,
+        "UrlType": 1,
+        "Weight": 1,
+        "EntranceText": {
+            "hash": 1460557726
+        },
+        "EntranceBeginTime": "2017-10-30 04:00:00",
+        "EntranceEndTime": "2029-05-15 04:00:00",
+        "EntranceIconPath": "SpriteOutput/PhoneAppIcon/IconAppNewcomer",
+        "LinkParams": "",
+        "LinkUrl": "https://bh3.mihoyo.com/gl/activity/detail/1179?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429"
+    }
+]

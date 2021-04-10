@@ -1,0 +1,210 @@
+[
+    {
+        "ReviveUseID": 101,
+        "MaterialID": 9004,
+        "ReviveEffect": 1,
+        "ReviveEffectDesc": {
+            "hash": 330283210
+        },
+        "CostCoinList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 102,
+        "MaterialID": 5,
+        "ReviveEffect": 1,
+        "ReviveEffectDesc": {
+            "hash": 330283211
+        },
+        "CostCoinList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 103,
+        "MaterialID": 9004,
+        "ReviveEffect": 1,
+        "ReviveEffectDesc": {
+            "hash": 330283212
+        },
+        "CostCoinList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "bits1": 1
+    },
+    {
+        "ReviveUseID": 104,
+        "MaterialID": 9004,
+        "ReviveEffect": 2,
+        "ReviveEffectDesc": {
+            "hash": 330283213
+        },
+        "CostCoinList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 105,
+        "MaterialID": 114380,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 106,
+        "MaterialID": 114380,
+        "ReviveEffect": 1,
+        "ReviveEffectDesc": {
+            "hash": 330283215
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 107,
+        "MaterialID": 4,
+        "ReviveEffect": 2,
+        "ReviveEffectDesc": {
+            "hash": 330283216
+        },
+        "CostCoinList": [
+            500
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 108,
+        "MaterialID": 114379,
+        "ReviveEffect": 2,
+        "ReviveEffectDesc": {
+            "hash": 330283217
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 109,
+        "MaterialID": 115100,
+        "ReviveEffect": 1,
+        "ReviveEffectDesc": {
+            "hash": 330283215
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 110,
+        "MaterialID": 115100,
+        "ReviveEffect": 2,
+        "ReviveEffectDesc": {
+            "hash": 330283216
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 111,
+        "MaterialID": 115100,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 112,
+        "MaterialID": 114380,
+        "ReviveEffect": 2,
+        "ReviveEffectDesc": {
+            "hash": 330283216
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 113,
+        "MaterialID": 115103,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 114,
+        "MaterialID": 115110,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 115,
+        "MaterialID": 116104,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    },
+    {
+        "ReviveUseID": 116,
+        "MaterialID": 116636,
+        "ReviveEffect": 3,
+        "ReviveEffectDesc": {
+            "hash": 330283214
+        },
+        "CostCoinList": [
+            1
+        ],
+        "bits1": 0
+    }
+]

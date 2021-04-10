@@ -1,0 +1,605 @@
+[
+    {
+        "SeasonLevelConfigID": 1,
+        "SeasonScheduleID": 1,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 0,
+        "AdvancedTypeID": 20001,
+        "BasicTypeID": 10001,
+        "ExtraRewardID": 1480000,
+        "LuxuryTypeID": 30001,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480131,
+        "BeginTime": "2019-07-22 04:00:00",
+        "DisplayBeginTime": "2019-07-22 04:00:00",
+        "EndTime": "2019-08-29 10:00:00",
+        "PurchaseBeginTime": "2019-07-22 11:00:00",
+        "PurchaseEndTime": "2019-08-26 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic2_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 2,
+        "SeasonScheduleID": 2,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 0,
+        "AdvancedTypeID": 20002,
+        "BasicTypeID": 10002,
+        "ExtraRewardID": 1480140,
+        "LuxuryTypeID": 30002,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480261,
+        "BeginTime": "2019-09-02 04:00:00",
+        "DisplayBeginTime": "2019-09-02 04:00:00",
+        "EndTime": "2019-10-17 03:59:59",
+        "PurchaseBeginTime": "2019-09-02 04:00:00",
+        "PurchaseEndTime": "2019-10-14 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic3_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 3,
+        "SeasonScheduleID": 3,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 0,
+        "AdvancedTypeID": 20003,
+        "BasicTypeID": 10003,
+        "ExtraRewardID": 1480270,
+        "LuxuryTypeID": 30003,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480391,
+        "BeginTime": "2019-10-21 04:00:00",
+        "DisplayBeginTime": "2019-10-21 04:00:00",
+        "EndTime": "2019-11-28 03:59:59",
+        "PurchaseBeginTime": "2019-10-21 04:00:00",
+        "PurchaseEndTime": "2019-11-25 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic3_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 4,
+        "SeasonScheduleID": 4,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 0,
+        "AdvancedTypeID": 20004,
+        "BasicTypeID": 10004,
+        "ExtraRewardID": 1480400,
+        "LuxuryTypeID": 30004,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480521,
+        "BeginTime": "2019-12-02 04:00:00",
+        "DisplayBeginTime": "2019-12-02 04:00:00",
+        "EndTime": "2020-01-16 03:59:59",
+        "PurchaseBeginTime": "2019-12-02 04:00:00",
+        "PurchaseEndTime": "2020-01-13 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic4_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 5,
+        "SeasonScheduleID": 5,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 0,
+        "AdvancedTypeID": 20005,
+        "BasicTypeID": 10005,
+        "ExtraRewardID": 1480530,
+        "LuxuryTypeID": 30005,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480651,
+        "BeginTime": "2020-01-20 04:00:00",
+        "DisplayBeginTime": "2020-01-20 04:00:00",
+        "EndTime": "2020-03-05 03:59:59",
+        "PurchaseBeginTime": "2020-01-20 04:00:00",
+        "PurchaseEndTime": "2020-03-02 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic5_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 6,
+        "SeasonScheduleID": 6,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20006,
+        "BasicTypeID": 10006,
+        "ExtraRewardID": 1480660,
+        "LuxuryTypeID": 30006,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480781,
+        "BeginTime": "2020-03-09 04:00:00",
+        "DisplayBeginTime": "2020-03-09 04:00:00",
+        "EndTime": "2020-04-16 03:59:59",
+        "PurchaseBeginTime": "2020-03-09 04:00:00",
+        "PurchaseEndTime": "2020-04-13 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic6_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 7,
+        "SeasonScheduleID": 7,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20007,
+        "BasicTypeID": 10007,
+        "ExtraRewardID": 1480790,
+        "LuxuryTypeID": 30007,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1480911,
+        "BeginTime": "2020-04-20 04:00:00",
+        "DisplayBeginTime": "2020-04-20 04:00:00",
+        "EndTime": "2020-05-28 03:59:59",
+        "PurchaseBeginTime": "2020-04-20 04:00:00",
+        "PurchaseEndTime": "2020-05-25 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic7_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 8,
+        "SeasonScheduleID": 8,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20008,
+        "BasicTypeID": 10008,
+        "ExtraRewardID": 1480920,
+        "LuxuryTypeID": 30008,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481041,
+        "BeginTime": "2020-06-01 04:00:00",
+        "DisplayBeginTime": "2020-06-01 04:00:00",
+        "EndTime": "2020-07-09 03:59:59",
+        "PurchaseBeginTime": "2020-06-01 04:00:00",
+        "PurchaseEndTime": "2020-07-06 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic8_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 9,
+        "SeasonScheduleID": 9,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20009,
+        "BasicTypeID": 10009,
+        "ExtraRewardID": 1481050,
+        "LuxuryTypeID": 30009,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481171,
+        "BeginTime": "2020-07-13 04:00:00",
+        "DisplayBeginTime": "2020-07-09 04:00:00",
+        "EndTime": "2020-08-20 03:59:59",
+        "PurchaseBeginTime": "2020-07-13 04:00:00",
+        "PurchaseEndTime": "2020-08-17 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BattlePass/IntroductionPic9_truecolor",
+            "event/Immediately/BattlePass/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 10,
+        "SeasonScheduleID": 10,
+        "ThemeScheduleID": 1,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20010,
+        "BasicTypeID": 10010,
+        "ExtraRewardID": 1481280,
+        "LuxuryTypeID": 30010,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481381,
+        "BeginTime": "2020-08-24 04:00:00",
+        "DisplayBeginTime": "2020-08-20 04:00:00",
+        "EndTime": "2020-10-01 03:59:59",
+        "PurchaseBeginTime": "2020-08-24 04:00:00",
+        "PurchaseEndTime": "2020-09-28 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic10_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 11,
+        "SeasonScheduleID": 11,
+        "ThemeScheduleID": 1,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20011,
+        "BasicTypeID": 10011,
+        "ExtraRewardID": 1481390,
+        "LuxuryTypeID": 30011,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481491,
+        "BeginTime": "2020-10-05 04:00:00",
+        "DisplayBeginTime": "2020-10-01 04:00:00",
+        "EndTime": "2020-11-12 03:59:59",
+        "PurchaseBeginTime": "2020-10-05 04:00:00",
+        "PurchaseEndTime": "2020-11-09 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic11_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 12,
+        "SeasonScheduleID": 12,
+        "ThemeScheduleID": 1,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20012,
+        "BasicTypeID": 10012,
+        "ExtraRewardID": 1481500,
+        "LuxuryTypeID": 30012,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481601,
+        "BeginTime": "2020-11-16 04:00:00",
+        "DisplayBeginTime": "2020-11-12 04:00:00",
+        "EndTime": "2020-12-24 03:59:59",
+        "PurchaseBeginTime": "2020-11-16 04:00:00",
+        "PurchaseEndTime": "2020-12-21 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic12_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 13,
+        "SeasonScheduleID": 13,
+        "ThemeScheduleID": 1,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20013,
+        "BasicTypeID": 10013,
+        "ExtraRewardID": 1481610,
+        "LuxuryTypeID": 30013,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481711,
+        "BeginTime": "2020-12-28 04:00:00",
+        "DisplayBeginTime": "2020-12-24 04:00:00",
+        "EndTime": "2021-02-04 03:59:59",
+        "PurchaseBeginTime": "2020-12-28 04:00:00",
+        "PurchaseEndTime": "2021-02-01 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [],
+        "LuxuryRewardFormat": [],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic13_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 14,
+        "SeasonScheduleID": 14,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20014,
+        "BasicTypeID": 10014,
+        "ExtraRewardID": 1481932,
+        "LuxuryTypeID": 30014,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481720,
+        "BeginTime": "2021-02-08 04:00:00",
+        "DisplayBeginTime": "2021-02-04 04:00:00",
+        "EndTime": "2021-03-18 03:59:59",
+        "PurchaseBeginTime": "2021-02-08 04:00:00",
+        "PurchaseEndTime": "2021-03-15 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1318203118
+                },
+                "Param": ""
+            },
+            {
+                "Type": 2,
+                "Text": {
+                    "hash": 0
+                },
+                "Param": "1481720"
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379956
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1898240732
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379957
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 645549980
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379958
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 645549981
+                },
+                "Param": ""
+            }
+        ],
+        "LuxuryRewardFormat": [
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1175465571
+                },
+                "Param": ""
+            },
+            {
+                "Type": 2,
+                "Text": {
+                    "hash": 0
+                },
+                "Param": "1481851"
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832737
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 2035018321
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832736
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1016641617
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832735
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1016641618
+                },
+                "Param": ""
+            }
+        ],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic14_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    },
+    {
+        "SeasonLevelConfigID": 15,
+        "SeasonScheduleID": 15,
+        "ThemeScheduleID": 0,
+        "ExpHcoinPrice": 5,
+        "IntroImageAnimTime": 3,
+        "AdvancedTypeID": 20015,
+        "BasicTypeID": 10015,
+        "ExtraRewardID": 1482152,
+        "LuxuryTypeID": 30015,
+        "SeasonExpMaterialID": 80016,
+        "ShowRewardID": 1481940,
+        "BeginTime": "2021-03-29 04:00:00",
+        "DisplayBeginTime": "2021-03-25 04:00:00",
+        "EndTime": "2021-05-03 03:59:59",
+        "PurchaseBeginTime": "2021-03-29 04:00:00",
+        "PurchaseEndTime": "2021-04-26 03:59:59",
+        "ShopEnterIcon": "SpriteOutput/BP/BpImage",
+        "AdvancedRewardFormat": [
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1318203118
+                },
+                "Param": ""
+            },
+            {
+                "Type": 2,
+                "Text": {
+                    "hash": 0
+                },
+                "Param": "1481940"
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379956
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1898240732
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379957
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 645549980
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1532379958
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 645549981
+                },
+                "Param": ""
+            }
+        ],
+        "LuxuryRewardFormat": [
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": 1175465571
+                },
+                "Param": ""
+            },
+            {
+                "Type": 2,
+                "Text": {
+                    "hash": 0
+                },
+                "Param": "1482071"
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832737
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 2035018321
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832736
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1016641617
+                },
+                "Param": ""
+            },
+            {
+                "Type": 0,
+                "Text": {
+                    "hash": -354832735
+                },
+                "Param": ""
+            },
+            {
+                "Type": 1,
+                "Text": {
+                    "hash": 1016641618
+                },
+                "Param": ""
+            }
+        ],
+        "IntroImgPathList": [
+            "event/Immediately/BP/IntroductionPic15_truecolor",
+            "event/Immediately/BP/IntroductionPic1_truecolor"
+        ]
+    }
+]

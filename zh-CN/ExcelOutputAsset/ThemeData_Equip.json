@@ -1,0 +1,124 @@
+[
+    {
+        "EquipData": 1,
+        "EquipDes": {
+            "hash": -1297886870
+        },
+        "EquipTitle": {
+            "hash": -297728848
+        },
+        "BuffList": [
+            1
+        ],
+        "EquipDisplayList": [
+            1001,
+            1002,
+            1003,
+            1004
+        ],
+        "stigmataMainIDList": [
+            110011,
+            110021
+        ],
+        "weaponMainIDList": [
+            10001
+        ],
+        "EquipTips": [
+            {
+                "hash": -1118095484
+            }
+        ]
+    },
+    {
+        "EquipData": 2,
+        "EquipDes": {
+            "hash": -1297886869
+        },
+        "EquipTitle": {
+            "hash": -297728847
+        },
+        "BuffList": [
+            2
+        ],
+        "EquipDisplayList": [
+            2001,
+            2002,
+            2003,
+            2004
+        ],
+        "stigmataMainIDList": [
+            110021,
+            110031
+        ],
+        "weaponMainIDList": [
+            10001,
+            10002
+        ],
+        "EquipTips": [
+            {
+                "hash": -1118095483
+            }
+        ]
+    },
+    {
+        "EquipData": 3,
+        "EquipDes": {
+            "hash": -1297886868
+        },
+        "EquipTitle": {
+            "hash": -297728846
+        },
+        "BuffList": [
+            3
+        ],
+        "EquipDisplayList": [
+            3001,
+            3002,
+            3003,
+            3004
+        ],
+        "stigmataMainIDList": [
+            110031,
+            110041
+        ],
+        "weaponMainIDList": [
+            10001,
+            10003
+        ],
+        "EquipTips": [
+            {
+                "hash": -1118095482
+            }
+        ]
+    },
+    {
+        "EquipData": 4,
+        "EquipDes": {
+            "hash": -1297886867
+        },
+        "EquipTitle": {
+            "hash": -297728845
+        },
+        "BuffList": [
+            4
+        ],
+        "EquipDisplayList": [
+            4001,
+            2001,
+            3001,
+            4004
+        ],
+        "stigmataMainIDList": [
+            110041
+        ],
+        "weaponMainIDList": [
+            10001,
+            10004
+        ],
+        "EquipTips": [
+            {
+                "hash": -1118095481
+            }
+        ]
+    }
+]

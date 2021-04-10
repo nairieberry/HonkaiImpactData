@@ -1,0 +1,45 @@
+[
+    {
+        "MaxEnterTimes": 3,
+        "ScheduleID": 105,
+        "RewardLinkParams": 37207,
+        "RewardLinkType": 2,
+        "LinkBtnImgPath": "SpriteOutput\\CommonIcon\\IconTry",
+        "ScoreBasicShowList": [
+            {
+                "playerGroupID": 1,
+                "maxScore": 0,
+                "minScore": 500
+            },
+            {
+                "playerGroupID": 2,
+                "maxScore": 0,
+                "minScore": 500
+            }
+        ],
+        "ScoreDamageShowList": [
+            {
+                "playerGroupID": 1,
+                "maxScore": 800,
+                "minScore": 300
+            },
+            {
+                "playerGroupID": 2,
+                "maxScore": 800,
+                "minScore": 300
+            }
+        ],
+        "ScoreRankShowList": [
+            {
+                "playerGroupID": 1,
+                "maxScore": 400,
+                "minScore": 50
+            },
+            {
+                "playerGroupID": 2,
+                "maxScore": 600,
+                "minScore": 100
+            }
+        ]
+    }
+]

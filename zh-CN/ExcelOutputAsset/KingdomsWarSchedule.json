@@ -1,0 +1,93 @@
+[
+    {
+        "KingdomStaminaLimit": 100,
+        "MaxLevel": 82,
+        "MinLevel": 30,
+        "ID": 1,
+        "RankRewardGroup": 1,
+        "ScoreRewardGroup": 1,
+        "ShopType": 3,
+        "KingdomStaminaRecoverTime": 60,
+        "RefreshCD": 300,
+        "RewardShowID": 5,
+        "ScoreRewardMark": 45000,
+        "DailyRewardMinScore": 100,
+        "MinReportCurrencyNum": 0,
+        "OpenEventID": 40507,
+        "StaminaMaterialID": 114290,
+        "PhotoOpenTime": "2019-05-22 03:59:59",
+        "WebLink": "",
+        "KingdomsList": [
+            1,
+            2,
+            3
+        ],
+        "MissionList": [],
+        "bits1": 1
+    },
+    {
+        "KingdomStaminaLimit": 100,
+        "MaxLevel": 82,
+        "MinLevel": 30,
+        "ID": 2,
+        "RankRewardGroup": 1,
+        "ScoreRewardGroup": 1,
+        "ShopType": 3,
+        "KingdomStaminaRecoverTime": 60,
+        "RefreshCD": 300,
+        "RewardShowID": 5,
+        "ScoreRewardMark": 45000,
+        "DailyRewardMinScore": 100,
+        "MinReportCurrencyNum": 0,
+        "OpenEventID": 40507,
+        "StaminaMaterialID": 114290,
+        "PhotoOpenTime": "2019-05-22 03:59:59",
+        "WebLink": "",
+        "KingdomsList": [
+            1,
+            2,
+            3
+        ],
+        "MissionList": [],
+        "bits1": 1
+    },
+    {
+        "KingdomStaminaLimit": 8,
+        "MaxLevel": 99,
+        "MinLevel": 30,
+        "ID": 4,
+        "RankRewardGroup": 1,
+        "ScoreRewardGroup": 1,
+        "ShopType": 3,
+        "KingdomStaminaRecoverTime": 7200,
+        "RefreshCD": 300,
+        "RewardShowID": 5,
+        "ScoreRewardMark": 45000,
+        "DailyRewardMinScore": 300,
+        "MinReportCurrencyNum": 30,
+        "OpenEventID": 48583,
+        "StaminaMaterialID": 114290,
+        "PhotoOpenTime": "2020-08-06 03:59:59",
+        "WebLink": "https://bh3.mihoyo.com/gl/activity/detail/6430/?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "KingdomsList": [
+            1,
+            2,
+            3
+        ],
+        "MissionList": [
+            79851,
+            79852,
+            79853,
+            79855,
+            79858,
+            79861,
+            79863,
+            79864,
+            79865,
+            79866,
+            79867,
+            79868
+        ],
+        "bits1": 1
+    }
+]

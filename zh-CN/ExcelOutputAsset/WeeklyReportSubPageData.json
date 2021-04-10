@@ -1,0 +1,65 @@
+[
+    {
+        "fatherID": 1,
+        "ID": 0,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "https://bh3.mihoyo.com/gl/event/memorial/team?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "ishave_extraweb": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fatherID": 2,
+        "ID": 0,
+        "levelmax": 88,
+        "levelmin": 30,
+        "webLink": "",
+        "ishave_extraweb": []
+    },
+    {
+        "fatherID": 3,
+        "ID": 0,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "",
+        "ishave_extraweb": []
+    },
+    {
+        "fatherID": 4,
+        "ID": 0,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "",
+        "ishave_extraweb": []
+    },
+    {
+        "fatherID": 1,
+        "ID": 1,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "https://bh3.mihoyo.com/gl/arena?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429",
+        "ishave_extraweb": [
+            0,
+            0
+        ]
+    },
+    {
+        "fatherID": 3,
+        "ID": 1,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "",
+        "ishave_extraweb": []
+    },
+    {
+        "fatherID": 4,
+        "ID": 1,
+        "levelmax": 88,
+        "levelmin": 40,
+        "webLink": "",
+        "ishave_extraweb": []
+    }
+]

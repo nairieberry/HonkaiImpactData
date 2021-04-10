@@ -1,0 +1,44 @@
+[
+    {
+        "TerrainID": 1,
+        "OnEnterValueModIDList": [
+            1,
+            2
+        ],
+        "OnExitValueModIDList": [],
+        "OnPassbyValueModIDList": [
+            1,
+            2
+        ]
+    },
+    {
+        "TerrainID": 2,
+        "OnEnterValueModIDList": [],
+        "OnExitValueModIDList": [],
+        "OnPassbyValueModIDList": []
+    },
+    {
+        "TerrainID": 3,
+        "OnEnterValueModIDList": [],
+        "OnExitValueModIDList": [],
+        "OnPassbyValueModIDList": []
+    },
+    {
+        "TerrainID": 4,
+        "OnEnterValueModIDList": [
+            1
+        ],
+        "OnExitValueModIDList": [],
+        "OnPassbyValueModIDList": [
+            1
+        ]
+    },
+    {
+        "TerrainID": 16,
+        "OnEnterValueModIDList": [
+            3
+        ],
+        "OnExitValueModIDList": [],
+        "OnPassbyValueModIDList": []
+    }
+]

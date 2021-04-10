@@ -1,0 +1,81 @@
+[
+    {
+        "ReplacePrefabConfigID": 4,
+        "ReplacePrefabPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip",
+        "RealTimeWeatherCondition": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "TimeCondition": [
+            {
+                "EndDayTime": 24,
+                "StartDayTime": 0
+            }
+        ]
+    },
+    {
+        "ReplacePrefabConfigID": 5,
+        "ReplacePrefabPath": "Stage/MainMenu_SpaceShip/Taixu/MainMenu_SpaceShip_Night",
+        "RealTimeWeatherCondition": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "TimeCondition": [
+            {
+                "EndDayTime": 24,
+                "StartDayTime": 19
+            },
+            {
+                "EndDayTime": 6,
+                "StartDayTime": 0
+            }
+        ]
+    },
+    {
+        "ReplacePrefabConfigID": 6,
+        "ReplacePrefabPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity",
+        "RealTimeWeatherCondition": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            6,
+            7
+        ],
+        "TimeCondition": [
+            {
+                "EndDayTime": 24,
+                "StartDayTime": 0
+            }
+        ]
+    },
+    {
+        "ReplacePrefabConfigID": 7,
+        "ReplacePrefabPath": "Stage/MainMenu_ArcCity/MainMenu_SpaceShip_ArcCity_Rain",
+        "RealTimeWeatherCondition": [
+            4,
+            8
+        ],
+        "TimeCondition": [
+            {
+                "EndDayTime": 24,
+                "StartDayTime": 0
+            }
+        ]
+    }
+]

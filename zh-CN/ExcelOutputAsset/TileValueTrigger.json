@@ -1,0 +1,30 @@
+[
+    {
+        "ConditionType": 4,
+        "Key": 901,
+        "Param": 0,
+        "RpgID": 1100,
+        "ValueTriggerID": 1
+    },
+    {
+        "ConditionType": 5,
+        "Key": 901,
+        "Param": 2,
+        "RpgID": 1100,
+        "ValueTriggerID": 2
+    },
+    {
+        "ConditionType": 5,
+        "Key": 901,
+        "Param": 1,
+        "RpgID": 1100,
+        "ValueTriggerID": 3
+    },
+    {
+        "ConditionType": 5,
+        "Key": 901,
+        "Param": 3,
+        "RpgID": 1100,
+        "ValueTriggerID": 4
+    }
+]

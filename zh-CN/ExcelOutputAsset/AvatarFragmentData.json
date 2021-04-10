@@ -1,0 +1,2421 @@
+[
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 3,
+        "ID": 10101,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863181
+        },
+        "displayTitle": {
+            "hash": 47833390
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10101",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10101",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|1;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10102,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863182
+        },
+        "displayTitle": {
+            "hash": 47833391
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10102",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10102",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|5;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10103,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863183
+        },
+        "displayTitle": {
+            "hash": 47833392
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10103",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10103",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180041\" text=\"Obtain_Source_Desc_1010301\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10104,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863184
+        },
+        "displayTitle": {
+            "hash": 47833393
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10104",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10104",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|10;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10111,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863185
+        },
+        "displayTitle": {
+            "hash": 47833394
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10111",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10111",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;604\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10112,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863186
+        },
+        "displayTitle": {
+            "hash": 47833395
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10112",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10112",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"37\" text=\"Obtain_Source_Desc_1011203\"/>",
+            "<type=\"17|4;606\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 2,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10113,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863187
+        },
+        "displayTitle": {
+            "hash": 47833396
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10113",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10113",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"32|8\" text=\"EquipObtain_Source_Desc_Common_35\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10114,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47863188
+        },
+        "displayTitle": {
+            "hash": 47833397
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10114",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10114",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"17|4;605\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 3,
+        "ID": 10201,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864148
+        },
+        "displayTitle": {
+            "hash": 47834357
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10201",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10201",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|2;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10202,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864149
+        },
+        "displayTitle": {
+            "hash": 47834358
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10202",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10202",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|11;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10203,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864150
+        },
+        "displayTitle": {
+            "hash": 47834359
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10203",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10203",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|6;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10204,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864172
+        },
+        "displayTitle": {
+            "hash": 47834381
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10204",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10204",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180071\" text=\"Obtain_Source_Desc_1010301\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10205,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866195
+        },
+        "displayTitle": {
+            "hash": 47836404
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10205",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10205",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10211,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864173
+        },
+        "displayTitle": {
+            "hash": 47834382
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10211",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10211",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23|1\" text=\"Obtain_Source_Desc_1021101\"/>",
+            "<type=\"23|1\" text=\"Obtain_Source_Desc_1021102\"/>",
+            "<type=\"17|4;607\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10212,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864174
+        },
+        "displayTitle": {
+            "hash": 47834383
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10212",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10212",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180241\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10213,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864175
+        },
+        "displayTitle": {
+            "hash": 47834384
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10213",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10213",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"17|4;608\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10214,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 80,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864176
+        },
+        "displayTitle": {
+            "hash": 47834385
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10214",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10214",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|4;575\" text=\"EquipObtain_Source_Desc_Common_3\"/>",
+            "<type=\"17|15;660401\" text=\"EquipObtain_Source_Desc_Common_27\"/>",
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 3,
+        "ID": 10301,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865136
+        },
+        "displayTitle": {
+            "hash": 47835345
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10301",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10301",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|3;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10302,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865137
+        },
+        "displayTitle": {
+            "hash": 47835346
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10302",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10302",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|7;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10303,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865138
+        },
+        "displayTitle": {
+            "hash": 47835347
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10303",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10303",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|12;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10304,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865139
+        },
+        "displayTitle": {
+            "hash": 47835348
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10304",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10304",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180251\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10311,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865140
+        },
+        "displayTitle": {
+            "hash": 47835349
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10311",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10311",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|27;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10312,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865141
+        },
+        "displayTitle": {
+            "hash": 47835350
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10312",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10312",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10313,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865142
+        },
+        "displayTitle": {
+            "hash": 47835351
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10313",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10313",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10314,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 80,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865164
+        },
+        "displayTitle": {
+            "hash": 47835373
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10314",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10314",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"7|6\" text=\"MaterialObtain_Desc_10613\"/>",
+            "<type=\"17|4;581\" text=\"Obtain_Source_Desc_1050602\"/>",
+            "<type=\"17|15;660681\" text=\"Obtain_Source_Desc_1050603\"/>",
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10401,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866103
+        },
+        "displayTitle": {
+            "hash": 47836312
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10401",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10401",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|23;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10402,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866125
+        },
+        "displayTitle": {
+            "hash": 47836334
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10402",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10402",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|24;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 3,
+        "ID": 10403,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866126
+        },
+        "displayTitle": {
+            "hash": 47836335
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10403",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10403",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|17;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10404,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866127
+        },
+        "displayTitle": {
+            "hash": 47836336
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10404",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10404",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180091\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10411,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866157
+        },
+        "displayTitle": {
+            "hash": 47836366
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10411",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10411",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"17|4;624\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10412,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866158
+        },
+        "displayTitle": {
+            "hash": 47836367
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10412",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10412",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10421,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866188
+        },
+        "displayTitle": {
+            "hash": 47836397
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10421",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10421",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"65\" text=\"Obtain_Source_Desc_1042101\"/>",
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|29;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10422,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866189
+        },
+        "displayTitle": {
+            "hash": 47836398
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10422",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10422",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180101\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10501,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866128
+        },
+        "displayTitle": {
+            "hash": 47836337
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10501",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10501",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|25;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10502,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866129
+        },
+        "displayTitle": {
+            "hash": 47836338
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10502",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10502",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180231\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10503,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866130
+        },
+        "displayTitle": {
+            "hash": 47836339
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10503",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10503",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_1060305\"/>",
+            "<type=\"31|26;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10504,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866131
+        },
+        "displayTitle": {
+            "hash": 47836340
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10504",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10504",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180411\" text=\"Obtain_Source_Desc_1010301\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10506,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 80,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866193
+        },
+        "displayTitle": {
+            "hash": 47836402
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10506",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10506",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|4;577\" text=\"Obtain_Source_Desc_1050602\"/>",
+            "<type=\"17|15;660611\" text=\"Obtain_Source_Desc_1050603\"/>",
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10511,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866159
+        },
+        "displayTitle": {
+            "hash": 47836368
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10511",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10511",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"17|4;623\" text=\"EquipObtain_Source_Desc_Common_3\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10601,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866132
+        },
+        "displayTitle": {
+            "hash": 47836341
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10601",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10601",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|8;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10602,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866133
+        },
+        "displayTitle": {
+            "hash": 47836342
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10602",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10602",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10603,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866134
+        },
+        "displayTitle": {
+            "hash": 47836343
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10603",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10603",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|9;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10604,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866156
+        },
+        "displayTitle": {
+            "hash": 47836365
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10604",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10604",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;622\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10611,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866190
+        },
+        "displayTitle": {
+            "hash": 47836399
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10611",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10611",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10612,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 30,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866219
+        },
+        "displayTitle": {
+            "hash": 47836428
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10612",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10612",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"7|5\" text=\"MaterialObtain_Desc_10612\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10702,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866162
+        },
+        "displayTitle": {
+            "hash": 47836371
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10702",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10702",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|18;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10703,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866163
+        },
+        "displayTitle": {
+            "hash": 47836372
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10703",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10703",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|16;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10704,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866164
+        },
+        "displayTitle": {
+            "hash": 47836373
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10704",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10704",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10705,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866194
+        },
+        "displayTitle": {
+            "hash": 47836403
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10705",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10705",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"17|10;180301\" text=\"EquipObtain_Source_Desc_Common_7\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10711,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866165
+        },
+        "displayTitle": {
+            "hash": 47836374
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10711",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10711",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|4;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10712,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866187
+        },
+        "displayTitle": {
+            "hash": 47836396
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10712",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10712",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10801,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866191
+        },
+        "displayTitle": {
+            "hash": 47836400
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10801",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10801",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"23\" text=\"Obtain_Source_Desc_821503\"/>",
+            "<type=\"31|28;1\" text=\"MaterialObtain_EliteStageDesc_01\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10802,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866192
+        },
+        "displayTitle": {
+            "hash": 47836401
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10802",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10802",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 15,
+        "ID": 10803,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3130,
+        "returnNum": 50,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866196
+        },
+        "displayTitle": {
+            "hash": 47836405
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10803",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10803",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 10901,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 80,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866218
+        },
+        "displayTitle": {
+            "hash": 47836427
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/10901",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/10901",
+        "GachaGiftDropDisplayConfig": [
+            -12.0,
+            6.0,
+            50.0,
+            50.0
+        ],
+        "GachaMainDropDisplayConfig": [
+            0.0,
+            0.0,
+            130.0,
+            130.0
+        ],
+        "comeFromList": [
+            "<type=\"7|4\" text=\"MaterialObtain_Desc_10901\"/>",
+            "<type=\"17|302\" text=\"EquipObtain_Source_Desc_Common_28\"/>"
+        ]
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 11203,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47864150
+        },
+        "displayTitle": {
+            "hash": 47834359
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/11203",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/11203",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 11304,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 60,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47865138
+        },
+        "displayTitle": {
+            "hash": 47835347
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/11304",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/11304",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "comeFromList": []
+    },
+    {
+        "sortID": 1,
+        "TagType": 5,
+        "BaseType": 2,
+        "cost": 0,
+        "GachaDisplayRarity": 4,
+        "ID": 11411,
+        "maxLv": 1,
+        "maxRarity": 4,
+        "quantityLimit": 9999,
+        "rarity": 4,
+        "returnMaterialID": 3129,
+        "returnNum": 40,
+        "characterExpProvide": 0.0,
+        "gearExpPorvideAdd": 0.0,
+        "gearExpProvideBase": 0.0,
+        "sellPriceAdd": 0.0,
+        "sellPriceBase": 5000.0,
+        "displayDescription": {
+            "hash": 47866157
+        },
+        "displayTitle": {
+            "hash": 47836366
+        },
+        "iconPath": "SpriteOutput/AvatarFragmentIcons/11411",
+        "imagePath": "SpriteOutput/AvatarFragmentFigures/11411",
+        "GachaGiftDropDisplayConfig": [],
+        "GachaMainDropDisplayConfig": [],
+        "comeFromList": []
+    }
+]

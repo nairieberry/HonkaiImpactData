@@ -1,0 +1,842 @@
+[
+    {
+        "ID": 150001,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585565
+        },
+        "debuffDesc": {
+            "hash": 1978585565
+        },
+        "description": {
+            "hash": 1391497130
+        },
+        "descriptionShort": {
+            "hash": -417257171
+        },
+        "name": {
+            "hash": 1428489017
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+        "paramStr": "OWEndlessItem_PhysicalDamageUp_Small",
+        "propName": "",
+        "showHint": "EL_HINT_150001",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016"
+    },
+    {
+        "ID": 150002,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585566
+        },
+        "debuffDesc": {
+            "hash": 1978585566
+        },
+        "description": {
+            "hash": 1391497131
+        },
+        "descriptionShort": {
+            "hash": -417257170
+        },
+        "name": {
+            "hash": 1428489018
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+        "paramStr": "OWEndlessItem_PhysicalDamageUp_Medium",
+        "propName": "",
+        "showHint": "EL_HINT_150002",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016"
+    },
+    {
+        "ID": 150003,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585567
+        },
+        "debuffDesc": {
+            "hash": 1978585567
+        },
+        "description": {
+            "hash": 1391497132
+        },
+        "descriptionShort": {
+            "hash": -417257169
+        },
+        "name": {
+            "hash": 1428489019
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70016",
+        "paramStr": "OWEndlessItem_PhysicalDamageUp_Large",
+        "propName": "",
+        "showHint": "EL_HINT_150003",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70016"
+    },
+    {
+        "ID": 150004,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585568
+        },
+        "debuffDesc": {
+            "hash": 1978585568
+        },
+        "description": {
+            "hash": 1391497133
+        },
+        "descriptionShort": {
+            "hash": -417257168
+        },
+        "name": {
+            "hash": 1428489020
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+        "paramStr": "OWEndlessItem_ElementalDamageUp_Small",
+        "propName": "",
+        "showHint": "EL_HINT_150004",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020"
+    },
+    {
+        "ID": 150005,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585569
+        },
+        "debuffDesc": {
+            "hash": 1978585569
+        },
+        "description": {
+            "hash": 1391497134
+        },
+        "descriptionShort": {
+            "hash": -417257167
+        },
+        "name": {
+            "hash": 1428489021
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+        "paramStr": "OWEndlessItem_ElementalDamageUp_Medium",
+        "propName": "",
+        "showHint": "EL_HINT_150005",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020"
+    },
+    {
+        "ID": 150006,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585570
+        },
+        "debuffDesc": {
+            "hash": 1978585570
+        },
+        "description": {
+            "hash": 1391497135
+        },
+        "descriptionShort": {
+            "hash": -417257166
+        },
+        "name": {
+            "hash": 1428489022
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70020",
+        "paramStr": "OWEndlessItem_ElementalDamageUp_Large",
+        "propName": "",
+        "showHint": "EL_HINT_150006",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70020"
+    },
+    {
+        "ID": 150007,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585571
+        },
+        "debuffDesc": {
+            "hash": 1978585571
+        },
+        "description": {
+            "hash": 1391497136
+        },
+        "descriptionShort": {
+            "hash": -417257165
+        },
+        "name": {
+            "hash": 1428489023
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+        "paramStr": "OWEndlessSPRecoverUp_Small",
+        "propName": "",
+        "showHint": "EL_HINT_150007",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001"
+    },
+    {
+        "ID": 150008,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585572
+        },
+        "debuffDesc": {
+            "hash": 1978585572
+        },
+        "description": {
+            "hash": 1391497137
+        },
+        "descriptionShort": {
+            "hash": -417257164
+        },
+        "name": {
+            "hash": 1428489024
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+        "paramStr": "OWEndlessSPRecoverUp_Medium",
+        "propName": "",
+        "showHint": "EL_HINT_150008",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001"
+    },
+    {
+        "ID": 150009,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 2,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585573
+        },
+        "debuffDesc": {
+            "hash": 1978585573
+        },
+        "description": {
+            "hash": 1391497138
+        },
+        "descriptionShort": {
+            "hash": -417257163
+        },
+        "name": {
+            "hash": 1428489025
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70001",
+        "paramStr": "OWEndlessSPRecoverUp_Large",
+        "propName": "",
+        "showHint": "EL_HINT_150009",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70001"
+    },
+    {
+        "ID": 150010,
+        "maxUseRange": 3,
+        "minUseRange": 3,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 1,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585595
+        },
+        "debuffDesc": {
+            "hash": 1978585595
+        },
+        "description": {
+            "hash": 1391497160
+        },
+        "descriptionShort": {
+            "hash": -417257141
+        },
+        "name": {
+            "hash": 1428489047
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70030",
+        "paramStr": "",
+        "propName": "",
+        "showHint": "EL_HINT_150010",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70030"
+    },
+    {
+        "ID": 150020,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 5,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585626
+        },
+        "debuffDesc": {
+            "hash": 1978585626
+        },
+        "description": {
+            "hash": 1391497191
+        },
+        "descriptionShort": {
+            "hash": -417257110
+        },
+        "name": {
+            "hash": 1428489078
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70032",
+        "paramStr": "",
+        "propName": "",
+        "showHint": "EL_HINT_150020",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70032"
+    },
+    {
+        "ID": 150021,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150031,
+        "type": 3,
+        "indicatorOffset": 4.5,
+        "buffDesc": {
+            "hash": 1978585627
+        },
+        "debuffDesc": {
+            "hash": 1978585627
+        },
+        "description": {
+            "hash": 1391497192
+        },
+        "descriptionShort": {
+            "hash": -417257109
+        },
+        "name": {
+            "hash": 1428489079
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70023",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Airplane_1",
+        "showHint": "EL_HINT_150021",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023"
+    },
+    {
+        "ID": 150022,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150032,
+        "type": 3,
+        "indicatorOffset": 4.5,
+        "buffDesc": {
+            "hash": 1978585628
+        },
+        "debuffDesc": {
+            "hash": 1978585628
+        },
+        "description": {
+            "hash": 1391497193
+        },
+        "descriptionShort": {
+            "hash": -417257108
+        },
+        "name": {
+            "hash": 1428489080
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70022",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Airplane_2",
+        "showHint": "EL_HINT_150022",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022"
+    },
+    {
+        "ID": 150023,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150033,
+        "type": 3,
+        "indicatorOffset": 4.5,
+        "buffDesc": {
+            "hash": 1978585629
+        },
+        "debuffDesc": {
+            "hash": 1978585629
+        },
+        "description": {
+            "hash": 1391497194
+        },
+        "descriptionShort": {
+            "hash": -417257107
+        },
+        "name": {
+            "hash": 1428489081
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70024",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Airplane_3",
+        "showHint": "EL_HINT_150023",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024"
+    },
+    {
+        "ID": 150024,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150034,
+        "type": 3,
+        "indicatorOffset": 4.5,
+        "buffDesc": {
+            "hash": 1978585630
+        },
+        "debuffDesc": {
+            "hash": 1978585630
+        },
+        "description": {
+            "hash": 1391497195
+        },
+        "descriptionShort": {
+            "hash": -417257106
+        },
+        "name": {
+            "hash": 1428489082
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70025",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Airplane_4",
+        "showHint": "EL_HINT_150024",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025"
+    },
+    {
+        "ID": 150025,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150035,
+        "type": 3,
+        "indicatorOffset": 3.5,
+        "buffDesc": {
+            "hash": 1978585631
+        },
+        "debuffDesc": {
+            "hash": 1978585631
+        },
+        "description": {
+            "hash": 1391497196
+        },
+        "descriptionShort": {
+            "hash": -417257105
+        },
+        "name": {
+            "hash": 1428489083
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70029",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_RotateLaser",
+        "showHint": "EL_HINT_150025",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029"
+    },
+    {
+        "ID": 150026,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150036,
+        "type": 3,
+        "indicatorOffset": 3.5,
+        "buffDesc": {
+            "hash": 1978585632
+        },
+        "debuffDesc": {
+            "hash": 1978585632
+        },
+        "description": {
+            "hash": 1391497197
+        },
+        "descriptionShort": {
+            "hash": -417257104
+        },
+        "name": {
+            "hash": 1428489084
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70026",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_HonkaiCore",
+        "showHint": "EL_HINT_150026",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026"
+    },
+    {
+        "ID": 150027,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150037,
+        "type": 3,
+        "indicatorOffset": 3.5,
+        "buffDesc": {
+            "hash": 1978585633
+        },
+        "debuffDesc": {
+            "hash": 1978585633
+        },
+        "description": {
+            "hash": 1391497198
+        },
+        "descriptionShort": {
+            "hash": -417257103
+        },
+        "name": {
+            "hash": 1428489085
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70027",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Interfere_1",
+        "showHint": "EL_HINT_150027",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027"
+    },
+    {
+        "ID": 150028,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 150038,
+        "type": 3,
+        "indicatorOffset": 3.5,
+        "buffDesc": {
+            "hash": 1978585634
+        },
+        "debuffDesc": {
+            "hash": 1978585634
+        },
+        "description": {
+            "hash": 1391497199
+        },
+        "descriptionShort": {
+            "hash": -417257102
+        },
+        "name": {
+            "hash": 1428489086
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70028",
+        "paramStr": "",
+        "propName": "OWEndless_Trap_Interfere_2",
+        "showHint": "EL_HINT_150028",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028"
+    },
+    {
+        "ID": 150031,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585658
+        },
+        "debuffDesc": {
+            "hash": 1978585658
+        },
+        "description": {
+            "hash": 1391497223
+        },
+        "descriptionShort": {
+            "hash": -417257078
+        },
+        "name": {
+            "hash": 1428489110
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70023",
+        "paramStr": "OWEndless_Trap_Airplane_1_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150031",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70023"
+    },
+    {
+        "ID": 150032,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585659
+        },
+        "debuffDesc": {
+            "hash": 1978585659
+        },
+        "description": {
+            "hash": 1391497224
+        },
+        "descriptionShort": {
+            "hash": -417257077
+        },
+        "name": {
+            "hash": 1428489111
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70022",
+        "paramStr": "OWEndless_Trap_Airplane_2_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150032",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70022"
+    },
+    {
+        "ID": 150033,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585660
+        },
+        "debuffDesc": {
+            "hash": 1978585660
+        },
+        "description": {
+            "hash": 1391497225
+        },
+        "descriptionShort": {
+            "hash": -417257076
+        },
+        "name": {
+            "hash": 1428489112
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70024",
+        "paramStr": "OWEndless_Trap_Airplane_3_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150033",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70024"
+    },
+    {
+        "ID": 150034,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585661
+        },
+        "debuffDesc": {
+            "hash": 1978585661
+        },
+        "description": {
+            "hash": 1391497226
+        },
+        "descriptionShort": {
+            "hash": -417257075
+        },
+        "name": {
+            "hash": 1428489113
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70025",
+        "paramStr": "OWEndless_Trap_Airplane_4_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150034",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70025"
+    },
+    {
+        "ID": 150035,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585662
+        },
+        "debuffDesc": {
+            "hash": 1978585662
+        },
+        "description": {
+            "hash": 1391497227
+        },
+        "descriptionShort": {
+            "hash": -417257074
+        },
+        "name": {
+            "hash": 1428489114
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70029",
+        "paramStr": "OWEndless_Trap_RotateLaser_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150035",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70029"
+    },
+    {
+        "ID": 150036,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585663
+        },
+        "debuffDesc": {
+            "hash": 1978585663
+        },
+        "description": {
+            "hash": 1391497228
+        },
+        "descriptionShort": {
+            "hash": -417257073
+        },
+        "name": {
+            "hash": 1428489115
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70026",
+        "paramStr": "OWEndless_Trap_HonkaiCore_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150036",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70026"
+    },
+    {
+        "ID": 150037,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585664
+        },
+        "debuffDesc": {
+            "hash": 1978585664
+        },
+        "description": {
+            "hash": 1391497229
+        },
+        "descriptionShort": {
+            "hash": -417257072
+        },
+        "name": {
+            "hash": 1428489116
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70027",
+        "paramStr": "OWEndless_Trap_Interfere_1_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150037",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70027"
+    },
+    {
+        "ID": 150038,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 6,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585665
+        },
+        "debuffDesc": {
+            "hash": 1978585665
+        },
+        "description": {
+            "hash": 1391497230
+        },
+        "descriptionShort": {
+            "hash": -417257071
+        },
+        "name": {
+            "hash": 1428489117
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70028",
+        "paramStr": "OWEndless_Trap_Interfere_2_Buff",
+        "propName": "",
+        "showHint": "EL_HINT_150038",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70028"
+    },
+    {
+        "ID": 150040,
+        "maxUseRange": 0,
+        "minUseRange": 0,
+        "paramScore": 0,
+        "rarity": 1,
+        "RelateBuff": 0,
+        "type": 4,
+        "indicatorOffset": 0.0,
+        "buffDesc": {
+            "hash": 1978585688
+        },
+        "debuffDesc": {
+            "hash": 1978585688
+        },
+        "description": {
+            "hash": 1391497253
+        },
+        "descriptionShort": {
+            "hash": -417257048
+        },
+        "name": {
+            "hash": 1428489140
+        },
+        "iconPath": "SpriteOutput/ItemsIcon/El_Item_70031",
+        "paramStr": "OWEndless_Trap_Dispose",
+        "propName": "",
+        "showHint": "EL_HINT_150040",
+        "smallIconPath": "SpriteOutput/ItemsIcon/El_Item_S_70031"
+    }
+]

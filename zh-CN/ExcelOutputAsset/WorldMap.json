@@ -1,0 +1,5266 @@
+[
+    {
+        "EntryCG": 0,
+        "EntryID": 1001,
+        "EntryRewardID": 1224001,
+        "forceShowContent": 0,
+        "ID": 1,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 18,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 30,
+        "EntryDesc": {
+            "hash": 1122718696
+        },
+        "EntryTitle": {
+            "hash": -559057784
+        },
+        "EntryDetailImagePath": "SpriteOutput/ChapterCover/ExtraStory/PicExtraStory3",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/OWTask_1",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            7
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1002,
+        "EntryRewardID": 1224002,
+        "forceShowContent": 0,
+        "ID": 2,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 1,
+        "UnlockLevel": 1,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 30,
+        "EntryDesc": {
+            "hash": -1474114751
+        },
+        "EntryTitle": {
+            "hash": 168662447
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            1
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1003,
+        "EntryRewardID": 1224003,
+        "forceShowContent": 0,
+        "ID": 3,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 18,
+        "UnlockLevel": 24,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 30,
+        "EntryDesc": {
+            "hash": -959946166
+        },
+        "EntryTitle": {
+            "hash": -33161978
+        },
+        "EntryDetailImagePath": "SpriteOutput/ChapterCover/Event/BookTestCover",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Extra_1",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            4
+        ],
+        "FeatureType": [
+            2
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1004,
+        "EntryRewardID": 1224004,
+        "forceShowContent": 0,
+        "ID": 4,
+        "infoID": 0,
+        "shopType": 9,
+        "UnlockHintLevel": 24,
+        "UnlockLevel": 35,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 1211012966
+        },
+        "EntryTitle": {
+            "hash": 476186218
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/MutilTask_1",
+        "EntryTitleImgPath": "SpriteOutput/WorldMap/Entry/Multi_Title",
+        "ContentIDList": [
+            42000001,
+            42000002,
+            42000003,
+            42000004,
+            42000005,
+            42000006,
+            42000007,
+            40000065,
+            40000066,
+            40000067,
+            40000068,
+            40000069,
+            40000070,
+            36126,
+            36127,
+            36128,
+            36135,
+            36136,
+            36137,
+            36138,
+            36139,
+            36140,
+            36141,
+            36142,
+            36143,
+            36144,
+            36145,
+            36146,
+            36022,
+            36021,
+            36020,
+            36019
+        ],
+        "FeatureType": [
+            8
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1006,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 6,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/newbie37/entrance_truecolor",
+        "EntryTitleImgPath": "event/Immediately/newbie37/newentrancetitle_truecolor",
+        "ContentIDList": [
+            30130,
+            30131,
+            30132,
+            30133,
+            30134,
+            30135,
+            30136
+        ],
+        "FeatureType": [
+            114
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1007,
+        "EntryRewardID": 1224007,
+        "forceShowContent": 2,
+        "ID": 7,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 22,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -1578378788
+        },
+        "EntryTitle": {
+            "hash": 1501896212
+        },
+        "EntryDetailImagePath": "SpriteOutput/ChapterCover/Event/BookTestCover",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            3
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1008,
+        "EntryRewardID": 1224008,
+        "forceShowContent": 0,
+        "ID": 8,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 38,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 1783820087
+        },
+        "EntryTitle": {
+            "hash": -1345826823
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Cover_4",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            5
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1009,
+        "EntryRewardID": 1224009,
+        "forceShowContent": 0,
+        "ID": 9,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -1123979897
+        },
+        "EntryTitle": {
+            "hash": -906485847
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Regular_1_99",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1301,
+            1501,
+            1511,
+            1521,
+            1531,
+            1541,
+            1601,
+            1611,
+            1621,
+            1631,
+            1641,
+            1651,
+            1661,
+            1671,
+            1551,
+            1552,
+            30110,
+            30111,
+            30113,
+            33001,
+            33002,
+            33003,
+            33004,
+            1400
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 2003,
+        "EntryRewardID": 1224010,
+        "forceShowContent": 0,
+        "ID": 10,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 60,
+        "UnlockLevel": 65,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 65,
+        "EntryDesc": {
+            "hash": 729856296
+        },
+        "EntryTitle": {
+            "hash": -296856728
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10001001,
+            10003011
+        ],
+        "FeatureType": [
+            100
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 2002,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 11,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 35,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": -205294010
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Cover_10",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            11101
+        ],
+        "FeatureType": [
+            109
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 2001,
+        "EntryRewardID": 1224013,
+        "forceShowContent": 0,
+        "ID": 12,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 45,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 65,
+        "EntryDesc": {
+            "hash": 1555700628
+        },
+        "EntryTitle": {
+            "hash": 1665408380
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Cover_AvatarChallenge",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10003021,
+            10003031,
+            10003041,
+            10003051,
+            10003061,
+            10003080,
+            10003081,
+            10003082,
+            10003083,
+            10003084,
+            10003085,
+            10003086,
+            40000122
+        ],
+        "FeatureType": [
+            100
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 2004,
+        "EntryRewardID": 1224012,
+        "forceShowContent": 0,
+        "ID": 13,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 1638284317
+        },
+        "EntryTitle": {
+            "hash": 107350867
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Cover_9",
+        "EntryTitleImgPath": "SpriteOutput/WorldMap/Entry/Cover_Title9",
+        "ContentIDList": [],
+        "FeatureType": [
+            105
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1011,
+        "EntryRewardID": 1224014,
+        "forceShowContent": 0,
+        "ID": 14,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 24,
+        "UnlockLevel": 55,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 826267040
+        },
+        "EntryTitle": {
+            "hash": 1732070384
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/MutilTask_2",
+        "EntryTitleImgPath": "SpriteOutput/WorldMap/Entry/Campaign_Title",
+        "ContentIDList": [],
+        "FeatureType": [
+            19
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1012,
+        "EntryRewardID": 1224007,
+        "forceShowContent": 0,
+        "ID": 15,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 22,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 30,
+        "EntryDesc": {
+            "hash": 1141905279
+        },
+        "EntryTitle": {
+            "hash": 243508881
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/OWEndless/Cover_11",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            108
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 1001,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Regular_2_KallenC3",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34167
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2001,
+        "infoID": 1001,
+        "shopType": 3,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": -2031768233
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            14
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2002,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            4,
+            8,
+            9,
+            5,
+            6,
+            7,
+            12,
+            13,
+            10,
+            34080,
+            34081,
+            34082,
+            34083
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2003,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_1",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34080,
+            34081,
+            34082,
+            34083,
+            34084
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2004,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            13
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2005,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10101411,
+            10101412,
+            10101413
+        ],
+        "FeatureType": [
+            101
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 43002,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2006,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_3",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            16
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2007,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10201024
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 43005,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2009,
+        "infoID": 1002,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 35,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 35,
+        "EntryDesc": {
+            "hash": 1211451929
+        },
+        "EntryTitle": {
+            "hash": -873648169
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Cover_OW3",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            17
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1224007,
+        "forceShowContent": 2,
+        "ID": 2010,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 22,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -1578378788
+        },
+        "EntryTitle": {
+            "hash": 496914220
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/OWEndless/Cover_8",
+        "EntryTitleImgPath": "SpriteOutput/WorldMap/OWEndless/Cover_Title8",
+        "ContentIDList": [],
+        "FeatureType": [
+            18
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1401400,
+        "forceShowContent": 0,
+        "ID": 2011,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 953814302
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/ActCover0925",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10201066,
+            10201067
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2012,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Hallowen_1010",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34175
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2013,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 35,
+        "UnlockLevel": 35,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Hallowen_1010",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10201100
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2014,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Hallowen_1010",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34180
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2015,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/KallenC3Trial_bookevent",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34202
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2017,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Double11/Bookevent",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34196
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2018,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Double11/Bookevent",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10201102
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2020,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/RandomSpeedentry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            3001
+        ],
+        "FeatureType": [
+            12
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2021,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/RandomSpeedentry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            3002
+        ],
+        "FeatureType": [
+            12
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2024,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/kianabirthw1",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34197
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2025,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 40,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 25808942
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/ActRitaEvent",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/ActRitaTitle01",
+        "ContentIDList": [
+            10201201,
+            10201202,
+            10201203
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1430953,
+        "forceShowContent": 0,
+        "ID": 2028,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -3777490
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/RpgSurvival/summerEnrty",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2029,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 20,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": -965322405
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/RitaBirth/Entryimg",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            30000001,
+            30000002,
+            30000003
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2030,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Teamassult01",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10101421,
+            10101422,
+            10101423
+        ],
+        "FeatureType": [
+            101
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2031,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Teamassult02",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10101431,
+            10101432,
+            10101433
+        ],
+        "FeatureType": [
+            101
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2032,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/2.8special01",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37007
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2033,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/2.8special01",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37011
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2034,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/2.9Valentine",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37009
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2035,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Mei_Prove/EntryBook",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34212
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2041,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 38,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/2.8tower_entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10302001
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2042,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/IceRitaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34214
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2043,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Theresabirth_entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37025
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2044,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Mei2019_entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37024
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2045,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 70,
+        "UnlockLevel": 70,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Championship2019_entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37028
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2046,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.0Elf/BookEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37030,
+            37033,
+            37034,
+            37035,
+            37036
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2047,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 12,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.0Elf/TrialEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37037
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2048,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/shanchuiEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37040
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2049,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 60,
+        "UnlockLevel": 60,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/ExbossEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37046,
+            37047,
+            37048
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2050,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/SpringGo/EntryBook",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000001,
+            40000002
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2051,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 70,
+        "UnlockLevel": 70,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/PicCover_TVTRush_Avtivity",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_TVTRush_Title",
+        "ContentIDList": [],
+        "FeatureType": [
+            106
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2052,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 826267040
+        },
+        "EntryTitle": {
+            "hash": 1732070384
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/tuanbeneasy/tuanbeneasyEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000003
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2053,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 826267040
+        },
+        "EntryTitle": {
+            "hash": 1732070384
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/tuanbeneasy/tuanbeneasyEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000004
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2054,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 826267040
+        },
+        "EntryTitle": {
+            "hash": 1732070384
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/tuanbeneasy/tuanbeneasyEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000005
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2055,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 826267040
+        },
+        "EntryTitle": {
+            "hash": 1732070384
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/tuanbeneasy/tuanbeneasyEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000006
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2056,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/FoolsDayEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37042
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2057,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.1Treasure/MPEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            34132,
+            34133,
+            34134
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2058,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/KingdomsWar2020_Cover",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            107
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2059,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_Campaign",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            50000000
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2061,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.1TrialEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37049
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2062,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.1Treasure/CoupleEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10302020,
+            10302021
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2063,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/2.9Valentine",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37052
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2064,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/xier",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37053,
+            37054
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2065,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/xier",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37055,
+            37056
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2067,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.1Underground/entrance_truecolor",
+        "EntryTitleImgPath": "event/Immediately/3.1Underground/entrancetitle_truecolor",
+        "ContentIDList": [
+            10302022,
+            10302023
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2068,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/HimekoExam01_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/HimekoExam01title_truecolor",
+        "ContentIDList": [
+            34216,
+            34218,
+            34220
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2069,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/ChildrenMap01",
+        "EntryTitleImgPath": "event/Immediately/Act/ChildrenMap02",
+        "ContentIDList": [
+            37058
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2070,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/HimekoExam01_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/HimekoExam01title_truecolor",
+        "ContentIDList": [
+            34217,
+            34219,
+            34220
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2071,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/SpringGo/EntryBook",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000015,
+            40000023,
+            40000008,
+            40000019,
+            40000021,
+            40000022
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2072,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/SpringGo/EntryBook",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000008
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2073,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 61,
+        "UnlockLevel": 61,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/elf_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/elftitle_truecolor",
+        "ContentIDList": [
+            37065
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2074,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.2TrialEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37064
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2075,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 70,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/Championship2019_entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37068
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2076,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/GA_10201301_Cover",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10201301,
+            10201302
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2077,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/3.1Underground/entrance_truecolor",
+        "EntryTitleImgPath": "event/Immediately/3.1Underground/entrancetitle_truecolor",
+        "ContentIDList": [
+            10302024
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2079,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3BronyaBirthEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000030,
+            40000031,
+            40000032
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2081,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3summer01Entry_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.3summer01Title_truecolor",
+        "ContentIDList": [
+            40000018
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2082,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3lvyaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37120
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2083,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600001
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2085,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3summer02Entry_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.3summer01Title_truecolor",
+        "ContentIDList": [
+            40000020
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2086,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3summer03Entry_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.3summer01Title_truecolor",
+        "ContentIDList": [
+            40000026
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1430953,
+        "forceShowContent": 0,
+        "ID": 2087,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -3777490
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/RpgSurvival/summerEnrty",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2088,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3summer04Entry_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.3summer01Title_truecolor",
+        "ContentIDList": [
+            40000027
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2089,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/SpringGo/EntryBook",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000028,
+            40000029
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2090,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Cover_Event_Test",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000024
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2091,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 20,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": -437071735
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.3DeliciousEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000033,
+            40000034
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 2
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2092,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1548612623
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Piccover_MonopolyEvent",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            21
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2093,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.4AsterEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37139
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2094,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/3.4LunaEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000024
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2095,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/4thPublicEntry",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/4thPublicEntry_title",
+        "ContentIDList": [],
+        "FeatureType": [
+            112
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2096,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.4znshuashua01Entry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000025
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2097,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600002
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2098,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.4SeelePreheatEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000035,
+            40000040,
+            40000041
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2099,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.4znshuashua02Entry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000037
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2100,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.4znshuashua03Entry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000038
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2102,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 20,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverNinja",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            115
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2103,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.5lvyaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37143
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2106,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600004
+        ],
+        "FeatureType": [
+            111
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2107,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/PicCoverArmadaBoss",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_SimulatedWarRoom_title",
+        "ContentIDList": [
+            1
+        ],
+        "FeatureType": [
+            116
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2108,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6entrance1_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.6entrancetitle1_truecolor",
+        "ContentIDList": [
+            10302028,
+            10302029
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2109,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 20,
+        "EntryDesc": {
+            "hash": -3777490
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverSpringFestival2020",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1004
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1430953,
+        "forceShowContent": 0,
+        "ID": 2110,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -3777490
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverSpringFestival2020",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2111,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600005
+        ],
+        "FeatureType": [
+            111
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2112,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6NinjaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37158
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2113,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600006
+        ],
+        "FeatureType": [
+            111
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2115,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverGarden",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            22
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2116,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/OpenSchool",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2117,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6entrance2_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.6entrancetitle2_truecolor",
+        "ContentIDList": [
+            10302030,
+            10302031
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2118,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6entrance3_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.6entrancetitle3_truecolor",
+        "ContentIDList": [
+            10302032,
+            10302033
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2119,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 40,
+        "UnlockLevel": 40,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6entrance4_truecolor",
+        "EntryTitleImgPath": "event/Immediately/Act/3.6entrancetitle4_truecolor",
+        "ContentIDList": [
+            10302034,
+            10302035
+        ],
+        "FeatureType": [
+            103
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2120,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_SingleRaid",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            10600007
+        ],
+        "FeatureType": [
+            111
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2121,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.7FuHuaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37164
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 2,
+        "ID": 2122,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Spring/Springchuji",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37258,
+            37259,
+            37260,
+            37261,
+            37262,
+            37263,
+            37264,
+            37265,
+            37266,
+            37267,
+            37268,
+            37281,
+            37282,
+            37283,
+            37269,
+            37270,
+            37271,
+            37272,
+            37273,
+            37274,
+            37275,
+            37276,
+            37277,
+            37278,
+            37279,
+            37284,
+            37285,
+            37286
+        ],
+        "FeatureType": [
+            9
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2124,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6ArkChallengeEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000050,
+            40000051
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2125,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMassiveWar",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            118
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2127,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.7kxshuashua02Entry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000054
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2129,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.7FuHuaEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37192
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2130,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMassiveWarBeta",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            118
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2131,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverAvatarActivityDurandal",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            2001
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2133,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.8DurandalEntry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            37193
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2135,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.6ArkChallengeEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40100004
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2136,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/3.9SportsEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000057
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2137,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMassiveWar",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            118
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2138,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/3.8DurandalEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37197
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2140,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMassiveWar",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            118
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2141,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37199
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2142,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/4.0Teresa",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            2002
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2143,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 17,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Event_Christmas",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1100
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2145,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverSummerTreasure",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1200
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2147,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37211
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2148,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverAvatarActivityMeiC5",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            4001
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2149,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverBlockedZone",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3010
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2150,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar01",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3030
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2151,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMeiWarmUp1",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000059
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2152,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/PicCoverMeiWarmUp2",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000061,
+            40000062
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2153,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverAvatarActivityRitaC5",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            2010
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2155,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/4.1AvatarKitchenEntry_truecolor",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000064
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2156,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37220
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2157,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverGarden",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [],
+        "FeatureType": [
+            22
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 1224017,
+        "forceShowContent": 2,
+        "ID": 2158,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": -1578378788
+        },
+        "EntryTitle": {
+            "hash": 283731592
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/OWEndless/Cover_12",
+        "EntryTitleImgPath": "SpriteOutput/WorldMap/OWEndless/Cover_Title12",
+        "ContentIDList": [],
+        "FeatureType": [
+            18
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1013,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2159,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 80,
+        "UnlockLevel": 80,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/EventLab_2",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000074,
+            3030
+        ],
+        "FeatureType": [
+            102,
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2160,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar02",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3040
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2161,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar03",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3020
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2162,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar05",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3050
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2164,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/ZixuanTower",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            4002
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2165,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37225
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2166,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37225
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2167,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/MiniSkyFire",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/MiniSkyFireTitle_truecolor",
+        "ContentIDList": [
+            41000004
+        ],
+        "FeatureType": [
+            121
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2168,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/Banner_Century",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            6001
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2169,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/PicCover_Twin_BS_GeneralAvtivity",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_Twin_BS_GeneralAvtivity_title",
+        "ContentIDList": [
+            2030
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2170,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar06",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3060
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2171,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/PicCoverGarden2",
+        "EntryTitleImgPath": "event/Immediately/Act/4.3Gardentitle_truecolor",
+        "ContentIDList": [],
+        "FeatureType": [
+            22
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2172,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37229
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2173,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/4.4RogueTower",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/4.4RogueTowerTitle",
+        "ContentIDList": [
+            4010
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2174,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverAvatarActivityDurandalC3",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            2040
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2176,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37239
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2177,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 99,
+        "VersionTagMinLv": 20,
+        "EntryDesc": {
+            "hash": -3777490
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/PicCoverSpring2021",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1010
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2178,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37242
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2179,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Banner_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000089,
+            40000093,
+            40000106,
+            40000110,
+            40000114
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2181,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Challenge_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            42000091
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2182,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Challenge_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            42000092
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2183,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 51,
+        "UnlockLevel": 51,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Banner_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000090,
+            40000105,
+            40000107,
+            40000111,
+            40000115
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2184,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 71,
+        "UnlockLevel": 71,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Banner_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000091,
+            40000105,
+            40000108,
+            40000112,
+            40000115
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 1,
+        "ID": 2185,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/GenenralActivity/Banner_Battle",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000092,
+            40000105,
+            40000109,
+            40000113,
+            40000115
+        ],
+        "FeatureType": [
+            102
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2186,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37252
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2188,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 50,
+        "UnlockLevel": 50,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/twoplustwoPVE",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000116
+        ],
+        "FeatureType": [
+            121
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2189,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/4.6RogueTower2",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            4020
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2190,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/4.6AvataChallenge",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            2050
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2191,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 25,
+        "UnlockLevel": 25,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/4.7SPBronya_OW_Entry",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            1000
+        ],
+        "FeatureType": [
+            26
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2193,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37250
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2195,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 30,
+        "UnlockLevel": 30,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar03",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            40000125,
+            40000126
+        ],
+        "FeatureType": [
+            121
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2196,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 81,
+        "UnlockLevel": 81,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "SpriteOutput/WorldMap/Entry/PicCoverChallengeWar07",
+        "EntryTitleImgPath": "event/Immediately/WorldMap/Entry/PicCover_BlockadeZone_title",
+        "ContentIDList": [
+            3070
+        ],
+        "FeatureType": [
+            20
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 9999,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2202,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 20,
+        "UnlockLevel": 20,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/WorldMap/Entry/MiniSkyFire",
+        "EntryTitleImgPath": "",
+        "ContentIDList": [
+            41000006
+        ],
+        "FeatureType": [
+            121
+        ],
+        "bits1": 0
+    },
+    {
+        "EntryCG": 0,
+        "EntryID": 1010,
+        "EntryRewardID": 0,
+        "forceShowContent": 0,
+        "ID": 2204,
+        "infoID": 0,
+        "shopType": 0,
+        "UnlockHintLevel": 15,
+        "UnlockLevel": 15,
+        "VersionTagMaxLv": 0,
+        "VersionTagMinLv": 0,
+        "EntryDesc": {
+            "hash": 0
+        },
+        "EntryTitle": {
+            "hash": 1925689655
+        },
+        "EntryDetailImagePath": "",
+        "EntryImagePath": "event/Immediately/Act/NewTrailEntry",
+        "EntryTitleImgPath": "event/Immediately/Act/TrialTitle_truecolor",
+        "ContentIDList": [
+            37287
+        ],
+        "FeatureType": [
+            99
+        ],
+        "bits1": 0
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "ID": 1,
+        "DialogAgree": {
+            "hash": -1352304723
+        },
+        "DialogClose": {
+            "hash": 563494905
+        },
+        "DialogContent": {
+            "hash": 427827834
+        },
+        "DialogRefuse": {
+            "hash": -1512125353
+        },
+        "DialogTitle": {
+            "hash": -1610290087
+        },
+        "DialogPic": ""
+    },
+    {
+        "ID": 2,
+        "DialogAgree": {
+            "hash": -1352304722
+        },
+        "DialogClose": {
+            "hash": 563494906
+        },
+        "DialogContent": {
+            "hash": 427827835
+        },
+        "DialogRefuse": {
+            "hash": -1512125352
+        },
+        "DialogTitle": {
+            "hash": -1610290086
+        },
+        "DialogPic": "event/Immediately/EvaluateTipsPic"
+    }
+]

@@ -1,0 +1,5119 @@
+[
+    {
+        "StepID": 101,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903980
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_GP_005",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "101",
+            "ATK01_New"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 102,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903979
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "101",
+            "ATK02_New"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 103,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903978
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "101",
+            "ATK03_New"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 104,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903977
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "101",
+            "ATK04_New"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 105,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903976
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 106,
+        "Type": 0,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903975
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepCondition",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [],
+        "bits1": 1
+    },
+    {
+        "StepID": 107,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903974
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 108,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903973
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 109,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903972
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 110,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867903950
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 201,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.31,
+        "Text": {
+            "hash": -867903019
+        },
+        "AnimatorStateName": "Attack_01_IN_B",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "611",
+            "ATK_1_B"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 202,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867903018
+        },
+        "AnimatorStateName": "Attack_02_IN_B",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "611",
+            "ATK_2_B"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 203,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.32,
+        "Text": {
+            "hash": -867903017
+        },
+        "AnimatorStateName": "Attack_03_IN_W",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "611",
+            "ATK_3_W"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 204,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.335,
+        "Text": {
+            "hash": -867903016
+        },
+        "AnimatorStateName": "Attack_04_IN",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "611",
+            "ATK_4_BW"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 205,
+        "Type": 1,
+        "Duration": 0.6,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.62,
+        "Text": {
+            "hash": -867903015
+        },
+        "AnimatorStateName": "Charge_IN_02",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "611",
+            "CHARGE_IN_02"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 301,
+        "Type": 3,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867902058
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/AvatarInLevelBtnIcons/BtnElfSymbol",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "1",
+            "SKL_PET"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 401,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.31,
+        "Text": {
+            "hash": -867901097
+        },
+        "AnimatorStateName": "Attack_01_IN_B",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "ATK_1_B"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 402,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867901096
+        },
+        "AnimatorStateName": "Attack_02_IN_B",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "ATK_2_B"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 403,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.32,
+        "Text": {
+            "hash": -867901095
+        },
+        "AnimatorStateName": "Attack_03_IN_B",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "ATK_3_B"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 404,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.335,
+        "Text": {
+            "hash": -867901094
+        },
+        "AnimatorStateName": "Attack_04_IN",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "ATK_4_BW"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 405,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.376,
+        "Text": {
+            "hash": -867901093
+        },
+        "AnimatorStateName": "Charge_IN_03",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "CHARGE_IN_03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 406,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.31,
+        "Text": {
+            "hash": -867901092
+        },
+        "AnimatorStateName": "Attack_01_IN_W",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "611",
+            "ATK_1_W"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 407,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867901091
+        },
+        "AnimatorStateName": "Attack_02_IN_W",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "611",
+            "ATK_2_W"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 408,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.32,
+        "Text": {
+            "hash": -867901090
+        },
+        "AnimatorStateName": "Attack_03_IN_W",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "611",
+            "ATK_3_W"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 409,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.35,
+        "Text": {
+            "hash": -867901089
+        },
+        "AnimatorStateName": "Charge_IN_00",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "CHARGE_IN_00"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 410,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.62,
+        "Text": {
+            "hash": -867901067
+        },
+        "AnimatorStateName": "Charge_IN_02",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "CHARGE_IN_02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 411,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.88,
+        "Text": {
+            "hash": -867901066
+        },
+        "AnimatorStateName": "Ultra_IN",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "SKL02",
+        "Param": [
+            "611",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 412,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901065
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "611",
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 413,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901064
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 414,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 2.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901063
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 415,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901062
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_IN_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "611",
+            "ATK_4_BW_Direct"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 500,
+        "Type": 0,
+        "Duration": 0.3,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 0
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [],
+        "bits1": 1
+    },
+    {
+        "StepID": 501,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900136
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK01_AS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 502,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900135
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_Weapon",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "801",
+            "SKL_WEAPON_Throw_Normal_Big"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 503,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900134
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_WeaponQTE",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "801",
+            "SKL_WEAPON_QTE"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 504,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 505,
+        "Type": 1,
+        "Duration": 5.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.14,
+        "Text": {
+            "hash": -867900132
+        },
+        "AnimatorStateName": "Attack_TJ_5",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK05"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 506,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.12,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "Attack_TJ_1",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 507,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.22,
+        "Text": {
+            "hash": -867900130
+        },
+        "AnimatorStateName": "Attack_TJ_2",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 508,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.14,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "Attack_TJ_3",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 509,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.34,
+        "Text": {
+            "hash": -867900128
+        },
+        "AnimatorStateName": "Attack_TJ_4",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 510,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.22,
+        "Text": {
+            "hash": -867900106
+        },
+        "AnimatorStateName": "Attack_TJ_5",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 511,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900105
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 512,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900104
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "801",
+            "ATK_BRANCH"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 513,
+        "Type": 0,
+        "Duration": 0.3,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 0
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C1_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [],
+        "bits1": 1
+    },
+    {
+        "StepID": 601,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867899175
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ATK_01",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 602,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867899174
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ATK_02",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 603,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.1,
+        "Text": {
+            "hash": -867899173
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ATK_03",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 604,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.3,
+        "Text": {
+            "hash": -867899172
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ATK_04",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 605,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.2,
+        "Text": {
+            "hash": -867899171
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ATK_05",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 606,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.2,
+        "Text": {
+            "hash": -867899170
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_ChargeATK",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Normal_ChargeATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 607,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899169
+        },
+        "AnimatorStateName": "Durandal_GD_Normal_LanceImpact",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_543",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "802",
+            "Normal_LanceImpact"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 608,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899168
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_544",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 609,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899167
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_543",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "802",
+            "JET"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 610,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899145
+        },
+        "AnimatorStateName": "Ultra_WeaponSkill_Small",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_Weapon",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "802",
+            "SKL_WEAPON_Throw_Small_Ultra"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 611,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899144
+        },
+        "AnimatorStateName": "Ultra_WeaponSkill_QTE",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_WeaponQTE",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "802",
+            "SKL_WEAPON_QTE_Ultra"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 612,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899143
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_JetATK",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "802",
+            "ATK_Ultra_JetATK"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 613,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899142
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_GPSuccess",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_543",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "802",
+            "Ultra_GPSuccess"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 614,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899145
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_Weapon",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "802",
+            "SKL_WEAPON_Throw_Normal_Big"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 615,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899144
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_WeaponQTE",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "802",
+            "SKL_WEAPON_QTE"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 616,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.15,
+        "Text": {
+            "hash": -867899175
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_ATK_01",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Ultra_ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 617,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.22,
+        "Text": {
+            "hash": -867899174
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_ATK_02",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Ultra_ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 618,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.18,
+        "Text": {
+            "hash": -867899173
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_ATK_03",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Ultra_ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 619,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.27,
+        "Text": {
+            "hash": -867899172
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_ATK_04",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Ultra_ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 620,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.35,
+        "Text": {
+            "hash": -867899171
+        },
+        "AnimatorStateName": "Durandal_GD_Ultra_ATK_05",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_542",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "802",
+            "Ultra_ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 701,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.23,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 702,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.23,
+        "Text": {
+            "hash": -867900130
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 703,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.29,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 704,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900128
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 705,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK04_Hold"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 706,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899168
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_564",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 707,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_563",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 708,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_563",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "506",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 709,
+        "Type": 1,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -838608495
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK04_Perfect"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 710,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C6_ZG_561",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "506",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 801,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 802,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900130
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 803,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_3"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 804,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900128
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_4"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 805,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900128
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_5"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 806,
+        "Type": 1,
+        "Duration": 1.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "205",
+            "BRANCH_AC_NEW_P3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 807,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 808,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "205",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 809,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900105
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 810,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "AC_Dragon_Melee_Start"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 811,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "AC_Dragon_Melee_02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 812,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "AC_Dragon_Melee_03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 813,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "AC_Dragon_Melee_04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 814,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 815,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 1575956686
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_004_EX",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 816,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_Branch"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 817,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 818,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 819,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900130
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 820,
+        "Type": 1,
+        "Duration": 1.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "BRANCH_AC_NEW_P3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 821,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATTACK_EVADE"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 822,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATTACK_EVADE_F"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 823,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867897189
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "103",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 824,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867897188
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "205",
+            "QTE_AC"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 825,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867897187
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "104",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 826,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 827,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900129
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "ATK_AC_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 828,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 1085783053
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_AC_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "205",
+            "AC_Dragon_Shoot"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 830,
+        "Type": 2,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 1636010207
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_Weapon_29",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "SKL_WEAPON"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 901,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 902,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 903,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 904,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 905,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 906,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Branch_AS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 907,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901065
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "202",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 908,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900105
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_C2_Artifact_002",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "202",
+            "SKL02_Artifact"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 909,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899170
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_JX_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "504",
+            "ATK_CHARGE_D_FULL"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 910,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899170
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Theresa_JX_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "504",
+            "ATK_CHARGE_D_FULL"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 911,
+        "Type": 6,
+        "Duration": 10.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Branch_EX"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 912,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Evade_Attack"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 913,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867901065
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "202",
+            "SKL01"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 914,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Evade_Attack"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 915,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.2,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Branch_AS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 916,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Mei_C3_Artifact_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "202",
+            "Artifact_Branch_EX"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1001,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 2.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219586
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/DLC_Skill_Adam_Attack",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "",
+        "Param": [
+            "ATK_FLY"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 1002,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK01_ATK1_NoCharge",
+            "ATK01_AS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1003,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219584
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK01_AS_Charge_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1004,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219583
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK01_AS_Charge_3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1005,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900105
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_KZ_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "403",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1006,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK_SPRINT"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1007,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK02_ATK1_KZ"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1008,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK02_ATK2_KZ"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1009,
+        "Type": 6,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "403",
+            "ATK02_ATK3_KZ"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1010,
+        "Type": 0,
+        "Duration": 0.3,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 0
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Himeko_VV_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [],
+        "bits1": 1
+    },
+    {
+        "StepID": 1011,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219555
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "403",
+            "FAST_RUN"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1012,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219554
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1013,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219553
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1014,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219552
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK03_NoWolf"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1015,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219551
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1016,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219550
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1017,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219549
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_574",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1018,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219548
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Ex_ATK_Branch02",
+            "Ex_ATK_Branch"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1019,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219547
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_573",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "705",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1020,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219525
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1021,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219548
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_571",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "705",
+            "Normal_ATK_Branch"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1022,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219523
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "301",
+            "ATK01_AS0"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1023,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219522
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Rita_C5_IA_574",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "705",
+            "QTE_ATTACK"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1024,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219525
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1025,
+        "Type": 1,
+        "Duration": 10.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219547
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "302",
+            "SKL02"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 1026,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -1135219521
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "711",
+            "QTE_ATTACK"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 1027,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1028,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1029,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A3"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1030,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A4"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1031,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A5"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1032,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "601",
+            "ATK_A6"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1033,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_C1_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1034,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_C1_2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1035,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 2096570083
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_C2_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1036,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 2096570083
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_C2_2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1037,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 2096570083
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_C2_3"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1038,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_B1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1039,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900131
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FK_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "601",
+            "ATK_B_Attack_Ultra"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1040,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1041,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1042,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1043,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1044,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A04A"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1045,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_A04B"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1046,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898214
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1047,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898213
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_B02"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1048,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898211
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_SP01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1049,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898211
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_SP02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1050,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898211
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "422",
+            "AF01_SP03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1051,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898210
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1052,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898209
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "422",
+            "AF01_QTE"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1053,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898212
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Twins_BS_AF01_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "422",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1054,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1055,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1056,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1057,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1058,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1059,
+        "Type": 1,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899170
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK_CHARGE"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1060,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898212
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "711",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1061,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Seele_QT_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "711",
+            "ATK_Ultra_Special"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1062,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_591",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1063,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_591",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1064,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_591",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1065,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_591",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1066,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_591",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1067,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898214
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_593",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1068,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898208
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1069,
+        "Type": 6,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898207
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02_Normal02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1070,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898206
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C2_GD_541",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "803",
+            "Henshin"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1071,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898184
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02_Ex01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1072,
+        "Type": 6,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898183
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02_Ex02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1073,
+        "Type": 6,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898182
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02_MAX"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1074,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898181
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_593",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "803",
+            "QTE"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1075,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898180
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_ZP_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "301",
+            "ATK01_AS0"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1076,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 45295417
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_Weapon",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "803",
+            "SKL_WEAPON_Throw_Normal_Big"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1077,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 45295417
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_Common_WeaponQTE",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "803",
+            "SKL_WEAPON_QTE"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1078,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899169
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 1079,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900133
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_QN_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 0
+    },
+    {
+        "StepID": 1080,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898212
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_QN_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "104",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1081,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "104",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1082,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "104",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1083,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "104",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1084,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "104",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1085,
+        "Type": 6,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898208
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Durandal_C3_SW_594",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "803",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1086,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 1.0,
+        "Text": {
+            "hash": -867898179
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Evade",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "SKL01",
+        "Param": [
+            "1000001",
+            "SKL_SPRINT_CHARGE_LV_1"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1087,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1088,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679650
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1089,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679649
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1090,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679648
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1091,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679647
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK05"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1092,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.4,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679646
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK_Branch_1"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1093,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.7,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679645
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "ATK_Branch_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1094,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679644
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Attack_EX"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1095,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679643
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_604",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "901",
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1096,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679621
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Ultra_ATK_Branch_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1097,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679620
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Ultra_Attack_EX"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1098,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679619
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Ultra_Attack1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1099,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679618
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Ultra_Attack2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1100,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679617
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_601",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "901",
+            "Ultra_Attack3"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1101,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679616
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Asuka_C1_ZT_604_1",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1102,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 1.0,
+        "Text": {
+            "hash": -867898178
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/EVA_Skill_Fire",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "SKL_WEAPON",
+        "Param": [
+            "1000001",
+            "SKL_AIM_STANDBY"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1103,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.8,
+        "Text": {
+            "hash": -867898212
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "302",
+            "SKL02"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1104,
+        "Type": 2,
+        "Duration": 4.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1105,
+        "Type": 2,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1106,
+        "Type": 2,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898215
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_BQ_Artifact01_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "ATK"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1107,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_A_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1108,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_A_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1109,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_A_3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1110,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_A_4"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1111,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_B_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1112,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_B_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1113,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_B_3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1114,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_B_4"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1115,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_B_5"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1116,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_C_1"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1117,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_C_2"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1118,
+        "Type": 6,
+        "Duration": 2.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_C_3"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1119,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898214
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1120,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.4,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -900678225
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_BRANCH_A"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1121,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.4,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -900678225
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_BRANCH_B_BS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1122,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.4,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -900678225
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_BRANCH_C"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1123,
+        "Type": 2,
+        "Duration": 1.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679643
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "SKL02"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1124,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679643
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "SKL02",
+        "Param": [
+            "612",
+            "SKL02"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1125,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.3,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": 524840544
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001_2",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_ULTRA_B_END"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1126,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679644
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "612",
+            "ATK_ULTRA_C"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1127,
+        "Type": 2,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867898214
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Kiana_PT_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL01",
+        "Param": [
+            "SKL01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1128,
+        "Type": 1,
+        "Duration": 3.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -827419462
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "612",
+            "ATK_QTE"
+        ],
+        "bits1": 1
+    },
+    {
+        "StepID": 1129,
+        "Type": 6,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -827419463
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_003",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "",
+        "Param": [
+            "612",
+            "RUN_FAST"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1130,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001_2",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_ULTRA_A_1"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1131,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001_2",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_ULTRA_A_2"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1132,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Fuka_FL_001_2",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "612",
+            "ATK_ULTRA_A_3"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1133,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "314",
+            "ATK01"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1134,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "314",
+            "ATK02"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1135,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "314",
+            "ATK03"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1136,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -824679651
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "ATK",
+        "Param": [
+            "314",
+            "ATK04"
+        ],
+        "bits1": 2
+    },
+    {
+        "StepID": 1137,
+        "Type": 1,
+        "Duration": 999.0,
+        "HoldDuration": 0.4,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867899170
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_001",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtnHold",
+        "SkillPrefabType": "UI/Menus/Widget/InLevel/SBH-Status",
+        "SKLButton": "ATK",
+        "Param": [
+            "314",
+            "ATK_ChargeBS"
+        ],
+        "bits1": 3
+    },
+    {
+        "StepID": 1138,
+        "Type": 1,
+        "Duration": 0.0,
+        "HoldDuration": 0.0,
+        "TimeOffset": 0.0,
+        "Text": {
+            "hash": -867900105
+        },
+        "AnimatorStateName": "",
+        "PrefabImagePath": "SpriteOutput/SkillIconsInLevel/Skill_Bronya_CH_004",
+        "PrefabType": "UI/Menus/Widget/InLevel/AT-StepBtn",
+        "SkillPrefabType": "Effect/InLevelUI/Button_Hack_Effect",
+        "SKLButton": "SKL02",
+        "Param": [
+            "314",
+            "SKL02"
+        ],
+        "bits1": 2
+    }
+]

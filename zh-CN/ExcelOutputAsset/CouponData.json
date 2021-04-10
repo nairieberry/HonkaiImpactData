@@ -1,0 +1,146 @@
+[
+    {
+        "CouponNeedPrice": 1000,
+        "CouponValue": 300,
+        "IsShow": 1,
+        "MaterialID": 3307,
+        "SortId": 3,
+        "BeginTime": "2019-03-14 12:00:00",
+        "EndTime": "2019-04-25 04:00:00",
+        "CouponTypeList": [
+            7
+        ]
+    },
+    {
+        "CouponNeedPrice": 300,
+        "CouponValue": 60,
+        "IsShow": 1,
+        "MaterialID": 3308,
+        "SortId": 4,
+        "BeginTime": "2019-03-14 12:00:00",
+        "EndTime": "2019-04-25 04:00:00",
+        "CouponTypeList": [
+            8
+        ]
+    },
+    {
+        "CouponNeedPrice": 300,
+        "CouponValue": 60,
+        "IsShow": 1,
+        "MaterialID": 3309,
+        "SortId": 4,
+        "BeginTime": "2019-03-14 12:00:00",
+        "EndTime": "2019-04-25 04:00:00",
+        "CouponTypeList": [
+            8
+        ]
+    },
+    {
+        "CouponNeedPrice": 300,
+        "CouponValue": 180,
+        "IsShow": 1,
+        "MaterialID": 3310,
+        "SortId": 5,
+        "BeginTime": "2019-07-19 12:00:00",
+        "EndTime": "2019-08-16 12:00:00",
+        "CouponTypeList": [
+            9
+        ]
+    },
+    {
+        "CouponNeedPrice": 180,
+        "CouponValue": 30,
+        "IsShow": 1,
+        "MaterialID": 3311,
+        "SortId": 10,
+        "BeginTime": "2019-10-18 12:00:00",
+        "EndTime": "2019-11-15 04:00:00",
+        "CouponTypeList": [
+            10
+        ]
+    },
+    {
+        "CouponNeedPrice": 1680,
+        "CouponValue": 300,
+        "IsShow": 1,
+        "MaterialID": 3312,
+        "SortId": 4,
+        "BeginTime": "2019-12-05 12:00:00",
+        "EndTime": "2020-01-16 04:00:00",
+        "CouponTypeList": [
+            12
+        ]
+    },
+    {
+        "CouponNeedPrice": 181,
+        "CouponValue": 180,
+        "IsShow": 1,
+        "MaterialID": 3321,
+        "SortId": 11,
+        "BeginTime": "2021-04-02 12:00:00",
+        "EndTime": "2021-04-29 04:00:00",
+        "CouponTypeList": [
+            15
+        ]
+    },
+    {
+        "CouponNeedPrice": 60,
+        "CouponValue": 10,
+        "IsShow": 1,
+        "MaterialID": 114116,
+        "SortId": 4,
+        "BeginTime": "2019-11-01 12:00:00",
+        "EndTime": "2019-11-15 04:00:00",
+        "CouponTypeList": [
+            11
+        ]
+    },
+    {
+        "CouponNeedPrice": 300,
+        "CouponValue": 30,
+        "IsShow": 1,
+        "MaterialID": 114117,
+        "SortId": 3,
+        "BeginTime": "2019-11-01 12:00:00",
+        "EndTime": "2019-11-15 04:00:00",
+        "CouponTypeList": [
+            11
+        ]
+    },
+    {
+        "CouponNeedPrice": 300,
+        "CouponValue": 60,
+        "IsShow": 1,
+        "MaterialID": 114118,
+        "SortId": 2,
+        "BeginTime": "2019-11-01 12:00:00",
+        "EndTime": "2019-11-15 04:00:00",
+        "CouponTypeList": [
+            11
+        ]
+    },
+    {
+        "CouponNeedPrice": 600,
+        "CouponValue": 120,
+        "IsShow": 1,
+        "MaterialID": 114119,
+        "SortId": 1,
+        "BeginTime": "2019-11-01 12:00:00",
+        "EndTime": "2019-11-15 04:00:00",
+        "CouponTypeList": [
+            11
+        ]
+    },
+    {
+        "CouponNeedPrice": 1980,
+        "CouponValue": 300,
+        "IsShow": 1,
+        "MaterialID": 114228,
+        "SortId": 1,
+        "BeginTime": "2019-12-20 12:00:00",
+        "EndTime": "2020-01-16 04:00:00",
+        "CouponTypeList": [
+            14
+        ]
+    }
+]

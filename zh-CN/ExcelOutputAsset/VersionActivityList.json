@@ -1,0 +1,766 @@
+[
+    {
+        "ConfigID": 3,
+        "HaveButton": 1,
+        "ID": 2401,
+        "IsNew": 1,
+        "LinkType": 65,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 1,
+        "UnlockLV": 20,
+        "DescText": {
+            "hash": 251158717
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251158717
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#FF5E41FF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_01_truecolor",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIAnchorMin": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIPivot": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            0.0,
+            -80.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6101,
+            6102
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 3,
+        "HaveButton": 1,
+        "ID": 2402,
+        "IsNew": 1,
+        "LinkType": 27,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 2,
+        "UnlockLV": 22,
+        "DescText": {
+            "hash": 251158718
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251158718
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#ffb32eFF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_02",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIAnchorMin": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIPivot": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            0.0,
+            -148.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6111,
+            6112
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 3,
+        "HaveButton": 1,
+        "ID": 2403,
+        "IsNew": 1,
+        "LinkType": 42,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 3,
+        "UnlockLV": 23,
+        "DescText": {
+            "hash": 251158719
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251158719
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#FF9141FF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_03",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIAnchorMin": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIPivot": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            0.0,
+            -80.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6121,
+            6131,
+            6132
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 3,
+        "HaveButton": 1,
+        "ID": 2404,
+        "IsNew": 0,
+        "LinkType": 8,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 4,
+        "UnlockLV": 20,
+        "DescText": {
+            "hash": 251158720
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251158720
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#ff701aFF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_04",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIAnchorMin": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIPivot": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            0.0,
+            -80.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6141,
+            6142,
+            6151
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 3,
+        "HaveButton": 1,
+        "ID": 2405,
+        "IsNew": 0,
+        "LinkType": 10,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 5,
+        "UnlockLV": 25,
+        "DescText": {
+            "hash": 251158721
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251158721
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#F1443BFF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_05",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            1.0,
+            0.5
+        ],
+        "FeatureUIAnchorMin": [
+            1.0,
+            0.5
+        ],
+        "FeatureUIPivot": [
+            1.0,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            -100.0,
+            -80.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6161,
+            6162
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 4,
+        "HaveButton": 1,
+        "ID": 2501,
+        "IsNew": 1,
+        "LinkType": 23,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 1,
+        "UnlockLV": 50,
+        "DescText": {
+            "hash": 251159678
+        },
+        "FeatureUIText": {
+            "hash": -1525965840
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251159678
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#FF5E41FF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_01",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6181,
+            6182,
+            6183,
+            6184
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 4,
+        "HaveButton": 1,
+        "ID": 2502,
+        "IsNew": 1,
+        "LinkType": 67,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 2,
+        "UnlockLV": 60,
+        "DescText": {
+            "hash": 251159679
+        },
+        "FeatureUIText": {
+            "hash": -1525965840
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251159679
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#ffb32eFF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_02",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6191,
+            6192
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 4,
+        "HaveButton": 1,
+        "ID": 2503,
+        "IsNew": 0,
+        "LinkType": 65,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 3,
+        "UnlockLV": 20,
+        "DescText": {
+            "hash": 251159680
+        },
+        "FeatureUIText": {
+            "hash": -1525965840
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251159680
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#FF9141FF",
+        "ContextName": "ExtraStoryMapStubPageContext",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_03",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIAnchorMin": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIPivot": [
+            0.5,
+            1.0
+        ],
+        "FeatureUIShowPosition": [
+            0.0,
+            -80.0
+        ],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6171,
+            6172
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 4,
+        "HaveButton": 1,
+        "ID": 2504,
+        "IsNew": 0,
+        "LinkType": 66,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 4,
+        "UnlockLV": 15,
+        "DescText": {
+            "hash": 251159681
+        },
+        "FeatureUIText": {
+            "hash": -1525965840
+        },
+        "MissionFinishTextmap": {
+            "hash": 0
+        },
+        "TitleName": {
+            "hash": 251159681
+        },
+        "VersionActivityDetailDialog": {
+            "hash": 0
+        },
+        "AcitivityImage": "",
+        "BackColor": "#ff701aFF",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/NewFeature/VersionCover_04",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6201,
+            6202
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 10,
+        "HaveButton": 1,
+        "ID": 3101,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 1,
+        "UnlockLV": 15,
+        "DescText": {
+            "hash": -1618384569
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1996081021
+        },
+        "TitleName": {
+            "hash": 2048599686
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -178503161
+        },
+        "AcitivityImage": "event/Immediately/OpenSchool/InsidebgImg1",
+        "BackColor": "#5b6cd8",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/OpenSchool/OpenSchoolEntry01",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6301,
+            6302,
+            6303
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 10,
+        "HaveButton": 1,
+        "ID": 3102,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 2,
+        "UnlockLV": 15,
+        "DescText": {
+            "hash": -1618384568
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1996081020
+        },
+        "TitleName": {
+            "hash": 2048599687
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -178503160
+        },
+        "AcitivityImage": "event/Immediately/OpenSchool/InsidebgImg2",
+        "BackColor": "#e2427b",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/OpenSchool/OpenSchoolEntry02",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6306,
+            6307,
+            6308,
+            6309,
+            6310,
+            6311
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 10,
+        "HaveButton": 1,
+        "ID": 3103,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 3,
+        "UnlockLV": 15,
+        "DescText": {
+            "hash": -1618384567
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1996081019
+        },
+        "TitleName": {
+            "hash": 2048599688
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -178503159
+        },
+        "AcitivityImage": "event/Immediately/OpenSchool/InsidebgImg3",
+        "BackColor": "#e44343",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/OpenSchool/OpenSchoolEntry03",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6304,
+            6312,
+            6313,
+            6314,
+            6315,
+            6316,
+            6317
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 13,
+        "HaveButton": 1,
+        "ID": 3107,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 1,
+        "UnlockLV": 20,
+        "DescText": {
+            "hash": -2036020818
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1748052850
+        },
+        "TitleName": {
+            "hash": 1986777855
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -2094979922
+        },
+        "AcitivityImage": "event/Immediately/MeiWarmUp/InsidebgImg1_truecolor",
+        "BackColor": "#241431",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/MeiWarmUp/WarmUp_Entry01_truecolor",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6512
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 13,
+        "HaveButton": 1,
+        "ID": 3108,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 2,
+        "UnlockLV": 20,
+        "DescText": {
+            "hash": -2036020817
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1748052849
+        },
+        "TitleName": {
+            "hash": 1986777856
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -2094979921
+        },
+        "AcitivityImage": "event/Immediately/MeiWarmUp/InsidebgImg2_truecolor",
+        "BackColor": "#241431",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/MeiWarmUp/WarmUp_Entry02_truecolor",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6510,
+            6511
+        ],
+        "NewVersionDetailTabList": []
+    },
+    {
+        "ConfigID": 13,
+        "HaveButton": 1,
+        "ID": 3109,
+        "IsNew": 1,
+        "LinkType": 0,
+        "Reward": 0,
+        "Type": 0,
+        "UIOrder": 3,
+        "UnlockLV": 70,
+        "DescText": {
+            "hash": -2036020816
+        },
+        "FeatureUIText": {
+            "hash": -1525965841
+        },
+        "MissionFinishTextmap": {
+            "hash": -1748052848
+        },
+        "TitleName": {
+            "hash": 1986777857
+        },
+        "VersionActivityDetailDialog": {
+            "hash": -2094979920
+        },
+        "AcitivityImage": "event/Immediately/MeiWarmUp/InsidebgImg3_truecolor",
+        "BackColor": "#241431",
+        "ContextName": "",
+        "CoverPath": "event/Immediately/MeiWarmUp/WarmUp_Entry03_truecolor",
+        "FeatureUIPath": "event/Immediately/NewFeature/VersionHintFigure",
+        "LinkParamStr": "",
+        "PointPath": "SpriteOutput/Activity/ActivityMedal/IconAwardP",
+        "FeatureUIAnchorMax": [],
+        "FeatureUIAnchorMin": [],
+        "FeatureUIPivot": [],
+        "FeatureUIShowPosition": [],
+        "LinkParams": [
+            0
+        ],
+        "MissionGroupList": [
+            6504,
+            6505,
+            6506,
+            6507,
+            6508,
+            6509
+        ],
+        "NewVersionDetailTabList": []
+    }
+]

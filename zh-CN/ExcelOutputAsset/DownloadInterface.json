@@ -1,0 +1,32 @@
+[
+    {
+        "BackGroundType": 2,
+        "ID": 3,
+        "ActionsRect": {
+            "anchoredPositionX": -640.0,
+            "anchoredPositionY": 328.0,
+            "anchorMaxX": 0.5,
+            "anchorMaxY": 0.5,
+            "anchorMinX": 0.5,
+            "anchorMinY": 0.5,
+            "pivotX": 0.0,
+            "pivotY": 1.0,
+            "sizeDeltaX": 322.0,
+            "sizeDeltaY": 538.2
+        },
+        "ProgressBarRect": {
+            "anchoredPositionX": 0.0,
+            "anchoredPositionY": -312.0,
+            "anchorMaxX": 0.5,
+            "anchorMaxY": 0.5,
+            "anchorMinX": 0.5,
+            "anchorMinY": 0.5,
+            "pivotX": 0.5,
+            "pivotY": 0.0,
+            "sizeDeltaX": 1140.0,
+            "sizeDeltaY": 10.0
+        },
+        "BackGroundInfo": "Video/DownLoadingVideo_1.mp4",
+        "ProgressBarColor": "#BD191BBF"
+    }
+]

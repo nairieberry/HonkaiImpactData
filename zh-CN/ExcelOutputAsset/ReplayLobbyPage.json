@@ -1,0 +1,26 @@
+[
+    {
+        "IsShow": 1,
+        "ID": 0,
+        "Priority": 1,
+        "Type": 1,
+        "IconPath": "SpriteOutput/Activity/ActivityTabIcons/IconRecommend",
+        "TabName": "ReplayLobby_ExBoss_RecommendPage"
+    },
+    {
+        "IsShow": 0,
+        "ID": 1,
+        "Priority": 2,
+        "Type": 1,
+        "IconPath": "SpriteOutput/Activity/ActivityTabIcons/IconFriends",
+        "TabName": "ReplayLobby_ExBoss_FriendsPage"
+    },
+    {
+        "IsShow": 1,
+        "ID": 2,
+        "Priority": 3,
+        "Type": 1,
+        "IconPath": "SpriteOutput/Activity/ActivityTabIcons/IconVideo",
+        "TabName": "ReplayLobby_ExBoss_LocalPage"
+    }
+]

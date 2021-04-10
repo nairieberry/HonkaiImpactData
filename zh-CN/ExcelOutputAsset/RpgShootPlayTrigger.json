@@ -1,0 +1,1058 @@
+[
+    {
+        "EventType": 1,
+        "ID": 1,
+        "InLevelTriggerType": 1,
+        "StageID": 144504,
+        "Prefab": "Q_Shoot_ItemBox",
+        "PrefabSpawn": "Tower_1",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2,
+        "InLevelTriggerType": 1,
+        "StageID": 144904,
+        "Prefab": "Q_Shoot_ItemBox",
+        "PrefabSpawn": "Tower_1",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8,
+        "InLevelTriggerType": 1,
+        "StageID": 144639,
+        "Prefab": "Good",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9,
+        "InLevelTriggerType": 1,
+        "StageID": 144642,
+        "Prefab": "Bad",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 10,
+        "InLevelTriggerType": 1,
+        "StageID": 144640,
+        "Prefab": "Good",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 11,
+        "InLevelTriggerType": 1,
+        "StageID": 144640,
+        "Prefab": "Bad",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 12,
+        "InLevelTriggerType": 1,
+        "StageID": 144641,
+        "Prefab": "Good",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 13,
+        "InLevelTriggerType": 1,
+        "StageID": 144641,
+        "Prefab": "Bad",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 14,
+        "InLevelTriggerType": 1,
+        "StageID": 144657,
+        "Prefab": "Good",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 15,
+        "InLevelTriggerType": 1,
+        "StageID": 144658,
+        "Prefab": "Bad",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 100,
+        "InLevelTriggerType": 1,
+        "StageID": 144735,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 101,
+        "InLevelTriggerType": 1,
+        "StageID": 144741,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 102,
+        "InLevelTriggerType": 1,
+        "StageID": 144741,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 103,
+        "InLevelTriggerType": 1,
+        "StageID": 144742,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 108,
+        "InLevelTriggerType": 1,
+        "StageID": 144742,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 109,
+        "InLevelTriggerType": 1,
+        "StageID": 144742,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 110,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 111,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 112,
+        "InLevelTriggerType": 1,
+        "StageID": 144733,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 113,
+        "InLevelTriggerType": 1,
+        "StageID": 144732,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 114,
+        "InLevelTriggerType": 1,
+        "StageID": 144732,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 131,
+        "InLevelTriggerType": 1,
+        "StageID": 144733,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 1201,
+        "InLevelTriggerType": 1,
+        "StageID": 144732,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 1301,
+        "InLevelTriggerType": 1,
+        "StageID": 144733,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 1401,
+        "InLevelTriggerType": 1,
+        "StageID": 144734,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 1501,
+        "InLevelTriggerType": 1,
+        "StageID": 144736,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2101,
+        "InLevelTriggerType": 1,
+        "StageID": 144741,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2102,
+        "InLevelTriggerType": 1,
+        "StageID": 144741,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2201,
+        "InLevelTriggerType": 1,
+        "StageID": 144742,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2202,
+        "InLevelTriggerType": 1,
+        "StageID": 144742,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2301,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2302,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 2401,
+        "InLevelTriggerType": 1,
+        "StageID": 144744,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 3101,
+        "InLevelTriggerType": 1,
+        "StageID": 144751,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 3201,
+        "InLevelTriggerType": 1,
+        "StageID": 144752,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 3401,
+        "InLevelTriggerType": 1,
+        "StageID": 144754,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 3501,
+        "InLevelTriggerType": 1,
+        "StageID": 144756,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4101,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4102,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4201,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4202,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4301,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4302,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4401,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4402,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 4501,
+        "InLevelTriggerType": 1,
+        "StageID": 144743,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5000,
+        "InLevelTriggerType": 1,
+        "StageID": 144747,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5001,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5002,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5003,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5004,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5005,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 5006,
+        "InLevelTriggerType": 1,
+        "StageID": 144896,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 7001,
+        "InLevelTriggerType": 1,
+        "StageID": 130611,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8001,
+        "InLevelTriggerType": 1,
+        "StageID": 140130,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8002,
+        "InLevelTriggerType": 1,
+        "StageID": 140131,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8003,
+        "InLevelTriggerType": 1,
+        "StageID": 140132,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8004,
+        "InLevelTriggerType": 1,
+        "StageID": 140133,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8005,
+        "InLevelTriggerType": 1,
+        "StageID": 140134,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 8006,
+        "InLevelTriggerType": 1,
+        "StageID": 140135,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9011,
+        "InLevelTriggerType": 1,
+        "StageID": 149201,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9012,
+        "InLevelTriggerType": 1,
+        "StageID": 149202,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9013,
+        "InLevelTriggerType": 1,
+        "StageID": 149203,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9014,
+        "InLevelTriggerType": 1,
+        "StageID": 149204,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9015,
+        "InLevelTriggerType": 1,
+        "StageID": 149205,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9021,
+        "InLevelTriggerType": 1,
+        "StageID": 149211,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9022,
+        "InLevelTriggerType": 1,
+        "StageID": 149212,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9023,
+        "InLevelTriggerType": 1,
+        "StageID": 149213,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9024,
+        "InLevelTriggerType": 1,
+        "StageID": 149214,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9025,
+        "InLevelTriggerType": 1,
+        "StageID": 149215,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9031,
+        "InLevelTriggerType": 1,
+        "StageID": 149221,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9032,
+        "InLevelTriggerType": 1,
+        "StageID": 149222,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9033,
+        "InLevelTriggerType": 1,
+        "StageID": 149223,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9034,
+        "InLevelTriggerType": 1,
+        "StageID": 149224,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9035,
+        "InLevelTriggerType": 1,
+        "StageID": 149225,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9041,
+        "InLevelTriggerType": 1,
+        "StageID": 149231,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9042,
+        "InLevelTriggerType": 1,
+        "StageID": 149232,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9043,
+        "InLevelTriggerType": 1,
+        "StageID": 149233,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9044,
+        "InLevelTriggerType": 1,
+        "StageID": 149234,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9045,
+        "InLevelTriggerType": 1,
+        "StageID": 149235,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 9051,
+        "InLevelTriggerType": 1,
+        "StageID": 149206,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70029,
+        "InLevelTriggerType": 1,
+        "StageID": 1440560,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70030,
+        "InLevelTriggerType": 1,
+        "StageID": 144063,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70031,
+        "InLevelTriggerType": 1,
+        "StageID": 144063,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70032,
+        "InLevelTriggerType": 1,
+        "StageID": 144094,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70033,
+        "InLevelTriggerType": 1,
+        "StageID": 144095,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70034,
+        "InLevelTriggerType": 1,
+        "StageID": 144083,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70035,
+        "InLevelTriggerType": 1,
+        "StageID": 144084,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70036,
+        "InLevelTriggerType": 1,
+        "StageID": 144103,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70037,
+        "InLevelTriggerType": 1,
+        "StageID": 1441040,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70040,
+        "InLevelTriggerType": 1,
+        "StageID": 144075,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70041,
+        "InLevelTriggerType": 1,
+        "StageID": 144076,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70042,
+        "InLevelTriggerType": 1,
+        "StageID": 144049,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70043,
+        "InLevelTriggerType": 1,
+        "StageID": 144108,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70044,
+        "InLevelTriggerType": 1,
+        "StageID": 144088,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    },
+    {
+        "EventType": 1,
+        "ID": 70045,
+        "InLevelTriggerType": 1,
+        "StageID": 144114,
+        "Prefab": "",
+        "PrefabSpawn": "",
+        "InLevelTriggerParam": [
+            1.0
+        ]
+    }
+]

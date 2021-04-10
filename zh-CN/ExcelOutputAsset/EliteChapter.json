@@ -1,0 +1,648 @@
+[
+    {
+        "ChapterType": 1,
+        "ContentID": 101,
+        "EliteChapterID": 1,
+        "PreviewLevel": 15,
+        "RewardShow": 10101,
+        "SortID": 1,
+        "UnlockLevel": 18,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/1",
+        "EliteChapterName": "EliteChapterName1",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60101",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 201,
+        "EliteChapterID": 2,
+        "PreviewLevel": 15,
+        "RewardShow": 10201,
+        "SortID": 2,
+        "UnlockLevel": 18,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/2",
+        "EliteChapterName": "EliteChapterName2",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60201",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 301,
+        "EliteChapterID": 3,
+        "PreviewLevel": 15,
+        "RewardShow": 10301,
+        "SortID": 3,
+        "UnlockLevel": 18,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/3",
+        "EliteChapterName": "EliteChapterName3",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60301",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 711,
+        "EliteChapterID": 4,
+        "PreviewLevel": 15,
+        "RewardShow": 10711,
+        "SortID": 4,
+        "UnlockLevel": 18,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/4",
+        "EliteChapterName": "EliteChapterName4",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60711",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 102,
+        "EliteChapterID": 5,
+        "PreviewLevel": 20,
+        "RewardShow": 10102,
+        "SortID": 6,
+        "UnlockLevel": 25,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/5",
+        "EliteChapterName": "EliteChapterName5",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60102",
+        "KeyItemIDList": [
+            10102
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 203,
+        "EliteChapterID": 6,
+        "PreviewLevel": 20,
+        "RewardShow": 10203,
+        "SortID": 7,
+        "UnlockLevel": 25,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/6",
+        "EliteChapterName": "EliteChapterName6",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60203",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 302,
+        "EliteChapterID": 7,
+        "PreviewLevel": 18,
+        "RewardShow": 10302,
+        "SortID": 5,
+        "UnlockLevel": 20,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/7",
+        "EliteChapterName": "EliteChapterName7",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60302",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 601,
+        "EliteChapterID": 8,
+        "PreviewLevel": 20,
+        "RewardShow": 10601,
+        "SortID": 8,
+        "UnlockLevel": 25,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/8",
+        "EliteChapterName": "EliteChapterName8",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60601",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 603,
+        "EliteChapterID": 9,
+        "PreviewLevel": 25,
+        "RewardShow": 10603,
+        "SortID": 9,
+        "UnlockLevel": 30,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/9",
+        "EliteChapterName": "EliteChapterName9",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60603",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 104,
+        "EliteChapterID": 10,
+        "PreviewLevel": 25,
+        "RewardShow": 10104,
+        "SortID": 10,
+        "UnlockLevel": 30,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/10",
+        "EliteChapterName": "EliteChapterName10",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60104",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 202,
+        "EliteChapterID": 11,
+        "PreviewLevel": 25,
+        "RewardShow": 10202,
+        "SortID": 11,
+        "UnlockLevel": 30,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/11",
+        "EliteChapterName": "EliteChapterName11",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60202",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 303,
+        "EliteChapterID": 12,
+        "PreviewLevel": 25,
+        "RewardShow": 10303,
+        "SortID": 12,
+        "UnlockLevel": 30,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/12",
+        "EliteChapterName": "EliteChapterName12",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60303",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 13,
+        "PreviewLevel": 30,
+        "RewardShow": 4,
+        "SortID": 13,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/13",
+        "EliteChapterName": "EliteChapterName13",
+        "StageImgPath": "SpriteOutput/MaterialFigures/4",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 14,
+        "PreviewLevel": 30,
+        "RewardShow": 5007,
+        "SortID": 14,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/14",
+        "EliteChapterName": "EliteChapterName14",
+        "StageImgPath": "SpriteOutput/MaterialFigures/5011",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 3,
+        "ContentID": 302,
+        "EliteChapterID": 15,
+        "PreviewLevel": 30,
+        "RewardShow": 8213,
+        "SortID": 15,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/15",
+        "EliteChapterName": "EliteChapterName15",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60302_05_01",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 703,
+        "EliteChapterID": 16,
+        "PreviewLevel": 30,
+        "RewardShow": 10703,
+        "SortID": 16,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/16",
+        "EliteChapterName": "EliteChapterName16",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60703",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 403,
+        "EliteChapterID": 17,
+        "PreviewLevel": 30,
+        "RewardShow": 10403,
+        "SortID": 17,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/17",
+        "EliteChapterName": "EliteChapterName17",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60403",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 702,
+        "EliteChapterID": 18,
+        "PreviewLevel": 30,
+        "RewardShow": 10702,
+        "SortID": 18,
+        "UnlockLevel": 35,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/18",
+        "EliteChapterName": "EliteChapterName18",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60702",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 19,
+        "PreviewLevel": 35,
+        "RewardShow": 7032,
+        "SortID": 19,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/19",
+        "EliteChapterName": "EliteChapterName19",
+        "StageImgPath": "SpriteOutput/MaterialFigures/7032",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 20,
+        "PreviewLevel": 35,
+        "RewardShow": 9004,
+        "SortID": 20,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/20",
+        "EliteChapterName": "EliteChapterName20",
+        "StageImgPath": "SpriteOutput/MaterialFigures/9004",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 21,
+        "PreviewLevel": 35,
+        "RewardShow": 9003,
+        "SortID": 21,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/21",
+        "EliteChapterName": "EliteChapterName21",
+        "StageImgPath": "SpriteOutput/MaterialFigures/9003",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 4,
+        "ContentID": 0,
+        "EliteChapterID": 22,
+        "PreviewLevel": 35,
+        "RewardShow": 1006,
+        "SortID": 22,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/22",
+        "EliteChapterName": "EliteChapterName22",
+        "StageImgPath": "SpriteOutput/MaterialFigures/1006",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 401,
+        "EliteChapterID": 23,
+        "PreviewLevel": 35,
+        "RewardShow": 10401,
+        "SortID": 23,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/23",
+        "EliteChapterName": "EliteChapterName23",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60401",
+        "KeyItemIDList": [
+            10401
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 402,
+        "EliteChapterID": 24,
+        "PreviewLevel": 35,
+        "RewardShow": 10402,
+        "SortID": 24,
+        "UnlockLevel": 40,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/24",
+        "EliteChapterName": "EliteChapterName24",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60402",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 501,
+        "EliteChapterID": 25,
+        "PreviewLevel": 40,
+        "RewardShow": 10501,
+        "SortID": 25,
+        "UnlockLevel": 45,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/25",
+        "EliteChapterName": "EliteChapterName25",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60501",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 503,
+        "EliteChapterID": 26,
+        "PreviewLevel": 40,
+        "RewardShow": 10503,
+        "SortID": 26,
+        "UnlockLevel": 45,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/26",
+        "EliteChapterName": "EliteChapterName26",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60503",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 311,
+        "EliteChapterID": 27,
+        "PreviewLevel": 40,
+        "RewardShow": 10311,
+        "SortID": 27,
+        "UnlockLevel": 45,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/27",
+        "EliteChapterName": "EliteChapterName27",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60311",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 801,
+        "EliteChapterID": 28,
+        "PreviewLevel": 40,
+        "RewardShow": 10801,
+        "SortID": 28,
+        "UnlockLevel": 45,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/28",
+        "EliteChapterName": "EliteChapterName28",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60801",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 1,
+        "ContentID": 421,
+        "EliteChapterID": 29,
+        "PreviewLevel": 40,
+        "RewardShow": 10421,
+        "SortID": 29,
+        "UnlockLevel": 45,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/29",
+        "EliteChapterName": "EliteChapterName29",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60421",
+        "KeyItemIDList": [
+            0
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 2,
+        "ContentID": 102,
+        "EliteChapterID": 30,
+        "PreviewLevel": 45,
+        "RewardShow": 370102,
+        "SortID": 30,
+        "UnlockLevel": 50,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/30",
+        "EliteChapterName": "EliteChapterName30",
+        "StageImgPath": "SpriteOutput/ElfCardFigures/Elf_10002",
+        "KeyItemIDList": [
+            10102
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 3,
+        "ContentID": 102,
+        "EliteChapterID": 31,
+        "PreviewLevel": 45,
+        "RewardShow": 8214,
+        "SortID": 31,
+        "UnlockLevel": 50,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/31",
+        "EliteChapterName": "EliteChapterName31",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60102_05_01",
+        "KeyItemIDList": [
+            10102
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 3,
+        "ContentID": 601,
+        "EliteChapterID": 32,
+        "PreviewLevel": 45,
+        "RewardShow": 8216,
+        "SortID": 32,
+        "UnlockLevel": 50,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/32",
+        "EliteChapterName": "EliteChapterName32",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60601_05_01",
+        "KeyItemIDList": [
+            10102
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 3,
+        "ContentID": 203,
+        "EliteChapterID": 33,
+        "PreviewLevel": 50,
+        "RewardShow": 8212,
+        "SortID": 33,
+        "UnlockLevel": 55,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/33",
+        "EliteChapterName": "EliteChapterName33",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60203_05_01",
+        "KeyItemIDList": [
+            10401
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    },
+    {
+        "ChapterType": 3,
+        "ContentID": 202,
+        "EliteChapterID": 34,
+        "PreviewLevel": 50,
+        "RewardShow": 8217,
+        "SortID": 34,
+        "UnlockLevel": 55,
+        "ChaperImgPath": "SpriteOutput/ChapterCover/Instance/34",
+        "EliteChapterName": "EliteChapterName34",
+        "StageImgPath": "SpriteOutput/AvatarCardFigures/60202_05_01",
+        "KeyItemIDList": [
+            10401
+        ],
+        "KeyResourceTypeList": [
+            0,
+            6
+        ]
+    }
+]

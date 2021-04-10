@@ -1,0 +1,123 @@
+[
+    {
+        "GenActivityRewardShowID": 21,
+        "QuestCostStamina": 12,
+        "QuestDailyLimit": 2,
+        "QuestRefreshLimit": 5,
+        "QuestTotalLimit": 6,
+        "PerformID": 22,
+        "ExploreAreaID": 5010,
+        "MapID": 501,
+        "RestrictAvatarID": 314,
+        "VAGroup": 108,
+        "ActivityID": 1000,
+        "ChallengeActivityID": 40000122,
+        "GachaID": 1700001,
+        "LevelMaterialID": 116101,
+        "TutorialActivityID": 40000121,
+        "CultivateImage": "SpriteOutput/AvatarActivityBronyaC8/EnhancementAvatar",
+        "GachaLink": "<type=\"7|6\" text=\"\"/>",
+        "JsonCfg": "Data/OWAvatarActivity/OWAvatarActivity_Bronya_C8_CH",
+        "UIManager": "UI/3D/AvatarActivityBronyaC8/AvatarActivityUIManagerBronyaC8",
+        "WebLink": "<type=\"webview\" text=\"前往活动\" href=\"https://bh3.mihoyo.com/gl/activity/detail/14466/?fullscreen=1&sign_type=2&authkey_ver=1&auth_appid=gl0429\"/>",
+        "CurrencyLimit": [
+            {
+                "CurrencyID": 114716,
+                "Max": 6000
+            }
+        ],
+        "BanSelfAvatarIDList": [
+            214,
+            502
+        ],
+        "MissionList": [
+            89497,
+            89498,
+            89499,
+            89500,
+            89501,
+            89502,
+            89503,
+            89504,
+            89505,
+            89506,
+            89507,
+            89508,
+            89509,
+            89510,
+            89511,
+            89512,
+            89513,
+            89514,
+            89515,
+            89516,
+            89517,
+            89518,
+            89519,
+            89520,
+            89521,
+            89522,
+            89523,
+            89524,
+            89525,
+            89526,
+            89527
+        ],
+        "ShopLink": [
+            302
+        ],
+        "ShowMaterialList": [],
+        "ImageInfo": [
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1001",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_01",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1001"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1002",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_02",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1002"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1003",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_03",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1003"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1004",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_04",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1004"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1005",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_05",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1005"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1006",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_06",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1006"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1007",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_07",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1007"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1008",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_08",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1008"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1009",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_09",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1009"
+            },
+            {
+                "Content": "Tutorial_SPBronyaOWEvent_1010",
+                "Sprite": "SpriteOutput/TutorialsDialogPic/2021spBronieTutorial_10",
+                "Title": "Tutorial_SPBronyaOWEvent_Title_1010"
+            }
+        ]
+    }
+]

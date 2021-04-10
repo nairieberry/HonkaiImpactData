@@ -1,0 +1,434 @@
+[
+    {
+        "dialogId": 1001001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 1,
+        "content": {
+            "hash": 565195246
+        }
+    },
+    {
+        "dialogId": 1001002,
+        "dialogType": 1,
+        "predialogId": 1001001,
+        "role": 0,
+        "content": {
+            "hash": 565195247
+        }
+    },
+    {
+        "dialogId": 1001003,
+        "dialogType": 1,
+        "predialogId": 1001002,
+        "role": 1,
+        "content": {
+            "hash": 565195248
+        }
+    },
+    {
+        "dialogId": 1001201,
+        "dialogType": 2,
+        "predialogId": 1001003,
+        "role": 0,
+        "content": {
+            "hash": 565197168
+        }
+    },
+    {
+        "dialogId": 1001202,
+        "dialogType": 2,
+        "predialogId": 1001003,
+        "role": 0,
+        "content": {
+            "hash": 565197169
+        }
+    },
+    {
+        "dialogId": 1001203,
+        "dialogType": 2,
+        "predialogId": 1001003,
+        "role": 0,
+        "content": {
+            "hash": 565197170
+        }
+    },
+    {
+        "dialogId": 1006001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 2,
+        "content": {
+            "hash": 565344201
+        }
+    },
+    {
+        "dialogId": 1006002,
+        "dialogType": 1,
+        "predialogId": 1006001,
+        "role": 0,
+        "content": {
+            "hash": 565344202
+        }
+    },
+    {
+        "dialogId": 1006003,
+        "dialogType": 1,
+        "predialogId": 1006002,
+        "role": 2,
+        "content": {
+            "hash": 565344203
+        }
+    },
+    {
+        "dialogId": 1006201,
+        "dialogType": 2,
+        "predialogId": 1006003,
+        "role": 0,
+        "content": {
+            "hash": 565346123
+        }
+    },
+    {
+        "dialogId": 1006202,
+        "dialogType": 2,
+        "predialogId": 1006003,
+        "role": 0,
+        "content": {
+            "hash": 565346124
+        }
+    },
+    {
+        "dialogId": 1006203,
+        "dialogType": 2,
+        "predialogId": 1006003,
+        "role": 0,
+        "content": {
+            "hash": 565346125
+        }
+    },
+    {
+        "dialogId": 1011001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 3,
+        "content": {
+            "hash": 566118767
+        }
+    },
+    {
+        "dialogId": 1011002,
+        "dialogType": 1,
+        "predialogId": 1011001,
+        "role": 0,
+        "content": {
+            "hash": 566118768
+        }
+    },
+    {
+        "dialogId": 1011003,
+        "dialogType": 1,
+        "predialogId": 1011002,
+        "role": 3,
+        "content": {
+            "hash": 566118769
+        }
+    },
+    {
+        "dialogId": 1011201,
+        "dialogType": 2,
+        "predialogId": 1011003,
+        "role": 0,
+        "content": {
+            "hash": 566120689
+        }
+    },
+    {
+        "dialogId": 1011202,
+        "dialogType": 2,
+        "predialogId": 1011003,
+        "role": 0,
+        "content": {
+            "hash": 566120690
+        }
+    },
+    {
+        "dialogId": 1011203,
+        "dialogType": 2,
+        "predialogId": 1011003,
+        "role": 0,
+        "content": {
+            "hash": 566120691
+        }
+    },
+    {
+        "dialogId": 1016001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 4,
+        "content": {
+            "hash": 566267722
+        }
+    },
+    {
+        "dialogId": 1016002,
+        "dialogType": 1,
+        "predialogId": 1016001,
+        "role": 0,
+        "content": {
+            "hash": 566267723
+        }
+    },
+    {
+        "dialogId": 1016003,
+        "dialogType": 1,
+        "predialogId": 1016002,
+        "role": 4,
+        "content": {
+            "hash": 566267724
+        }
+    },
+    {
+        "dialogId": 1016201,
+        "dialogType": 2,
+        "predialogId": 1016003,
+        "role": 0,
+        "content": {
+            "hash": 566269644
+        }
+    },
+    {
+        "dialogId": 1016202,
+        "dialogType": 2,
+        "predialogId": 1016003,
+        "role": 0,
+        "content": {
+            "hash": 566269645
+        }
+    },
+    {
+        "dialogId": 1016203,
+        "dialogType": 2,
+        "predialogId": 1016003,
+        "role": 0,
+        "content": {
+            "hash": 566269646
+        }
+    },
+    {
+        "dialogId": 1021001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 5,
+        "content": {
+            "hash": 567042288
+        }
+    },
+    {
+        "dialogId": 1021002,
+        "dialogType": 1,
+        "predialogId": 1021001,
+        "role": 0,
+        "content": {
+            "hash": 567042289
+        }
+    },
+    {
+        "dialogId": 1021003,
+        "dialogType": 1,
+        "predialogId": 1021002,
+        "role": 5,
+        "content": {
+            "hash": 567042290
+        }
+    },
+    {
+        "dialogId": 1021201,
+        "dialogType": 2,
+        "predialogId": 1021003,
+        "role": 0,
+        "content": {
+            "hash": 567044210
+        }
+    },
+    {
+        "dialogId": 1021202,
+        "dialogType": 2,
+        "predialogId": 1021003,
+        "role": 0,
+        "content": {
+            "hash": 567044211
+        }
+    },
+    {
+        "dialogId": 1021203,
+        "dialogType": 2,
+        "predialogId": 1021003,
+        "role": 0,
+        "content": {
+            "hash": 567044212
+        }
+    },
+    {
+        "dialogId": 1026001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 6,
+        "content": {
+            "hash": 567191243
+        }
+    },
+    {
+        "dialogId": 1026002,
+        "dialogType": 1,
+        "predialogId": 1026001,
+        "role": 0,
+        "content": {
+            "hash": 567191244
+        }
+    },
+    {
+        "dialogId": 1026003,
+        "dialogType": 1,
+        "predialogId": 1026002,
+        "role": 6,
+        "content": {
+            "hash": 567191245
+        }
+    },
+    {
+        "dialogId": 1026201,
+        "dialogType": 2,
+        "predialogId": 1026003,
+        "role": 0,
+        "content": {
+            "hash": 567193165
+        }
+    },
+    {
+        "dialogId": 1026202,
+        "dialogType": 2,
+        "predialogId": 1026003,
+        "role": 0,
+        "content": {
+            "hash": 567193166
+        }
+    },
+    {
+        "dialogId": 1026203,
+        "dialogType": 2,
+        "predialogId": 1026003,
+        "role": 0,
+        "content": {
+            "hash": 567193167
+        }
+    },
+    {
+        "dialogId": 1031001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 101,
+        "content": {
+            "hash": 567965809
+        }
+    },
+    {
+        "dialogId": 1031002,
+        "dialogType": 1,
+        "predialogId": 1031001,
+        "role": 0,
+        "content": {
+            "hash": 567965810
+        }
+    },
+    {
+        "dialogId": 1031003,
+        "dialogType": 1,
+        "predialogId": 1031002,
+        "role": 101,
+        "content": {
+            "hash": 567965811
+        }
+    },
+    {
+        "dialogId": 1031201,
+        "dialogType": 2,
+        "predialogId": 1031003,
+        "role": 0,
+        "content": {
+            "hash": 567967731
+        }
+    },
+    {
+        "dialogId": 1031202,
+        "dialogType": 2,
+        "predialogId": 1031003,
+        "role": 0,
+        "content": {
+            "hash": 567967732
+        }
+    },
+    {
+        "dialogId": 1031203,
+        "dialogType": 2,
+        "predialogId": 1031003,
+        "role": 0,
+        "content": {
+            "hash": 567967733
+        }
+    },
+    {
+        "dialogId": 1036001,
+        "dialogType": 1,
+        "predialogId": 0,
+        "role": 102,
+        "content": {
+            "hash": 568114764
+        }
+    },
+    {
+        "dialogId": 1036002,
+        "dialogType": 1,
+        "predialogId": 1036001,
+        "role": 0,
+        "content": {
+            "hash": 568114765
+        }
+    },
+    {
+        "dialogId": 1036003,
+        "dialogType": 1,
+        "predialogId": 1036002,
+        "role": 102,
+        "content": {
+            "hash": 568114766
+        }
+    },
+    {
+        "dialogId": 1036201,
+        "dialogType": 2,
+        "predialogId": 1036003,
+        "role": 0,
+        "content": {
+            "hash": 568116686
+        }
+    },
+    {
+        "dialogId": 1036202,
+        "dialogType": 2,
+        "predialogId": 1036003,
+        "role": 0,
+        "content": {
+            "hash": 568116687
+        }
+    },
+    {
+        "dialogId": 1036203,
+        "dialogType": 2,
+        "predialogId": 1036003,
+        "role": 0,
+        "content": {
+            "hash": 568116688
+        }
+    }
+]

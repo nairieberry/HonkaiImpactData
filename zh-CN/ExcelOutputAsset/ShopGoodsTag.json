@@ -1,0 +1,882 @@
+[
+    {
+        "ID": 1,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Menu_ShopStoreDiscountSuperWorth"
+    },
+    {
+        "ID": 2,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternTimeLimited",
+        "LabelName": "Menu_ShopStoreDiscountTimeLimited"
+    },
+    {
+        "ID": 3,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternGreen",
+        "LabelName": "Label_Sale_Pattern_03_Green"
+    },
+    {
+        "ID": 4,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternOrange",
+        "LabelName": "Label_Sale_Pattern_04_Orange"
+    },
+    {
+        "ID": 5,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternBlue",
+        "LabelName": "Label_Sale_Pattern_05_Blue"
+    },
+    {
+        "ID": 6,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_06"
+    },
+    {
+        "ID": 7,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale02",
+        "LabelName": "Label_Sale_Pattern_07"
+    },
+    {
+        "ID": 8,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale03",
+        "LabelName": "Label_Sale_Pattern_08"
+    },
+    {
+        "ID": 9,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale04",
+        "LabelName": "Label_Sale_Pattern_09"
+    },
+    {
+        "ID": 10,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale05",
+        "LabelName": "Label_Sale_Pattern_10"
+    },
+    {
+        "ID": 11,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale06",
+        "LabelName": "Label_Sale_Pattern_11"
+    },
+    {
+        "ID": 12,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale07",
+        "LabelName": "Label_Sale_Pattern_12"
+    },
+    {
+        "ID": 13,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_13"
+    },
+    {
+        "ID": 14,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_14"
+    },
+    {
+        "ID": 15,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_15"
+    },
+    {
+        "ID": 16,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_16"
+    },
+    {
+        "ID": 17,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_17"
+    },
+    {
+        "ID": 18,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternSuperWorth",
+        "LabelName": "Label_Sale_Pattern_18"
+    },
+    {
+        "ID": 19,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale04",
+        "LabelName": "Label_Sale_Pattern_19"
+    },
+    {
+        "ID": 20,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_20"
+    },
+    {
+        "ID": 21,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_21"
+    },
+    {
+        "ID": 22,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_22"
+    },
+    {
+        "ID": 23,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_23"
+    },
+    {
+        "ID": 24,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_24"
+    },
+    {
+        "ID": 25,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_25"
+    },
+    {
+        "ID": 26,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_26"
+    },
+    {
+        "ID": 27,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_27"
+    },
+    {
+        "ID": 28,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_28"
+    },
+    {
+        "ID": 29,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_29"
+    },
+    {
+        "ID": 30,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_30"
+    },
+    {
+        "ID": 31,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_31"
+    },
+    {
+        "ID": 32,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_32"
+    },
+    {
+        "ID": 33,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_33"
+    },
+    {
+        "ID": 34,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_34"
+    },
+    {
+        "ID": 35,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternOrange",
+        "LabelName": "Label_Sale_Pattern_35"
+    },
+    {
+        "ID": 36,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_36"
+    },
+    {
+        "ID": 37,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_37"
+    },
+    {
+        "ID": 38,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_38"
+    },
+    {
+        "ID": 39,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_39"
+    },
+    {
+        "ID": 40,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_40"
+    },
+    {
+        "ID": 41,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_41"
+    },
+    {
+        "ID": 42,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_42"
+    },
+    {
+        "ID": 43,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternOrange",
+        "LabelName": "Menu_ShopStoreDiscountTimeLimited"
+    },
+    {
+        "ID": 44,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_44"
+    },
+    {
+        "ID": 45,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_45"
+    },
+    {
+        "ID": 46,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_46"
+    },
+    {
+        "ID": 47,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale04",
+        "LabelName": "Label_Sale_Pattern_47"
+    },
+    {
+        "ID": 48,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_48"
+    },
+    {
+        "ID": 49,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_49"
+    },
+    {
+        "ID": 50,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_50"
+    },
+    {
+        "ID": 51,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_51"
+    },
+    {
+        "ID": 52,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_52"
+    },
+    {
+        "ID": 53,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_53"
+    },
+    {
+        "ID": 54,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_54"
+    },
+    {
+        "ID": 55,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale03",
+        "LabelName": "Label_Sale_Pattern_55"
+    },
+    {
+        "ID": 56,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_56"
+    },
+    {
+        "ID": 57,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_57"
+    },
+    {
+        "ID": 58,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_58"
+    },
+    {
+        "ID": 59,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_69"
+    },
+    {
+        "ID": 60,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_60"
+    },
+    {
+        "ID": 61,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_61"
+    },
+    {
+        "ID": 62,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_62"
+    },
+    {
+        "ID": 63,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_63"
+    },
+    {
+        "ID": 64,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_64"
+    },
+    {
+        "ID": 65,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_65"
+    },
+    {
+        "ID": 66,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_66"
+    },
+    {
+        "ID": 67,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_67"
+    },
+    {
+        "ID": 68,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_68"
+    },
+    {
+        "ID": 69,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_69"
+    },
+    {
+        "ID": 70,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_70"
+    },
+    {
+        "ID": 71,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_71"
+    },
+    {
+        "ID": 72,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_72"
+    },
+    {
+        "ID": 73,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale05",
+        "LabelName": "Label_Sale_Pattern_73"
+    },
+    {
+        "ID": 74,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternTimeLimited",
+        "LabelName": "Label_Sale_Pattern_74"
+    },
+    {
+        "ID": 101,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_101"
+    },
+    {
+        "ID": 102,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_102"
+    },
+    {
+        "ID": 103,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_103"
+    },
+    {
+        "ID": 104,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_104"
+    },
+    {
+        "ID": 105,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_105"
+    },
+    {
+        "ID": 106,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_106"
+    },
+    {
+        "ID": 107,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_107"
+    },
+    {
+        "ID": 108,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_108"
+    },
+    {
+        "ID": 109,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_109"
+    },
+    {
+        "ID": 110,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_110"
+    },
+    {
+        "ID": 111,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_111"
+    },
+    {
+        "ID": 112,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_112"
+    },
+    {
+        "ID": 113,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_113"
+    },
+    {
+        "ID": 114,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_114"
+    },
+    {
+        "ID": 115,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_115"
+    },
+    {
+        "ID": 116,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_116"
+    },
+    {
+        "ID": 117,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_117"
+    },
+    {
+        "ID": 118,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_118"
+    },
+    {
+        "ID": 119,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_119"
+    },
+    {
+        "ID": 120,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_120"
+    },
+    {
+        "ID": 121,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_121"
+    },
+    {
+        "ID": 122,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_122"
+    },
+    {
+        "ID": 123,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_123"
+    },
+    {
+        "ID": 124,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_124"
+    },
+    {
+        "ID": 125,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_125"
+    },
+    {
+        "ID": 126,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_126"
+    },
+    {
+        "ID": 127,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_127"
+    },
+    {
+        "ID": 128,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_128"
+    },
+    {
+        "ID": 129,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_129"
+    },
+    {
+        "ID": 130,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_130"
+    },
+    {
+        "ID": 131,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_131"
+    },
+    {
+        "ID": 132,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_132"
+    },
+    {
+        "ID": 133,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_133"
+    },
+    {
+        "ID": 134,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_134"
+    },
+    {
+        "ID": 135,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_135"
+    },
+    {
+        "ID": 136,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_136"
+    },
+    {
+        "ID": 137,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_137"
+    },
+    {
+        "ID": 138,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_138"
+    },
+    {
+        "ID": 139,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_139"
+    },
+    {
+        "ID": 140,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_140"
+    },
+    {
+        "ID": 141,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_141"
+    },
+    {
+        "ID": 142,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_142"
+    },
+    {
+        "ID": 143,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_143"
+    },
+    {
+        "ID": 144,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_144"
+    },
+    {
+        "ID": 145,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_145"
+    },
+    {
+        "ID": 146,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_146"
+    },
+    {
+        "ID": 147,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_147"
+    },
+    {
+        "ID": 148,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_148"
+    },
+    {
+        "ID": 149,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_149"
+    },
+    {
+        "ID": 150,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_150"
+    },
+    {
+        "ID": 151,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_151"
+    },
+    {
+        "ID": 152,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_152"
+    },
+    {
+        "ID": 153,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_153"
+    },
+    {
+        "ID": 154,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_154"
+    },
+    {
+        "ID": 155,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_155"
+    },
+    {
+        "ID": 156,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_156"
+    },
+    {
+        "ID": 157,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_157"
+    },
+    {
+        "ID": 158,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_158"
+    },
+    {
+        "ID": 159,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_159"
+    },
+    {
+        "ID": 160,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_160"
+    },
+    {
+        "ID": 161,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_161"
+    },
+    {
+        "ID": 162,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_162"
+    },
+    {
+        "ID": 163,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_163"
+    },
+    {
+        "ID": 164,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_164"
+    },
+    {
+        "ID": 165,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_165"
+    },
+    {
+        "ID": 166,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_166"
+    },
+    {
+        "ID": 167,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_167"
+    },
+    {
+        "ID": 168,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_168"
+    },
+    {
+        "ID": 169,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_169"
+    },
+    {
+        "ID": 170,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_170"
+    },
+    {
+        "ID": 171,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_171"
+    },
+    {
+        "ID": 172,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_172"
+    },
+    {
+        "ID": 173,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_173"
+    },
+    {
+        "ID": 174,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_174"
+    },
+    {
+        "ID": 175,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_175"
+    },
+    {
+        "ID": 176,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_176"
+    },
+    {
+        "ID": 177,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_177"
+    },
+    {
+        "ID": 178,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_178"
+    },
+    {
+        "ID": 179,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_179"
+    },
+    {
+        "ID": 180,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_180"
+    },
+    {
+        "ID": 181,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_181"
+    },
+    {
+        "ID": 182,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_182"
+    },
+    {
+        "ID": 183,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_183"
+    },
+    {
+        "ID": 184,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_184"
+    },
+    {
+        "ID": 185,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_185"
+    },
+    {
+        "ID": 186,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_186"
+    },
+    {
+        "ID": 187,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_187"
+    },
+    {
+        "ID": 188,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_188"
+    },
+    {
+        "ID": 189,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_189"
+    },
+    {
+        "ID": 190,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_190"
+    },
+    {
+        "ID": 191,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_191"
+    },
+    {
+        "ID": 192,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_192"
+    },
+    {
+        "ID": 193,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_193"
+    },
+    {
+        "ID": 194,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_194"
+    },
+    {
+        "ID": 195,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_195"
+    },
+    {
+        "ID": 196,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_196"
+    },
+    {
+        "ID": 197,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_197"
+    },
+    {
+        "ID": 198,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_198"
+    },
+    {
+        "ID": 199,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale01",
+        "LabelName": "Label_Sale_Pattern_199"
+    },
+    {
+        "ID": 200,
+        "LabelImage": "SpriteOutput/ShopIcons/TabSale04",
+        "LabelName": "Label_Sale_Pattern_200"
+    },
+    {
+        "ID": 202,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternOrange",
+        "LabelName": "Label_Sale_Pattern_202"
+    },
+    {
+        "ID": 203,
+        "LabelImage": "SpriteOutput/ShopIcons/SalePatternGreen",
+        "LabelName": "Label_Sale_Pattern_203"
+    }
+]

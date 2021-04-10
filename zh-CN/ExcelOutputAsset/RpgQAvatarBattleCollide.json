@@ -1,0 +1,26 @@
+[
+    {
+        "ContactType": 1,
+        "CollideSet": [
+            0,
+            3
+        ]
+    },
+    {
+        "ContactType": 2,
+        "CollideSet": []
+    },
+    {
+        "ContactType": 3,
+        "CollideSet": [
+            3
+        ]
+    },
+    {
+        "ContactType": 4,
+        "CollideSet": [
+            2,
+            3
+        ]
+    }
+]

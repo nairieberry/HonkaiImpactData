@@ -1,0 +1,552 @@
+[
+    {
+        "ID": 1,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/test.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 3,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 4,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1000,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1001,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Shoppe/Shoppe1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1002,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Woods/Woods1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1003,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Woods/Woods2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1004,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Woods/Woods3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1005,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Party/Party1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1006,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Party/Party2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1007,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Party/Party3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1008,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Garden/Garden1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1009,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Garden/Garden2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1010,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Garden/Garden3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1011,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Garden/Garden4.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1012,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1013,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond1New.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1014,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1015,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1016,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond4.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1017,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond5.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1018,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Pond/Pond6.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1021,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Dungeon/Dungeon1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1022,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Dungeon/Dungeon2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1023,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1024,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1025,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1026,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1027,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1028,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1029,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1030,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1031,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1032,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1033,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1034,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1035,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1036,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1037,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1038,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1039,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1040,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1041,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1042,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1043,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1044,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1045,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1046,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1047,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1048,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1049,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 1999,
+        "LuaFile": "",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2001,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2002,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2003,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2004,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testMonster.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2010,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2020,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2030,
+        "LuaFile": "Lua/TiledGame/Winter_Remake/Test/testfrog.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2040,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2050,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-1-test.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2060,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2070,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2101,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/1-sub.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2102,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area2/2-sub.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2103,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area3/3-sub.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2104,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area4/4-sub.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2201,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/201.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2202,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/202.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2203,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/203.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2204,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/204.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2205,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/205.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2206,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/301.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2207,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/302.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2208,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/303.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2209,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/304.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2210,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/305.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2211,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2212,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/402.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2213,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/403.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2214,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/404.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2215,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/405.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2216,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/200.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2217,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/200.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2218,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/501.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2219,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2220,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2221,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2222,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2223,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2224,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2225,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2226,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2227,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2228,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2229,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2230,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2231,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area1/401_2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2300,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area2/2-1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2301,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area2/2-2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2302,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area2/2-3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2310,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area3/3-1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2311,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area3/3-2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2312,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area3/3-3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2320,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area4/4-1.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2321,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area4/4-2.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 2322,
+        "LuaFile": "Lua/TiledGame/Summer_RichMan/Area4/4-3.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 3000,
+        "LuaFile": "Lua/TiledGame/GenshinRpg/Area1/Genshin101.lua",
+        "ValueTriggerIDList": []
+    },
+    {
+        "ID": 3010,
+        "LuaFile": "Lua/TiledGame/GenshinRpg/Area1/Genshin_CE_001.lua",
+        "ValueTriggerIDList": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+]

@@ -1,0 +1,3540 @@
+[
+    {
+        "ConfigId": 101,
+        "ID": 10101,
+        "BossIdList": [
+            18101,
+            9001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10101,
+        "BossIdList": [
+            18106,
+            9006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10101,
+        "BossIdList": [
+            18111,
+            9011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10101,
+        "BossIdList": [
+            18121,
+            9021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10102,
+        "BossIdList": [
+            14101,
+            15001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10102,
+        "BossIdList": [
+            14106,
+            15006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10102,
+        "BossIdList": [
+            14111,
+            15011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10102,
+        "BossIdList": [
+            14121,
+            15021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10103,
+        "BossIdList": [
+            17101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10103,
+        "BossIdList": [
+            17106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10103,
+        "BossIdList": [
+            17111,
+            13011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10103,
+        "BossIdList": [
+            17121,
+            13021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10104,
+        "BossIdList": [
+            18101,
+            11001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10104,
+        "BossIdList": [
+            18106,
+            11006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10104,
+        "BossIdList": [
+            18111,
+            11011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10104,
+        "BossIdList": [
+            18121,
+            11021,
+            6021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10105,
+        "BossIdList": [
+            17101,
+            8001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10105,
+        "BossIdList": [
+            17106,
+            8006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10105,
+        "BossIdList": [
+            17111,
+            8011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10105,
+        "BossIdList": [
+            17121,
+            8021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10106,
+        "BossIdList": [
+            14101,
+            12001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10106,
+        "BossIdList": [
+            14106,
+            12006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10106,
+        "BossIdList": [
+            14111,
+            12011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10106,
+        "BossIdList": [
+            14121,
+            12021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10107,
+        "BossIdList": [
+            18101,
+            1001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10107,
+        "BossIdList": [
+            18106,
+            1006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10107,
+        "BossIdList": [
+            18111,
+            1011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10107,
+        "BossIdList": [
+            18121,
+            1021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10108,
+        "BossIdList": [
+            7101,
+            6001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10108,
+        "BossIdList": [
+            7106,
+            6006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10108,
+        "BossIdList": [
+            7111,
+            6011,
+            17011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10108,
+        "BossIdList": [
+            7121,
+            6021,
+            17021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10109,
+        "BossIdList": [
+            18101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10109,
+        "BossIdList": [
+            18106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10109,
+        "BossIdList": [
+            18111,
+            14011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10109,
+        "BossIdList": [
+            18121,
+            14021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10110,
+        "BossIdList": [
+            13101,
+            11001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10110,
+        "BossIdList": [
+            13106,
+            11006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10110,
+        "BossIdList": [
+            13111,
+            11011,
+            14011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10110,
+        "BossIdList": [
+            19121,
+            11021,
+            14021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10111,
+        "BossIdList": [
+            18101,
+            17001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10111,
+        "BossIdList": [
+            18106,
+            17006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10111,
+        "BossIdList": [
+            18111,
+            17011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10111,
+        "BossIdList": [
+            18121,
+            17021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10112,
+        "BossIdList": [
+            7101,
+            11001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10112,
+        "BossIdList": [
+            7106,
+            11006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10112,
+        "BossIdList": [
+            7111,
+            11011,
+            16011,
+            19121
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10112,
+        "BossIdList": [
+            7121,
+            11021,
+            16011,
+            19121
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10113,
+        "BossIdList": [
+            18101,
+            6001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10113,
+        "BossIdList": [
+            18106,
+            6006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10113,
+        "BossIdList": [
+            18111,
+            6011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10113,
+        "BossIdList": [
+            18121,
+            6021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10114,
+        "BossIdList": [
+            19101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10114,
+        "BossIdList": [
+            19106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10114,
+        "BossIdList": [
+            19111,
+            13011,
+            2011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10114,
+        "BossIdList": [
+            19121,
+            13021,
+            2021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10115,
+        "BossIdList": [
+            15101,
+            2001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10115,
+        "BossIdList": [
+            15106,
+            2006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10115,
+        "BossIdList": [
+            15111,
+            2011,
+            12011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10115,
+        "BossIdList": [
+            15121,
+            2021,
+            12021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10116,
+        "BossIdList": [
+            16101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10116,
+        "BossIdList": [
+            16106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10116,
+        "BossIdList": [
+            16111,
+            18011,
+            19011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10116,
+        "BossIdList": [
+            16121,
+            18021,
+            19021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10117,
+        "BossIdList": [
+            15101,
+            12001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10117,
+        "BossIdList": [
+            15106,
+            12006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10117,
+        "BossIdList": [
+            15111,
+            12011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10117,
+        "BossIdList": [
+            15121,
+            12021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10118,
+        "BossIdList": [
+            19101,
+            2001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10118,
+        "BossIdList": [
+            19106,
+            2006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10118,
+        "BossIdList": [
+            19111,
+            2011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10118,
+        "BossIdList": [
+            19121,
+            2021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10119,
+        "BossIdList": [
+            16101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10119,
+        "BossIdList": [
+            16106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10119,
+        "BossIdList": [
+            16111,
+            7011,
+            14011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10119,
+        "BossIdList": [
+            16121,
+            7021,
+            14021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10120,
+        "BossIdList": [
+            1101,
+            2001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10120,
+        "BossIdList": [
+            1106,
+            2006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10120,
+        "BossIdList": [
+            1111,
+            2011,
+            14011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10120,
+        "BossIdList": [
+            1121,
+            2021,
+            14021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10121,
+        "BossIdList": [
+            14101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10121,
+        "BossIdList": [
+            14106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10121,
+        "BossIdList": [
+            14111,
+            13011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10121,
+        "BossIdList": [
+            14121,
+            13021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10122,
+        "BossIdList": [
+            1101,
+            12001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10122,
+        "BossIdList": [
+            1106,
+            12006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10122,
+        "BossIdList": [
+            1111,
+            12011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10122,
+        "BossIdList": [
+            1121,
+            12021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10123,
+        "BossIdList": [
+            17101,
+            15001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10123,
+        "BossIdList": [
+            17106,
+            15006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10123,
+        "BossIdList": [
+            17111,
+            15011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10123,
+        "BossIdList": [
+            17121,
+            15021,
+            6021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10124,
+        "BossIdList": [
+            14101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10124,
+        "BossIdList": [
+            14106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10124,
+        "BossIdList": [
+            14111,
+            7011,
+            19011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10124,
+        "BossIdList": [
+            14121,
+            7021,
+            19021,
+            20121
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10125,
+        "BossIdList": [
+            1101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10125,
+        "BossIdList": [
+            1106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10125,
+        "BossIdList": [
+            1111,
+            16011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10125,
+        "BossIdList": [
+            1121,
+            16021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10126,
+        "BossIdList": [
+            1101,
+            12001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10126,
+        "BossIdList": [
+            1106,
+            12006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10126,
+        "BossIdList": [
+            1111,
+            12011,
+            2011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10126,
+        "BossIdList": [
+            1121,
+            12021,
+            2021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10127,
+        "BossIdList": [
+            4101,
+            3001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10127,
+        "BossIdList": [
+            4106,
+            3006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10127,
+        "BossIdList": [
+            4111,
+            3011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10127,
+        "BossIdList": [
+            4121,
+            3021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10128,
+        "BossIdList": [
+            10101,
+            9001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10128,
+        "BossIdList": [
+            10106,
+            9006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10128,
+        "BossIdList": [
+            10111,
+            9011,
+            14011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10128,
+        "BossIdList": [
+            10121,
+            9021,
+            14021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10129,
+        "BossIdList": [
+            20101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10129,
+        "BossIdList": [
+            20106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10129,
+        "BossIdList": [
+            20111,
+            16011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10129,
+        "BossIdList": [
+            20121,
+            16021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10130,
+        "BossIdList": [
+            4101,
+            3001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10130,
+        "BossIdList": [
+            4106,
+            3006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10130,
+        "BossIdList": [
+            4111,
+            3011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10130,
+        "BossIdList": [
+            4121,
+            3021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10131,
+        "BossIdList": [
+            10101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10131,
+        "BossIdList": [
+            10106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10131,
+        "BossIdList": [
+            10111,
+            16011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10131,
+        "BossIdList": [
+            10121,
+            16021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10132,
+        "BossIdList": [
+            20101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10132,
+        "BossIdList": [
+            20106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10132,
+        "BossIdList": [
+            20111,
+            14011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10132,
+        "BossIdList": [
+            20121,
+            14021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10133,
+        "BossIdList": [
+            4101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10133,
+        "BossIdList": [
+            4106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10133,
+        "BossIdList": [
+            4111,
+            16011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10133,
+        "BossIdList": [
+            4121,
+            16021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10134,
+        "BossIdList": [
+            16101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10134,
+        "BossIdList": [
+            16106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10134,
+        "BossIdList": [
+            16111,
+            18011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10134,
+        "BossIdList": [
+            16121,
+            18021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10135,
+        "BossIdList": [
+            13101,
+            6001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10135,
+        "BossIdList": [
+            13106,
+            6006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10135,
+        "BossIdList": [
+            13111,
+            6011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10135,
+        "BossIdList": [
+            13121,
+            6021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10136,
+        "BossIdList": [
+            20101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10136,
+        "BossIdList": [
+            20106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10136,
+        "BossIdList": [
+            20111,
+            14011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10136,
+        "BossIdList": [
+            20121,
+            14021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10137,
+        "BossIdList": [
+            16101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10137,
+        "BossIdList": [
+            16106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10137,
+        "BossIdList": [
+            16111,
+            7011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10137,
+        "BossIdList": [
+            16121,
+            7021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10138,
+        "BossIdList": [
+            20101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10138,
+        "BossIdList": [
+            20106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10138,
+        "BossIdList": [
+            20111,
+            14011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10138,
+        "BossIdList": [
+            20121,
+            14021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10139,
+        "BossIdList": [
+            13101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10139,
+        "BossIdList": [
+            13106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10139,
+        "BossIdList": [
+            13111,
+            18011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10139,
+        "BossIdList": [
+            13121,
+            18021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10140,
+        "BossIdList": [
+            7101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10140,
+        "BossIdList": [
+            7106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10140,
+        "BossIdList": [
+            7111,
+            13011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10140,
+        "BossIdList": [
+            7121,
+            13021,
+            6021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10141,
+        "BossIdList": [
+            9101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10141,
+        "BossIdList": [
+            9106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10141,
+        "BossIdList": [
+            9111,
+            14011,
+            12011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10141,
+        "BossIdList": [
+            9121,
+            14021,
+            12021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10142,
+        "BossIdList": [
+            11101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10142,
+        "BossIdList": [
+            11106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10142,
+        "BossIdList": [
+            11111,
+            13011,
+            1011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10142,
+        "BossIdList": [
+            11121,
+            13021,
+            1021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10143,
+        "BossIdList": [
+            7101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10143,
+        "BossIdList": [
+            7106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10143,
+        "BossIdList": [
+            7111,
+            20011,
+            14011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10143,
+        "BossIdList": [
+            7121,
+            20021,
+            14021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10144,
+        "BossIdList": [
+            11101,
+            4001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10144,
+        "BossIdList": [
+            11106,
+            4006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10144,
+        "BossIdList": [
+            11111,
+            4011,
+            15011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10144,
+        "BossIdList": [
+            11121,
+            4021,
+            15021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10145,
+        "BossIdList": [
+            9101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10145,
+        "BossIdList": [
+            9106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10145,
+        "BossIdList": [
+            9111,
+            16011,
+            18011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10145,
+        "BossIdList": [
+            9121,
+            16021,
+            18021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10146,
+        "BossIdList": [
+            9101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10146,
+        "BossIdList": [
+            9106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10146,
+        "BossIdList": [
+            9111,
+            20011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10146,
+        "BossIdList": [
+            9121,
+            20021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10147,
+        "BossIdList": [
+            21101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10147,
+        "BossIdList": [
+            21106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10147,
+        "BossIdList": [
+            21111,
+            18011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10147,
+        "BossIdList": [
+            21121,
+            18021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10148,
+        "BossIdList": [
+            14101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10148,
+        "BossIdList": [
+            14106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10148,
+        "BossIdList": [
+            14111,
+            13011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10148,
+        "BossIdList": [
+            14121,
+            13021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10149,
+        "BossIdList": [
+            14101,
+            4001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10149,
+        "BossIdList": [
+            14106,
+            4006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10149,
+        "BossIdList": [
+            14111,
+            4011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10149,
+        "BossIdList": [
+            14121,
+            4021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10150,
+        "BossIdList": [
+            21101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10150,
+        "BossIdList": [
+            21106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10150,
+        "BossIdList": [
+            21111,
+            18011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10150,
+        "BossIdList": [
+            21121,
+            18021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10151,
+        "BossIdList": [
+            9101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10151,
+        "BossIdList": [
+            9106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10151,
+        "BossIdList": [
+            9111,
+            7011,
+            20011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10151,
+        "BossIdList": [
+            9121,
+            7021,
+            20021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10152,
+        "BossIdList": [
+            21101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10152,
+        "BossIdList": [
+            21106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10152,
+        "BossIdList": [
+            21111,
+            20011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10152,
+        "BossIdList": [
+            21121,
+            20021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10153,
+        "BossIdList": [
+            15101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10153,
+        "BossIdList": [
+            15106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10153,
+        "BossIdList": [
+            15111,
+            16011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10153,
+        "BossIdList": [
+            15121,
+            16021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10154,
+        "BossIdList": [
+            7101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10154,
+        "BossIdList": [
+            7106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10154,
+        "BossIdList": [
+            7111,
+            18011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10154,
+        "BossIdList": [
+            7121,
+            18021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10155,
+        "BossIdList": [
+            21101,
+            3001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10155,
+        "BossIdList": [
+            21106,
+            3006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10155,
+        "BossIdList": [
+            21111,
+            3011,
+            20011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10155,
+        "BossIdList": [
+            21121,
+            3021,
+            20021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10156,
+        "BossIdList": [
+            15101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10156,
+        "BossIdList": [
+            15106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10156,
+        "BossIdList": [
+            15111,
+            13011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10156,
+        "BossIdList": [
+            15121,
+            13021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10157,
+        "BossIdList": [
+            7101,
+            4001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10157,
+        "BossIdList": [
+            7106,
+            4006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10157,
+        "BossIdList": [
+            7111,
+            4011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10157,
+        "BossIdList": [
+            7121,
+            4021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10158,
+        "BossIdList": [
+            22101,
+            15001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10158,
+        "BossIdList": [
+            22106,
+            15006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10158,
+        "BossIdList": [
+            22111,
+            15011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10158,
+        "BossIdList": [
+            22121,
+            15021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10159,
+        "BossIdList": [
+            14101,
+            21001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10159,
+        "BossIdList": [
+            14106,
+            21006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10159,
+        "BossIdList": [
+            14111,
+            21011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10159,
+        "BossIdList": [
+            14121,
+            21021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10160,
+        "BossIdList": [
+            18101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10160,
+        "BossIdList": [
+            18106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10160,
+        "BossIdList": [
+            18111,
+            13011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10160,
+        "BossIdList": [
+            18121,
+            13021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10161,
+        "BossIdList": [
+            14101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10161,
+        "BossIdList": [
+            14106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10161,
+        "BossIdList": [
+            14111,
+            13011,
+            7011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10161,
+        "BossIdList": [
+            14121,
+            13021,
+            7021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10162,
+        "BossIdList": [
+            18101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10162,
+        "BossIdList": [
+            18106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10162,
+        "BossIdList": [
+            18111,
+            20011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10162,
+        "BossIdList": [
+            18121,
+            20021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10163,
+        "BossIdList": [
+            22101,
+            10001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10163,
+        "BossIdList": [
+            22106,
+            10006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10163,
+        "BossIdList": [
+            22111,
+            10011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10163,
+        "BossIdList": [
+            22121,
+            10021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10164,
+        "BossIdList": [
+            9101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10164,
+        "BossIdList": [
+            9106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10164,
+        "BossIdList": [
+            9111,
+            7011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10164,
+        "BossIdList": [
+            9121,
+            7021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10165,
+        "BossIdList": [
+            21101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10165,
+        "BossIdList": [
+            21106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10165,
+        "BossIdList": [
+            21111,
+            18011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10165,
+        "BossIdList": [
+            21121,
+            18021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10166,
+        "BossIdList": [
+            9101,
+            10001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10166,
+        "BossIdList": [
+            9106,
+            10006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10166,
+        "BossIdList": [
+            9111,
+            10011,
+            20011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10166,
+        "BossIdList": [
+            9121,
+            10021,
+            20021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10167,
+        "BossIdList": [
+            22101,
+            15001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10167,
+        "BossIdList": [
+            22106,
+            15006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10167,
+        "BossIdList": [
+            22111,
+            15011,
+            18011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10167,
+        "BossIdList": [
+            22121,
+            15021,
+            18021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10168,
+        "BossIdList": [
+            21101,
+            16001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10168,
+        "BossIdList": [
+            21106,
+            16006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10168,
+        "BossIdList": [
+            21111,
+            16011,
+            10011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10168,
+        "BossIdList": [
+            21121,
+            16021,
+            10021,
+            23001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10169,
+        "BossIdList": [
+            9101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10169,
+        "BossIdList": [
+            9106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10169,
+        "BossIdList": [
+            9111,
+            20011,
+            16011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10169,
+        "BossIdList": [
+            9121,
+            20021,
+            16021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10170,
+        "BossIdList": [
+            22101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10170,
+        "BossIdList": [
+            22106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10170,
+        "BossIdList": [
+            22111,
+            7011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10170,
+        "BossIdList": [
+            22121,
+            7021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10171,
+        "BossIdList": [
+            1101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10171,
+        "BossIdList": [
+            1106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10171,
+        "BossIdList": [
+            1111,
+            20011,
+            12011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10171,
+        "BossIdList": [
+            1121,
+            20021,
+            12021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10172,
+        "BossIdList": [
+            23101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10172,
+        "BossIdList": [
+            23106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10172,
+        "BossIdList": [
+            23111,
+            13011,
+            21011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10172,
+        "BossIdList": [
+            23121,
+            13021,
+            21021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10173,
+        "BossIdList": [
+            14101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10173,
+        "BossIdList": [
+            14106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10173,
+        "BossIdList": [
+            14111,
+            7011,
+            22011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10173,
+        "BossIdList": [
+            14121,
+            7021,
+            22021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10174,
+        "BossIdList": [
+            14101,
+            18001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10174,
+        "BossIdList": [
+            14106,
+            18006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10174,
+        "BossIdList": [
+            14111,
+            18011,
+            21011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10174,
+        "BossIdList": [
+            14121,
+            18021,
+            21021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10175,
+        "BossIdList": [
+            23101,
+            6001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10175,
+        "BossIdList": [
+            23106,
+            6006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10175,
+        "BossIdList": [
+            23111,
+            6011,
+            12011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10175,
+        "BossIdList": [
+            23121,
+            6021,
+            12021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10176,
+        "BossIdList": [
+            20101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10176,
+        "BossIdList": [
+            20106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10176,
+        "BossIdList": [
+            20111,
+            7011,
+            21011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10176,
+        "BossIdList": [
+            20121,
+            7021,
+            21021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10177,
+        "BossIdList": [
+            16101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10177,
+        "BossIdList": [
+            16106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10177,
+        "BossIdList": [
+            16111,
+            14011,
+            13011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10177,
+        "BossIdList": [
+            16121,
+            14021,
+            13021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10178,
+        "BossIdList": [
+            22101,
+            1001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10178,
+        "BossIdList": [
+            22106,
+            1006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10178,
+        "BossIdList": [
+            22111,
+            1011,
+            4011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10178,
+        "BossIdList": [
+            22121,
+            1021,
+            4021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10179,
+        "BossIdList": [
+            16101,
+            13001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10179,
+        "BossIdList": [
+            16106,
+            13006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10179,
+        "BossIdList": [
+            16111,
+            13011,
+            23011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10179,
+        "BossIdList": [
+            16121,
+            13021,
+            23021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10180,
+        "BossIdList": [
+            20101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10180,
+        "BossIdList": [
+            20106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10180,
+        "BossIdList": [
+            20111,
+            14011,
+            15011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10180,
+        "BossIdList": [
+            20121,
+            14021,
+            15021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10181,
+        "BossIdList": [
+            22101,
+            7001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10181,
+        "BossIdList": [
+            22106,
+            7006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10181,
+        "BossIdList": [
+            22111,
+            7011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10181,
+        "BossIdList": [
+            22121,
+            7021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10182,
+        "BossIdList": [
+            1101,
+            10001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10182,
+        "BossIdList": [
+            1106,
+            10006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10182,
+        "BossIdList": [
+            1111,
+            10011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10182,
+        "BossIdList": [
+            1121,
+            10021,
+            6021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10183,
+        "BossIdList": [
+            12101,
+            20001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10183,
+        "BossIdList": [
+            12106,
+            20006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10183,
+        "BossIdList": [
+            12111,
+            20011,
+            9011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10183,
+        "BossIdList": [
+            12121,
+            20021,
+            9021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10184,
+        "BossIdList": [
+            24101,
+            10001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10184,
+        "BossIdList": [
+            24106,
+            10006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10184,
+        "BossIdList": [
+            24111,
+            10011,
+            11011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10184,
+        "BossIdList": [
+            24121,
+            10021,
+            11021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10185,
+        "BossIdList": [
+            1101,
+            22001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10185,
+        "BossIdList": [
+            1106,
+            22006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10185,
+        "BossIdList": [
+            1111,
+            22011,
+            15011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10185,
+        "BossIdList": [
+            1121,
+            22021,
+            15021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10186,
+        "BossIdList": [
+            24101,
+            11001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10186,
+        "BossIdList": [
+            24106,
+            11006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10186,
+        "BossIdList": [
+            24111,
+            11011,
+            23011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10186,
+        "BossIdList": [
+            24121,
+            11021,
+            23021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10187,
+        "BossIdList": [
+            1101,
+            9001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10187,
+        "BossIdList": [
+            1106,
+            9006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10187,
+        "BossIdList": [
+            1111,
+            9011,
+            20011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10187,
+        "BossIdList": [
+            1121,
+            9021,
+            20021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10188,
+        "BossIdList": [
+            12101,
+            23001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10188,
+        "BossIdList": [
+            12106,
+            23006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10188,
+        "BossIdList": [
+            12111,
+            23011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10188,
+        "BossIdList": [
+            12121,
+            23021,
+            6021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10189,
+        "BossIdList": [
+            7101,
+            3001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10189,
+        "BossIdList": [
+            7106,
+            3006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10189,
+        "BossIdList": [
+            7111,
+            3011,
+            1011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10189,
+        "BossIdList": [
+            7121,
+            3021,
+            1021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10190,
+        "BossIdList": [
+            22101,
+            1001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10190,
+        "BossIdList": [
+            22106,
+            1006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10190,
+        "BossIdList": [
+            22111,
+            1011,
+            12011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10190,
+        "BossIdList": [
+            22121,
+            1021,
+            12021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10191,
+        "BossIdList": [
+            23101,
+            6001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10191,
+        "BossIdList": [
+            23106,
+            6006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10191,
+        "BossIdList": [
+            23111,
+            6011,
+            21011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10191,
+        "BossIdList": [
+            23121,
+            6021,
+            21021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10192,
+        "BossIdList": [
+            7101,
+            12001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10192,
+        "BossIdList": [
+            7106,
+            12006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10192,
+        "BossIdList": [
+            7111,
+            12011,
+            3011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10192,
+        "BossIdList": [
+            7121,
+            12021,
+            3021
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 101,
+        "ID": 10193,
+        "BossIdList": [
+            22101,
+            14001
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 102,
+        "ID": 10193,
+        "BossIdList": [
+            22106,
+            14006
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 103,
+        "ID": 10193,
+        "BossIdList": [
+            22111,
+            14011,
+            6011
+        ],
+        "bits1": 1
+    },
+    {
+        "ConfigId": 104,
+        "ID": 10193,
+        "BossIdList": [
+            22121,
+            14021,
+            6021
+        ],
+        "bits1": 1
+    }
+]

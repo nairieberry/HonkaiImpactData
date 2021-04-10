@@ -1,0 +1,74 @@
+[
+    {
+        "CompetitionSeasonPartID": 1001,
+        "BeginTime": "2020-08-21 10:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season1_Part1",
+        "EndTime": "2020-09-28 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 1002,
+        "BeginTime": "2020-09-28 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season1_Part2",
+        "EndTime": "2020-11-23 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 1101,
+        "BeginTime": "2020-08-21 10:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season1_Part1_1",
+        "EndTime": "2020-09-28 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 1102,
+        "BeginTime": "2020-09-28 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season1_Part2_1",
+        "EndTime": "2020-11-23 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 2001,
+        "BeginTime": "2020-11-23 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season2_Part1",
+        "EndTime": "2020-12-31 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 2002,
+        "BeginTime": "2020-12-31 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season2_Part2",
+        "EndTime": "2021-02-08 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 2101,
+        "BeginTime": "2020-11-23 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season2_Part1_1",
+        "EndTime": "2020-12-31 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 2102,
+        "BeginTime": "2020-12-31 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season2_Part2_1",
+        "EndTime": "2021-02-08 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 3001,
+        "BeginTime": "2021-02-08 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season3_Part1",
+        "EndTime": "2021-03-29 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 3002,
+        "BeginTime": "2021-03-29 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season3_Part2",
+        "EndTime": "2021-05-03 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 3101,
+        "BeginTime": "2021-02-08 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season3_Part1_1",
+        "EndTime": "2021-03-29 03:59:59"
+    },
+    {
+        "CompetitionSeasonPartID": 3102,
+        "BeginTime": "2021-03-29 04:00:00",
+        "CompetitionSeasonPartName": "CompetitionSeason_Season3_Part2_1",
+        "EndTime": "2021-05-03 03:59:59"
+    }
+]

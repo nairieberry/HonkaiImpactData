@@ -1,0 +1,710 @@
+[
+    {
+        "chapterID": 13,
+        "iconPos": 0,
+        "ID": 1,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 1,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -798078820
+        },
+        "SPActName": {
+            "hash": -515658218
+        },
+        "unlockDesc": {
+            "hash": -346753632
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1301,
+            1302,
+            1303,
+            1304
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 13,
+        "iconPos": 1,
+        "ID": 2,
+        "PreLevelID": 11307,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -798078819
+        },
+        "SPActName": {
+            "hash": -515658217
+        },
+        "unlockDesc": {
+            "hash": -346753631
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "<type=\"1|11310\" text=\"\\\"/>",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1305
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 13,
+        "iconPos": 2,
+        "ID": 3,
+        "PreLevelID": 11316,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -798078817
+        },
+        "SPActName": {
+            "hash": -515658215
+        },
+        "unlockDesc": {
+            "hash": -346753629
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "<type=\"1|11310\" text=\"\\\"/>",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1307
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 13,
+        "iconPos": 3,
+        "ID": 4,
+        "PreLevelID": 11311,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -798078818
+        },
+        "SPActName": {
+            "hash": -515658216
+        },
+        "unlockDesc": {
+            "hash": -346753630
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "<type=\"1|11315\" text=\"\\\"/>",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1306
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 15,
+        "iconPos": 0,
+        "ID": 5,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 1,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 1699937117
+        },
+        "SPActName": {
+            "hash": 1982357719
+        },
+        "unlockDesc": {
+            "hash": -852312257
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1501,
+            1502,
+            1503,
+            1504
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 15,
+        "iconPos": 1,
+        "ID": 6,
+        "PreLevelID": 11506,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 1699937118
+        },
+        "SPActName": {
+            "hash": 1982357720
+        },
+        "unlockDesc": {
+            "hash": -852312256
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1505
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 15,
+        "iconPos": 2,
+        "ID": 7,
+        "PreLevelID": 11512,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 1699937119
+        },
+        "SPActName": {
+            "hash": 1982357721
+        },
+        "unlockDesc": {
+            "hash": -852312255
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1506
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 16,
+        "iconPos": 0,
+        "ID": 8,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 1,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -97014242
+        },
+        "SPActName": {
+            "hash": 1982357719
+        },
+        "unlockDesc": {
+            "hash": -1357870882
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1601,
+            1602,
+            1603
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 16,
+        "iconPos": 1,
+        "ID": 9,
+        "PreLevelID": 11605,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -97014242
+        },
+        "SPActName": {
+            "hash": 185406360
+        },
+        "unlockDesc": {
+            "hash": -1357870882
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1604,
+            1605,
+            1606,
+            1607
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 17,
+        "iconPos": 0,
+        "ID": 10,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 1,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -1893965601
+        },
+        "SPActName": {
+            "hash": -1611544999
+        },
+        "unlockDesc": {
+            "hash": -1863429507
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1701,
+            1702,
+            1703
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 17,
+        "iconPos": 1,
+        "ID": 11,
+        "PreLevelID": 11714,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -1893965600
+        },
+        "SPActName": {
+            "hash": -1611544998
+        },
+        "unlockDesc": {
+            "hash": -1863429506
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1704
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 17,
+        "iconPos": 2,
+        "ID": 12,
+        "PreLevelID": 11719,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -1893965599
+        },
+        "SPActName": {
+            "hash": -1611544997
+        },
+        "unlockDesc": {
+            "hash": -1863429505
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1705
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 17,
+        "iconPos": 3,
+        "ID": 13,
+        "PreLevelID": 11724,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": -1893965598
+        },
+        "SPActName": {
+            "hash": -1611544996
+        },
+        "unlockDesc": {
+            "hash": -1863429504
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1706,
+            1707
+        ],
+        "EntryBG": []
+    },
+    {
+        "chapterID": 18,
+        "iconPos": 0,
+        "ID": 14,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 1,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 604050336
+        },
+        "SPActName": {
+            "hash": 886470938
+        },
+        "unlockDesc": {
+            "hash": 1925979164
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1801,
+            1802,
+            1803
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter15/Checkpoint15_01"
+        ]
+    },
+    {
+        "chapterID": 18,
+        "iconPos": 1,
+        "ID": 15,
+        "PreLevelID": 11808,
+        "ShowLevel": 1,
+        "SPActivityType": 2,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 604050337
+        },
+        "SPActName": {
+            "hash": 886470939
+        },
+        "unlockDesc": {
+            "hash": 1925979165
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1804,
+            1805
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter15/Checkpoint15_02"
+        ]
+    },
+    {
+        "chapterID": 18,
+        "iconPos": 2,
+        "ID": 16,
+        "PreLevelID": 0,
+        "ShowLevel": 1,
+        "SPActivityType": 3,
+        "UnlockLevel": 1,
+        "SPActDesc": {
+            "hash": 604050338
+        },
+        "SPActName": {
+            "hash": 886470940
+        },
+        "unlockDesc": {
+            "hash": 1925979166
+        },
+        "EndTime": "2020-04-16 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [
+            15001,
+            15002,
+            15003
+        ],
+        "ActList": [],
+        "EntryBG": [
+            "event/Immediately/ChapterCover/Checkpoint15_03_1",
+            "event/Immediately/ChapterCover/Checkpoint15_03_2",
+            "event/Immediately/ChapterCover/Checkpoint15_03_3"
+        ]
+    },
+    {
+        "chapterID": 19,
+        "iconPos": 0,
+        "ID": 17,
+        "PreLevelID": 0,
+        "ShowLevel": 20,
+        "SPActivityType": 1,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": -1192901023
+        },
+        "SPActName": {
+            "hash": -910480421
+        },
+        "unlockDesc": {
+            "hash": 1420420539
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            1901,
+            1902,
+            1903,
+            1904,
+            1905
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter16/Chapter16_Img01"
+        ]
+    },
+    {
+        "chapterID": 19,
+        "iconPos": 2,
+        "ID": 18,
+        "PreLevelID": 0,
+        "ShowLevel": 20,
+        "SPActivityType": 5,
+        "UnlockLevel": 60,
+        "SPActDesc": {
+            "hash": -1192901022
+        },
+        "SPActName": {
+            "hash": -910480420
+        },
+        "unlockDesc": {
+            "hash": 1420420540
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [
+            414
+        ],
+        "ActList": [],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter16/Chapter16_Img03"
+        ]
+    },
+    {
+        "chapterID": 19,
+        "iconPos": 1,
+        "ID": 19,
+        "PreLevelID": 0,
+        "ShowLevel": 20,
+        "SPActivityType": 4,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": -1192901021
+        },
+        "SPActName": {
+            "hash": -910480419
+        },
+        "unlockDesc": {
+            "hash": 1420420541
+        },
+        "EndTime": "2020-05-28 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter16/Chapter16_Img02"
+        ]
+    },
+    {
+        "chapterID": 19,
+        "iconPos": 3,
+        "ID": 20,
+        "PreLevelID": 0,
+        "ShowLevel": 20,
+        "SPActivityType": 6,
+        "UnlockLevel": 70,
+        "SPActDesc": {
+            "hash": -1192901020
+        },
+        "SPActName": {
+            "hash": -910480418
+        },
+        "unlockDesc": {
+            "hash": 1420420542
+        },
+        "EndTime": "2020-05-28 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [
+            500
+        ],
+        "ActList": [],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter16/Chapter16_Img04"
+        ]
+    },
+    {
+        "chapterID": 20,
+        "iconPos": 0,
+        "ID": 21,
+        "PreLevelID": 0,
+        "ShowLevel": 20,
+        "SPActivityType": 1,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": 1305114914
+        },
+        "SPActName": {
+            "hash": 1587535516
+        },
+        "unlockDesc": {
+            "hash": 914861914
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            2001,
+            2002,
+            2003
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img01"
+        ]
+    },
+    {
+        "chapterID": 20,
+        "iconPos": 1,
+        "ID": 22,
+        "PreLevelID": 0,
+        "ShowLevel": 30,
+        "SPActivityType": 7,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": 1305114916
+        },
+        "SPActName": {
+            "hash": 1587535518
+        },
+        "unlockDesc": {
+            "hash": 914861916
+        },
+        "EndTime": "2020-07-02 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [
+            17001,
+            17002,
+            17003
+        ],
+        "ActList": [],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img02"
+        ]
+    },
+    {
+        "chapterID": 20,
+        "iconPos": 2,
+        "ID": 23,
+        "PreLevelID": 0,
+        "ShowLevel": 70,
+        "SPActivityType": 8,
+        "UnlockLevel": 70,
+        "SPActDesc": {
+            "hash": 1305114915
+        },
+        "SPActName": {
+            "hash": 1587535517
+        },
+        "unlockDesc": {
+            "hash": 914861915
+        },
+        "EndTime": "2020-07-02 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [
+            507,
+            508
+        ],
+        "ActList": [],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img03"
+        ]
+    },
+    {
+        "chapterID": 21,
+        "iconPos": 0,
+        "ID": 25,
+        "PreLevelID": 0,
+        "ShowLevel": 80,
+        "SPActivityType": 1,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": 1305114917
+        },
+        "SPActName": {
+            "hash": 1587535519
+        },
+        "unlockDesc": {
+            "hash": 914861917
+        },
+        "EndTime": "2020-08-17 03:59:59",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            2101,
+            2102,
+            2103
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img04"
+        ]
+    },
+    {
+        "chapterID": 26,
+        "iconPos": 0,
+        "ID": 27,
+        "PreLevelID": 0,
+        "ShowLevel": 80,
+        "SPActivityType": 1,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": 1305114917
+        },
+        "SPActName": {
+            "hash": 1587535519
+        },
+        "unlockDesc": {
+            "hash": 914861917
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            2601,
+            2602,
+            2603
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img04"
+        ]
+    },
+    {
+        "chapterID": 26,
+        "iconPos": 0,
+        "ID": 28,
+        "PreLevelID": 0,
+        "ShowLevel": 80,
+        "SPActivityType": 1,
+        "UnlockLevel": 30,
+        "SPActDesc": {
+            "hash": 1305114917
+        },
+        "SPActName": {
+            "hash": 1587535519
+        },
+        "unlockDesc": {
+            "hash": 914861917
+        },
+        "EndTime": "2039-12-30 10:00:00",
+        "UnlockLink": "",
+        "ActivityScheduleList": [],
+        "ActList": [
+            2604
+        ],
+        "EntryBG": [
+            "SpriteOutput/ChapterActivity/Chapter17/Chapter17_Img04"
+        ]
+    }
+]

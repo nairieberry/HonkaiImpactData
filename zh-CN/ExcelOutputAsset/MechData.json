@@ -1,0 +1,4274 @@
+[
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 501,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340101,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 1,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884357
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452626
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_10",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 85,
+        "Attack_Tower": 4080,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 501,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340102,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 1,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884357
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452626
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_10",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 40,
+        "Defence_Tower": 120,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 501,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340103,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 1,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884357
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452626
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_10",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 5040,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 501,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340104,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 1,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884357
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452626
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_10",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 75,
+        "Attack_Tower": 3600,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 504,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340105,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 2,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1242190101
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": 624972350
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010_M2",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_M02_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_010_M2",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 90,
+        "Attack_Tower": 4320,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 504,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340106,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 2,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1242190101
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": 624972350
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010_M2",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_M02_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_010_M2",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 75,
+        "Attack_Tower": 3600,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 45,
+        "Defence_Tower": 135,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 504,
+        "HP": 75,
+        "HP_Tower": 22500,
+        "ID": 340107,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 2,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1242190101
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": 624972350
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010_M2",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_M02_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_010_M2",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 110,
+        "Attack_Tower": 5280,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 504,
+        "HP": 75,
+        "HP_Tower": 22500,
+        "ID": 340108,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 2,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1242190101
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": 624972350
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_010_M2",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_010_M02_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_010_M2",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 4800,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 502,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340111,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 3,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884358
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452625
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_011",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_011_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_11",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 120,
+        "Attack_Tower": 5760,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 502,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340112,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 3,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884358
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452625
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_011",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_011_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_11",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 4800,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 60,
+        "Defence_Tower": 180,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 502,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340113,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 3,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884358
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452625
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_011",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_011_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_11",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 150,
+        "Attack_Tower": 7200,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 502,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340114,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 3,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884358
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452625
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_011",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_011_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_11",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 110,
+        "Attack_Tower": 5280,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 55,
+        "Defence_Tower": 165,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 503,
+        "HP": 90,
+        "HP_Tower": 27000,
+        "ID": 340121,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 4,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884359
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452624
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_012",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_012_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 6240,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 55,
+        "Defence_Tower": 165,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 503,
+        "HP": 90,
+        "HP_Tower": 27000,
+        "ID": 340122,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 4,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884359
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452624
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_012",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_012_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 110,
+        "Attack_Tower": 5280,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 503,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340123,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 4,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884359
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452624
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_012",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_012_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 165,
+        "Attack_Tower": 7920,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 55,
+        "Defence_Tower": 165,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 503,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340124,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 4,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884359
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452624
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_012",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_012_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_12",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 5040,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 505,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340141,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 5,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884361
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452622
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_014",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_014_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_014",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 125,
+        "Attack_Tower": 6000,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 505,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340142,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 5,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884361
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452622
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_014",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_014_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_014",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 5040,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 505,
+        "HP": 105,
+        "HP_Tower": 31500,
+        "ID": 340143,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 5,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884361
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452622
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_014",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_014_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_014",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 7440,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 505,
+        "HP": 105,
+        "HP_Tower": 31500,
+        "ID": 340144,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 5,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884361
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452622
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_014",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_014_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_014",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 6240,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 506,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340151,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 6,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884362
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452621
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_015",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_015_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_15",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 7440,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 506,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340152,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 6,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884362
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452621
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_015",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_015_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_15",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 5
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 6240,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 80,
+        "Defence_Tower": 240,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 506,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340153,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 6,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884362
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452621
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_015",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_015_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_15",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 5
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 195,
+        "Attack_Tower": 9360,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 506,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340154,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 6,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884362
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452621
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_015",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_015_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_15",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 6
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 170,
+        "Attack_Tower": 8160,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 85,
+        "Defence_Tower": 255,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 511,
+        "HP": 145,
+        "HP_Tower": 43500,
+        "ID": 340161,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 7,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884363
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452620
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_016",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_016_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_016",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 8
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 205,
+        "Attack_Tower": 9840,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 85,
+        "Defence_Tower": 255,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 511,
+        "HP": 145,
+        "HP_Tower": 43500,
+        "ID": 340162,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 7,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884363
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452620
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_016",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_016_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_016",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 9
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 170,
+        "Attack_Tower": 8160,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 105,
+        "Defence_Tower": 315,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 511,
+        "HP": 170,
+        "HP_Tower": 51000,
+        "ID": 340163,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 7,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884363
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452620
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SSS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_016",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_016_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_016",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 9
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 255,
+        "Attack_Tower": 12240,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 85,
+        "Defence_Tower": 255,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 511,
+        "HP": 170,
+        "HP_Tower": 51000,
+        "ID": 340164,
+        "Rarity": 4,
+        "SP": 50,
+        "SubType": 7,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1923884363
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452620
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_016",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_016_OW",
+        "SPGrade": "SSS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_016",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 13
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 1890,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 507,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340201,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 8,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281468
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452595
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_020",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_020_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 85,
+        "Attack_Tower": 2295,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 507,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340202,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 8,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281468
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452595
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_020",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_020_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 1890,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 40,
+        "Defence_Tower": 120,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 507,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340203,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 8,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281468
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452595
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_020",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_020_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 2835,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 507,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340204,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 8,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281468
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452595
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_020",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_020_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_20",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 1890,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 508,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340211,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 9,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281469
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452594
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_021",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_021_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_21",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 85,
+        "Attack_Tower": 2295,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 508,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340212,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 9,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281469
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452594
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_021",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_021_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_21",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 1890,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 40,
+        "Defence_Tower": 120,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 508,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340213,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 9,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281469
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452594
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_021",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_021_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_21",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 2835,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 508,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340214,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 9,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281469
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452594
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_021",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_021_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_21",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 2700,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 509,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340271,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 10,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281475
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452588
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_027",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_027_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_027",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 120,
+        "Attack_Tower": 3240,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 509,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340272,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 10,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281475
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452588
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_027",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_027_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_027",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 2700,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 60,
+        "Defence_Tower": 180,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 509,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340273,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 10,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281475
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452588
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_027",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_027_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_027",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 150,
+        "Attack_Tower": 4050,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 509,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340274,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 10,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 817281475
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452588
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_027",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_027_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_027",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 75,
+        "Attack_Tower": 2025,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 513,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340301,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 11,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880411
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452564
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_030",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_030_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_30",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 90,
+        "Attack_Tower": 2430,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 513,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340302,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 11,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880411
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452564
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_030",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_030_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_30",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 75,
+        "Attack_Tower": 2025,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 45,
+        "Defence_Tower": 135,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 513,
+        "HP": 75,
+        "HP_Tower": 22500,
+        "ID": 340303,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 11,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880411
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452564
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_030",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_030_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_30",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 110,
+        "Attack_Tower": 2970,
+        "CanRide": 1,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 513,
+        "HP": 75,
+        "HP_Tower": 22500,
+        "ID": 340304,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 11,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880411
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452564
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_030",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_030_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_30",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 2835,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 514,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340311,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 12,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880410
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452563
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_031",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_031_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_31",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 125,
+        "Attack_Tower": 3375,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 514,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340312,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 12,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880410
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452563
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_031",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_031_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_31",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 2835,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 514,
+        "HP": 105,
+        "HP_Tower": 31500,
+        "ID": 340313,
+        "Rarity": 2,
+        "SP": 35,
+        "SubType": 12,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880410
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452563
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_031",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_031_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_31",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 4185,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 514,
+        "HP": 105,
+        "HP_Tower": 31500,
+        "ID": 340314,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 12,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880410
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452563
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_031",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_031_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_31",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 175,
+        "Attack_Tower": 4725,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 515,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340351,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 13,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880406
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452559
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_035",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_035_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_035",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 9
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 215,
+        "Attack_Tower": 5805,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 515,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340352,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 13,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880406
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452559
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_035",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_035_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_035",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 11
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 175,
+        "Attack_Tower": 4725,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 105,
+        "Defence_Tower": 315,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 515,
+        "HP": 175,
+        "HP_Tower": 52500,
+        "ID": 340353,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 13,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880406
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452559
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SSS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_035",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_035_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_035",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 11
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 265,
+        "Attack_Tower": 7155,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 515,
+        "HP": 175,
+        "HP_Tower": 52500,
+        "ID": 340354,
+        "Rarity": 4,
+        "SP": 50,
+        "SubType": 13,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880406
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452559
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_035",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_035_OW",
+        "SPGrade": "SSS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_035",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 15
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 512,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340371,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 14,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880404
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452557
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_037",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_037_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_037",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 4185,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 512,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340372,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 14,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880404
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452557
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_037",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_037_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_037",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 5
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 1,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 80,
+        "Defence_Tower": 240,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 512,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340373,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 14,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880404
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452557
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_037",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_037_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_037",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 5
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 195,
+        "Attack_Tower": 5265,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 512,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340374,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 14,
+        "Type": 1,
+        "ModeRenderScale": 0.8,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -379880404
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452557
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_037",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_037_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_037",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 6
+            }
+        ],
+        "BestWeather": [
+            3,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 516,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340401,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 15,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857545
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452533
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_040",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_040_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 85,
+        "Attack_Tower": 4080,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 516,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340402,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 15,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857545
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452533
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_040",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_040_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 40,
+        "Defence_Tower": 120,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 516,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340403,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 15,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857545
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452533
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_040",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_040_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 5040,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 516,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340404,
+        "Rarity": 1,
+        "SP": 30,
+        "SubType": 15,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857545
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452533
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_040",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_040_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_40",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 517,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340411,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 16,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857546
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452532
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_041",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_041_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_41",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 85,
+        "Attack_Tower": 4080,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 517,
+        "HP": 60,
+        "HP_Tower": 18000,
+        "ID": 340412,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 16,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857546
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452532
+        },
+        "AttackGrade": "A",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "B",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_041",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_041_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_41",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 70,
+        "Attack_Tower": 3360,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 40,
+        "Defence_Tower": 120,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 517,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340413,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 16,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857546
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452532
+        },
+        "AttackGrade": "B",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_041",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_041_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_41",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 105,
+        "Attack_Tower": 5040,
+        "CanRide": 0,
+        "Critical": 25,
+        "Critical_Tower": 12,
+        "Defence": 35,
+        "Defence_Tower": 105,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 517,
+        "HP": 70,
+        "HP_Tower": 21000,
+        "ID": 340414,
+        "Rarity": 2,
+        "SP": 30,
+        "SubType": 16,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857546
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452532
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_041",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_041_OW",
+        "SPGrade": "A",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_41",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 4800,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 518,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340471,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 17,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857552
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452526
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_047",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_047_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_047",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 120,
+        "Attack_Tower": 5760,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 518,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 340472,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 17,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857552
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452526
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_047",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_047_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_047",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 4800,
+        "CanRide": 0,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 60,
+        "Defence_Tower": 180,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 518,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340473,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 17,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857552
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452526
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_047",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_047_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_047",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 2
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 150,
+        "Attack_Tower": 7200,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 518,
+        "HP": 100,
+        "HP_Tower": 30000,
+        "ID": 340474,
+        "Rarity": 3,
+        "SP": 35,
+        "SubType": 17,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.5,
+        "Name_TextMap": {
+            "hash": 372857552
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452526
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_047",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_047_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_047",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            2,
+            4
+        ]
+    },
+    {
+        "Attack": 185,
+        "Attack_Tower": 8880,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 519,
+        "HP": 155,
+        "HP_Tower": 46500,
+        "ID": 340801,
+        "Rarity": 5,
+        "SP": 45,
+        "SubType": 18,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688740
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452409
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_080",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_080_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 10
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 220,
+        "Attack_Tower": 10560,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 519,
+        "HP": 155,
+        "HP_Tower": 46500,
+        "ID": 340802,
+        "Rarity": 5,
+        "SP": 45,
+        "SubType": 18,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688740
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452409
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_080",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_080_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 12
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 185,
+        "Attack_Tower": 8880,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 110,
+        "Defence_Tower": 330,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 519,
+        "HP": 185,
+        "HP_Tower": 55500,
+        "ID": 340803,
+        "Rarity": 5,
+        "SP": 45,
+        "SubType": 18,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688740
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452409
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SSS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_080",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_080_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 12
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 275,
+        "Attack_Tower": 13200,
+        "CanRide": 1,
+        "Critical": 50,
+        "Critical_Tower": 24,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 519,
+        "HP": 185,
+        "HP_Tower": 55500,
+        "ID": 340804,
+        "Rarity": 5,
+        "SP": 50,
+        "SubType": 18,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688740
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452409
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "SS",
+        "DefenceGrade": "SS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_080",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_080_OW",
+        "SPGrade": "SSS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 17
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 175,
+        "Attack_Tower": 8400,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 520,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340811,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 19,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688739
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452408
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_081",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_081_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_081",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 9
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 215,
+        "Attack_Tower": 10320,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 520,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340812,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 19,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688739
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452408
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_081",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_081_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_081",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 11
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 175,
+        "Attack_Tower": 8400,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 105,
+        "Defence_Tower": 315,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 520,
+        "HP": 175,
+        "HP_Tower": 52500,
+        "ID": 340813,
+        "Rarity": 4,
+        "SP": 45,
+        "SubType": 19,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688739
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452408
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SSS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_081",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_081_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_081",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 11
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 265,
+        "Attack_Tower": 12720,
+        "CanRide": 1,
+        "Critical": 45,
+        "Critical_Tower": 24,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 520,
+        "HP": 175,
+        "HP_Tower": 52500,
+        "ID": 340814,
+        "Rarity": 4,
+        "SP": 50,
+        "SubType": 19,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688739
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452408
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "S",
+        "DefenceGrade": "SS",
+        "HPGrade": "SS",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_081",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_081_OW",
+        "SPGrade": "SSS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_081",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 15
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 150,
+        "Attack_Tower": 7200,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 75,
+        "Defence_Tower": 225,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 521,
+        "HP": 125,
+        "HP_Tower": 37500,
+        "ID": 340821,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 20,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688738
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452407
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_082",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_082_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_082",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 6
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 175,
+        "Attack_Tower": 8400,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 75,
+        "Defence_Tower": 225,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 521,
+        "HP": 125,
+        "HP_Tower": 37500,
+        "ID": 340822,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 20,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688738
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452407
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_082",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_082_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_082",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 7
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 150,
+        "Attack_Tower": 7200,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 90,
+        "Defence_Tower": 270,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 521,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340823,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 20,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688738
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452407
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_082",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_082_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_082",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 7
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 220,
+        "Attack_Tower": 10560,
+        "CanRide": 1,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 75,
+        "Defence_Tower": 225,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 521,
+        "HP": 150,
+        "HP_Tower": 45000,
+        "ID": 340824,
+        "Rarity": 3,
+        "SP": 45,
+        "SubType": 20,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": -900688738
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452407
+        },
+        "AttackGrade": "SSS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_082",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_082_OW",
+        "SPGrade": "SS",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_082",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 10
+            }
+        ],
+        "BestWeather": [
+            2,
+            5
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 522,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340901,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 21,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936380
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452378
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_090",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_090_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_090",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 4185,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 522,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340902,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 21,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936380
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452378
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_090",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_090_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_090",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 80,
+        "Defence_Tower": 240,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 522,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340903,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 21,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936380
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452378
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_090",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_090_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_090",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 195,
+        "Attack_Tower": 5265,
+        "CanRide": 0,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 522,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340904,
+        "Rarity": 2,
+        "SP": 40,
+        "SubType": 21,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936380
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452378
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_090",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_090_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_090",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 6
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 523,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340911,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 22,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936381
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452377
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_091",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_091_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_091",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 3
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 155,
+        "Attack_Tower": 4185,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 523,
+        "HP": 110,
+        "HP_Tower": 33000,
+        "ID": 340912,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 22,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936381
+        },
+        "RandomType_TextMap": {
+            "hash": 1064303225
+        },
+        "Story": {
+            "hash": -564452377
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_091",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_091_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_091",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 130,
+        "Attack_Tower": 3510,
+        "CanRide": 0,
+        "Critical": 35,
+        "Critical_Tower": 18,
+        "Defence": 80,
+        "Defence_Tower": 240,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 523,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340913,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 22,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936381
+        },
+        "RandomType_TextMap": {
+            "hash": 771473704
+        },
+        "Story": {
+            "hash": -564452377
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "A",
+        "DefenceGrade": "SS",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_091",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_091_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_091",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 4
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 195,
+        "Attack_Tower": 5265,
+        "CanRide": 0,
+        "Critical": 40,
+        "Critical_Tower": 18,
+        "Defence": 65,
+        "Defence_Tower": 195,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 523,
+        "HP": 130,
+        "HP_Tower": 39000,
+        "ID": 340914,
+        "Rarity": 3,
+        "SP": 40,
+        "SubType": 22,
+        "Type": 2,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -0.7,
+        "Name_TextMap": {
+            "hash": 1255936381
+        },
+        "RandomType_TextMap": {
+            "hash": -790043382
+        },
+        "Story": {
+            "hash": -564452377
+        },
+        "AttackGrade": "SS",
+        "CriticalGrade": "A",
+        "DefenceGrade": "S",
+        "HPGrade": "S",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_091",
+        "MonsterName": "RobotTitan",
+        "MonsterTypeName": "Fake_RO_091_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_091",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 6
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    },
+    {
+        "Attack": 100,
+        "Attack_Tower": 0,
+        "CanRide": 1,
+        "Critical": 30,
+        "Critical_Tower": 18,
+        "Defence": 50,
+        "Defence_Tower": 150,
+        "DisjoinScoinCost": 100,
+        "EffectParam": 523,
+        "HP": 85,
+        "HP_Tower": 25500,
+        "ID": 349901,
+        "Rarity": 5,
+        "SP": 35,
+        "SubType": 99,
+        "Type": 1,
+        "ModeRenderScale": 1.0,
+        "ModeRenderYOffset": -1.0,
+        "Name_TextMap": {
+            "hash": 1504692465
+        },
+        "RandomType_TextMap": {
+            "hash": 2060045983
+        },
+        "Story": {
+            "hash": -564452409
+        },
+        "AttackGrade": "S",
+        "CriticalGrade": "B",
+        "DefenceGrade": "A",
+        "HPGrade": "A",
+        "IconPath": "SpriteOutput/Mech/MechIcon/Mech_RO_00",
+        "MonsterName": "Helicopter",
+        "MonsterTypeName": "Fake_Boss_050_OW",
+        "SPGrade": "S",
+        "TowerStandby_IconPath": "SpriteOutput/OpenWorld/QuestBossIcon/RO_080",
+        "DisjoinAddMaterial": [
+            {
+                "ID": 5400,
+                "Num": 1
+            }
+        ],
+        "BestWeather": [
+            3,
+            5
+        ]
+    }
+]

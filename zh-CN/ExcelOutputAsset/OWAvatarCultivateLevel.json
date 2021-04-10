@@ -1,0 +1,355 @@
+[
+    {
+        "Level": 0,
+        "CultivateID": 1000001,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 1070001,
+        "AvatarDetailImage": "SpriteOutput/AvatarActivityBronyaC8/BronyaPortrait01",
+        "AvatarImage": "SpriteOutput/AvatarActivityBronyaC8/Avatar01",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 1,
+        "CultivateID": 1000001,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 1070002,
+        "AvatarDetailImage": "SpriteOutput/AvatarActivityBronyaC8/BronyaPortrait01",
+        "AvatarImage": "SpriteOutput/AvatarActivityBronyaC8/Avatar01",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 200
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 2,
+        "CultivateID": 1000001,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 1070003,
+        "AvatarDetailImage": "SpriteOutput/AvatarActivityBronyaC8/BronyaPortrait01",
+        "AvatarImage": "SpriteOutput/AvatarActivityBronyaC8/Avatar01",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 400
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 3,
+        "CultivateID": 1000001,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 1070004,
+        "AvatarDetailImage": "SpriteOutput/AvatarActivityBronyaC8/BronyaPortrait01",
+        "AvatarImage": "SpriteOutput/AvatarActivityBronyaC8/Avatar01",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 600
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 0,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata01",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [],
+        "VAStigmataIDList": [
+            1075001,
+            1075002,
+            1075003
+        ]
+    },
+    {
+        "Level": 1,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata01",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 20
+            },
+            {
+                "MaterialID": 116114,
+                "Num": 20
+            }
+        ],
+        "VAStigmataIDList": [
+            1075011,
+            1075012,
+            1075013
+        ]
+    },
+    {
+        "Level": 2,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata02",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 30
+            },
+            {
+                "MaterialID": 116114,
+                "Num": 30
+            }
+        ],
+        "VAStigmataIDList": [
+            1075021,
+            1075022,
+            1075023
+        ]
+    },
+    {
+        "Level": 3,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata02",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 50
+            },
+            {
+                "MaterialID": 116114,
+                "Num": 50
+            }
+        ],
+        "VAStigmataIDList": [
+            1075031,
+            1075032,
+            1075033
+        ]
+    },
+    {
+        "Level": 4,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata04",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 80
+            },
+            {
+                "MaterialID": 116114,
+                "Num": 80
+            }
+        ],
+        "VAStigmataIDList": [
+            1075041,
+            1075042,
+            1075043
+        ]
+    },
+    {
+        "Level": 5,
+        "CultivateID": 1000002,
+        "VAWeaponID": 0,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "SpriteOutput/AvatarActivityBronyaC8/Stigmata04",
+        "WeaponDetailImage": "",
+        "WeaponImage": "",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 100
+            },
+            {
+                "MaterialID": 116114,
+                "Num": 100
+            }
+        ],
+        "VAStigmataIDList": [
+            1075051,
+            1075052,
+            1075053
+        ]
+    },
+    {
+        "Level": 0,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071001,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC01",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon01",
+        "CostContent": [],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 1,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071002,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC01",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon01",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 20
+            },
+            {
+                "MaterialID": 116113,
+                "Num": 20
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 2,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071003,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC04",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon04",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 30
+            },
+            {
+                "MaterialID": 116113,
+                "Num": 30
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 3,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071004,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC04",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon04",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 50
+            },
+            {
+                "MaterialID": 116113,
+                "Num": 50
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 4,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071005,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC05",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon05",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 80
+            },
+            {
+                "MaterialID": 116113,
+                "Num": 80
+            }
+        ],
+        "VAStigmataIDList": []
+    },
+    {
+        "Level": 5,
+        "CultivateID": 1000003,
+        "VAWeaponID": 1071006,
+        "VirtualAvatarID": 0,
+        "AvatarDetailImage": "",
+        "AvatarImage": "",
+        "ConditionList": "",
+        "StigmataImage": "",
+        "WeaponDetailImage": "SpriteOutput/AvatarActivityBronyaC8/WeaponC05",
+        "WeaponImage": "SpriteOutput/AvatarActivityBronyaC8/Weapon05",
+        "CostContent": [
+            {
+                "MaterialID": 116102,
+                "Num": 100
+            },
+            {
+                "MaterialID": 116113,
+                "Num": 100
+            }
+        ],
+        "VAStigmataIDList": []
+    }
+]

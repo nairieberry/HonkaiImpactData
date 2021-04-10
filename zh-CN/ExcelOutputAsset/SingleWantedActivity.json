@@ -1,0 +1,23 @@
+[
+    {
+        "ActivityID": 11101,
+        "GrantTicketScheduleID": 1,
+        "ResourceMaterialID": 913,
+        "TicketMaterialID": 119107,
+        "ActivityPromotionTextID": {
+            "hash": 153916839
+        },
+        "EngageRewardConfigIDList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "StageGroupIDList": [
+            1,
+            2,
+            3,
+            4
+        ]
+    }
+]

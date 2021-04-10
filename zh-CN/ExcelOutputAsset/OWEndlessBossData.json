@@ -1,0 +1,2206 @@
+[
+    {
+        "BossConfigID": 100001,
+        "BossLevel": 1,
+        "MonsterTypeID": 1,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100002,
+        "BossLevel": 2,
+        "MonsterTypeID": 1,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100003,
+        "BossLevel": 3,
+        "MonsterTypeID": 1,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100004,
+        "BossLevel": 3,
+        "MonsterTypeID": 1,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            63
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            773
+        ]
+    },
+    {
+        "BossConfigID": 100005,
+        "BossLevel": 4,
+        "MonsterTypeID": 1,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50,
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771,
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100006,
+        "BossLevel": 1,
+        "MonsterTypeID": 3,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            774
+        ]
+    },
+    {
+        "BossConfigID": 100007,
+        "BossLevel": 1,
+        "MonsterTypeID": 3,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62,
+            1017
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            774,
+            775
+        ]
+    },
+    {
+        "BossConfigID": 100008,
+        "BossLevel": 2,
+        "MonsterTypeID": 3,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4071,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            776,
+            777
+        ]
+    },
+    {
+        "BossConfigID": 100009,
+        "BossLevel": 3,
+        "MonsterTypeID": 3,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            63
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            773
+        ]
+    },
+    {
+        "BossConfigID": 100010,
+        "BossLevel": 4,
+        "MonsterTypeID": 3,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4016
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            780
+        ]
+    },
+    {
+        "BossConfigID": 100011,
+        "BossLevel": 1,
+        "MonsterTypeID": 2,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            782
+        ]
+    },
+    {
+        "BossConfigID": 100012,
+        "BossLevel": 1,
+        "MonsterTypeID": 2,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22,
+            10
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            782,
+            781
+        ]
+    },
+    {
+        "BossConfigID": 100013,
+        "BossLevel": 2,
+        "MonsterTypeID": 2,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            60,
+            1038
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            783,
+            784
+        ]
+    },
+    {
+        "BossConfigID": 100014,
+        "BossLevel": 3,
+        "MonsterTypeID": 2,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            52
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            785
+        ]
+    },
+    {
+        "BossConfigID": 100015,
+        "BossLevel": 4,
+        "MonsterTypeID": 2,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            13
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            786
+        ]
+    },
+    {
+        "BossConfigID": 100016,
+        "BossLevel": 1,
+        "MonsterTypeID": 5,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100017,
+        "BossLevel": 2,
+        "MonsterTypeID": 5,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100018,
+        "BossLevel": 3,
+        "MonsterTypeID": 5,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100,
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            789,
+            789
+        ]
+    },
+    {
+        "BossConfigID": 100019,
+        "BossLevel": 4,
+        "MonsterTypeID": 5,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2059
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1701
+        ]
+    },
+    {
+        "BossConfigID": 100020,
+        "BossLevel": 1,
+        "MonsterTypeID": 4,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100021,
+        "BossLevel": 2,
+        "MonsterTypeID": 4,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            23,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            792,
+            793
+        ]
+    },
+    {
+        "BossConfigID": 100022,
+        "BossLevel": 3,
+        "MonsterTypeID": 4,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2031
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            794
+        ]
+    },
+    {
+        "BossConfigID": 100023,
+        "BossLevel": 4,
+        "MonsterTypeID": 4,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            6
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            795
+        ]
+    },
+    {
+        "BossConfigID": 100024,
+        "BossLevel": 1,
+        "MonsterTypeID": 6,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            33,
+            82,
+            1013
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            796,
+            797,
+            798
+        ]
+    },
+    {
+        "BossConfigID": 100025,
+        "BossLevel": 2,
+        "MonsterTypeID": 6,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100026,
+        "BossLevel": 3,
+        "MonsterTypeID": 6,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2021,
+            60
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            799,
+            800
+        ]
+    },
+    {
+        "BossConfigID": 100027,
+        "BossLevel": 4,
+        "MonsterTypeID": 6,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4062
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1702
+        ]
+    },
+    {
+        "BossConfigID": 100028,
+        "BossLevel": 1,
+        "MonsterTypeID": 7,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            782
+        ]
+    },
+    {
+        "BossConfigID": 100029,
+        "BossLevel": 1,
+        "MonsterTypeID": 7,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22,
+            10
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            782,
+            781
+        ]
+    },
+    {
+        "BossConfigID": 100030,
+        "BossLevel": 2,
+        "MonsterTypeID": 7,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            60,
+            1038
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            783,
+            784
+        ]
+    },
+    {
+        "BossConfigID": 100031,
+        "BossLevel": 3,
+        "MonsterTypeID": 7,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            52
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            785
+        ]
+    },
+    {
+        "BossConfigID": 100032,
+        "BossLevel": 4,
+        "MonsterTypeID": 7,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            13
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            786
+        ]
+    },
+    {
+        "BossConfigID": 100033,
+        "BossLevel": 1,
+        "MonsterTypeID": 8,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            774
+        ]
+    },
+    {
+        "BossConfigID": 100034,
+        "BossLevel": 1,
+        "MonsterTypeID": 8,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62,
+            1017
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            774,
+            775
+        ]
+    },
+    {
+        "BossConfigID": 100035,
+        "BossLevel": 2,
+        "MonsterTypeID": 8,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4071,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            776,
+            777
+        ]
+    },
+    {
+        "BossConfigID": 100036,
+        "BossLevel": 3,
+        "MonsterTypeID": 8,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            63
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            773
+        ]
+    },
+    {
+        "BossConfigID": 100037,
+        "BossLevel": 4,
+        "MonsterTypeID": 8,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4055,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1704,
+            1707
+        ]
+    },
+    {
+        "BossConfigID": 100038,
+        "BossLevel": 1,
+        "MonsterTypeID": 9,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100039,
+        "BossLevel": 2,
+        "MonsterTypeID": 9,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100040,
+        "BossLevel": 3,
+        "MonsterTypeID": 9,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100,
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            789,
+            789
+        ]
+    },
+    {
+        "BossConfigID": 100041,
+        "BossLevel": 4,
+        "MonsterTypeID": 9,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2059
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1701
+        ]
+    },
+    {
+        "BossConfigID": 100042,
+        "BossLevel": 1,
+        "MonsterTypeID": 10,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100043,
+        "BossLevel": 2,
+        "MonsterTypeID": 10,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            23,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            792,
+            793
+        ]
+    },
+    {
+        "BossConfigID": 100044,
+        "BossLevel": 3,
+        "MonsterTypeID": 10,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2031
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            794
+        ]
+    },
+    {
+        "BossConfigID": 100045,
+        "BossLevel": 4,
+        "MonsterTypeID": 10,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4111
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1714
+        ]
+    },
+    {
+        "BossConfigID": 100046,
+        "BossLevel": 1,
+        "MonsterTypeID": 11,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100047,
+        "BossLevel": 2,
+        "MonsterTypeID": 11,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            774
+        ]
+    },
+    {
+        "BossConfigID": 100048,
+        "BossLevel": 3,
+        "MonsterTypeID": 11,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100,
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            789,
+            789
+        ]
+    },
+    {
+        "BossConfigID": 100049,
+        "BossLevel": 4,
+        "MonsterTypeID": 11,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2059
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1701
+        ]
+    },
+    {
+        "BossConfigID": 100050,
+        "BossLevel": 1,
+        "MonsterTypeID": 12,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100051,
+        "BossLevel": 2,
+        "MonsterTypeID": 12,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            23,
+            4072
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            792,
+            793
+        ]
+    },
+    {
+        "BossConfigID": 100052,
+        "BossLevel": 3,
+        "MonsterTypeID": 12,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2031
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            794
+        ]
+    },
+    {
+        "BossConfigID": 100053,
+        "BossLevel": 4,
+        "MonsterTypeID": 12,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4111
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1714
+        ]
+    },
+    {
+        "BossConfigID": 100054,
+        "BossLevel": 1,
+        "MonsterTypeID": 13,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100055,
+        "BossLevel": 2,
+        "MonsterTypeID": 13,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            33,
+            82,
+            1013
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            796,
+            797,
+            798
+        ]
+    },
+    {
+        "BossConfigID": 100056,
+        "BossLevel": 3,
+        "MonsterTypeID": 13,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100057,
+        "BossLevel": 4,
+        "MonsterTypeID": 13,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4062
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1702
+        ]
+    },
+    {
+        "BossConfigID": 100058,
+        "BossLevel": 1,
+        "MonsterTypeID": 14,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100059,
+        "BossLevel": 2,
+        "MonsterTypeID": 14,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100060,
+        "BossLevel": 3,
+        "MonsterTypeID": 14,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100061,
+        "BossLevel": 3,
+        "MonsterTypeID": 14,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            63
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            773
+        ]
+    },
+    {
+        "BossConfigID": 100062,
+        "BossLevel": 4,
+        "MonsterTypeID": 14,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34,
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770,
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100063,
+        "BossLevel": 1,
+        "MonsterTypeID": 15,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100064,
+        "BossLevel": 2,
+        "MonsterTypeID": 15,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100065,
+        "BossLevel": 3,
+        "MonsterTypeID": 15,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100066,
+        "BossLevel": 3,
+        "MonsterTypeID": 15,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            63
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            773
+        ]
+    },
+    {
+        "BossConfigID": 100067,
+        "BossLevel": 4,
+        "MonsterTypeID": 15,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4060
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1843
+        ]
+    },
+    {
+        "BossConfigID": 100068,
+        "BossLevel": 1,
+        "MonsterTypeID": 16,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100069,
+        "BossLevel": 2,
+        "MonsterTypeID": 16,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            33,
+            82,
+            1013
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            796,
+            797,
+            798
+        ]
+    },
+    {
+        "BossConfigID": 100070,
+        "BossLevel": 3,
+        "MonsterTypeID": 16,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100071,
+        "BossLevel": 4,
+        "MonsterTypeID": 16,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4112
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1144
+        ]
+    },
+    {
+        "BossConfigID": 100072,
+        "BossLevel": 1,
+        "MonsterTypeID": 17,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100073,
+        "BossLevel": 2,
+        "MonsterTypeID": 17,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            23,
+            4071
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            792,
+            793
+        ]
+    },
+    {
+        "BossConfigID": 100074,
+        "BossLevel": 3,
+        "MonsterTypeID": 17,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2031
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            794
+        ]
+    },
+    {
+        "BossConfigID": 100075,
+        "BossLevel": 4,
+        "MonsterTypeID": 17,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4055,
+            54
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1704,
+            1712
+        ]
+    },
+    {
+        "BossConfigID": 100076,
+        "BossLevel": 1,
+        "MonsterTypeID": 18,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22
+        ],
+        "GroupLevelRange": [
+            1,
+            3
+        ],
+        "UniqueIDList": [
+            782
+        ]
+    },
+    {
+        "BossConfigID": 100077,
+        "BossLevel": 1,
+        "MonsterTypeID": 18,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22,
+            10
+        ],
+        "GroupLevelRange": [
+            4,
+            12
+        ],
+        "UniqueIDList": [
+            782,
+            781
+        ]
+    },
+    {
+        "BossConfigID": 100078,
+        "BossLevel": 2,
+        "MonsterTypeID": 18,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            60,
+            1038
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            783,
+            784
+        ]
+    },
+    {
+        "BossConfigID": 100079,
+        "BossLevel": 3,
+        "MonsterTypeID": 18,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            52
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            785
+        ]
+    },
+    {
+        "BossConfigID": 100080,
+        "BossLevel": 4,
+        "MonsterTypeID": 18,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            4054
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1506
+        ]
+    },
+    {
+        "BossConfigID": 100081,
+        "BossLevel": 1,
+        "MonsterTypeID": 19,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100082,
+        "BossLevel": 2,
+        "MonsterTypeID": 19,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100083,
+        "BossLevel": 3,
+        "MonsterTypeID": 19,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100,
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            789,
+            789
+        ]
+    },
+    {
+        "BossConfigID": 100084,
+        "BossLevel": 4,
+        "MonsterTypeID": 19,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            30
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            1713
+        ]
+    },
+    {
+        "BossConfigID": 100085,
+        "BossLevel": 1,
+        "MonsterTypeID": 20,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100086,
+        "BossLevel": 2,
+        "MonsterTypeID": 20,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            50
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            771
+        ]
+    },
+    {
+        "BossConfigID": 100087,
+        "BossLevel": 3,
+        "MonsterTypeID": 20,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100088,
+        "BossLevel": 4,
+        "MonsterTypeID": 20,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            52
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            785
+        ]
+    },
+    {
+        "BossConfigID": 100089,
+        "BossLevel": 1,
+        "MonsterTypeID": 21,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            34
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            770
+        ]
+    },
+    {
+        "BossConfigID": 100090,
+        "BossLevel": 2,
+        "MonsterTypeID": 21,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            32
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            788
+        ]
+    },
+    {
+        "BossConfigID": 100091,
+        "BossLevel": 3,
+        "MonsterTypeID": 21,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100,
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            789,
+            789
+        ]
+    },
+    {
+        "BossConfigID": 100093,
+        "BossLevel": 4,
+        "MonsterTypeID": 21,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            52
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            785
+        ]
+    },
+    {
+        "BossConfigID": 200001,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            41
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            869
+        ]
+    },
+    {
+        "BossConfigID": 200002,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2030
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            870
+        ]
+    },
+    {
+        "BossConfigID": 200003,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2031
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            871
+        ]
+    },
+    {
+        "BossConfigID": 200004,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2008
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            872
+        ]
+    },
+    {
+        "BossConfigID": 200005,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            33
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            873
+        ]
+    },
+    {
+        "BossConfigID": 200006,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            22
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            874
+        ]
+    },
+    {
+        "BossConfigID": 200007,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2006
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            875
+        ]
+    },
+    {
+        "BossConfigID": 200008,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            106
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            876
+        ]
+    },
+    {
+        "BossConfigID": 200009,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            62
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            877
+        ]
+    },
+    {
+        "BossConfigID": 200010,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2017
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            878
+        ]
+    },
+    {
+        "BossConfigID": 200011,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            60
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            879
+        ]
+    },
+    {
+        "BossConfigID": 200012,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            64
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            880
+        ]
+    },
+    {
+        "BossConfigID": 200013,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2017
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            881
+        ]
+    },
+    {
+        "BossConfigID": 200014,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            78
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            882
+        ]
+    },
+    {
+        "BossConfigID": 200015,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            80
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            883
+        ]
+    },
+    {
+        "BossConfigID": 200016,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            82
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            884
+        ]
+    },
+    {
+        "BossConfigID": 200017,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            61
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            885
+        ]
+    },
+    {
+        "BossConfigID": 200018,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            42
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            886
+        ]
+    },
+    {
+        "BossConfigID": 200019,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            44
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            887
+        ]
+    },
+    {
+        "BossConfigID": 200020,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            40
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            888
+        ]
+    },
+    {
+        "BossConfigID": 200021,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            100
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            889
+        ]
+    },
+    {
+        "BossConfigID": 200022,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2002
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            728
+        ]
+    },
+    {
+        "BossConfigID": 200023,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            41
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            869
+        ]
+    },
+    {
+        "BossConfigID": 200024,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2030
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            870
+        ]
+    },
+    {
+        "BossConfigID": 200025,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2001
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            727
+        ]
+    },
+    {
+        "BossConfigID": 200026,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2008
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            872
+        ]
+    },
+    {
+        "BossConfigID": 200027,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            33
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            873
+        ]
+    },
+    {
+        "BossConfigID": 200028,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2007
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            733
+        ]
+    },
+    {
+        "BossConfigID": 200029,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2006
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            875
+        ]
+    },
+    {
+        "BossConfigID": 200030,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            106
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            876
+        ]
+    },
+    {
+        "BossConfigID": 200031,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2002
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            728
+        ]
+    },
+    {
+        "BossConfigID": 200032,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2017
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            881
+        ]
+    },
+    {
+        "BossConfigID": 200033,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            78
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            882
+        ]
+    },
+    {
+        "BossConfigID": 200034,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2001
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            727
+        ]
+    },
+    {
+        "BossConfigID": 200035,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            82
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            884
+        ]
+    },
+    {
+        "BossConfigID": 200036,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            61
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            885
+        ]
+    },
+    {
+        "BossConfigID": 200037,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2007
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            733
+        ]
+    },
+    {
+        "BossConfigID": 200038,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            44
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            887
+        ]
+    },
+    {
+        "BossConfigID": 200039,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            40
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            888
+        ]
+    },
+    {
+        "BossConfigID": 200040,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2004
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            730
+        ]
+    },
+    {
+        "BossConfigID": 200041,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2012
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            738
+        ]
+    },
+    {
+        "BossConfigID": 200042,
+        "BossLevel": 1,
+        "MonsterTypeID": 0,
+        "LuaFilePath": "",
+        "BOSSDisplayIDList": [
+            2018
+        ],
+        "GroupLevelRange": [
+            1,
+            12
+        ],
+        "UniqueIDList": [
+            744
+        ]
+    }
+]

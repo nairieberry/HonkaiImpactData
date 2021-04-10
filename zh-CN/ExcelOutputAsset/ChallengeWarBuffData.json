@@ -1,0 +1,1322 @@
+[
+    {
+        "BuffID": 100,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934269
+        },
+        "BuffDesc": {
+            "hash": 210011690
+        },
+        "BuffName": {
+            "hash": 1033270564
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_100",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 101,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934270
+        },
+        "BuffDesc": {
+            "hash": 210011691
+        },
+        "BuffName": {
+            "hash": 1033270565
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_101",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 102,
+        "BuffParam1": 0.8,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934271
+        },
+        "BuffDesc": {
+            "hash": 210011692
+        },
+        "BuffName": {
+            "hash": 1033270566
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_102",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 103,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.003,
+        "BuffParam2": 5.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934272
+        },
+        "BuffDesc": {
+            "hash": 210011693
+        },
+        "BuffName": {
+            "hash": 1033270567
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_103",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 104,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.006,
+        "BuffParam2": 10.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934273
+        },
+        "BuffDesc": {
+            "hash": 210011694
+        },
+        "BuffName": {
+            "hash": 1033270568
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_104",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 105,
+        "BuffParam1": 40.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934274
+        },
+        "BuffDesc": {
+            "hash": 210011695
+        },
+        "BuffName": {
+            "hash": 1033270569
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_105",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 106,
+        "BuffParam1": 60.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934275
+        },
+        "BuffDesc": {
+            "hash": 210011696
+        },
+        "BuffName": {
+            "hash": 1033270570
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_106",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 107,
+        "BuffParam1": 90.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934276
+        },
+        "BuffDesc": {
+            "hash": 210011697
+        },
+        "BuffName": {
+            "hash": 1033270571
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_107",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 108,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 1.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934277
+        },
+        "BuffDesc": {
+            "hash": 210011698
+        },
+        "BuffName": {
+            "hash": 1033270572
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_108",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 109,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 2.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934278
+        },
+        "BuffDesc": {
+            "hash": 210011699
+        },
+        "BuffName": {
+            "hash": 1033270573
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_109",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 110,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934269
+        },
+        "BuffDesc": {
+            "hash": 210011690
+        },
+        "BuffName": {
+            "hash": 1033270564
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_100",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 111,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934270
+        },
+        "BuffDesc": {
+            "hash": 210011691
+        },
+        "BuffName": {
+            "hash": 1033270565
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_101",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 112,
+        "BuffParam1": 0.8,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934271
+        },
+        "BuffDesc": {
+            "hash": 210011692
+        },
+        "BuffName": {
+            "hash": 1033270566
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_102",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 113,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.003,
+        "BuffParam2": 5.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934272
+        },
+        "BuffDesc": {
+            "hash": 210011693
+        },
+        "BuffName": {
+            "hash": 1033270567
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_103",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 114,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.006,
+        "BuffParam2": 10.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934273
+        },
+        "BuffDesc": {
+            "hash": 210011694
+        },
+        "BuffName": {
+            "hash": 1033270568
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_104",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 115,
+        "BuffParam1": 40.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934274
+        },
+        "BuffDesc": {
+            "hash": 210011695
+        },
+        "BuffName": {
+            "hash": 1033270569
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_105",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 116,
+        "BuffParam1": 60.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934275
+        },
+        "BuffDesc": {
+            "hash": 210011696
+        },
+        "BuffName": {
+            "hash": 1033270570
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_106",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 117,
+        "BuffParam1": 90.0,
+        "BuffParam1Add": 0.15,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934276
+        },
+        "BuffDesc": {
+            "hash": 210011697
+        },
+        "BuffName": {
+            "hash": 1033270571
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_107",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 118,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 1.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934277
+        },
+        "BuffDesc": {
+            "hash": 210011698
+        },
+        "BuffName": {
+            "hash": 1033270572
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_108",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 119,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 2.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805934278
+        },
+        "BuffDesc": {
+            "hash": 210011699
+        },
+        "BuffName": {
+            "hash": 1033270573
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_109",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 200,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935230
+        },
+        "BuffDesc": {
+            "hash": 210012651
+        },
+        "BuffName": {
+            "hash": 1033271525
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_200",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 201,
+        "BuffParam1": 0.4,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935231
+        },
+        "BuffDesc": {
+            "hash": 210012652
+        },
+        "BuffName": {
+            "hash": 1033271526
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_201",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 202,
+        "BuffParam1": 0.8,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935232
+        },
+        "BuffDesc": {
+            "hash": 210012653
+        },
+        "BuffName": {
+            "hash": 1033271527
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_202",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 203,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935233
+        },
+        "BuffDesc": {
+            "hash": 210012654
+        },
+        "BuffName": {
+            "hash": 1033271528
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_203",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 204,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935234
+        },
+        "BuffDesc": {
+            "hash": 210012655
+        },
+        "BuffName": {
+            "hash": 1033271529
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_204",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 205,
+        "BuffParam1": 0.1,
+        "BuffParam1Add": 0.002,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935235
+        },
+        "BuffDesc": {
+            "hash": 210012656
+        },
+        "BuffName": {
+            "hash": 1033271530
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_205",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Adaptation"
+    },
+    {
+        "BuffID": 206,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.002,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935236
+        },
+        "BuffDesc": {
+            "hash": 210012657
+        },
+        "BuffName": {
+            "hash": 1033271531
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_206",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Elite_Adaptation"
+    },
+    {
+        "BuffID": 207,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935237
+        },
+        "BuffDesc": {
+            "hash": 210012658
+        },
+        "BuffName": {
+            "hash": 1033271532
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_207",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 208,
+        "BuffParam1": 0.4,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935238
+        },
+        "BuffDesc": {
+            "hash": 210012659
+        },
+        "BuffName": {
+            "hash": 1033271533
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_208",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 209,
+        "BuffParam1": 0.8,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935239
+        },
+        "BuffDesc": {
+            "hash": 210012660
+        },
+        "BuffName": {
+            "hash": 1033271534
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_209",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 210,
+        "BuffParam1": 0.1,
+        "BuffParam1Add": 0.002,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935261
+        },
+        "BuffDesc": {
+            "hash": 210012682
+        },
+        "BuffName": {
+            "hash": 1033271556
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_210",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 211,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.002,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935262
+        },
+        "BuffDesc": {
+            "hash": 210012683
+        },
+        "BuffName": {
+            "hash": 1033271557
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_211",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 212,
+        "BuffParam1": 0.4,
+        "BuffParam1Add": 0.002,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935263
+        },
+        "BuffDesc": {
+            "hash": 210012684
+        },
+        "BuffName": {
+            "hash": 1033271558
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_212",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 213,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.4,
+        "BuffParam2Add": 0.005,
+        "BuffParam3": 0.15,
+        "BuffParam3Add": 0.01,
+        "BuffAddDesc": {
+            "hash": 1805935264
+        },
+        "BuffDesc": {
+            "hash": 210012685
+        },
+        "BuffName": {
+            "hash": 1033271559
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_213",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 214,
+        "BuffParam1": 0.4,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.6,
+        "BuffParam2Add": 0.005,
+        "BuffParam3": 0.3,
+        "BuffParam3Add": 0.01,
+        "BuffAddDesc": {
+            "hash": 1805935265
+        },
+        "BuffDesc": {
+            "hash": 210012686
+        },
+        "BuffName": {
+            "hash": 1033271560
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_214",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 215,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.8,
+        "BuffParam2Add": 0.005,
+        "BuffParam3": 0.045,
+        "BuffParam3Add": 0.01,
+        "BuffAddDesc": {
+            "hash": 1805935266
+        },
+        "BuffDesc": {
+            "hash": 210012687
+        },
+        "BuffName": {
+            "hash": 1033271561
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_215",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 216,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.1,
+        "BuffParam2Add": 0.002,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935267
+        },
+        "BuffDesc": {
+            "hash": 210012688
+        },
+        "BuffName": {
+            "hash": 1033271562
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_216",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 217,
+        "BuffParam1": 2.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.3,
+        "BuffParam2Add": 0.002,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935268
+        },
+        "BuffDesc": {
+            "hash": 210012689
+        },
+        "BuffName": {
+            "hash": 1033271563
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_217",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 218,
+        "BuffParam1": 3.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.5,
+        "BuffParam2Add": 0.002,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935269
+        },
+        "BuffDesc": {
+            "hash": 210012690
+        },
+        "BuffName": {
+            "hash": 1033271564
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_218",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 220,
+        "BuffParam1": 1.5,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 2.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935292
+        },
+        "BuffDesc": {
+            "hash": 210012713
+        },
+        "BuffName": {
+            "hash": 1033271587
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_220",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 221,
+        "BuffParam1": 2.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 5.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935293
+        },
+        "BuffDesc": {
+            "hash": 210012714
+        },
+        "BuffName": {
+            "hash": 1033271588
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_221",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 222,
+        "BuffParam1": 3.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 10.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935294
+        },
+        "BuffDesc": {
+            "hash": 210012715
+        },
+        "BuffName": {
+            "hash": 1033271589
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_222",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 223,
+        "BuffParam1": 5.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935295
+        },
+        "BuffDesc": {
+            "hash": 210012716
+        },
+        "BuffName": {
+            "hash": 1033271590
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_223",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 230,
+        "BuffParam1": 0.15,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.025,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935323
+        },
+        "BuffDesc": {
+            "hash": 210012744
+        },
+        "BuffName": {
+            "hash": 1033271618
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_230",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 231,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.025,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935324
+        },
+        "BuffDesc": {
+            "hash": 210012745
+        },
+        "BuffName": {
+            "hash": 1033271619
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_231",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 232,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.025,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935325
+        },
+        "BuffDesc": {
+            "hash": 210012746
+        },
+        "BuffName": {
+            "hash": 1033271620
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_232",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 233,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935233
+        },
+        "BuffDesc": {
+            "hash": 210012654
+        },
+        "BuffName": {
+            "hash": 1033271528
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_203",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 234,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935234
+        },
+        "BuffDesc": {
+            "hash": 210012655
+        },
+        "BuffName": {
+            "hash": 1033271529
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_204",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 235,
+        "BuffParam1": 0.1,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935328
+        },
+        "BuffDesc": {
+            "hash": 210012749
+        },
+        "BuffName": {
+            "hash": 1033271623
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_235",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 236,
+        "BuffParam1": 0.15,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935329
+        },
+        "BuffDesc": {
+            "hash": 210012750
+        },
+        "BuffName": {
+            "hash": 1033271624
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_236",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 237,
+        "BuffParam1": 0.2,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935330
+        },
+        "BuffDesc": {
+            "hash": 210012751
+        },
+        "BuffName": {
+            "hash": 1033271625
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_237",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 240,
+        "BuffParam1": 0.15,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935354
+        },
+        "BuffDesc": {
+            "hash": 210012775
+        },
+        "BuffName": {
+            "hash": 1033271649
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_240",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 241,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935355
+        },
+        "BuffDesc": {
+            "hash": 210012776
+        },
+        "BuffName": {
+            "hash": 1033271650
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_241",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 242,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.004,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935356
+        },
+        "BuffDesc": {
+            "hash": 210012777
+        },
+        "BuffName": {
+            "hash": 1033271651
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_242",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 243,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935357
+        },
+        "BuffDesc": {
+            "hash": 210012778
+        },
+        "BuffName": {
+            "hash": 1033271652
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_243",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 244,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.005,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935358
+        },
+        "BuffDesc": {
+            "hash": 210012779
+        },
+        "BuffName": {
+            "hash": 1033271653
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_244",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 245,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935359
+        },
+        "BuffDesc": {
+            "hash": 210012780
+        },
+        "BuffName": {
+            "hash": 1033271654
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_245",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 246,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935360
+        },
+        "BuffDesc": {
+            "hash": 210012781
+        },
+        "BuffName": {
+            "hash": 1033271655
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_246",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 247,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935361
+        },
+        "BuffDesc": {
+            "hash": 210012782
+        },
+        "BuffName": {
+            "hash": 1033271656
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_247",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 248,
+        "BuffParam1": 0.3,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935362
+        },
+        "BuffDesc": {
+            "hash": 210012783
+        },
+        "BuffName": {
+            "hash": 1033271657
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_248",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 249,
+        "BuffParam1": 0.6,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935363
+        },
+        "BuffDesc": {
+            "hash": 210012784
+        },
+        "BuffName": {
+            "hash": 1033271658
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_249",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 250,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935385
+        },
+        "BuffDesc": {
+            "hash": 210012806
+        },
+        "BuffName": {
+            "hash": 1033271680
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_250",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 251,
+        "BuffParam1": 0.5,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935386
+        },
+        "BuffDesc": {
+            "hash": 210012807
+        },
+        "BuffName": {
+            "hash": 1033271681
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_251",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 252,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935387
+        },
+        "BuffDesc": {
+            "hash": 210012808
+        },
+        "BuffName": {
+            "hash": 1033271682
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_252",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 253,
+        "BuffParam1": 2.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935388
+        },
+        "BuffDesc": {
+            "hash": 210012809
+        },
+        "BuffName": {
+            "hash": 1033271683
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_253",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    },
+    {
+        "BuffID": 254,
+        "BuffParam1": 1.0,
+        "BuffParam1Add": 0.0,
+        "BuffParam2": 0.0,
+        "BuffParam2Add": 0.0,
+        "BuffParam3": 0.0,
+        "BuffParam3Add": 0.0,
+        "BuffAddDesc": {
+            "hash": 1805935389
+        },
+        "BuffDesc": {
+            "hash": 210012810
+        },
+        "BuffName": {
+            "hash": 1033271684
+        },
+        "BuffDetailDesc": "ChallengeWarBuff_DetailDesc_254",
+        "BuffIcon": "SpriteOutput/InLevel/EliteIcon/Boss_ThunderCore"
+    }
+]
